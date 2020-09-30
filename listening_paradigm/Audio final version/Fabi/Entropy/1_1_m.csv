@@ -1,0 +1,568 @@
+Context,Entropy
+       Die [MASK],1.5911196193450952
+      Die Nachricht [MASK],1.5089842197265753
+     Die Nachricht  [MASK],1.5089842197265753
+    Die Nachricht  kam [MASK],1.5442698345342643
+   Die Nachricht  kam völlig [MASK],0.6230958746878952
+  Die Nachricht  kam völlig überraschend [MASK],0.6392485913792941
+ Die Nachricht  kam völlig überraschend  [MASK],0.6392485913792941
+Die Nachricht  kam völlig überraschend  Marlene [MASK],0.31822775907465367
+Nachricht  kam völlig überraschend  Marlene sollte [MASK],1.5360350103726672
+ kam völlig überraschend  Marlene sollte in [MASK],1.597051726486297
+kam völlig überraschend  Marlene sollte in den [MASK],1.5257059460304463
+völlig überraschend  Marlene sollte in den Vorruhestand [MASK],1.0392040480951201
+überraschend  Marlene sollte in den Vorruhestand geschickt [MASK],0.49901594251982995
+ Marlene sollte in den Vorruhestand geschickt werden [MASK],1.0804652187902406
+Marlene sollte in den Vorruhestand geschickt werden  [MASK],1.0804652187902406
+sollte in den Vorruhestand geschickt werden  weil [MASK],1.5788053766243126
+in den Vorruhestand geschickt werden  weil die [MASK],1.5889509552321055
+den Vorruhestand geschickt werden  weil die  [MASK],1.5917346218409367
+Vorruhestand geschickt werden  weil die  Versicherungsagentur [MASK],1.5733066846011723
+geschickt werden  weil die  Versicherungsagentur bei [MASK],1.575059406319796
+werden  weil die  Versicherungsagentur bei der [MASK],1.564108982500049
+ weil die  Versicherungsagentur bei der sie [MASK],1.453557258426371
+weil die  Versicherungsagentur bei der sie beschäftigt [MASK],1.245358019114018
+die  Versicherungsagentur bei der sie beschäftigt war [MASK],1.1287564772887662
+ Versicherungsagentur bei der sie beschäftigt war  [MASK],1.2933090703420704
+Versicherungsagentur bei der sie beschäftigt war  ihren [MASK],1.4495189938935318
+bei der sie beschäftigt war  ihren Standort [MASK],1.5537769162900918
+der sie beschäftigt war  ihren Standort in [MASK],1.598327444336996
+sie beschäftigt war  ihren Standort in Dortmund [MASK],1.560825669563378
+beschäftigt war  ihren Standort in Dortmund aufgeben [MASK],1.4430751694249797
+war  ihren Standort in Dortmund aufgeben und [MASK],1.5763933620369746
+ ihren Standort in Dortmund aufgeben und über [MASK],1.5620287747925417
+ihren Standort in Dortmund aufgeben und über hundert [MASK],1.3432985392529309
+Standort in Dortmund aufgeben und über hundert Arbeitsplätze [MASK],1.2245865501397177
+in Dortmund aufgeben und über hundert Arbeitsplätze abbauen [MASK],1.5245369631642072
+Dortmund aufgeben und über hundert Arbeitsplätze abbauen würde [MASK],1.4663095405281137
+aufgeben und über hundert Arbeitsplätze abbauen würde  [MASK],1.241103744202655
+und über hundert Arbeitsplätze abbauen würde  Eigentlich [MASK],1.6005199812210575
+über hundert Arbeitsplätze abbauen würde  Eigentlich hätte [MASK],1.5044588765519882
+hundert Arbeitsplätze abbauen würde  Eigentlich hätte sie [MASK],1.5983000583797247
+Arbeitsplätze abbauen würde  Eigentlich hätte sie froh [MASK],1.5732900477752083
+abbauen würde  Eigentlich hätte sie froh sein [MASK],1.3801988661150157
+würde  Eigentlich hätte sie froh sein sollen [MASK],1.2210744090485908
+ Eigentlich hätte sie froh sein sollen  [MASK],1.2568672367031184
+Eigentlich hätte sie froh sein sollen  denn [MASK],1.5917662276201743
+hätte sie froh sein sollen  denn die [MASK],1.577442024423347
+sie froh sein sollen  denn die Arbeit [MASK],1.57114448202661
+froh sein sollen  denn die Arbeit fiel [MASK],1.5109704383212756
+sein sollen  denn die Arbeit fiel ihr [MASK],1.482165645889243
+sollen  denn die Arbeit fiel ihr in [MASK],1.460296983939562
+ denn die Arbeit fiel ihr in letzter [MASK],1.2369186309144344
+denn die Arbeit fiel ihr in letzter Zeit [MASK],1.290622408866115
+die Arbeit fiel ihr in letzter Zeit immer [MASK],0.791087999006418
+Arbeit fiel ihr in letzter Zeit immer schwerer [MASK],1.312287117675857
+fiel ihr in letzter Zeit immer schwerer  [MASK],1.364289268389287
+ihr in letzter Zeit immer schwerer  Jeden [MASK],1.5913171033338953
+in letzter Zeit immer schwerer  Jeden Tag [MASK],1.582179834517503
+letzter Zeit immer schwerer  Jeden Tag kam [MASK],1.5285556194726362
+Zeit immer schwerer  Jeden Tag kam sie [MASK],1.5017573249239928
+immer schwerer  Jeden Tag kam sie spätnachmittags [MASK],1.5913921776623199
+schwerer  Jeden Tag kam sie spätnachmittags  [MASK],1.5553623790450064
+ Jeden Tag kam sie spätnachmittags  total [MASK],1.5737209577473907
+Jeden Tag kam sie spätnachmittags  total gestresst [MASK],1.5151130913660513
+Tag kam sie spätnachmittags  total gestresst und [MASK],1.5756742852143775
+kam sie spätnachmittags  total gestresst und todmüde [MASK],1.5272611352764365
+sie spätnachmittags  total gestresst und todmüde nach [MASK],1.3846829501103317
+spätnachmittags  total gestresst und todmüde nach Hause [MASK],1.4844076473897243
+ total gestresst und todmüde nach Hause  [MASK],1.4125017199193695
+total gestresst und todmüde nach Hause  und [MASK],1.4114556830038592
+gestresst und todmüde nach Hause  und war [MASK],1.5985549807033048
+und todmüde nach Hause  und war meist [MASK],1.2364001063008634
+todmüde nach Hause  und war meist nur [MASK],1.2122741028231916
+nach Hause  und war meist nur noch [MASK],1.434598793424536
+Hause  und war meist nur noch in [MASK],1.5620867776884755
+ und war meist nur noch in der [MASK],1.5057995379915872
+und war meist nur noch in der Lage [MASK],1.3634760489165882
+war meist nur noch in der Lage  [MASK],1.3313041929325797
+meist nur noch in der Lage  ein [MASK],1.3448427966312813
+nur noch in der Lage  ein Bad [MASK],0.6200923484369816
+noch in der Lage  ein Bad zu [MASK],1.4867472139081832
+in der Lage  ein Bad zu nehmen [MASK],1.2651564287441073
+der Lage  ein Bad zu nehmen  [MASK],1.3446461230318156
+Lage  ein Bad zu nehmen  und [MASK],1.5386173735014723
+ ein Bad zu nehmen  und den [MASK],1.5714812313079092
+ein Bad zu nehmen  und den Abend [MASK],1.4903401199426622
+Bad zu nehmen  und den Abend vor [MASK],1.5848806526417942
+zu nehmen  und den Abend vor dem [MASK],1.5284494721296507
+nehmen  und den Abend vor dem Fernseher [MASK],0.8079976589872723
+ und den Abend vor dem Fernseher zu [MASK],0.9060034835004466
+und den Abend vor dem Fernseher zu verbringen [MASK],1.1482877909920053
+den Abend vor dem Fernseher zu verbringen  [MASK],1.1181854123050987
+Abend vor dem Fernseher zu verbringen  Äusserst [MASK],1.579898357515546
+vor dem Fernseher zu verbringen  Äusserst selten [MASK],1.4762657450687102
+dem Fernseher zu verbringen  Äusserst selten gelang [MASK],1.4541760421713668
+Fernseher zu verbringen  Äusserst selten gelang es [MASK],1.2664272101320722
+zu verbringen  Äusserst selten gelang es ihrer [MASK],1.5512654905223502
+verbringen  Äusserst selten gelang es ihrer Freundin [MASK],1.5809603425421477
+ Äusserst selten gelang es ihrer Freundin Vera [MASK],1.5921424492293554
+Äusserst selten gelang es ihrer Freundin Vera sie [MASK],1.6052933034355163
+selten gelang es ihrer Freundin Vera sie zu [MASK],1.58054900464296
+gelang es ihrer Freundin Vera sie zu überreden [MASK],0.3358968789371166
+es ihrer Freundin Vera sie zu überreden mit [MASK],1.4817040393015144
+ihrer Freundin Vera sie zu überreden mit ihr [MASK],1.3963205015240037
+Freundin Vera sie zu überreden mit ihr ins [MASK],1.0931412921881445
+Vera sie zu überreden mit ihr ins Kino [MASK],0.9475716664845689
+sie zu überreden mit ihr ins Kino zu [MASK],0.6893505027862508
+zu überreden mit ihr ins Kino zu gehen [MASK],1.070077213170418
+überreden mit ihr ins Kino zu gehen  [MASK],1.0038388954297366
+mit ihr ins Kino zu gehen  zum [MASK],1.5474424105637825
+ihr ins Kino zu gehen  zum Italiener [MASK],1.605038465151617
+ins Kino zu gehen  zum Italiener oder [MASK],1.590940920806304
+Kino zu gehen  zum Italiener oder zu [MASK],1.5745173330956108
+zu gehen  zum Italiener oder zu einer [MASK],1.1232117108991577
+gehen  zum Italiener oder zu einer dieser [MASK],1.5558310044454355
+ zum Italiener oder zu einer dieser Unkraut [MASK],1.1178815111464715
+zum Italiener oder zu einer dieser Unkraut  [MASK],1.1178815111464715
+Italiener oder zu einer dieser Unkraut  Andererseits [MASK],1.1311304633219108
+oder zu einer dieser Unkraut  Andererseits war [MASK],1.2173757183008989
+zu einer dieser Unkraut  Andererseits war Marlene [MASK],0.47909946211889987
+einer dieser Unkraut  Andererseits war Marlene erst [MASK],1.5162057438791614
+dieser Unkraut  Andererseits war Marlene erst sechs [MASK],0.9226761759830876
+Unkraut  Andererseits war Marlene erst sechs und [MASK],1.5361239176532056
+ Andererseits war Marlene erst sechs und fünfzig [MASK],1.0203015974876577
+Andererseits war Marlene erst sechs und fünfzig und [MASK],1.578913862134945
+war Marlene erst sechs und fünfzig und kerngesund [MASK],1.4958474838309024
+Marlene erst sechs und fünfzig und kerngesund  [MASK],1.309619310798091
+erst sechs und fünfzig und kerngesund  Sie [MASK],1.016212865165486
+sechs und fünfzig und kerngesund  Sie gehörte [MASK],1.5435302244788622
+und fünfzig und kerngesund  Sie gehörte noch [MASK],1.3207370234966092
+fünfzig und kerngesund  Sie gehörte noch lange [MASK],1.370173119275811
+und kerngesund  Sie gehörte noch lange nicht [MASK],1.372477598305594
+kerngesund  Sie gehörte noch lange nicht zum [MASK],1.547643317825261
+ Sie gehörte noch lange nicht zum alten [MASK],1.499025018651634
+Sie gehörte noch lange nicht zum alten Eisen [MASK],1.1519473503990525
+gehörte noch lange nicht zum alten Eisen und [MASK],1.2020482788581959
+noch lange nicht zum alten Eisen und brauchte [MASK],1.4529037888331708
+lange nicht zum alten Eisen und brauchte Anlage [MASK],1.4761506293741307
+nicht zum alten Eisen und brauchte Anlage  [MASK],1.4982278208217894
+zum alten Eisen und brauchte Anlage  Also [MASK],1.6080748221374441
+alten Eisen und brauchte Anlage  Also meldete [MASK],1.287540919949192
+Eisen und brauchte Anlage  Also meldete sie [MASK],1.4173054785243613
+und brauchte Anlage  Also meldete sie sich [MASK],1.4576465866444615
+brauchte Anlage  Also meldete sie sich in [MASK],1.5882223250409802
+Anlage  Also meldete sie sich in einem [MASK],1.5797046514479711
+ Also meldete sie sich in einem Fitnessstudio [MASK],1.4975391509629308
+Also meldete sie sich in einem Fitnessstudio an [MASK],0.8386694837968525
+meldete sie sich in einem Fitnessstudio an  [MASK],0.9305647614052057
+sie sich in einem Fitnessstudio an  merkte [MASK],1.3162884705749143
+sich in einem Fitnessstudio an  merkte aber [MASK],1.5896132591157777
+in einem Fitnessstudio an  merkte aber schnell [MASK],1.5589266264809836
+einem Fitnessstudio an  merkte aber schnell  [MASK],1.5682505682592327
+Fitnessstudio an  merkte aber schnell  dass [MASK],1.5665218675639463
+an  merkte aber schnell  dass das [MASK],1.4965047374595382
+ merkte aber schnell  dass das nicht [MASK],1.4874369369080214
+merkte aber schnell  dass das nicht das [MASK],1.2960403267726672
+aber schnell  dass das nicht das Richtige [MASK],1.3074874073454827
+schnell  dass das nicht das Richtige  [MASK],1.2047852385725624
+ dass das nicht das Richtige  für [MASK],1.5332251382723103
+dass das nicht das Richtige  für sie [MASK],1.4007134719002252
+das nicht das Richtige  für sie war [MASK],0.8418126721842858
+nicht das Richtige  für sie war  [MASK],1.0608323907600352
+das Richtige  für sie war  Unter [MASK],1.1078425610862674
+Richtige  für sie war  Unter all [MASK],1.5735348751598834
+ für sie war  Unter all den [MASK],1.1160534700214848
+für sie war  Unter all den jungen [MASK],0.8924798194441113
+sie war  Unter all den jungen Frauen [MASK],1.4908137042990548
+war  Unter all den jungen Frauen mit [MASK],1.5745615135778668
+ Unter all den jungen Frauen mit ihren [MASK],1.3221280002448261
+Unter all den jungen Frauen mit ihren Topmodelfiguren [MASK],1.5459743092797866
+all den jungen Frauen mit ihren Topmodelfiguren  [MASK],1.5351714066936943
+den jungen Frauen mit ihren Topmodelfiguren  und [MASK],1.4829500504776798
+jungen Frauen mit ihren Topmodelfiguren  und den [MASK],1.3871488524944753
+Frauen mit ihren Topmodelfiguren  und den Muskelmännern [MASK],1.5415395993348258
+mit ihren Topmodelfiguren  und den Muskelmännern kam [MASK],1.5255131704645093
+ihren Topmodelfiguren  und den Muskelmännern kam sie [MASK],1.5979458453741646
+Topmodelfiguren  und den Muskelmännern kam sie sich [MASK],0.5819704668442257
+ und den Muskelmännern kam sie sich einfach [MASK],0.7968385048082386
+und den Muskelmännern kam sie sich einfach fehl [MASK],1.0654629996174436
+den Muskelmännern kam sie sich einfach fehl am [MASK],1.2487349382319575
+Muskelmännern kam sie sich einfach fehl am Platz [MASK],1.5819785740769636
+kam sie sich einfach fehl am Platz vor [MASK],1.3891634402888278
+sie sich einfach fehl am Platz vor  [MASK],1.2811234945434942
+sich einfach fehl am Platz vor  Bei [MASK],1.5003318701488855
+einfach fehl am Platz vor  Bei der [MASK],1.406044660545609
+fehl am Platz vor  Bei der Volkshochschule [MASK],1.374803773041294
+am Platz vor  Bei der Volkshochschule belegte [MASK],1.4313700053678342
+Platz vor  Bei der Volkshochschule belegte Marlene [MASK],1.298758058316768
+vor  Bei der Volkshochschule belegte Marlene einen [MASK],1.3002245067092042
+ Bei der Volkshochschule belegte Marlene einen Literaturkurs [MASK],1.043348285102915
+Bei der Volkshochschule belegte Marlene einen Literaturkurs  [MASK],1.043348285102915
+der Volkshochschule belegte Marlene einen Literaturkurs  und [MASK],1.574269394031989
+Volkshochschule belegte Marlene einen Literaturkurs  und ging [MASK],1.5792305383093617
+belegte Marlene einen Literaturkurs  und ging auch [MASK],1.5389906376203686
+Marlene einen Literaturkurs  und ging auch regelmässig [MASK],1.4832360740250592
+einen Literaturkurs  und ging auch regelmässig zu [MASK],1.39037075349143
+Literaturkurs  und ging auch regelmässig zu Paradies [MASK],1.594916741799977
+ und ging auch regelmässig zu Paradies  [MASK],1.4541759068681062
+und ging auch regelmässig zu Paradies  Sie [MASK],1.49071128998045
+ging auch regelmässig zu Paradies  Sie las [MASK],1.5564770156927668
+auch regelmässig zu Paradies  Sie las für [MASK],1.5108565709366704
+regelmässig zu Paradies  Sie las für ihr [MASK],1.4887612445738385
+zu Paradies  Sie las für ihr Leben [MASK],1.5324415052513243
+Paradies  Sie las für ihr Leben gern [MASK],1.4568224012642181
+ Sie las für ihr Leben gern  [MASK],1.5615471319908183
+Sie las für ihr Leben gern  Schon [MASK],1.4652571388161404
+las für ihr Leben gern  Schon lange [MASK],1.2542331625041832
+für ihr Leben gern  Schon lange dachte [MASK],0.853656553691222
+ihr Leben gern  Schon lange dachte sie [MASK],1.54984290330611
+Leben gern  Schon lange dachte sie darüber [MASK],1.4438823735083424
+gern  Schon lange dachte sie darüber nach [MASK],1.5950965940796966
+ Schon lange dachte sie darüber nach selbst [MASK],1.1068047352278287
+Schon lange dachte sie darüber nach selbst ein [MASK],1.4346373057712682
+lange dachte sie darüber nach selbst ein Buch [MASK],1.5174733280401314
+dachte sie darüber nach selbst ein Buch zu [MASK],0.6010925118788492
+sie darüber nach selbst ein Buch zu schreiben [MASK],1.4239550979894375
+darüber nach selbst ein Buch zu schreiben  [MASK],1.3556290464807075
+nach selbst ein Buch zu schreiben  Jetzt [MASK],1.565141528445838
+selbst ein Buch zu schreiben  Jetzt  [MASK],1.5864757453527394
+ein Buch zu schreiben  Jetzt  war [MASK],1.5259268966747457
+Buch zu schreiben  Jetzt  war dafür [MASK],1.515876862712527
+zu schreiben  Jetzt  war dafür  [MASK],1.5549778153500038
+schreiben  Jetzt  war dafür  Zeit [MASK],1.5212346235151184
+ Jetzt  war dafür  Zeit genug [MASK],1.5841067750849256
+Jetzt  war dafür  Zeit genug  [MASK],1.5841067750849256
+ war dafür  Zeit genug  Zunächst [MASK],1.466398994103997
+war dafür  Zeit genug  Zunächst  [MASK],1.466398994103997
+dafür  Zeit genug  Zunächst  versuchte [MASK],1.5811636297903984
+ Zeit genug  Zunächst  versuchte sie [MASK],1.0710308000234716
+Zeit genug  Zunächst  versuchte sie sich [MASK],1.0844850007199582
+genug  Zunächst  versuchte sie sich darin [MASK],1.5833973061142896
+ Zunächst  versuchte sie sich darin Kurzgeschichten [MASK],1.504739451653816
+Zunächst  versuchte sie sich darin Kurzgeschichten zu [MASK],1.2690906733512404
+ versuchte sie sich darin Kurzgeschichten zu verfassen [MASK],0.7050231633545113
+versuchte sie sich darin Kurzgeschichten zu verfassen  [MASK],0.7050231633545113
+sie sich darin Kurzgeschichten zu verfassen  Aber [MASK],1.2835371729284846
+sich darin Kurzgeschichten zu verfassen  Aber das [MASK],1.5917346454741905
+darin Kurzgeschichten zu verfassen  Aber das war [MASK],1.5849508082266064
+Kurzgeschichten zu verfassen  Aber das war nicht [MASK],1.5253315224820045
+zu verfassen  Aber das war nicht tagesfüllend [MASK],1.4739647922974102
+verfassen  Aber das war nicht tagesfüllend  [MASK],1.5088916572512632
+ Aber das war nicht tagesfüllend  Marlene [MASK],0.30102488594825033
+Aber das war nicht tagesfüllend  Marlene  [MASK],0.30102488594825033
+das war nicht tagesfüllend  Marlene  fühlte [MASK],1.4683871456828466
+war nicht tagesfüllend  Marlene  fühlte sich [MASK],1.5934196718550235
+nicht tagesfüllend  Marlene  fühlte sich nicht [MASK],1.576084415285513
+tagesfüllend  Marlene  fühlte sich nicht ausgelastet [MASK],1.1986996851202718
+ Marlene  fühlte sich nicht ausgelastet und [MASK],1.5864974695147436
+Marlene  fühlte sich nicht ausgelastet und litt [MASK],0.9648611113375873
+ fühlte sich nicht ausgelastet und litt unter [MASK],0.7506724819587853
+fühlte sich nicht ausgelastet und litt unter Zeitung [MASK],1.3247292378334425
+sich nicht ausgelastet und litt unter Zeitung  [MASK],1.0022683371797536
+nicht ausgelastet und litt unter Zeitung  Zum [MASK],0.7352763915085477
+ausgelastet und litt unter Zeitung  Zum reinen [MASK],1.5679504007204637
+und litt unter Zeitung  Zum reinen Zeitvertreib [MASK],1.499994512288366
+litt unter Zeitung  Zum reinen Zeitvertreib  [MASK],1.5502278022441784
+unter Zeitung  Zum reinen Zeitvertreib  studierte [MASK],1.5769882108744628
+Zeitung  Zum reinen Zeitvertreib  studierte sie [MASK],1.592095557952811
+ Zum reinen Zeitvertreib  studierte sie täglich [MASK],1.5625395750038045
+Zum reinen Zeitvertreib  studierte sie täglich intensiv [MASK],1.548326119002085
+reinen Zeitvertreib  studierte sie täglich intensiv den [MASK],1.4353760110516633
+Zeitvertreib  studierte sie täglich intensiv den kompletten [MASK],1.439686410273897
+ studierte sie täglich intensiv den kompletten Anzeigenteil [MASK],1.4762798079429709
+studierte sie täglich intensiv den kompletten Anzeigenteil ihrer [MASK],1.381030788280952
+sie täglich intensiv den kompletten Anzeigenteil ihrer  [MASK],1.4018614362283155
+täglich intensiv den kompletten Anzeigenteil ihrer  Zeitung [MASK],1.1434359770445144
+intensiv den kompletten Anzeigenteil ihrer  Zeitung  [MASK],1.185942501228949
+den kompletten Anzeigenteil ihrer  Zeitung  Vielleicht [MASK],1.5423799875335236
+kompletten Anzeigenteil ihrer  Zeitung  Vielleicht  [MASK],1.5002408351623178
+Anzeigenteil ihrer  Zeitung  Vielleicht  sollte [MASK],1.4655806257484887
+ihrer  Zeitung  Vielleicht  sollte ich [MASK],1.4505844778764792
+ Zeitung  Vielleicht  sollte ich auf [MASK],1.3187610321259524
+Zeitung  Vielleicht  sollte ich auf eine [MASK],1.5749669878354264
+ Vielleicht  sollte ich auf eine Kontaktanzeige [MASK],1.4503148918063724
+Vielleicht  sollte ich auf eine Kontaktanzeige antworten [MASK],1.2928538586614091
+ sollte ich auf eine Kontaktanzeige antworten überlegte [MASK],1.54805567569276
+sollte ich auf eine Kontaktanzeige antworten überlegte sie [MASK],1.3987861093860467
+ich auf eine Kontaktanzeige antworten überlegte sie  [MASK],0.8514903612188055
+auf eine Kontaktanzeige antworten überlegte sie  rief [MASK],1.5200177957925234
+eine Kontaktanzeige antworten überlegte sie  rief sich [MASK],1.5573521519420925
+Kontaktanzeige antworten überlegte sie  rief sich dann [MASK],1.5724646973415246
+antworten überlegte sie  rief sich dann aber [MASK],1.5208654191685396
+überlegte sie  rief sich dann aber in [MASK],1.5722231817702
+sie  rief sich dann aber in Erinnerung [MASK],1.099067411088396
+ rief sich dann aber in Erinnerung  [MASK],0.7126557876547801
+rief sich dann aber in Erinnerung  dass [MASK],1.5994493498010218
+sich dann aber in Erinnerung  dass sie [MASK],1.528975539010614
+dann aber in Erinnerung  dass sie sich [MASK],1.2842176181138443
+aber in Erinnerung  dass sie sich nach [MASK],1.5991190494919547
+in Erinnerung  dass sie sich nach ihrer [MASK],1.561885330064444
+Erinnerung  dass sie sich nach ihrer Trennung [MASK],1.4426479559358485
+ dass sie sich nach ihrer Trennung von [MASK],1.5658872769989958
+dass sie sich nach ihrer Trennung von Klaus [MASK],1.595589205048044
+sie sich nach ihrer Trennung von Klaus geschworen [MASK],1.439586617993565
+sich nach ihrer Trennung von Klaus geschworen hatte [MASK],0.9500041595055707
+nach ihrer Trennung von Klaus geschworen hatte  [MASK],1.1664842015795829
+ihrer Trennung von Klaus geschworen hatte  nie [MASK],0.9979189427414807
+Trennung von Klaus geschworen hatte  nie wieder [MASK],0.5628219972450166
+von Klaus geschworen hatte  nie wieder ihr [MASK],1.5229470782281052
+Klaus geschworen hatte  nie wieder ihr Herz [MASK],1.3954809014165184
+geschworen hatte  nie wieder ihr Herz an [MASK],1.4951077936324442
+hatte  nie wieder ihr Herz an einen [MASK],1.5358713232457795
+ nie wieder ihr Herz an einen Mann [MASK],1.2332234076438744
+nie wieder ihr Herz an einen Mann zu [MASK],1.560407123083464
+wieder ihr Herz an einen Mann zu  [MASK],1.5455726785373827
+ihr Herz an einen Mann zu  verlieren [MASK],1.10228428424845
+Herz an einen Mann zu  verlieren  [MASK],0.7676857667408402
+an einen Mann zu  verlieren  Der [MASK],1.3732849070293995
+einen Mann zu  verlieren  Der Schmerz [MASK],1.5556976062067591
+Mann zu  verlieren  Der Schmerz sass [MASK],1.5593484685731305
+zu  verlieren  Der Schmerz sass immer [MASK],1.377037733921576
+ verlieren  Der Schmerz sass immer noch [MASK],1.573005038783638
+verlieren  Der Schmerz sass immer noch tief [MASK],1.5544575165660406
+ Der Schmerz sass immer noch tief  [MASK],1.5777711590688286
+Der Schmerz sass immer noch tief  Und [MASK],1.4485417587480096
+Schmerz sass immer noch tief  Und dann [MASK],1.5619370011386469
+sass immer noch tief  Und dann stach [MASK],1.3991162971542013
+immer noch tief  Und dann stach ihr [MASK],1.602615059751183
+noch tief  Und dann stach ihr dieses [MASK],1.5696186707521327
+tief  Und dann stach ihr dieses Inserat [MASK],1.5954893841279347
+ Und dann stach ihr dieses Inserat ins [MASK],0.8533115753311321
+Und dann stach ihr dieses Inserat ins Auge [MASK],1.321879535106852
+dann stach ihr dieses Inserat ins Auge  [MASK],1.0626303543649702
+stach ihr dieses Inserat ins Auge  Kleingarten [MASK],1.608034254620287
+ihr dieses Inserat ins Auge  Kleingarten zu [MASK],1.349998324417825
+dieses Inserat ins Auge  Kleingarten zu verpachten [MASK],1.4674721935349568
+Inserat ins Auge  Kleingarten zu verpachten  [MASK],1.4841541995365504
+ins Auge  Kleingarten zu verpachten  Zweihundert [MASK],1.1737259449071975
+Auge  Kleingarten zu verpachten  Zweihundert quadratmeter [MASK],1.4134975479420446
+ Kleingarten zu verpachten  Zweihundert quadratmeter Grundstück [MASK],1.5528346892991136
+Kleingarten zu verpachten  Zweihundert quadratmeter Grundstück  [MASK],1.5528346892991136
+zu verpachten  Zweihundert quadratmeter Grundstück  Laube [MASK],1.552319250353801
+verpachten  Zweihundert quadratmeter Grundstück  Laube  [MASK],1.5323418788116385
+ Zweihundert quadratmeter Grundstück  Laube  Geräteschuppen [MASK],1.5931890464354554
+Zweihundert quadratmeter Grundstück  Laube  Geräteschuppen  [MASK],1.5931890464354554
+quadratmeter Grundstück  Laube  Geräteschuppen  Wasser [MASK],1.2790010053692207
+Grundstück  Laube  Geräteschuppen  Wasser und [MASK],1.3241111367665752
+ Laube  Geräteschuppen  Wasser und Stromanschluss [MASK],0.8769815984772312
+Laube  Geräteschuppen  Wasser und Stromanschluss vorhanden [MASK],0.560712073984725
+ Geräteschuppen  Wasser und Stromanschluss vorhanden  [MASK],0.42961261932703865
+Geräteschuppen  Wasser und Stromanschluss vorhanden  Das [MASK],1.4253407927690978
+ Wasser und Stromanschluss vorhanden  Das ist [MASK],1.5766391789808112
+Wasser und Stromanschluss vorhanden  Das ist es [MASK],1.4500746706317267
+und Stromanschluss vorhanden  Das ist es  [MASK],1.5041153212920242
+Stromanschluss vorhanden  Das ist es  Dass [MASK],1.5102831931757983
+vorhanden  Das ist es  Dass ich [MASK],1.5440424074820063
+ Das ist es  Dass ich da [MASK],0.6591660717323757
+Das ist es  Dass ich da nicht [MASK],1.4788911419244932
+ist es  Dass ich da nicht schon [MASK],1.5215612182572087
+es  Dass ich da nicht schon früher [MASK],1.5100219088703597
+ Dass ich da nicht schon früher drauf [MASK],0.6160214001169778
+Dass ich da nicht schon früher drauf gekommen [MASK],0.5522042839638096
+ich da nicht schon früher drauf gekommen bin [MASK],1.306932985907001
+da nicht schon früher drauf gekommen bin dachte [MASK],1.2096558359930816
+nicht schon früher drauf gekommen bin dachte Marlene [MASK],1.1221507784019782
+schon früher drauf gekommen bin dachte Marlene  [MASK],1.046067001009221
+früher drauf gekommen bin dachte Marlene  So [MASK],1.50267500285335
+drauf gekommen bin dachte Marlene  So ein [MASK],1.474175417156302
+gekommen bin dachte Marlene  So ein Schrebergarten [MASK],1.4682101293504441
+bin dachte Marlene  So ein Schrebergarten ist [MASK],1.369777419521387
+dachte Marlene  So ein Schrebergarten ist genau [MASK],1.343646455819943
+Marlene  So ein Schrebergarten ist genau das [MASK],0.7225319098346322
+ So ein Schrebergarten ist genau das Richtige [MASK],1.513966749337575
+So ein Schrebergarten ist genau das Richtige für [MASK],1.603041915637481
+ein Schrebergarten ist genau das Richtige für mich [MASK],1.391555183207568
+Schrebergarten ist genau das Richtige für mich  [MASK],1.4609444646837926
+ist genau das Richtige für mich  Ich [MASK],1.586504620322622
+genau das Richtige für mich  Ich könnte [MASK],1.5021570309538155
+das Richtige für mich  Ich könnte mein [MASK],1.3408857881050318
+Richtige für mich  Ich könnte mein eigenes [MASK],1.1106222280387992
+für mich  Ich könnte mein eigenes  [MASK],1.393538467315699
+mich  Ich könnte mein eigenes  Bio [MASK],1.0988949457944002
+ Ich könnte mein eigenes  Bio gemüse [MASK],1.0305182115843539
+Ich könnte mein eigenes  Bio gemüse anbauen [MASK],1.3948796789576847
+könnte mein eigenes  Bio gemüse anbauen  [MASK],1.5572208693330551
+mein eigenes  Bio gemüse anbauen  im [MASK],1.4736703323989329
+eigenes  Bio gemüse anbauen  im Liegestuhl [MASK],1.5793961421773215
+ Bio gemüse anbauen  im Liegestuhl entspannen [MASK],1.413968179095545
+Bio gemüse anbauen  im Liegestuhl entspannen  [MASK],1.413968179095545
+gemüse anbauen  im Liegestuhl entspannen  und [MASK],1.550818918520777
+anbauen  im Liegestuhl entspannen  und lesen [MASK],0.4513537036845378
+ im Liegestuhl entspannen  und lesen  [MASK],0.6999826021632398
+im Liegestuhl entspannen  und lesen  oder [MASK],1.440577543176436
+Liegestuhl entspannen  und lesen  oder an [MASK],1.480326634615087
+entspannen  und lesen  oder an meinem [MASK],1.1302072075484682
+ und lesen  oder an meinem Buch [MASK],1.5790258007792919
+und lesen  oder an meinem Buch schreiben [MASK],1.5406664020471
+lesen  oder an meinem Buch schreiben  [MASK],1.592900180189281
+ oder an meinem Buch schreiben  die [MASK],1.5630983724228544
+oder an meinem Buch schreiben  die Sonne [MASK],1.4652976339713948
+an meinem Buch schreiben  die Sonne geniessen [MASK],1.3177103684860538
+meinem Buch schreiben  die Sonne geniessen  [MASK],1.3414278532418205
+Buch schreiben  die Sonne geniessen  Kurz [MASK],1.171139072214795
+schreiben  die Sonne geniessen  Kurz entschlossen [MASK],1.5849380692762594
+ die Sonne geniessen  Kurz entschlossen griff [MASK],0.5228907441057117
+die Sonne geniessen  Kurz entschlossen griff sie [MASK],1.5793232863701476
+Sonne geniessen  Kurz entschlossen griff sie zum [MASK],1.5647316869481853
+geniessen  Kurz entschlossen griff sie zum Telefon [MASK],1.2159172784452532
+ Kurz entschlossen griff sie zum Telefon  [MASK],0.775272518819431
+Kurz entschlossen griff sie zum Telefon  und [MASK],1.3313614989692948
+entschlossen griff sie zum Telefon  und vereinbarte [MASK],1.546284432332393
+griff sie zum Telefon  und vereinbarte einen [MASK],1.172059356718852
+sie zum Telefon  und vereinbarte einen Anstrichs [MASK],1.4040877417074031
+zum Telefon  und vereinbarte einen Anstrichs  [MASK],1.2989252280137231
+Telefon  und vereinbarte einen Anstrichs  Die [MASK],1.5932561648923522
+ und vereinbarte einen Anstrichs  Die Parzelle [MASK],1.2471438171767282
+und vereinbarte einen Anstrichs  Die Parzelle befand [MASK],0.35243114008001264
+vereinbarte einen Anstrichs  Die Parzelle befand sich [MASK],1.553919576777624
+einen Anstrichs  Die Parzelle befand sich in [MASK],1.551117094653964
+Anstrichs  Die Parzelle befand sich in einer [MASK],1.4913592803708884
+ Die Parzelle befand sich in einer Schrebergartenanlage [MASK],1.2064149038008496
+Die Parzelle befand sich in einer Schrebergartenanlage am [MASK],1.4670090414275916
+Parzelle befand sich in einer Schrebergartenanlage am Stadtrand [MASK],1.3664607777257147
+befand sich in einer Schrebergartenanlage am Stadtrand  [MASK],1.2089079046472673
+sich in einer Schrebergartenanlage am Stadtrand  und [MASK],1.5493692735282267
+in einer Schrebergartenanlage am Stadtrand  und sah [MASK],1.5379149149676472
+einer Schrebergartenanlage am Stadtrand  und sah extrem [MASK],0.9903890305738772
+Schrebergartenanlage am Stadtrand  und sah extrem verwildert [MASK],1.5133120414472068
+am Stadtrand  und sah extrem verwildert aus [MASK],1.0778255377089547
+Stadtrand  und sah extrem verwildert aus  [MASK],1.3880303994953587
+ und sah extrem verwildert aus  Überall [MASK],1.5990425059750197
+und sah extrem verwildert aus  Überall wucherte [MASK],1.5488200457102317
+sah extrem verwildert aus  Überall wucherte Unkraut [MASK],1.50315033519803
+extrem verwildert aus  Überall wucherte Unkraut  [MASK],1.6047093673951953
+verwildert aus  Überall wucherte Unkraut  Der [MASK],1.5705669016733852
+aus  Überall wucherte Unkraut  Der Rasen [MASK],1.2027410761379793
+ Überall wucherte Unkraut  Der Rasen war [MASK],1.476377229994835
+Überall wucherte Unkraut  Der Rasen war kniehoch [MASK],1.5031895420061128
+wucherte Unkraut  Der Rasen war kniehoch und [MASK],1.403772250837735
+Unkraut  Der Rasen war kniehoch und die [MASK],1.4668850485630578
+ Der Rasen war kniehoch und die Ligusterhecke [MASK],1.499534086443718
+Der Rasen war kniehoch und die Ligusterhecke  [MASK],1.499534086443718
+Rasen war kniehoch und die Ligusterhecke  hätte [MASK],1.5736685127849408
+war kniehoch und die Ligusterhecke  hätte schon [MASK],1.4893790602580492
+kniehoch und die Ligusterhecke  hätte schon längst [MASK],1.395028629893272
+und die Ligusterhecke  hätte schon längst geschnitten [MASK],1.5326939379915374
+die Ligusterhecke  hätte schon längst geschnitten werden [MASK],1.2818425992173856
+Ligusterhecke  hätte schon längst geschnitten werden müssen [MASK],1.4263460183001
+ hätte schon längst geschnitten werden müssen  [MASK],1.2920684813308185
+hätte schon längst geschnitten werden müssen  Die [MASK],1.2216042549035855
+schon längst geschnitten werden müssen  Die Laube [MASK],1.3848791884450962
+längst geschnitten werden müssen  Die Laube bedurfte [MASK],1.541590875717844
+geschnitten werden müssen  Die Laube bedurfte dringend [MASK],1.4833485789577072
+werden müssen  Die Laube bedurfte dringend eines [MASK],1.5771644820557031
+müssen  Die Laube bedurfte dringend eines neuen [MASK],1.5927547527571604
+ Die Laube bedurfte dringend eines neuen Anstrichs [MASK],0.7587465465422095
+Die Laube bedurfte dringend eines neuen Anstrichs  [MASK],0.7587465465422095
+Laube bedurfte dringend eines neuen Anstrichs  Die [MASK],1.5710977833087927
+bedurfte dringend eines neuen Anstrichs  Die Nachbargärten [MASK],1.3933096717844475
+dringend eines neuen Anstrichs  Die Nachbargärten waren [MASK],1.5342499910855365
+eines neuen Anstrichs  Die Nachbargärten waren allesamt [MASK],1.5991327987622053
+neuen Anstrichs  Die Nachbargärten waren allesamt top [MASK],0.22660308084665684
+Anstrichs  Die Nachbargärten waren allesamt top gepflegt [MASK],0.7893281639605462
+ Die Nachbargärten waren allesamt top gepflegt  [MASK],0.9622351458022385
+Die Nachbargärten waren allesamt top gepflegt  dieser [MASK],1.5852871615458235
+Nachbargärten waren allesamt top gepflegt  dieser jedoch [MASK],1.5126965280563451
+waren allesamt top gepflegt  dieser jedoch passte [MASK],1.587735393584837
+allesamt top gepflegt  dieser jedoch passte so [MASK],1.5204774936201828
+top gepflegt  dieser jedoch passte so gar [MASK],1.2524380261339025
+gepflegt  dieser jedoch passte so gar nicht [MASK],1.4159185110402264
+ dieser jedoch passte so gar nicht in [MASK],1.562235051604928
+dieser jedoch passte so gar nicht in die [MASK],1.4393113510265552
+jedoch passte so gar nicht in die Anlage [MASK],1.3914815055382488
+passte so gar nicht in die Anlage  [MASK],1.4832872803364507
+so gar nicht in die Anlage  Die [MASK],1.588602168502237
+gar nicht in die Anlage  Die Vorbesitzer [MASK],1.4432032029399178
+nicht in die Anlage  Die Vorbesitzer  [MASK],1.3137932730956514
+in die Anlage  Die Vorbesitzer  haben [MASK],1.5808195203141562
+die Anlage  Die Vorbesitzer  haben sich [MASK],1.3721134120955998
+Anlage  Die Vorbesitzer  haben sich hier [MASK],1.5408601196524778
+ Die Vorbesitzer  haben sich hier schon [MASK],1.5530011218363806
+Die Vorbesitzer  haben sich hier schon ewig [MASK],1.4504685062243348
+Vorbesitzer  haben sich hier schon ewig nicht [MASK],1.5650331798241153
+ haben sich hier schon ewig nicht mehr [MASK],1.485192030338908
+haben sich hier schon ewig nicht mehr blicken [MASK],0.714515402562583
+sich hier schon ewig nicht mehr blicken lassen [MASK],1.555279309195124
+hier schon ewig nicht mehr blicken lassen  [MASK],1.5100784790947799
+schon ewig nicht mehr blicken lassen  deshalb [MASK],1.4872180067164198
+ewig nicht mehr blicken lassen  deshalb wurde [MASK],1.6028465834127918
+nicht mehr blicken lassen  deshalb wurde ihnen [MASK],1.5435935064810868
+mehr blicken lassen  deshalb wurde ihnen der [MASK],1.5380139638972525
+blicken lassen  deshalb wurde ihnen der Pachtvertrag [MASK],1.4518667562136753
+lassen  deshalb wurde ihnen der Pachtvertrag gekündigt [MASK],0.9695214598755885
+ deshalb wurde ihnen der Pachtvertrag gekündigt  [MASK],1.224401932964344
+deshalb wurde ihnen der Pachtvertrag gekündigt  erklärte [MASK],1.453878690392599
+wurde ihnen der Pachtvertrag gekündigt  erklärte der [MASK],1.4422236042570689
+ihnen der Pachtvertrag gekündigt  erklärte der Vorsitzende [MASK],1.5555709701101599
+der Pachtvertrag gekündigt  erklärte der Vorsitzende des [MASK],1.4672200779877207
+Pachtvertrag gekündigt  erklärte der Vorsitzende des Vereins [MASK],1.5576505967089918
+gekündigt  erklärte der Vorsitzende des Vereins  [MASK],1.2963826850692095
+ erklärte der Vorsitzende des Vereins  der [MASK],1.180261926360244
+erklärte der Vorsitzende des Vereins  der mit [MASK],1.4558329518519393
+der Vorsitzende des Vereins  der mit der [MASK],1.5240253382719038
+Vorsitzende des Vereins  der mit der Vermittlung [MASK],1.4881198091592531
+des Vereins  der mit der Vermittlung betraut [MASK],0.1066085848463615
+Vereins  der mit der Vermittlung betraut war [MASK],1.4500451429222958
+ der mit der Vermittlung betraut war  [MASK],1.3763611277029368
+der mit der Vermittlung betraut war  Wie [MASK],0.5336998816522616
+mit der Vermittlung betraut war  Wie  [MASK],0.44380233036615946
+der Vermittlung betraut war  Wie  Sie [MASK],1.2680096447811908
+Vermittlung betraut war  Wie  Sie sehen [MASK],1.5027868285414296
+betraut war  Wie  Sie sehen müssen [MASK],1.5155646925805542
+war  Wie  Sie sehen müssen Sie [MASK],1.5542693284756945
+ Wie  Sie sehen müssen Sie hier [MASK],1.1958098323086146
+Wie  Sie sehen müssen Sie hier jede [MASK],1.4209816638063002
+ Sie sehen müssen Sie hier jede Menge [MASK],1.5999695804285294
+Sie sehen müssen Sie hier jede Menge Arbeit [MASK],1.2201265763189666
+sehen müssen Sie hier jede Menge Arbeit reinstecken [MASK],1.4720206111077223
+müssen Sie hier jede Menge Arbeit reinstecken  [MASK],1.4848508361492712
+Sie hier jede Menge Arbeit reinstecken  Er [MASK],1.5386863119514806
+hier jede Menge Arbeit reinstecken  Er musterte [MASK],1.4255092298511292
+jede Menge Arbeit reinstecken  Er musterte Marlene [MASK],0.6875137090006226
+Menge Arbeit reinstecken  Er musterte Marlene kritisch [MASK],1.5911585459500301
+Arbeit reinstecken  Er musterte Marlene kritisch  [MASK],1.5536386758926877
+reinstecken  Er musterte Marlene kritisch  Diese [MASK],1.6057218254031635
+ Er musterte Marlene kritisch  Diese überlegte [MASK],1.4212983724681634
+Er musterte Marlene kritisch  Diese überlegte nicht [MASK],1.502378174428449
+musterte Marlene kritisch  Diese überlegte nicht lange [MASK],1.498446965872075
+Marlene kritisch  Diese überlegte nicht lange denn [MASK],0.17371554854481722
+kritisch  Diese überlegte nicht lange denn der [MASK],1.6054242499102842
+ Diese überlegte nicht lange denn der Preis [MASK],1.6012397289322684
+Diese überlegte nicht lange denn der Preis war [MASK],1.2366324712697487
+überlegte nicht lange denn der Preis war wirklich [MASK],1.2791967493133158
+nicht lange denn der Preis war wirklich ausgesprochen [MASK],1.2990802431485393
+lange denn der Preis war wirklich ausgesprochen niedrig [MASK],1.3059715053215024
+denn der Preis war wirklich ausgesprochen niedrig  [MASK],1.204914168725149
+der Preis war wirklich ausgesprochen niedrig  und [MASK],1.454320506786552
+Preis war wirklich ausgesprochen niedrig  und ausserdem [MASK],1.4998402205842492
+war wirklich ausgesprochen niedrig  und ausserdem hatte [MASK],1.5327987289715843
+wirklich ausgesprochen niedrig  und ausserdem hatte sie [MASK],1.4480053623367681
+ausgesprochen niedrig  und ausserdem hatte sie ja [MASK],1.4835354763247492
+niedrig  und ausserdem hatte sie ja alle [MASK],1.5407694332466395
+ und ausserdem hatte sie ja alle Zeit [MASK],1.3663082612795712
+und ausserdem hatte sie ja alle Zeit der [MASK],1.5866300575751586
+ausserdem hatte sie ja alle Zeit der Welt [MASK],1.461613861974508
+hatte sie ja alle Zeit der Welt  [MASK],1.4931197551559405
+sie ja alle Zeit der Welt  um [MASK],0.8930347512397853
+ja alle Zeit der Welt  um aus [MASK],1.5966224321731783
+alle Zeit der Welt  um aus  [MASK],1.586666626616154
+Zeit der Welt  um aus  dieser [MASK],1.4441790866989805
+der Welt  um aus  dieser Wildwuchsparzelle [MASK],1.0401252563116874
+Welt  um aus  dieser Wildwuchsparzelle  [MASK],1.513340374296984
+ um aus  dieser Wildwuchsparzelle  eine [MASK],1.5743585199156875
+um aus  dieser Wildwuchsparzelle  eine Wellnessoase [MASK],1.5614748298668921
+aus  dieser Wildwuchsparzelle  eine Wellnessoase zu [MASK],1.4673015246070358
+ dieser Wildwuchsparzelle  eine Wellnessoase zu  [MASK],1.4273692169564656
+dieser Wildwuchsparzelle  eine Wellnessoase zu  zaubern [MASK],1.3297557548147414
+Wildwuchsparzelle  eine Wellnessoase zu  zaubern  [MASK],1.540995444008035
+ eine Wellnessoase zu  zaubern  Sie [MASK],1.0769245508671932
+eine Wellnessoase zu  zaubern  Sie sah [MASK],1.3771418946024019
+Wellnessoase zu  zaubern  Sie sah es [MASK],1.518034620270154
+zu  zaubern  Sie sah es schon [MASK],1.4908769392460663
+ zaubern  Sie sah es schon genau [MASK],1.536318925823643
+zaubern  Sie sah es schon genau vor [MASK],1.5727237152038982
+ Sie sah es schon genau vor sich [MASK],1.5512186653363933
+Sie sah es schon genau vor sich ihr [MASK],1.5531633895123629
+sah es schon genau vor sich ihr kleines [MASK],1.4766616634586112
+es schon genau vor sich ihr kleines Paradies [MASK],1.5146420607997255
+schon genau vor sich ihr kleines Paradies  [MASK],1.474907522248534
+genau vor sich ihr kleines Paradies  Sie [MASK],1.3229426975014116
+vor sich ihr kleines Paradies  Sie würde [MASK],1.594560268392201
+sich ihr kleines Paradies  Sie würde eine [MASK],1.5999796022405943
+ihr kleines Paradies  Sie würde eine Kräuterspirale [MASK],1.6040642240033447
+kleines Paradies  Sie würde eine Kräuterspirale bauen [MASK],1.5648678727924152
+Paradies  Sie würde eine Kräuterspirale bauen und [MASK],1.5712715308836829
+ Sie würde eine Kräuterspirale bauen und Rosen [MASK],1.54907575819368
+Sie würde eine Kräuterspirale bauen und Rosen züchten [MASK],1.4898762939079446
+würde eine Kräuterspirale bauen und Rosen züchten  [MASK],1.5451336939086215

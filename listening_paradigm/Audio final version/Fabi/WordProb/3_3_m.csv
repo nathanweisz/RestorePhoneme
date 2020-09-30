@@ -1,0 +1,723 @@
+Context,Word,Probability
+        [MASK],Nelly,2.680649413377978e-05
+       Nelly [MASK],war,5.23840390087571e-05
+      Nelly war [MASK],abgesehen,6.576619853149168e-07
+     Nelly war abgesehen [MASK],vom,0.00010021717753261328
+    Nelly war abgesehen vom [MASK],Chef,4.9566340749152005e-05
+   Nelly war abgesehen vom Chef [MASK],wie,0.00022276559320744127
+  Nelly war abgesehen vom Chef wie [MASK],immer,0.0025132945738732815
+ Nelly war abgesehen vom Chef wie immer [MASK],die,0.00018120552704203874
+Nelly war abgesehen vom Chef wie immer die [MASK],letzte,0.012430685572326183
+war abgesehen vom Chef wie immer die letzte [MASK],im,0.0006413760129362345
+abgesehen vom Chef wie immer die letzte im [MASK],Stirn,8.751960223207789e-08
+vom Chef wie immer die letzte im Stirn [MASK],,5.47280978935305e-05
+Chef wie immer die letzte im Stirn  [MASK],Gerade,3.445824745540449e-07
+wie immer die letzte im Stirn  Gerade [MASK],hatte,0.0011028238805010915
+immer die letzte im Stirn  Gerade hatte [MASK],sie,0.00013961120566818863
+die letzte im Stirn  Gerade hatte sie [MASK],alles,1.7235573977814056e-05
+letzte im Stirn  Gerade hatte sie alles [MASK],zusammengepackt,0.00016421807231381536
+im Stirn  Gerade hatte sie alles zusammengepackt [MASK],,1.2529642390290974e-07
+Stirn  Gerade hatte sie alles zusammengepackt  [MASK],und,0.0002921072591561824
+ Gerade hatte sie alles zusammengepackt  und [MASK],war,0.00018644383817445487
+Gerade hatte sie alles zusammengepackt  und war [MASK],in,0.0005222252802923322
+hatte sie alles zusammengepackt  und war in [MASK],ihre,0.00011939221440115944
+sie alles zusammengepackt  und war in ihre [MASK],Jacke,0.00040628077113069594
+alles zusammengepackt  und war in ihre Jacke [MASK],geschlüpft,0.0002058862301055342
+zusammengepackt  und war in ihre Jacke geschlüpft [MASK],,5.519165142686688e-07
+ und war in ihre Jacke geschlüpft  [MASK],da,1.882809738162905e-05
+und war in ihre Jacke geschlüpft  da [MASK],bat,2.0182039861538215e-06
+war in ihre Jacke geschlüpft  da bat [MASK],er,0.0009823570726439357
+in ihre Jacke geschlüpft  da bat er [MASK],sie,0.004457751754671335
+ihre Jacke geschlüpft  da bat er sie [MASK],noch,0.0009196610772050917
+Jacke geschlüpft  da bat er sie noch [MASK],einmal,0.05116375535726547
+geschlüpft  da bat er sie noch einmal [MASK],zu,0.006917345803231001
+ da bat er sie noch einmal zu [MASK],sich,6.889925134601071e-05
+da bat er sie noch einmal zu sich [MASK],,8.621253755336511e-07
+bat er sie noch einmal zu sich  [MASK],Ich,1.0479154752829345e-06
+er sie noch einmal zu sich  Ich [MASK],würde,0.0006240866496227682
+sie noch einmal zu sich  Ich würde [MASK],gern,0.04627300426363945
+noch einmal zu sich  Ich würde gern [MASK],etwas,0.0008164155879057944
+einmal zu sich  Ich würde gern etwas [MASK],mit,0.00024558775476180017
+zu sich  Ich würde gern etwas mit [MASK],Ihnen,0.006147847510874271
+sich  Ich würde gern etwas mit Ihnen [MASK],besprechen,0.5543704032897949
+ Ich würde gern etwas mit Ihnen besprechen [MASK],begann,9.182139848462612e-08
+Ich würde gern etwas mit Ihnen besprechen begann [MASK],er,0.00041640066774562
+würde gern etwas mit Ihnen besprechen begann er [MASK],,1.0458418728376273e-05
+gern etwas mit Ihnen besprechen begann er  [MASK],Er,4.174723017058568e-06
+etwas mit Ihnen besprechen begann er  Er [MASK],stand,0.0001635825028643012
+mit Ihnen besprechen begann er  Er stand [MASK],vor,0.000417311821365729
+Ihnen besprechen begann er  Er stand vor [MASK],seinem,0.013974691741168499
+besprechen begann er  Er stand vor seinem [MASK],Schreibtisch,0.0027786807622760534
+begann er  Er stand vor seinem Schreibtisch [MASK],lehnte,4.260743298800662e-05
+er  Er stand vor seinem Schreibtisch lehnte [MASK],sich,0.0011506567243486643
+ Er stand vor seinem Schreibtisch lehnte sich [MASK],leicht,0.0005753627046942711
+Er stand vor seinem Schreibtisch lehnte sich leicht [MASK],daran,0.0002156919363187626
+stand vor seinem Schreibtisch lehnte sich leicht daran [MASK],an,0.04371465742588043
+vor seinem Schreibtisch lehnte sich leicht daran an [MASK],,2.7952035352996063e-08
+seinem Schreibtisch lehnte sich leicht daran an  [MASK],Das,6.806684496041271e-07
+Schreibtisch lehnte sich leicht daran an  Das [MASK],heisst,1.1141307368234266e-05
+lehnte sich leicht daran an  Das heisst [MASK],ich,0.00014542478311341256
+sich leicht daran an  Das heisst ich [MASK],möchte,0.0009213818702846766
+leicht daran an  Das heisst ich möchte [MASK],Er,2.293581019330304e-05
+daran an  Das heisst ich möchte Er [MASK],sah,3.3059590350603685e-05
+an  Das heisst ich möchte Er sah [MASK],zu,0.000140766438562423
+ Das heisst ich möchte Er sah zu [MASK],Boden,0.00011697516310960054
+Das heisst ich möchte Er sah zu Boden [MASK],,4.080474411694013e-07
+heisst ich möchte Er sah zu Boden  [MASK],sah,3.726297791217803e-06
+ich möchte Er sah zu Boden  sah [MASK],wieder,3.9882528653834015e-05
+möchte Er sah zu Boden  sah wieder [MASK],zu,0.0007531584124080837
+Er sah zu Boden  sah wieder zu [MASK],ihr,0.00036021837149746716
+sah zu Boden  sah wieder zu ihr [MASK],,9.001297485156101e-08
+zu Boden  sah wieder zu ihr  [MASK],Machen,2.5114238724199822e-06
+Boden  sah wieder zu ihr  Machen [MASK],Sie,0.00010240684059681371
+ sah wieder zu ihr  Machen Sie [MASK],doch,0.0008328789845108986
+sah wieder zu ihr  Machen Sie doch [MASK],bitte,0.054425425827503204
+wieder zu ihr  Machen Sie doch bitte [MASK],die,0.00011790246207965538
+zu ihr  Machen Sie doch bitte die [MASK],Tür,0.005025888327509165
+ihr  Machen Sie doch bitte die Tür [MASK],zu,0.0021819625981152058
+ Machen Sie doch bitte die Tür zu [MASK],,1.870772194934034e-07
+Machen Sie doch bitte die Tür zu  [MASK],Obwohl,2.1543155526160263e-07
+Sie doch bitte die Tür zu  Obwohl [MASK],sie,5.744635018345434e-06
+doch bitte die Tür zu  Obwohl sie [MASK],nicht,0.007402205374091864
+bitte die Tür zu  Obwohl sie nicht [MASK],verstand,8.725655061425641e-05
+die Tür zu  Obwohl sie nicht verstand [MASK],wieso,9.595970368536655e-06
+Tür zu  Obwohl sie nicht verstand wieso [MASK],,3.839514590708859e-07
+zu  Obwohl sie nicht verstand wieso  [MASK],denn,0.0007602457772009075
+ Obwohl sie nicht verstand wieso  denn [MASK],ausser,1.0753845344879664e-05
+Obwohl sie nicht verstand wieso  denn ausser [MASK],ihnen,0.0003958341258112341
+sie nicht verstand wieso  denn ausser ihnen [MASK],war,0.00134224072098732
+nicht verstand wieso  denn ausser ihnen war [MASK],niemand,0.0012266435660421848
+verstand wieso  denn ausser ihnen war niemand [MASK],mehr,0.001451042597182095
+wieso  denn ausser ihnen war niemand mehr [MASK],hier,0.0010901766363531351
+ denn ausser ihnen war niemand mehr hier [MASK],,6.33219485735026e-07
+denn ausser ihnen war niemand mehr hier  [MASK],stellte,7.582820416018876e-08
+ausser ihnen war niemand mehr hier  stellte [MASK],sie,9.355091606266797e-05
+ihnen war niemand mehr hier  stellte sie [MASK],keine,0.0006353711360134184
+war niemand mehr hier  stellte sie keine [MASK],Fragen,0.19908849895000458
+niemand mehr hier  stellte sie keine Fragen [MASK],und,0.0008191706729121506
+mehr hier  stellte sie keine Fragen und [MASK],tat,0.00024325947742909193
+hier  stellte sie keine Fragen und tat [MASK],es,0.028951391577720642
+ stellte sie keine Fragen und tat es [MASK],,1.1334393093420658e-05
+stellte sie keine Fragen und tat es  [MASK],Dann,1.1635430610112962e-06
+sie keine Fragen und tat es  Dann [MASK],wartete,1.2600609125001938e-06
+keine Fragen und tat es  Dann wartete [MASK],sie,0.0012792057823389769
+Fragen und tat es  Dann wartete sie [MASK],,5.695093932445161e-06
+und tat es  Dann wartete sie  [MASK],Wartete,1.8220993297290988e-05
+tat es  Dann wartete sie  Wartete [MASK],auf,0.004679840989410877
+es  Dann wartete sie  Wartete auf [MASK],,3.4183010200194985e-08
+ Dann wartete sie  Wartete auf  [MASK],das,0.0029698433354496956
+Dann wartete sie  Wartete auf  das [MASK],,5.266670988213207e-10
+wartete sie  Wartete auf  das  [MASK],was,0.00013330522051546723
+sie  Wartete auf  das  was [MASK],da,0.00039426182047463953
+ Wartete auf  das  was da [MASK],kommen,1.0980741535604466e-05
+Wartete auf  das  was da kommen [MASK],sollte,0.02806447446346283
+auf  das  was da kommen sollte [MASK],,1.0333812952012522e-06
+ das  was da kommen sollte  [MASK],Er,4.254002590187156e-07
+das  was da kommen sollte  Er [MASK],aber,5.045448688179022e-06
+ was da kommen sollte  Er aber [MASK],schien,0.0002735620364546776
+was da kommen sollte  Er aber schien [MASK],grosse,3.4369168133707717e-06
+da kommen sollte  Er aber schien grosse [MASK],Schwierigkeiten,0.0013323785969987512
+kommen sollte  Er aber schien grosse Schwierigkeiten [MASK],zu,0.006325962487608194
+sollte  Er aber schien grosse Schwierigkeiten zu [MASK],haben,0.0598423033952713
+ Er aber schien grosse Schwierigkeiten zu haben [MASK],mit,2.98539234790951e-05
+Er aber schien grosse Schwierigkeiten zu haben mit [MASK],der,0.02136421948671341
+aber schien grosse Schwierigkeiten zu haben mit der [MASK],Sprache,0.0005875033675692976
+schien grosse Schwierigkeiten zu haben mit der Sprache [MASK],herauszurücken,0.00013481220230460167
+grosse Schwierigkeiten zu haben mit der Sprache herauszurücken [MASK],,2.1075666722936148e-07
+Schwierigkeiten zu haben mit der Sprache herauszurücken  [MASK],Er,2.9345841312533594e-07
+zu haben mit der Sprache herauszurücken  Er [MASK],schaute,0.00014096462109591812
+haben mit der Sprache herauszurücken  Er schaute [MASK],sie,0.0016878925962373614
+mit der Sprache herauszurücken  Er schaute sie [MASK],an,0.025271113961935043
+der Sprache herauszurücken  Er schaute sie an [MASK],und,0.0022356605622917414
+Sprache herauszurücken  Er schaute sie an und [MASK],wich,0.0002703602076508105
+herauszurücken  Er schaute sie an und wich [MASK],ihrem,0.001615792978554964
+ Er schaute sie an und wich ihrem [MASK],Blick,0.0006011997465975583
+Er schaute sie an und wich ihrem Blick [MASK],wieder,0.0016300315037369728
+schaute sie an und wich ihrem Blick wieder [MASK],aus,0.17574754357337952
+sie an und wich ihrem Blick wieder aus [MASK],,1.618199263475617e-07
+an und wich ihrem Blick wieder aus  [MASK],stammelte,2.1600251329800813e-06
+und wich ihrem Blick wieder aus  stammelte [MASK],unverständiges,1.0159560588363092e-05
+wich ihrem Blick wieder aus  stammelte unverständiges [MASK],,6.552352971311848e-08
+ihrem Blick wieder aus  stammelte unverständiges  [MASK],Zeug,0.0083326306194067
+Blick wieder aus  stammelte unverständiges  Zeug [MASK],,1.2229056665091775e-05
+wieder aus  stammelte unverständiges  Zeug  [MASK],begann,4.2863950511673465e-05
+aus  stammelte unverständiges  Zeug  begann [MASK],Sätze,2.797771685436601e-06
+ stammelte unverständiges  Zeug  begann Sätze [MASK],und,0.0007523740641772747
+stammelte unverständiges  Zeug  begann Sätze und [MASK],brach,7.405039650620893e-05
+unverständiges  Zeug  begann Sätze und brach [MASK],sie,0.001544057042337954
+ Zeug  begann Sätze und brach sie [MASK],wieder,0.006976819131523371
+Zeug  begann Sätze und brach sie wieder [MASK],ab,0.14569181203842163
+ begann Sätze und brach sie wieder ab [MASK],,2.752930186034064e-07
+begann Sätze und brach sie wieder ab  [MASK],Was,3.8097304866369086e-08
+Sätze und brach sie wieder ab  Was [MASK],war,0.0009510124218650162
+und brach sie wieder ab  Was war [MASK],denn,0.00034035532735288143
+brach sie wieder ab  Was war denn [MASK],los,0.00026282318867743015
+sie wieder ab  Was war denn los [MASK],,5.673551406459865e-09
+wieder ab  Was war denn los  [MASK],mit,7.332016139116604e-06
+ab  Was war denn los  mit [MASK],ihm,2.6681285817176104e-05
+ Was war denn los  mit ihm [MASK],,2.046083125151199e-08
+Was war denn los  mit ihm  [MASK],War,1.4867646314087324e-07
+war denn los  mit ihm  War [MASK],er,0.00012889834761153907
+denn los  mit ihm  War er [MASK],krank,0.00018643894873093814
+los  mit ihm  War er krank [MASK],Hatte,2.3434351987816626e-06
+ mit ihm  War er krank Hatte [MASK],,8.313472790177912e-07
+mit ihm  War er krank Hatte  [MASK],er,0.0005328155821189284
+ihm  War er krank Hatte  er [MASK],eine,0.0008332057623192668
+ War er krank Hatte  er eine [MASK],schlechte,0.012409137561917305
+War er krank Hatte  er eine schlechte [MASK],Nachricht,0.09745626896619797
+er krank Hatte  er eine schlechte Nachricht [MASK],erhalten,0.00016808703367132694
+krank Hatte  er eine schlechte Nachricht erhalten [MASK],,1.902123791808208e-08
+Hatte  er eine schlechte Nachricht erhalten  [MASK],Waren,3.259349767859021e-08
+ er eine schlechte Nachricht erhalten  Waren [MASK],sie,0.0006715116905979812
+er eine schlechte Nachricht erhalten  Waren sie [MASK],plötzlich,0.0003959363093599677
+eine schlechte Nachricht erhalten  Waren sie plötzlich [MASK],bankrott,1.630734942636991e-07
+schlechte Nachricht erhalten  Waren sie plötzlich bankrott [MASK],gegangen,0.004983025137335062
+Nachricht erhalten  Waren sie plötzlich bankrott gegangen [MASK],,5.2809848938295545e-08
+erhalten  Waren sie plötzlich bankrott gegangen  [MASK],Geht,1.1630343799140519e-08
+ Waren sie plötzlich bankrott gegangen  Geht [MASK],es,2.4681734430487268e-05
+Waren sie plötzlich bankrott gegangen  Geht es [MASK],Ihnen,0.0004028282128274441
+sie plötzlich bankrott gegangen  Geht es Ihnen [MASK],nicht,0.006822722498327494
+plötzlich bankrott gegangen  Geht es Ihnen nicht [MASK],gut,0.08618175983428955
+bankrott gegangen  Geht es Ihnen nicht gut [MASK],fragte,1.8492297471084385e-08
+gegangen  Geht es Ihnen nicht gut fragte [MASK],sie,1.0925677997875027e-05
+ Geht es Ihnen nicht gut fragte sie [MASK],,1.427371444151504e-06
+Geht es Ihnen nicht gut fragte sie  [MASK],Oh,7.321448265429353e-06
+es Ihnen nicht gut fragte sie  Oh [MASK],doch,0.00022946095850784332
+Ihnen nicht gut fragte sie  Oh doch [MASK],Doch,1.3913358998252079e-06
+nicht gut fragte sie  Oh doch Doch [MASK],doch,0.003749924013391137
+gut fragte sie  Oh doch Doch doch [MASK],,1.2182289310658234e-07
+fragte sie  Oh doch Doch doch  [MASK],Er,3.493001713650301e-06
+sie  Oh doch Doch doch  Er [MASK],fasste,3.524313569869264e-06
+ Oh doch Doch doch  Er fasste [MASK],sich,0.0021417923271656036
+Oh doch Doch doch  Er fasste sich [MASK],an,0.01678195782005787
+doch Doch doch  Er fasste sich an [MASK],die,0.0008874249178916216
+Doch doch  Er fasste sich an die [MASK],Stirn,0.0001166037327493541
+doch  Er fasste sich an die Stirn [MASK],,7.548866847173485e-07
+ Er fasste sich an die Stirn  [MASK],Dann,2.886216918795981e-07
+Er fasste sich an die Stirn  Dann [MASK],,7.098707754948919e-08
+fasste sich an die Stirn  Dann  [MASK],sah,7.025785453151911e-05
+sich an die Stirn  Dann  sah [MASK],er,0.0038481601513922215
+an die Stirn  Dann  sah er [MASK],sie,0.0031167329289019108
+die Stirn  Dann  sah er sie [MASK],sehr,5.106706521473825e-05
+Stirn  Dann  sah er sie sehr [MASK],direkt,0.0005821549566462636
+ Dann  sah er sie sehr direkt [MASK],an,0.001473346259444952
+Dann  sah er sie sehr direkt an [MASK],,1.2578518671091388e-08
+ sah er sie sehr direkt an  [MASK],Sie,8.92408934305422e-06
+sah er sie sehr direkt an  Sie [MASK],,2.9148048952265526e-07
+er sie sehr direkt an  Sie  [MASK],können,4.746549529954791e-05
+sie sehr direkt an  Sie  können [MASK],ruhig,1.6560457879677415e-05
+sehr direkt an  Sie  können ruhig [MASK],,5.266308278351062e-08
+direkt an  Sie  können ruhig  [MASK],du,1.693720514595043e-05
+an  Sie  können ruhig  du [MASK],zu,0.0002141736913472414
+ Sie  können ruhig  du zu [MASK],mir,0.04020462557673454
+Sie  können ruhig  du zu mir [MASK],sagen,0.06858760118484497
+ können ruhig  du zu mir sagen [MASK],,3.7517889239779834e-08
+können ruhig  du zu mir sagen  [MASK],Ich,1.2188811524538323e-05
+ruhig  du zu mir sagen  Ich [MASK],bin,0.060366276651620865
+ du zu mir sagen  Ich bin [MASK],Fred,8.312467252835631e-05
+du zu mir sagen  Ich bin Fred [MASK],,1.8611723273664893e-09
+zu mir sagen  Ich bin Fred  [MASK],Ihr,6.401011887646746e-06
+mir sagen  Ich bin Fred  Ihr [MASK],wurde,1.0826206562342122e-06
+sagen  Ich bin Fred  Ihr wurde [MASK],plötzlich,6.253663741517812e-05
+ Ich bin Fred  Ihr wurde plötzlich [MASK],ganz,0.000856465776450932
+Ich bin Fred  Ihr wurde plötzlich ganz [MASK],anders,0.03819798305630684
+bin Fred  Ihr wurde plötzlich ganz anders [MASK],,9.415825843461789e-07
+Fred  Ihr wurde plötzlich ganz anders  [MASK],Sie,6.995836088208307e-07
+ Ihr wurde plötzlich ganz anders  Sie [MASK],wusste,1.442738084733719e-05
+Ihr wurde plötzlich ganz anders  Sie wusste [MASK],nicht,0.00047310383524745703
+wurde plötzlich ganz anders  Sie wusste nicht [MASK],genau,0.002193115884438157
+plötzlich ganz anders  Sie wusste nicht genau [MASK],wie,0.0029715148266404867
+ganz anders  Sie wusste nicht genau wie [MASK],anders,0.00019863755733240396
+anders  Sie wusste nicht genau wie anders [MASK],,1.110152197725256e-06
+ Sie wusste nicht genau wie anders  [MASK],Jedenfalls,5.071614594953644e-08
+Sie wusste nicht genau wie anders  Jedenfalls [MASK],lag,1.7988971876548021e-06
+wusste nicht genau wie anders  Jedenfalls lag [MASK],etwas,0.0002394765760982409
+nicht genau wie anders  Jedenfalls lag etwas [MASK],sehr,2.3370021153823473e-05
+genau wie anders  Jedenfalls lag etwas sehr [MASK],Merkwürdiges,2.801951723085949e-06
+wie anders  Jedenfalls lag etwas sehr Merkwürdiges [MASK],in,0.0017613262170925736
+anders  Jedenfalls lag etwas sehr Merkwürdiges in [MASK],der,0.0130823515355587
+ Jedenfalls lag etwas sehr Merkwürdiges in der [MASK],Luft,0.014027823694050312
+Jedenfalls lag etwas sehr Merkwürdiges in der Luft [MASK],,1.0563938985796995e-06
+lag etwas sehr Merkwürdiges in der Luft  [MASK],Okay,2.323158128092473e-07
+etwas sehr Merkwürdiges in der Luft  Okay [MASK],nickte,2.742070535077801e-07
+sehr Merkwürdiges in der Luft  Okay nickte [MASK],sie,0.0014088705647736788
+Merkwürdiges in der Luft  Okay nickte sie [MASK],langsam,0.0009471426019445062
+in der Luft  Okay nickte sie langsam [MASK],,1.288641442442895e-06
+der Luft  Okay nickte sie langsam  [MASK],Wenn,4.2881708850472933e-07
+Luft  Okay nickte sie langsam  Wenn [MASK],Sie,0.001377693610265851
+ Okay nickte sie langsam  Wenn Sie [MASK],wollen,0.0018432653741911054
+Okay nickte sie langsam  Wenn Sie wollen [MASK],,1.0586418142111143e-07
+nickte sie langsam  Wenn Sie wollen  [MASK],Ja,0.000469103833893314
+sie langsam  Wenn Sie wollen  Ja [MASK],ich,0.0002870410098694265
+langsam  Wenn Sie wollen  Ja ich [MASK],will,0.0014198936987668276
+ Wenn Sie wollen  Ja ich will [MASK],,7.523971845557753e-08
+Wenn Sie wollen  Ja ich will  [MASK],erwiderte,2.646735083544627e-06
+Sie wollen  Ja ich will  erwiderte [MASK],er,9.61033656494692e-05
+wollen  Ja ich will  erwiderte er [MASK],in,0.0005861936369910836
+ Ja ich will  erwiderte er in [MASK],bedeutungsträchtigem,4.941330757901596e-07
+Ja ich will  erwiderte er in bedeutungsträchtigem [MASK],Ton,0.043691013008356094
+ich will  erwiderte er in bedeutungsträchtigem Ton [MASK],,4.356064891908318e-06
+will  erwiderte er in bedeutungsträchtigem Ton  [MASK],Kurz,1.1747342796297744e-06
+ erwiderte er in bedeutungsträchtigem Ton  Kurz [MASK],darauf,0.00027023127768188715
+erwiderte er in bedeutungsträchtigem Ton  Kurz darauf [MASK],schüttelte,7.572333515781793e-07
+er in bedeutungsträchtigem Ton  Kurz darauf schüttelte [MASK],er,0.004956802353262901
+in bedeutungsträchtigem Ton  Kurz darauf schüttelte er [MASK],den,0.0014631878584623337
+bedeutungsträchtigem Ton  Kurz darauf schüttelte er den [MASK],Kopf,0.555623471736908
+Ton  Kurz darauf schüttelte er den Kopf [MASK],,3.3200756206497317e-06
+ Kurz darauf schüttelte er den Kopf  [MASK],und,0.0007778494036756456
+Kurz darauf schüttelte er den Kopf  und [MASK],lachte,0.00040549159166403115
+darauf schüttelte er den Kopf  und lachte [MASK],so,8.71907250257209e-05
+schüttelte er den Kopf  und lachte so [MASK],als,0.00018069264478981495
+er den Kopf  und lachte so als [MASK],sei,8.872574107954279e-05
+den Kopf  und lachte so als sei [MASK],er,0.010352592915296555
+Kopf  und lachte so als sei er [MASK],beschämt,2.0231575490470277e-06
+ und lachte so als sei er beschämt [MASK],,5.903357873648929e-07
+und lachte so als sei er beschämt  [MASK],über,9.354656504001468e-05
+lachte so als sei er beschämt  über [MASK],seine,0.0012572440318763256
+so als sei er beschämt  über seine [MASK],eigene,0.0022909885738044977
+als sei er beschämt  über seine eigene [MASK],Hand,0.0009354282519780099
+sei er beschämt  über seine eigene Hand [MASK],,1.838754428717948e-07
+er beschämt  über seine eigene Hand  [MASK],Ich,1.0334700846215128e-06
+beschämt  über seine eigene Hand  Ich [MASK],möchte,0.0003970585821662098
+ über seine eigene Hand  Ich möchte [MASK],dir,0.01340307667851448
+über seine eigene Hand  Ich möchte dir [MASK],Ihnen,0.00016022885392885655
+seine eigene Hand  Ich möchte dir Ihnen [MASK],,4.286746246862094e-08
+eigene Hand  Ich möchte dir Ihnen  [MASK],also,7.133311737561598e-05
+Hand  Ich möchte dir Ihnen  also [MASK],dir,2.209618287452031e-05
+ Ich möchte dir Ihnen  also dir [MASK],etwas,0.0003315161739010364
+Ich möchte dir Ihnen  also dir etwas [MASK],schenken,0.032246869057416916
+möchte dir Ihnen  also dir etwas schenken [MASK],erklärte,1.4152546912171715e-09
+dir Ihnen  also dir etwas schenken erklärte [MASK],er,0.00011975496454397216
+Ihnen  also dir etwas schenken erklärte er [MASK],dann,0.0005949994665570557
+ also dir etwas schenken erklärte er dann [MASK],,2.9110728405612463e-07
+also dir etwas schenken erklärte er dann  [MASK],Ich,3.9661845221417025e-06
+dir etwas schenken erklärte er dann  Ich [MASK],weiss,0.000629852176643908
+etwas schenken erklärte er dann  Ich weiss [MASK],nur,0.0008103250293061137
+schenken erklärte er dann  Ich weiss nur [MASK],nicht,0.0004954709438607097
+erklärte er dann  Ich weiss nur nicht [MASK],ob,0.00019476719899103045
+er dann  Ich weiss nur nicht ob [MASK],es,0.0020515830256044865
+dann  Ich weiss nur nicht ob es [MASK],dir,0.0005691232508979738
+ Ich weiss nur nicht ob es dir [MASK],auch,8.212789907702245e-06
+Ich weiss nur nicht ob es dir auch [MASK],gefallen,0.004159531556069851
+weiss nur nicht ob es dir auch gefallen [MASK],wird,0.03668905049562454
+nur nicht ob es dir auch gefallen wird [MASK],Weil,9.803246712181135e-07
+nicht ob es dir auch gefallen wird Weil [MASK],nämlich,0.00016082551155705005
+ob es dir auch gefallen wird Weil nämlich [MASK],das,0.00019008426170330495
+es dir auch gefallen wird Weil nämlich das [MASK],Geschenk,0.0023359779734164476
+dir auch gefallen wird Weil nämlich das Geschenk [MASK],mit,0.00038111492176540196
+auch gefallen wird Weil nämlich das Geschenk mit [MASK],etwas,0.00020434467296581715
+gefallen wird Weil nämlich das Geschenk mit etwas [MASK],einhergeht,2.731551467149984e-05
+wird Weil nämlich das Geschenk mit etwas einhergeht [MASK],das,8.897362022253219e-06
+Weil nämlich das Geschenk mit etwas einhergeht das [MASK],,3.383110680488244e-08
+nämlich das Geschenk mit etwas einhergeht das  [MASK],Er,4.035321398987435e-05
+das Geschenk mit etwas einhergeht das  Er [MASK],stockte,1.3704701586902956e-06
+Geschenk mit etwas einhergeht das  Er stockte [MASK],erneut,0.00011897995136678219
+mit etwas einhergeht das  Er stockte erneut [MASK],,3.217440735170385e-06
+etwas einhergeht das  Er stockte erneut  [MASK],machte,2.1328925868147053e-05
+einhergeht das  Er stockte erneut  machte [MASK],auch,0.00021765913697890937
+das  Er stockte erneut  machte auch [MASK],keine,0.0021728696301579475
+ Er stockte erneut  machte auch keine [MASK],weiteren,0.004954395350068808
+Er stockte erneut  machte auch keine weiteren [MASK],Anstalten,2.4011833374970593e-05
+stockte erneut  machte auch keine weiteren Anstalten [MASK],seinen,2.5649000235716812e-05
+erneut  machte auch keine weiteren Anstalten seinen [MASK],Satz,5.9348385548219085e-05
+ machte auch keine weiteren Anstalten seinen Satz [MASK],zu,0.003074555890634656
+machte auch keine weiteren Anstalten seinen Satz zu [MASK],beenden,0.006424299441277981
+auch keine weiteren Anstalten seinen Satz zu beenden [MASK],,1.2114714991184883e-05
+keine weiteren Anstalten seinen Satz zu beenden  [MASK],zog,1.1640362572507001e-05
+weiteren Anstalten seinen Satz zu beenden  zog [MASK],stattdessen,0.0008402497624047101
+Anstalten seinen Satz zu beenden  zog stattdessen [MASK],etwas,0.0002975164679810405
+seinen Satz zu beenden  zog stattdessen etwas [MASK],aus,0.003933365922421217
+Satz zu beenden  zog stattdessen etwas aus [MASK],,5.7769909744820325e-08
+zu beenden  zog stattdessen etwas aus  [MASK],der,4.217367313685827e-05
+beenden  zog stattdessen etwas aus  der [MASK],Innentasche,4.430933131516213e-06
+ zog stattdessen etwas aus  der Innentasche [MASK],seines,5.5178108596010134e-05
+zog stattdessen etwas aus  der Innentasche seines [MASK],Ton,8.306801646540407e-06
+stattdessen etwas aus  der Innentasche seines Ton [MASK],,3.884183854552248e-07
+etwas aus  der Innentasche seines Ton  [MASK],Hier,1.9425645803039515e-07
+aus  der Innentasche seines Ton  Hier [MASK],das,0.00011953204375458881
+ der Innentasche seines Ton  Hier das [MASK],ist,5.862193938810378e-05
+der Innentasche seines Ton  Hier das ist [MASK],,1.705730170442621e-07
+Innentasche seines Ton  Hier das ist  [MASK],das,0.0009851224021986127
+seines Ton  Hier das ist  das [MASK],ist,0.0007205328438431025
+Ton  Hier das ist  das ist [MASK],es,0.0025396186392754316
+ Hier das ist  das ist es [MASK],,7.552519605269481e-07
+Hier das ist  das ist es  [MASK],Er,3.1464810490433592e-06
+das ist  das ist es  Er [MASK],gab,3.171892240061425e-05
+ist  das ist es  Er gab [MASK],es,0.0024062939919531345
+ das ist es  Er gab es [MASK],ihr,0.00012407006579451263
+das ist es  Er gab es ihr [MASK],,6.752289323230798e-07
+ist es  Er gab es ihr  [MASK],Das,0.0004262655565980822
+es  Er gab es ihr  Das [MASK],,3.1089373297987777e-09
+ Er gab es ihr  Das  [MASK],Ding,0.0008013374754227698
+Er gab es ihr  Das  Ding [MASK],war,1.618564419914037e-05
+gab es ihr  Das  Ding war [MASK],weinrot,6.364061391650466e-06
+es ihr  Das  Ding war weinrot [MASK],verpackt,8.753886504564434e-06
+ihr  Das  Ding war weinrot verpackt [MASK],,1.9823664842988364e-07
+ Das  Ding war weinrot verpackt  [MASK],klein,1.1267781701462809e-05
+Das  Ding war weinrot verpackt  klein [MASK],und,0.0007500185165554285
+ Ding war weinrot verpackt  klein und [MASK],leicht,0.0016980958171188831
+Ding war weinrot verpackt  klein und leicht [MASK],,5.316164219948405e-07
+war weinrot verpackt  klein und leicht  [MASK],Es,3.1744980333314743e-06
+weinrot verpackt  klein und leicht  Es [MASK],fand,1.5458417692570947e-06
+verpackt  klein und leicht  Es fand [MASK],bequem,0.00020519134704954922
+ klein und leicht  Es fand bequem [MASK],Platz,0.013049918226897717
+klein und leicht  Es fand bequem Platz [MASK],,8.756205716053955e-07
+und leicht  Es fand bequem Platz  [MASK],in,0.0020771336276084185
+leicht  Es fand bequem Platz  in [MASK],einer,0.002237681532278657
+ Es fand bequem Platz  in einer [MASK],Hand,0.0020693771075457335
+Es fand bequem Platz  in einer Hand [MASK],,3.687444305455756e-08
+fand bequem Platz  in einer Hand  [MASK],Und,3.049757651751861e-06
+bequem Platz  in einer Hand  Und [MASK],eckig,1.583634366397746e-05
+Platz  in einer Hand  Und eckig [MASK],war,0.00010358136933064088
+ in einer Hand  Und eckig war [MASK],es,0.04185229167342186
+in einer Hand  Und eckig war es [MASK],,1.5193725175777217e-06
+einer Hand  Und eckig war es  [MASK],Schachtelförmig,2.5140218440355966e-06
+Hand  Und eckig war es  Schachtelförmig [MASK],,3.6673739032266894e-06
+ Und eckig war es  Schachtelförmig  [MASK],Ihr,2.771313063476555e-07
+Und eckig war es  Schachtelförmig  Ihr [MASK],Geschenk,0.0002663959458004683
+eckig war es  Schachtelförmig  Ihr Geschenk [MASK],hat,9.455863619223237e-05
+war es  Schachtelförmig  Ihr Geschenk hat [MASK],ein,2.4630029656691477e-05
+es  Schachtelförmig  Ihr Geschenk hat ein [MASK],äusserst,2.6226994123135228e-06
+ Schachtelförmig  Ihr Geschenk hat ein äusserst [MASK],verdächtiges,1.7223345594175044e-07
+Schachtelförmig  Ihr Geschenk hat ein äusserst verdächtiges [MASK],Format,0.006608852185308933
+ Ihr Geschenk hat ein äusserst verdächtiges Format [MASK],,1.2557859463413479e-06
+Ihr Geschenk hat ein äusserst verdächtiges Format  [MASK],prustete,2.1748064682469703e-08
+Geschenk hat ein äusserst verdächtiges Format  prustete [MASK],sie,5.687202065018937e-05
+hat ein äusserst verdächtiges Format  prustete sie [MASK],verzweifelt,3.3506246381875826e-06
+ein äusserst verdächtiges Format  prustete sie verzweifelt [MASK],lachend,3.6083063150726957e-06
+äusserst verdächtiges Format  prustete sie verzweifelt lachend [MASK],hervor,0.0003605118836276233
+verdächtiges Format  prustete sie verzweifelt lachend hervor [MASK],und,0.0006654285825788975
+Format  prustete sie verzweifelt lachend hervor und [MASK],vergass,4.6382396249100566e-05
+ prustete sie verzweifelt lachend hervor und vergass [MASK],vor,0.0001788228692021221
+prustete sie verzweifelt lachend hervor und vergass vor [MASK],Schreck,0.006500406190752983
+sie verzweifelt lachend hervor und vergass vor Schreck [MASK],,3.070048535391834e-07
+verzweifelt lachend hervor und vergass vor Schreck  [MASK],völlig,0.00013085277169011533
+lachend hervor und vergass vor Schreck  völlig [MASK],ihn,1.870724736363627e-05
+hervor und vergass vor Schreck  völlig ihn [MASK],zu,0.00036457658279687166
+und vergass vor Schreck  völlig ihn zu [MASK],duzen,1.507784691057168e-05
+vergass vor Schreck  völlig ihn zu duzen [MASK],,7.296304005421916e-08
+vor Schreck  völlig ihn zu duzen  [MASK],Verdächtig,7.353814623911603e-08
+Schreck  völlig ihn zu duzen  Verdächtig [MASK],,6.621451575483661e-06
+ völlig ihn zu duzen  Verdächtig  [MASK],Er,3.4012664400506765e-05
+völlig ihn zu duzen  Verdächtig  Er [MASK],nickte,2.269785454700468e-06
+ihn zu duzen  Verdächtig  Er nickte [MASK],Ja,0.0013458681060001254
+zu duzen  Verdächtig  Er nickte Ja [MASK],der,6.897131243022159e-05
+duzen  Verdächtig  Er nickte Ja der [MASK],Verdacht,5.466378934215754e-05
+ Verdächtig  Er nickte Ja der Verdacht [MASK],der,0.0006744752754457295
+Verdächtig  Er nickte Ja der Verdacht der [MASK],ist,1.0324277354811784e-05
+ Er nickte Ja der Verdacht der ist [MASK],also,0.00010099432984134182
+Er nickte Ja der Verdacht der ist also [MASK],,4.651306255709642e-07
+nickte Ja der Verdacht der ist also  [MASK],der,0.0017349011031910777
+Ja der Verdacht der ist also  der [MASK],ist,5.095093365525827e-05
+der Verdacht der ist also  der ist [MASK],auch,0.0006206945399753749
+Verdacht der ist also  der ist auch [MASK],gar,4.796647044713609e-05
+der ist also  der ist auch gar [MASK],nicht,0.31075847148895264
+ist also  der ist auch gar nicht [MASK],,2.0527306787698762e-07
+also  der ist auch gar nicht  [MASK],so,0.005218630190938711
+ der ist auch gar nicht  so [MASK],verkehrt,0.0005547871696762741
+der ist auch gar nicht  so verkehrt [MASK],,1.2784289538103621e-07
+ist auch gar nicht  so verkehrt  [MASK],Ihr,1.1760564575524768e-06
+auch gar nicht  so verkehrt  Ihr [MASK],liefen,1.0561577255430166e-05
+gar nicht  so verkehrt  Ihr liefen [MASK],abwechselnd,5.717875524169358e-07
+nicht  so verkehrt  Ihr liefen abwechselnd [MASK],heisse,7.956499757710844e-06
+ so verkehrt  Ihr liefen abwechselnd heisse [MASK],und,0.0017055579228326678
+so verkehrt  Ihr liefen abwechselnd heisse und [MASK],kalte,0.002251194091513753
+verkehrt  Ihr liefen abwechselnd heisse und kalte [MASK],Schauer,5.814118776470423e-05
+ Ihr liefen abwechselnd heisse und kalte Schauer [MASK],über,0.00469161756336689
+Ihr liefen abwechselnd heisse und kalte Schauer über [MASK],den,0.0007689162739552557
+liefen abwechselnd heisse und kalte Schauer über den [MASK],Körper,0.0014512663474306464
+abwechselnd heisse und kalte Schauer über den Körper [MASK],,8.727864042157307e-06
+heisse und kalte Schauer über den Körper  [MASK],Sie,6.070293693483109e-06
+und kalte Schauer über den Körper  Sie [MASK],hatte,4.139997145102825e-06
+kalte Schauer über den Körper  Sie hatte [MASK],einen,0.0006974998395889997
+Schauer über den Körper  Sie hatte einen [MASK],dicken,0.0011148755438625813
+über den Körper  Sie hatte einen dicken [MASK],Kloss,2.212686558777932e-05
+den Körper  Sie hatte einen dicken Kloss [MASK],im,0.00015010811330284923
+Körper  Sie hatte einen dicken Kloss im [MASK],Hals,0.09926202893257141
+ Sie hatte einen dicken Kloss im Hals [MASK],,4.382894530863268e-06
+Sie hatte einen dicken Kloss im Hals  [MASK],bei,2.180268666052143e-06
+hatte einen dicken Kloss im Hals  bei [MASK],dem,0.0008082781569100916
+einen dicken Kloss im Hals  bei dem [MASK],Gedanken,0.0003892887616530061
+dicken Kloss im Hals  bei dem Gedanken [MASK],das,7.790559720888268e-06
+Kloss im Hals  bei dem Gedanken das [MASK],Geschenkpapier,0.0006332698394544423
+im Hals  bei dem Gedanken das Geschenkpapier [MASK],zu,0.0006402506260201335
+Hals  bei dem Gedanken das Geschenkpapier zu [MASK],öffnen,0.006246217992156744
+ bei dem Gedanken das Geschenkpapier zu öffnen [MASK],,2.5253050353057915e-06
+bei dem Gedanken das Geschenkpapier zu öffnen  [MASK],aber,4.249490302754566e-06
+dem Gedanken das Geschenkpapier zu öffnen  aber [MASK],da,0.0005864029517397285
+Gedanken das Geschenkpapier zu öffnen  aber da [MASK],er,4.9513102567289025e-05
+das Geschenkpapier zu öffnen  aber da er [MASK],ihr,0.000519783585332334
+Geschenkpapier zu öffnen  aber da er ihr [MASK],gegenüberstand,0.0008901768014766276
+zu öffnen  aber da er ihr gegenüberstand [MASK],,3.851266683341237e-06
+öffnen  aber da er ihr gegenüberstand  [MASK],sie,9.098900045501068e-05
+ aber da er ihr gegenüberstand  sie [MASK],beobachtete,0.00015900009020697325
+aber da er ihr gegenüberstand  sie beobachtete [MASK],,9.554645430398523e-07
+da er ihr gegenüberstand  sie beobachtete  [MASK],und,0.002053606789559126
+er ihr gegenüberstand  sie beobachtete  und [MASK],auf,0.00033204109058715403
+ihr gegenüberstand  sie beobachtete  und auf [MASK],eine,0.0010444150539115071
+gegenüberstand  sie beobachtete  und auf eine [MASK],Reaktion,0.002587773371487856
+ sie beobachtete  und auf eine Reaktion [MASK],ihrerseits,0.0003372231440152973
+sie beobachtete  und auf eine Reaktion ihrerseits [MASK],wartete,0.024676933884620667
+beobachtete  und auf eine Reaktion ihrerseits wartete [MASK],,8.816100489639211e-06
+ und auf eine Reaktion ihrerseits wartete  [MASK],blieb,3.435516919125803e-05
+und auf eine Reaktion ihrerseits wartete  blieb [MASK],keine,0.0020519231911748648
+auf eine Reaktion ihrerseits wartete  blieb keine [MASK],Zeit,0.00198638578876853
+eine Reaktion ihrerseits wartete  blieb keine Zeit [MASK],zum,2.385872539889533e-05
+Reaktion ihrerseits wartete  blieb keine Zeit zum [MASK],Zögern,2.4160637622117065e-05
+ihrerseits wartete  blieb keine Zeit zum Zögern [MASK],,1.741413484523946e-06
+wartete  blieb keine Zeit zum Zögern  [MASK],sie,6.731659595970996e-06
+ blieb keine Zeit zum Zögern  sie [MASK],riss,7.72774001234211e-06
+blieb keine Zeit zum Zögern  sie riss [MASK],,1.425288246537093e-06
+keine Zeit zum Zögern  sie riss  [MASK],es,0.0025639261584728956
+Zeit zum Zögern  sie riss  es [MASK],auf,0.004482313059270382
+zum Zögern  sie riss  es auf [MASK],,2.641191976238133e-08
+Zögern  sie riss  es auf  [MASK],und,0.0017474574269726872
+ sie riss  es auf  und [MASK],zog,0.006140581797808409
+sie riss  es auf  und zog [MASK],eine,0.0017205375479534268
+riss  es auf  und zog eine [MASK],schwarze,0.0008795773610472679
+ es auf  und zog eine schwarze [MASK],aufklappbare,5.034140122006647e-05
+es auf  und zog eine schwarze aufklappbare [MASK],Box,0.0035306813661009073
+auf  und zog eine schwarze aufklappbare Box [MASK],daraus,0.0001332408282905817
+ und zog eine schwarze aufklappbare Box daraus [MASK],hervor,0.0012980604078620672
+und zog eine schwarze aufklappbare Box daraus hervor [MASK],,3.820385430230999e-08
+zog eine schwarze aufklappbare Box daraus hervor  [MASK],Also,1.8032230286735285e-07
+eine schwarze aufklappbare Box daraus hervor  Also [MASK],doch,4.804110744771606e-07
+schwarze aufklappbare Box daraus hervor  Also doch [MASK],dachte,1.717863415251486e-05
+aufklappbare Box daraus hervor  Also doch dachte [MASK],sie,0.0015571506228297949
+Box daraus hervor  Also doch dachte sie [MASK],und,9.472012607147917e-05
+daraus hervor  Also doch dachte sie und [MASK],ein,0.0007189041352830827
+hervor  Also doch dachte sie und ein [MASK],leises,5.8480658481130376e-05
+ Also doch dachte sie und ein leises [MASK],,7.0604411206431905e-09
+Also doch dachte sie und ein leises  [MASK],Great,2.486604273599369e-07
+doch dachte sie und ein leises  Great [MASK],Scott,6.431768269976601e-06
+dachte sie und ein leises  Great Scott [MASK],,4.574281433633587e-07
+sie und ein leises  Great Scott  [MASK],entfuhr,7.38245773845847e-07
+und ein leises  Great Scott  entfuhr [MASK],ihren,0.00024794411729089916
+ein leises  Great Scott  entfuhr ihren [MASK],Lippen,0.0014088080497458577
+leises  Great Scott  entfuhr ihren Lippen [MASK],,2.773380037979223e-05
+ Great Scott  entfuhr ihren Lippen  [MASK],Ihr,1.4458895520874648e-06
+Great Scott  entfuhr ihren Lippen  Ihr [MASK],Herz,0.040669035166502
+Scott  entfuhr ihren Lippen  Ihr Herz [MASK],klopfte,1.5617516169186274e-07
+ entfuhr ihren Lippen  Ihr Herz klopfte [MASK],ihr,0.0002819614892359823
+entfuhr ihren Lippen  Ihr Herz klopfte ihr [MASK],bis,2.508589022909291e-05
+ihren Lippen  Ihr Herz klopfte ihr bis [MASK],sonst,8.555974090995733e-06
+Lippen  Ihr Herz klopfte ihr bis sonst [MASK],wohin,0.0003664377436507493
+ Ihr Herz klopfte ihr bis sonst wohin [MASK],,6.921446527030639e-08
+Ihr Herz klopfte ihr bis sonst wohin  [MASK],Sie,9.232486490873271e-07
+Herz klopfte ihr bis sonst wohin  Sie [MASK],traute,0.00014512499910779297
+klopfte ihr bis sonst wohin  Sie traute [MASK],sich,9.55608811636921e-06
+ihr bis sonst wohin  Sie traute sich [MASK],nicht,0.0014690321404486895
+bis sonst wohin  Sie traute sich nicht [MASK],zu,0.0014518850948661566
+sonst wohin  Sie traute sich nicht zu [MASK],Fred,2.287855068061617e-06
+wohin  Sie traute sich nicht zu Fred [MASK],aufzusehen,9.45321335166227e-06
+ Sie traute sich nicht zu Fred aufzusehen [MASK],öffnete,4.99783432417189e-08
+Sie traute sich nicht zu Fred aufzusehen öffnete [MASK],stattdessen,0.000149924133438617
+traute sich nicht zu Fred aufzusehen öffnete stattdessen [MASK],vorsichtig,8.650564996059984e-05
+sich nicht zu Fred aufzusehen öffnete stattdessen vorsichtig [MASK],das,0.0001808211236493662
+nicht zu Fred aufzusehen öffnete stattdessen vorsichtig das [MASK],Kästchen,3.381195483598276e-06
+zu Fred aufzusehen öffnete stattdessen vorsichtig das Kästchen [MASK],und,0.0018823352875187993
+Fred aufzusehen öffnete stattdessen vorsichtig das Kästchen und [MASK],lugte,6.26764158369042e-05
+aufzusehen öffnete stattdessen vorsichtig das Kästchen und lugte [MASK],,2.102254029523465e-06
+öffnete stattdessen vorsichtig das Kästchen und lugte  [MASK],hinein,0.0017828530399128795
+stattdessen vorsichtig das Kästchen und lugte  hinein [MASK],Vielleicht,3.302750428701984e-07
+vorsichtig das Kästchen und lugte  hinein Vielleicht [MASK],war,2.8173093596706167e-05
+das Kästchen und lugte  hinein Vielleicht war [MASK],es,0.004699968732893467
+Kästchen und lugte  hinein Vielleicht war es [MASK],ja,0.002571411896497011
+und lugte  hinein Vielleicht war es ja [MASK],doch,0.008729224093258381
+lugte  hinein Vielleicht war es ja doch [MASK],kein,0.0005228060181252658
+ hinein Vielleicht war es ja doch kein [MASK],,3.0356561708799745e-10
+hinein Vielleicht war es ja doch kein  [MASK],Jawohl,0.0004737463314086199
+Vielleicht war es ja doch kein  Jawohl [MASK],es,1.4143745374894934e-06
+war es ja doch kein  Jawohl es [MASK],war,0.0012112617259845138
+es ja doch kein  Jawohl es war [MASK],einer,8.689964488439728e-06
+ja doch kein  Jawohl es war einer [MASK],Schnell,8.66956156642118e-07
+doch kein  Jawohl es war einer Schnell [MASK],klappte,2.9892521524743643e-07
+kein  Jawohl es war einer Schnell klappte [MASK],sie,1.9488814359647222e-05
+ Jawohl es war einer Schnell klappte sie [MASK],das,0.0004475758469197899
+Jawohl es war einer Schnell klappte sie das [MASK],Ding,0.0019798718858510256
+es war einer Schnell klappte sie das Ding [MASK],wieder,0.0007286681211553514
+war einer Schnell klappte sie das Ding wieder [MASK],zu,0.0007444709772244096
+einer Schnell klappte sie das Ding wieder zu [MASK],,3.7845222067289797e-08
+Schnell klappte sie das Ding wieder zu  [MASK],Das,1.6168695537999156e-06
+klappte sie das Ding wieder zu  Das [MASK],konnte,5.664537093252875e-05
+sie das Ding wieder zu  Das konnte [MASK],doch,0.0003595682792365551
+das Ding wieder zu  Das konnte doch [MASK],nicht,0.028721164911985397
+Ding wieder zu  Das konnte doch nicht [MASK],wahr,6.160708289826289e-05
+wieder zu  Das konnte doch nicht wahr [MASK],sein,0.13358956575393677
+zu  Das konnte doch nicht wahr sein [MASK],Wieso,3.3032495139195817e-07
+ Das konnte doch nicht wahr sein Wieso [MASK],Wozu,2.7661678814183688e-06
+Das konnte doch nicht wahr sein Wieso Wozu [MASK],Weshalb,6.297520485532004e-06
+konnte doch nicht wahr sein Wieso Wozu Weshalb [MASK],Für,6.164855221868493e-06
+doch nicht wahr sein Wieso Wozu Weshalb Für [MASK],einen,0.00018419847765471786
+nicht wahr sein Wieso Wozu Weshalb Für einen [MASK],Moment,0.01537112146615982
+wahr sein Wieso Wozu Weshalb Für einen Moment [MASK],überlegte,0.0001640979025978595
+sein Wieso Wozu Weshalb Für einen Moment überlegte [MASK],sie,0.00013002936611883342
+Wieso Wozu Weshalb Für einen Moment überlegte sie [MASK],ob,1.7158403352368623e-05
+Wozu Weshalb Für einen Moment überlegte sie ob [MASK],heute,9.027724445331842e-05
+Weshalb Für einen Moment überlegte sie ob heute [MASK],der,7.404518328257836e-06
+Für einen Moment überlegte sie ob heute der [MASK],erste,0.0016205996507778764
+einen Moment überlegte sie ob heute der erste [MASK],April,0.00031849381048232317
+Moment überlegte sie ob heute der erste April [MASK],war,0.00429201265797019
+überlegte sie ob heute der erste April war [MASK],,7.535752502008108e-07
+sie ob heute der erste April war  [MASK],Nein,1.714469908620231e-05
+ob heute der erste April war  Nein [MASK],,2.2533635046784184e-07
+heute der erste April war  Nein  [MASK],September,4.54359997092979e-06
+der erste April war  Nein  September [MASK],,2.149885767721571e-05
+erste April war  Nein  September  [MASK],Sie,2.3312193661695346e-05
+April war  Nein  September  Sie [MASK],hatten,0.0018105132039636374
+war  Nein  September  Sie hatten [MASK],September,2.598756145744119e-05
+ Nein  September  Sie hatten September [MASK],,9.915388545778114e-07
+Nein  September  Sie hatten September  [MASK],Sie,0.0735921561717987
+ September  Sie hatten September  Sie [MASK],,4.444736703135277e-07
+September  Sie hatten September  Sie  [MASK],wussten,0.02827848307788372
+ Sie hatten September  Sie  wussten [MASK],beim,2.2726748284185305e-05
+Sie hatten September  Sie  wussten beim [MASK],besten,0.0003563421778380871
+hatten September  Sie  wussten beim besten [MASK],Willen,0.009586161002516747
+September  Sie  wussten beim besten Willen [MASK],nicht,0.0008403785759583116
+ Sie  wussten beim besten Willen nicht [MASK],was,0.0037583080120384693
+Sie  wussten beim besten Willen nicht was [MASK],sie,4.3180440115975216e-05
+ wussten beim besten Willen nicht was sie [MASK],davon,0.00011597145930863917
+wussten beim besten Willen nicht was sie davon [MASK],halten,0.011317669413983822
+beim besten Willen nicht was sie davon halten [MASK],sollte,0.002290854463353753
+besten Willen nicht was sie davon halten sollte [MASK],,1.2634685617740615e-06
+Willen nicht was sie davon halten sollte  [MASK],sie,1.4434394870477263e-05
+nicht was sie davon halten sollte  sie [MASK],fühlte,1.4667335562990047e-05
+was sie davon halten sollte  sie fühlte [MASK],sich,7.798340811859816e-05
+sie davon halten sollte  sie fühlte sich [MASK],weder,0.0003055905399378389
+davon halten sollte  sie fühlte sich weder [MASK],geschmeichelt,7.823698069842067e-06
+halten sollte  sie fühlte sich weder geschmeichelt [MASK],noch,0.07014106214046478
+sollte  sie fühlte sich weder geschmeichelt noch [MASK],beleidigt,0.0028067538514733315
+ sie fühlte sich weder geschmeichelt noch beleidigt [MASK],,9.993929097618093e-07
+sie fühlte sich weder geschmeichelt noch beleidigt  [MASK],lediglich,1.382010054840066e-06
+fühlte sich weder geschmeichelt noch beleidigt  lediglich [MASK],hoffnungslos,8.775830906415649e-07
+sich weder geschmeichelt noch beleidigt  lediglich hoffnungslos [MASK],überfordert,0.0003935869026463479
+weder geschmeichelt noch beleidigt  lediglich hoffnungslos überfordert [MASK],,2.952974909931072e-06
+geschmeichelt noch beleidigt  lediglich hoffnungslos überfordert  [MASK],Ich,1.5117010434551048e-06
+noch beleidigt  lediglich hoffnungslos überfordert  Ich [MASK],weiss,0.00199697888456285
+beleidigt  lediglich hoffnungslos überfordert  Ich weiss [MASK],sagte,9.907887033477891e-06
+ lediglich hoffnungslos überfordert  Ich weiss sagte [MASK],er,0.0017281367909163237
+lediglich hoffnungslos überfordert  Ich weiss sagte er [MASK],,7.539110242760216e-07
+hoffnungslos überfordert  Ich weiss sagte er  [MASK],das,0.0018484886968508363
+überfordert  Ich weiss sagte er  das [MASK],ist,0.0012227324768900871
+ Ich weiss sagte er  das ist [MASK],jetzt,0.0017928850138559937
+Ich weiss sagte er  das ist jetzt [MASK],vielleicht,0.00022695855295751244
+weiss sagte er  das ist jetzt vielleicht [MASK],ein,0.00026752534904517233
+sagte er  das ist jetzt vielleicht ein [MASK],bisschen,0.10746390372514725
+er  das ist jetzt vielleicht ein bisschen [MASK],plötzlich,7.120425289031118e-05
+ das ist jetzt vielleicht ein bisschen plötzlich [MASK],aber,0.0001650340127525851
+das ist jetzt vielleicht ein bisschen plötzlich aber [MASK],,7.158509163218696e-08
+ist jetzt vielleicht ein bisschen plötzlich aber  [MASK],Wieder,2.222242983407341e-06
+jetzt vielleicht ein bisschen plötzlich aber  Wieder [MASK],faselte,1.2004127711406909e-05
+vielleicht ein bisschen plötzlich aber  Wieder faselte [MASK],er,0.0002270820114063099
+ein bisschen plötzlich aber  Wieder faselte er [MASK],eine,0.00015597848687320948
+bisschen plötzlich aber  Wieder faselte er eine [MASK],ganze,0.001026667421683669
+plötzlich aber  Wieder faselte er eine ganze [MASK],Menge,0.029086142778396606
+aber  Wieder faselte er eine ganze Menge [MASK],dummes,0.00012419944687280804
+ Wieder faselte er eine ganze Menge dummes [MASK],Luft,2.6986992452293634e-05
+Wieder faselte er eine ganze Menge dummes Luft [MASK],,4.576530727717909e-07
+faselte er eine ganze Menge dummes Luft  [MASK],Wild,2.86818931272137e-07
+er eine ganze Menge dummes Luft  Wild [MASK],durcheinander,0.00010520619252929464
+eine ganze Menge dummes Luft  Wild durcheinander [MASK],,1.3054926739641814e-07
+ganze Menge dummes Luft  Wild durcheinander  [MASK],Darüber,1.113624648496625e-06
+Menge dummes Luft  Wild durcheinander  Darüber [MASK],wie,2.8209036827320233e-05
+dummes Luft  Wild durcheinander  Darüber wie [MASK],lange,0.00040154624730348587
+Luft  Wild durcheinander  Darüber wie lange [MASK],sie,0.00013431775732897222
+ Wild durcheinander  Darüber wie lange sie [MASK],sich,0.00021077475685160607
+Wild durcheinander  Darüber wie lange sie sich [MASK],schon,3.332673804834485e-05
+durcheinander  Darüber wie lange sie sich schon [MASK],kannten,0.0011234864359721541
+ Darüber wie lange sie sich schon kannten [MASK],und,0.001834634691476822
+Darüber wie lange sie sich schon kannten und [MASK],dass,0.003954354207962751
+wie lange sie sich schon kannten und dass [MASK],er,0.009383127093315125
+lange sie sich schon kannten und dass er [MASK],der,0.0004329420917201787
+sie sich schon kannten und dass er der [MASK],Meinung,0.0028858804143965244
+sich schon kannten und dass er der Meinung [MASK],war,0.2385261505842209
+schon kannten und dass er der Meinung war [MASK],sie,8.186010745703243e-06
+kannten und dass er der Meinung war sie [MASK],seien,0.004731605760753155
+und dass er der Meinung war sie seien [MASK],in,0.00012443933519534767
+dass er der Meinung war sie seien in [MASK],den,0.0043364521116018295
+er der Meinung war sie seien in den [MASK],letzten,0.003447890980169177
+der Meinung war sie seien in den letzten [MASK],Jahren,0.4386001527309418
+Meinung war sie seien in den letzten Jahren [MASK],,2.51830442721257e-06
+war sie seien in den letzten Jahren  [MASK],zu,0.0021442705765366554
+sie seien in den letzten Jahren  zu [MASK],einem,0.0015086183557286859
+seien in den letzten Jahren  zu einem [MASK],recht,4.624206849257462e-05
+in den letzten Jahren  zu einem recht [MASK],guten,0.010291283950209618
+den letzten Jahren  zu einem recht guten [MASK],Team,4.269824057701044e-05
+letzten Jahren  zu einem recht guten Team [MASK],zusammengewachsen,0.003531714668497443
+Jahren  zu einem recht guten Team zusammengewachsen [MASK],,5.431786576082231e-07
+ zu einem recht guten Team zusammengewachsen  [MASK],Und,2.9562468171207e-06
+zu einem recht guten Team zusammengewachsen  Und [MASK],etwas,8.555065141990781e-05
+einem recht guten Team zusammengewachsen  Und etwas [MASK],über,0.00017295281577389687
+recht guten Team zusammengewachsen  Und etwas über [MASK],Kaktusstacheln,3.8534491864083975e-07
+guten Team zusammengewachsen  Und etwas über Kaktusstacheln [MASK],und,0.00017296009173151106
+Team zusammengewachsen  Und etwas über Kaktusstacheln und [MASK],verletzte,2.4786802896414883e-05
+zusammengewachsen  Und etwas über Kaktusstacheln und verletzte [MASK],Lippen,0.003770195646211505
+ Und etwas über Kaktusstacheln und verletzte Lippen [MASK],,5.387598321249243e-06
+Und etwas über Kaktusstacheln und verletzte Lippen  [MASK],Und,3.3727545087458566e-05
+etwas über Kaktusstacheln und verletzte Lippen  Und [MASK],dass,0.00012250844156369567
+über Kaktusstacheln und verletzte Lippen  Und dass [MASK],sie,0.040623899549245834
+Kaktusstacheln und verletzte Lippen  Und dass sie [MASK],für,0.00020134368969593197
+und verletzte Lippen  Und dass sie für [MASK],ihn,0.007416632492095232
+verletzte Lippen  Und dass sie für ihn [MASK],seine,6.943166226847097e-05
+Lippen  Und dass sie für ihn seine [MASK],Familie,0.002158787101507187
+ Und dass sie für ihn seine Familie [MASK],geworden,0.00010803759505506605
+Und dass sie für ihn seine Familie geworden [MASK],sei,0.05256631225347519
+dass sie für ihn seine Familie geworden sei [MASK],weil,8.298802640638314e-06
+sie für ihn seine Familie geworden sei weil [MASK],er,0.06159543991088867
+für ihn seine Familie geworden sei weil er [MASK],doch,0.0007912461296655238
+ihn seine Familie geworden sei weil er doch [MASK],sonst,0.001112911500968039
+seine Familie geworden sei weil er doch sonst [MASK],niemanden,0.013750390149652958
+Familie geworden sei weil er doch sonst niemanden [MASK],mehr,0.000791519763879478
+geworden sei weil er doch sonst niemanden mehr [MASK],hatte,0.0016818394651636481
+sei weil er doch sonst niemanden mehr hatte [MASK],,2.064356522168964e-06
+weil er doch sonst niemanden mehr hatte  [MASK],Und,1.8971961708302842e-06
+er doch sonst niemanden mehr hatte  Und [MASK],dann,0.007027486339211464
+doch sonst niemanden mehr hatte  Und dann [MASK],etwas,0.0004062492516823113
+sonst niemanden mehr hatte  Und dann etwas [MASK],über,0.0004152923065703362
+niemanden mehr hatte  Und dann etwas über [MASK],verlorengegangene,4.607726077665575e-05
+mehr hatte  Und dann etwas über verlorengegangene [MASK],Körper,0.0003198909107595682
+hatte  Und dann etwas über verlorengegangene Körper [MASK],,4.8445986067235935e-06
+ Und dann etwas über verlorengegangene Körper  [MASK],Und,5.97792022745125e-05
+Und dann etwas über verlorengegangene Körper  Und [MASK],dass,0.00015451476792804897
+dann etwas über verlorengegangene Körper  Und dass [MASK],er,0.007062511518597603
+etwas über verlorengegangene Körper  Und dass er [MASK],sie,0.000998193398118019
+über verlorengegangene Körper  Und dass er sie [MASK],in,0.00036451907362788916
+verlorengegangene Körper  Und dass er sie in [MASK],letzter,0.0011395952897146344
+Körper  Und dass er sie in letzter [MASK],Zeit,0.021131785586476326
+ Und dass er sie in letzter Zeit [MASK],häufig,0.00020702269102912396
+Und dass er sie in letzter Zeit häufig [MASK],bewusst,4.5300981582840905e-05
+dass er sie in letzter Zeit häufig bewusst [MASK],,1.920518570841523e-06
+er sie in letzter Zeit häufig bewusst  [MASK],länger,6.655813194811344e-06
+sie in letzter Zeit häufig bewusst  länger [MASK],im,0.0005821041413582861
+in letzter Zeit häufig bewusst  länger im [MASK],Büro,0.010999844409525394
+letzter Zeit häufig bewusst  länger im Büro [MASK],festgehalten,0.0018960019806399941
+Zeit häufig bewusst  länger im Büro festgehalten [MASK],hätte,0.00016350229270756245
+häufig bewusst  länger im Büro festgehalten hätte [MASK],,1.5141031326493248e-06
+bewusst  länger im Büro festgehalten hätte  [MASK],um,1.0440147661938681e-06
+ länger im Büro festgehalten hätte  um [MASK],noch,1.7188007404911332e-05
+länger im Büro festgehalten hätte  um noch [MASK],etwas,0.0008733730646781623
+im Büro festgehalten hätte  um noch etwas [MASK],mehr,0.023463262245059013
+Büro festgehalten hätte  um noch etwas mehr [MASK],Zeit,0.0018489585490897298
+festgehalten hätte  um noch etwas mehr Zeit [MASK],mit,0.00012509965745266527
+hätte  um noch etwas mehr Zeit mit [MASK],ihr,0.0023479273077100515
+ um noch etwas mehr Zeit mit ihr [MASK],verbringen,0.5298132300376892
+um noch etwas mehr Zeit mit ihr verbringen [MASK],,1.8765179277124844e-07
+noch etwas mehr Zeit mit ihr verbringen  [MASK],zu,8.440660167252645e-05
+etwas mehr Zeit mit ihr verbringen  zu [MASK],können,0.17358577251434326
+mehr Zeit mit ihr verbringen  zu können [MASK],,4.879653715761378e-06
+Zeit mit ihr verbringen  zu können  [MASK],An,2.4764592581050238e-06
+mit ihr verbringen  zu können  An [MASK],dieser,1.0723472769313958e-05
+ihr verbringen  zu können  An dieser [MASK],Stelle,0.29456260800361633
+verbringen  zu können  An dieser Stelle [MASK],entschuldigte,2.1109049157530535e-06
+ zu können  An dieser Stelle entschuldigte [MASK],er,0.002302468754351139
+zu können  An dieser Stelle entschuldigte er [MASK],sich,0.4783565104007721
+können  An dieser Stelle entschuldigte er sich [MASK],aufrichtig,0.0018554750131443143
+ An dieser Stelle entschuldigte er sich aufrichtig [MASK],und,0.0007478507468476892
+An dieser Stelle entschuldigte er sich aufrichtig und [MASK],,7.558253400929971e-06
+dieser Stelle entschuldigte er sich aufrichtig und  [MASK],versprach,0.018929677084088326
+Stelle entschuldigte er sich aufrichtig und  versprach [MASK],es,0.0008569216006435454
+entschuldigte er sich aufrichtig und  versprach es [MASK],würde,3.897442184097599e-06
+er sich aufrichtig und  versprach es würde [MASK],nicht,0.001138982130214572
+sich aufrichtig und  versprach es würde nicht [MASK],wieder,0.0006121808546595275
+aufrichtig und  versprach es würde nicht wieder [MASK],vorkommen,0.008872782811522484
+und  versprach es würde nicht wieder vorkommen [MASK],,1.9822039121208945e-07

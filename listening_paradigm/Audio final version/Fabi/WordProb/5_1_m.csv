@@ -1,0 +1,529 @@
+Context,Word,Probability
+        [MASK],,1.6024438309614197e-07
+        [MASK],Wer,4.941734005114995e-05
+       Wer [MASK],noch,7.843509229132906e-05
+      Wer noch [MASK],nie,0.0004876579041592777
+     Wer noch nie [MASK],in,0.00012589708785526454
+    Wer noch nie in [MASK],seinem,0.0003391923091839999
+   Wer noch nie in seinem [MASK],Leben,0.09911683201789856
+  Wer noch nie in seinem Leben [MASK],die,3.0351135137607343e-05
+ Wer noch nie in seinem Leben die [MASK],Möglichkeit,0.0003658306959550828
+Wer noch nie in seinem Leben die Möglichkeit [MASK],hatte,0.4084167778491974
+noch nie in seinem Leben die Möglichkeit hatte [MASK],die,4.006182280136272e-05
+nie in seinem Leben die Möglichkeit hatte die [MASK],Arktis,1.4673553778266069e-05
+in seinem Leben die Möglichkeit hatte die Arktis [MASK],,1.677818909229245e-05
+seinem Leben die Möglichkeit hatte die Arktis  [MASK],mit,0.0014851979212835431
+Leben die Möglichkeit hatte die Arktis  mit [MASK],eigenen,0.0007556830532848835
+die Möglichkeit hatte die Arktis  mit eigenen [MASK],Augen,0.0006731925532221794
+Möglichkeit hatte die Arktis  mit eigenen Augen [MASK],zu,0.0023196935653686523
+hatte die Arktis  mit eigenen Augen zu [MASK],,1.0155223861829654e-07
+die Arktis  mit eigenen Augen zu  [MASK],erleben,0.007999281398952007
+Arktis  mit eigenen Augen zu  erleben [MASK],kann,8.892128244042397e-05
+ mit eigenen Augen zu  erleben kann [MASK],sich,1.211651397170499e-05
+mit eigenen Augen zu  erleben kann sich [MASK],kaum,0.0035105436109006405
+eigenen Augen zu  erleben kann sich kaum [MASK],vorstellen,0.06816702336072922
+Augen zu  erleben kann sich kaum vorstellen [MASK],welcher,3.5601964043507905e-08
+zu  erleben kann sich kaum vorstellen welcher [MASK],Anblick,0.001639785012230277
+ erleben kann sich kaum vorstellen welcher Anblick [MASK],ihm,2.5279437977587804e-05
+erleben kann sich kaum vorstellen welcher Anblick ihm [MASK],bisher,1.614681059436407e-05
+kann sich kaum vorstellen welcher Anblick ihm bisher [MASK],entgangen,1.6734320524847135e-05
+sich kaum vorstellen welcher Anblick ihm bisher entgangen [MASK],,5.010389614312771e-08
+kaum vorstellen welcher Anblick ihm bisher entgangen  [MASK],ist,0.2606044113636017
+vorstellen welcher Anblick ihm bisher entgangen  ist [MASK],,2.8102377314098703e-07
+welcher Anblick ihm bisher entgangen  ist  [MASK],Da,3.1623308416328655e-08
+Anblick ihm bisher entgangen  ist  Da [MASK],wohl,7.207630551420152e-05
+ihm bisher entgangen  ist  Da wohl [MASK],die,0.000358013465302065
+bisher entgangen  ist  Da wohl die [MASK],wenigsten,0.00167361821513623
+entgangen  ist  Da wohl die wenigsten [MASK],Leser,0.0003805039741564542
+ ist  Da wohl die wenigsten Leser [MASK],selbst,0.0001772220857674256
+ist  Da wohl die wenigsten Leser selbst [MASK],in,0.00016306964971590787
+ Da wohl die wenigsten Leser selbst in [MASK],diesen,0.0034313544165343046
+Da wohl die wenigsten Leser selbst in diesen [MASK],Genuss,0.001379928202368319
+wohl die wenigsten Leser selbst in diesen Genuss [MASK],kommen,0.17462965846061707
+die wenigsten Leser selbst in diesen Genuss kommen [MASK],werden,0.0008706419612281024
+wenigsten Leser selbst in diesen Genuss kommen werden [MASK],,7.924875717435498e-06
+Leser selbst in diesen Genuss kommen werden  [MASK],soll,0.0008247970254160464
+selbst in diesen Genuss kommen werden  soll [MASK],hier,1.3489375305653084e-05
+in diesen Genuss kommen werden  soll hier [MASK],versucht,0.0002444680139888078
+diesen Genuss kommen werden  soll hier versucht [MASK],werden,0.05919034034013748
+Genuss kommen werden  soll hier versucht werden [MASK],ein,0.00013358236174099147
+kommen werden  soll hier versucht werden ein [MASK],kleines,0.003605321981012821
+werden  soll hier versucht werden ein kleines [MASK],,5.258589563794658e-09
+ soll hier versucht werden ein kleines  [MASK],Portrait,8.679159509483725e-05
+soll hier versucht werden ein kleines  Portrait [MASK],,1.7010668670991436e-05
+hier versucht werden ein kleines  Portrait  [MASK],dieser,0.00011952350905630738
+versucht werden ein kleines  Portrait  dieser [MASK],weitgehend,2.0933180167048704e-06
+werden ein kleines  Portrait  dieser weitgehend [MASK],unbekannten,0.19309653341770172
+ein kleines  Portrait  dieser weitgehend unbekannten [MASK],Region,0.0003582921053748578
+kleines  Portrait  dieser weitgehend unbekannten Region [MASK],zu,0.00017065419524442405
+ Portrait  dieser weitgehend unbekannten Region zu [MASK],,2.0042075448145624e-06
+Portrait  dieser weitgehend unbekannten Region zu  [MASK],zeichnen,0.0025071240961551666
+ dieser weitgehend unbekannten Region zu  zeichnen [MASK],,7.981760177244723e-07
+dieser weitgehend unbekannten Region zu  zeichnen  [MASK],Auf,3.0678486950819206e-07
+weitgehend unbekannten Region zu  zeichnen  Auf [MASK],den,0.0003652694867923856
+unbekannten Region zu  zeichnen  Auf den [MASK],ersten,0.009369508363306522
+Region zu  zeichnen  Auf den ersten [MASK],Blick,0.9983481168746948
+zu  zeichnen  Auf den ersten Blick [MASK],,7.02771876603947e-06
+ zeichnen  Auf den ersten Blick  [MASK],scheint,0.0026680156588554382
+zeichnen  Auf den ersten Blick  scheint [MASK],sich,0.0026892423629760742
+ Auf den ersten Blick  scheint sich [MASK],dem,0.0012149132089689374
+Auf den ersten Blick  scheint sich dem [MASK],Betrachter,0.004015649203211069
+den ersten Blick  scheint sich dem Betrachter [MASK],ein,0.00201056944206357
+ersten Blick  scheint sich dem Betrachter ein [MASK],trauriges,1.3344837498152629e-05
+Blick  scheint sich dem Betrachter ein trauriges [MASK],,2.8581119693171786e-09
+ scheint sich dem Betrachter ein trauriges  [MASK],Bild,0.23953430354595184
+scheint sich dem Betrachter ein trauriges  Bild [MASK],zu,0.0430188849568367
+sich dem Betrachter ein trauriges  Bild zu [MASK],zeigen,0.0006539670866914093
+dem Betrachter ein trauriges  Bild zu zeigen [MASK],,1.6068134982560878e-06
+Betrachter ein trauriges  Bild zu zeigen  [MASK],Aus,9.530897955301043e-07
+ein trauriges  Bild zu zeigen  Aus [MASK],der,0.00019870302639901638
+trauriges  Bild zu zeigen  Aus der [MASK],endlos,3.098984393545834e-07
+ Bild zu zeigen  Aus der endlos [MASK],weissen,5.0645303417695686e-05
+Bild zu zeigen  Aus der endlos weissen [MASK],Fläche,0.001632006256841123
+zu zeigen  Aus der endlos weissen Fläche [MASK],ragen,0.0001056940236594528
+zeigen  Aus der endlos weissen Fläche ragen [MASK],nur,0.0003435586695559323
+ Aus der endlos weissen Fläche ragen nur [MASK],hier,4.018641266156919e-05
+Aus der endlos weissen Fläche ragen nur hier [MASK],und,0.0008399807848036289
+der endlos weissen Fläche ragen nur hier und [MASK],da,0.0905357226729393
+endlos weissen Fläche ragen nur hier und da [MASK],brauner,7.973462925292552e-05
+weissen Fläche ragen nur hier und da brauner [MASK],Farn,1.729382120174705e-06
+Fläche ragen nur hier und da brauner Farn [MASK],und,0.0013390936655923724
+ragen nur hier und da brauner Farn und [MASK],karge,2.6156806143262656e-06
+nur hier und da brauner Farn und karge [MASK],Pflanzen,0.005063354503363371
+hier und da brauner Farn und karge Pflanzen [MASK],,8.526558303856291e-06
+und da brauner Farn und karge Pflanzen  [MASK],Der,1.5303306781788706e-06
+da brauner Farn und karge Pflanzen  Der [MASK],scharfe,1.9054923541261815e-05
+brauner Farn und karge Pflanzen  Der scharfe [MASK],Wind,0.012682884000241756
+Farn und karge Pflanzen  Der scharfe Wind [MASK],,8.744947081140708e-06
+und karge Pflanzen  Der scharfe Wind  [MASK],gelangt,1.0047859177575447e-05
+karge Pflanzen  Der scharfe Wind  gelangt [MASK],in,0.002680224599316716
+Pflanzen  Der scharfe Wind  gelangt in [MASK],das,0.005242657382041216
+ Der scharfe Wind  gelangt in das [MASK],kleinste,0.00011730437108781189
+Der scharfe Wind  gelangt in das kleinste [MASK],Loch,0.25629928708076477
+scharfe Wind  gelangt in das kleinste Loch [MASK],und,0.0013186014257371426
+Wind  gelangt in das kleinste Loch und [MASK],fegt,3.916561036021449e-05
+ gelangt in das kleinste Loch und fegt [MASK],eisig,2.4348159968212713e-06
+gelangt in das kleinste Loch und fegt eisig [MASK],über,0.012069106101989746
+in das kleinste Loch und fegt eisig über [MASK],das,0.015508515760302544
+das kleinste Loch und fegt eisig über das [MASK],ganze,0.03446446359157562
+kleinste Loch und fegt eisig über das ganze [MASK],Beine,2.8908028980367817e-05
+Loch und fegt eisig über das ganze Beine [MASK],,3.821921836788533e-06
+und fegt eisig über das ganze Beine  [MASK],Ein,8.767159670242108e-06
+fegt eisig über das ganze Beine  Ein [MASK],Eisbär,3.9516213291790336e-05
+eisig über das ganze Beine  Ein Eisbär [MASK],sucht,0.0001437457394786179
+über das ganze Beine  Ein Eisbär sucht [MASK],an,0.00015544373309239745
+das ganze Beine  Ein Eisbär sucht an [MASK],einem,0.002206305740401149
+ganze Beine  Ein Eisbär sucht an einem [MASK],einsamen,2.3767881430103444e-05
+Beine  Ein Eisbär sucht an einem einsamen [MASK],Fjord,4.58547191328762e-07
+ Ein Eisbär sucht an einem einsamen Fjord [MASK],,1.588187359402582e-08
+Ein Eisbär sucht an einem einsamen Fjord  [MASK],nach,0.005181851796805859
+Eisbär sucht an einem einsamen Fjord  nach [MASK],guter,1.600689756742213e-06
+sucht an einem einsamen Fjord  nach guter [MASK],Beute,0.001889933948405087
+an einem einsamen Fjord  nach guter Beute [MASK],im,0.0001504747342551127
+einem einsamen Fjord  nach guter Beute im [MASK],kalten,0.0008742883219383657
+einsamen Fjord  nach guter Beute im kalten [MASK],Menschen,2.402602149231825e-05
+Fjord  nach guter Beute im kalten Menschen [MASK],,5.07138465764001e-05
+ nach guter Beute im kalten Menschen  [MASK],Im,2.0887591745122336e-06
+nach guter Beute im kalten Menschen  Im [MASK],Sommer,0.0029230876825749874
+guter Beute im kalten Menschen  Im Sommer [MASK],kann,4.367059955256991e-05
+Beute im kalten Menschen  Im Sommer kann [MASK],man,0.07051298767328262
+im kalten Menschen  Im Sommer kann man [MASK],eine,3.53764153260272e-05
+kalten Menschen  Im Sommer kann man eine [MASK],schwachgelbe,1.9771462120843353e-06
+Menschen  Im Sommer kann man eine schwachgelbe [MASK],Sonne,0.10952851921319962
+ Im Sommer kann man eine schwachgelbe Sonne [MASK],wahrnehmen,0.0028778696432709694
+Im Sommer kann man eine schwachgelbe Sonne wahrnehmen [MASK],,5.3349673123648245e-08
+Sommer kann man eine schwachgelbe Sonne wahrnehmen  [MASK],während,1.5022502338979393e-05
+kann man eine schwachgelbe Sonne wahrnehmen  während [MASK],im,0.0019194845808669925
+man eine schwachgelbe Sonne wahrnehmen  während im [MASK],Winter,0.019176911562681198
+eine schwachgelbe Sonne wahrnehmen  während im Winter [MASK],eher,0.016100529581308365
+schwachgelbe Sonne wahrnehmen  während im Winter eher [MASK],schüchternes,4.043057288072305e-06
+Sonne wahrnehmen  während im Winter eher schüchternes [MASK],Zwielicht,2.421403735297645e-07
+wahrnehmen  während im Winter eher schüchternes Zwielicht [MASK],das,9.069939551409334e-05
+ während im Winter eher schüchternes Zwielicht das [MASK],,2.6973965283616508e-09
+während im Winter eher schüchternes Zwielicht das  [MASK],Bild,0.01675451174378395
+im Winter eher schüchternes Zwielicht das  Bild [MASK],beherrscht,0.010294974781572819
+Winter eher schüchternes Zwielicht das  Bild beherrscht [MASK],,1.333427098870743e-05
+eher schüchternes Zwielicht das  Bild beherrscht  [MASK],Die,7.325127171498025e-07
+schüchternes Zwielicht das  Bild beherrscht  Die [MASK],Temperaturen,5.553970186156221e-05
+Zwielicht das  Bild beherrscht  Die Temperaturen [MASK],erreichen,0.0009073721594177186
+das  Bild beherrscht  Die Temperaturen erreichen [MASK],die,0.003043364267796278
+ Bild beherrscht  Die Temperaturen erreichen die [MASK],für,6.3681295614514966e-06
+Bild beherrscht  Die Temperaturen erreichen die für [MASK],uns,0.007376560941338539
+beherrscht  Die Temperaturen erreichen die für uns [MASK],nahezu,2.8080692572984844e-05
+ Die Temperaturen erreichen die für uns nahezu [MASK],unvorstellbaren,0.00011255780555075034
+Die Temperaturen erreichen die für uns nahezu unvorstellbaren [MASK],Werte,0.06701166182756424
+Temperaturen erreichen die für uns nahezu unvorstellbaren Werte [MASK],,6.562289399880683e-06
+erreichen die für uns nahezu unvorstellbaren Werte  [MASK],von,0.0004291383665986359
+die für uns nahezu unvorstellbaren Werte  von [MASK],bis,0.0006436787080019712
+für uns nahezu unvorstellbaren Werte  von bis [MASK],zu,0.13336311280727386
+uns nahezu unvorstellbaren Werte  von bis zu [MASK],fünfzig,0.008518354967236519
+nahezu unvorstellbaren Werte  von bis zu fünfzig [MASK],Grad,0.09632676839828491
+unvorstellbaren Werte  von bis zu fünfzig Grad [MASK],unter,0.001444995403289795
+Werte  von bis zu fünfzig Grad unter [MASK],Null,0.10312367975711823
+ von bis zu fünfzig Grad unter Null [MASK],und,0.01131063885986805
+von bis zu fünfzig Grad unter Null und [MASK],man,1.2455928299459629e-05
+bis zu fünfzig Grad unter Null und man [MASK],kann,0.02983754128217697
+zu fünfzig Grad unter Null und man kann [MASK],sich,0.0011824344983324409
+fünfzig Grad unter Null und man kann sich [MASK],kaum,0.0010020253248512745
+Grad unter Null und man kann sich kaum [MASK],vorstellen,0.07032585889101028
+unter Null und man kann sich kaum vorstellen [MASK],dass,0.00014134598313830793
+Null und man kann sich kaum vorstellen dass [MASK],sich,0.0047231027856469154
+und man kann sich kaum vorstellen dass sich [MASK],hier,0.004878566600382328
+man kann sich kaum vorstellen dass sich hier [MASK],irgendeine,0.012692715972661972
+kann sich kaum vorstellen dass sich hier irgendeine [MASK],Form,0.0024260703939944506
+sich kaum vorstellen dass sich hier irgendeine Form [MASK],von,0.008764611557126045
+kaum vorstellen dass sich hier irgendeine Form von [MASK],Leben,0.00015659768541809171
+vorstellen dass sich hier irgendeine Form von Leben [MASK],entwickeln,0.0018701747758314013
+dass sich hier irgendeine Form von Leben entwickeln [MASK],kann,0.15191465616226196
+sich hier irgendeine Form von Leben entwickeln kann [MASK],,1.2315326785028446e-06
+hier irgendeine Form von Leben entwickeln kann  [MASK],Das,1.530342728983669e-06
+irgendeine Form von Leben entwickeln kann  Das [MASK],Landesinnere,3.1972606393537717e-06
+Form von Leben entwickeln kann  Das Landesinnere [MASK],ist,0.00016424960631411523
+von Leben entwickeln kann  Das Landesinnere ist [MASK],von,6.208877312019467e-05
+Leben entwickeln kann  Das Landesinnere ist von [MASK],einer,0.0012265421682968736
+entwickeln kann  Das Landesinnere ist von einer [MASK],baumlosen,5.9050425988971256e-06
+kann  Das Landesinnere ist von einer baumlosen [MASK],Landschaft,0.04737918823957443
+ Das Landesinnere ist von einer baumlosen Landschaft [MASK],mit,3.806526729022153e-05
+Das Landesinnere ist von einer baumlosen Landschaft mit [MASK],wenigen,0.011297836899757385
+Landesinnere ist von einer baumlosen Landschaft mit wenigen [MASK],Hügeln,0.0033545573242008686
+ist von einer baumlosen Landschaft mit wenigen Hügeln [MASK],geprägt,0.06029893830418587
+von einer baumlosen Landschaft mit wenigen Hügeln geprägt [MASK],Eine,2.1240265368760447e-07
+einer baumlosen Landschaft mit wenigen Hügeln geprägt Eine [MASK],so,1.637606692383997e-05
+baumlosen Landschaft mit wenigen Hügeln geprägt Eine so [MASK],karges,0.0001177180529339239
+Landschaft mit wenigen Hügeln geprägt Eine so karges [MASK],Land,0.12332592159509659
+mit wenigen Hügeln geprägt Eine so karges Land [MASK],wie,0.0022208739537745714
+wenigen Hügeln geprägt Eine so karges Land wie [MASK],die,0.0008025463321246207
+Hügeln geprägt Eine so karges Land wie die [MASK],Arktis,4.617243030224927e-05
+geprägt Eine so karges Land wie die Arktis [MASK],würde,0.00019314998644404113
+Eine so karges Land wie die Arktis würde [MASK],man,0.001415336155332625
+so karges Land wie die Arktis würde man [MASK],auf,0.00016315719403792173
+karges Land wie die Arktis würde man auf [MASK],einem,0.0006365558947436512
+Land wie die Arktis würde man auf einem [MASK],fernen,5.4589043429587036e-05
+wie die Arktis würde man auf einem fernen [MASK],Stern,0.0012678304919973016
+die Arktis würde man auf einem fernen Stern [MASK],eher,1.40234578793752e-05
+Arktis würde man auf einem fernen Stern eher [MASK],vermuten,0.2206646203994751
+würde man auf einem fernen Stern eher vermuten [MASK],,2.6760582727547444e-07
+man auf einem fernen Stern eher vermuten  [MASK],Es,3.2652158665769093e-07
+auf einem fernen Stern eher vermuten  Es [MASK],ist,0.011320465244352818
+einem fernen Stern eher vermuten  Es ist [MASK],eine,0.0012906035408377647
+fernen Stern eher vermuten  Es ist eine [MASK],einsame,9.6038420451805e-06
+Stern eher vermuten  Es ist eine einsame [MASK],Schnee,1.3308849702298176e-05
+eher vermuten  Es ist eine einsame Schnee [MASK],und,5.7671866670716554e-05
+vermuten  Es ist eine einsame Schnee und [MASK],Eiswüste,0.00613327557221055
+ Es ist eine einsame Schnee und Eiswüste [MASK],,4.983587587048532e-07
+Es ist eine einsame Schnee und Eiswüste  [MASK],die,1.3142765055818018e-05
+ist eine einsame Schnee und Eiswüste  die [MASK],sich,6.21071012574248e-05
+eine einsame Schnee und Eiswüste  die sich [MASK],mit,0.00040118538890965283
+einsame Schnee und Eiswüste  die sich mit [MASK],aller,5.589527791016735e-05
+Schnee und Eiswüste  die sich mit aller [MASK],Kraft,0.09123155474662781
+und Eiswüste  die sich mit aller Kraft [MASK],,6.362346994137624e-06
+Eiswüste  die sich mit aller Kraft  [MASK],gegen,0.0010917088948190212
+ die sich mit aller Kraft  gegen [MASK],jeden,0.008665448054671288
+die sich mit aller Kraft  gegen jeden [MASK],Eindringling,6.815125743742101e-06
+sich mit aller Kraft  gegen jeden Eindringling [MASK],zu,0.0009775359649211168
+mit aller Kraft  gegen jeden Eindringling zu [MASK],wehren,1.9322684238431975e-05
+aller Kraft  gegen jeden Eindringling zu wehren [MASK],scheint,0.00019298055849503726
+Kraft  gegen jeden Eindringling zu wehren scheint [MASK],,8.8756144123181e-07
+ gegen jeden Eindringling zu wehren scheint  [MASK],Und,1.2139985301473644e-05
+gegen jeden Eindringling zu wehren scheint  Und [MASK],doch,0.004983576945960522
+jeden Eindringling zu wehren scheint  Und doch [MASK],gibt,0.00040558530599810183
+Eindringling zu wehren scheint  Und doch gibt [MASK],es,0.5978196263313293
+zu wehren scheint  Und doch gibt es [MASK],mannigfache,6.698126526316628e-05
+wehren scheint  Und doch gibt es mannigfache [MASK],Arten,0.002012886106967926
+scheint  Und doch gibt es mannigfache Arten [MASK],,1.6354347565084026e-07
+ Und doch gibt es mannigfache Arten  [MASK],von,0.0009581397753208876
+Und doch gibt es mannigfache Arten  von [MASK],pflanzlichen,2.508245188437286e-06
+doch gibt es mannigfache Arten  von pflanzlichen [MASK],und,0.0015619408804923296
+gibt es mannigfache Arten  von pflanzlichen und [MASK],tierischem,0.030654633417725563
+es mannigfache Arten  von pflanzlichen und tierischem [MASK],Leben,0.003783151740208268
+mannigfache Arten  von pflanzlichen und tierischem Leben [MASK],in,0.0013359180884435773
+Arten  von pflanzlichen und tierischem Leben in [MASK],diesem,0.00016081993817351758
+ von pflanzlichen und tierischem Leben in diesem [MASK],nördlichsten,3.57053181687661e-07
+von pflanzlichen und tierischem Leben in diesem nördlichsten [MASK],Gebiet,0.10123201459646225
+pflanzlichen und tierischem Leben in diesem nördlichsten Gebiet [MASK],unserer,0.00028614382608793676
+und tierischem Leben in diesem nördlichsten Gebiet unserer [MASK],Vorfahren,0.005907126236706972
+tierischem Leben in diesem nördlichsten Gebiet unserer Vorfahren [MASK],,1.4113803445070516e-05
+Leben in diesem nördlichsten Gebiet unserer Vorfahren  [MASK],Herden,5.159901661500044e-07
+in diesem nördlichsten Gebiet unserer Vorfahren  Herden [MASK],von,0.0006146820960566401
+diesem nördlichsten Gebiet unserer Vorfahren  Herden von [MASK],Karibus,0.00011519231338752434
+nördlichsten Gebiet unserer Vorfahren  Herden von Karibus [MASK],,4.475105743040331e-05
+Gebiet unserer Vorfahren  Herden von Karibus  [MASK],ziehen,0.00021382795239333063
+unserer Vorfahren  Herden von Karibus  ziehen [MASK],über,0.00010904291411861777
+Vorfahren  Herden von Karibus  ziehen über [MASK],weite,0.00031962853972800076
+ Herden von Karibus  ziehen über weite [MASK],Strecken,0.5186926126480103
+Herden von Karibus  ziehen über weite Strecken [MASK],umher,0.8270180821418762
+von Karibus  ziehen über weite Strecken umher [MASK],auf,0.00034905405482277274
+Karibus  ziehen über weite Strecken umher auf [MASK],der,0.0010346423368901014
+ ziehen über weite Strecken umher auf der [MASK],Suche,0.007843121886253357
+ziehen über weite Strecken umher auf der Suche [MASK],nach,0.0087958462536335
+über weite Strecken umher auf der Suche nach [MASK],Pflanzen,0.00038806695374660194
+weite Strecken umher auf der Suche nach Pflanzen [MASK],und,0.005909936502575874
+Strecken umher auf der Suche nach Pflanzen und [MASK],Landkarten,0.0003294960770290345
+umher auf der Suche nach Pflanzen und Landkarten [MASK],,4.0855004044715315e-05
+auf der Suche nach Pflanzen und Landkarten  [MASK],Tiere,2.1252619262668304e-05
+der Suche nach Pflanzen und Landkarten  Tiere [MASK],wie,0.0006733358022756875
+Suche nach Pflanzen und Landkarten  Tiere wie [MASK],Walross,0.0001387597731081769
+nach Pflanzen und Landkarten  Tiere wie Walross [MASK],Wal,9.0278874267824e-05
+Pflanzen und Landkarten  Tiere wie Walross Wal [MASK],und,5.780631545349024e-05
+und Landkarten  Tiere wie Walross Wal und [MASK],Robbe,0.00035092938924208283
+Landkarten  Tiere wie Walross Wal und Robbe [MASK],,2.787603307297104e-06
+ Tiere wie Walross Wal und Robbe  [MASK],haben,0.0003056432760786265
+Tiere wie Walross Wal und Robbe  haben [MASK],in,7.267072942340747e-05
+wie Walross Wal und Robbe  haben in [MASK],dieser,0.0018342043040320277
+Walross Wal und Robbe  haben in dieser [MASK],Gegend,0.10308837890625
+Wal und Robbe  haben in dieser Gegend [MASK],eine,0.0007655145018361509
+und Robbe  haben in dieser Gegend eine [MASK],Heimat,0.002319627208635211
+Robbe  haben in dieser Gegend eine Heimat [MASK],gefunden,0.48896828293800354
+ haben in dieser Gegend eine Heimat gefunden [MASK],,6.27189606916545e-08
+haben in dieser Gegend eine Heimat gefunden  [MASK],Mancher,5.306821648787263e-08
+in dieser Gegend eine Heimat gefunden  Mancher [MASK],einsame,0.00011928448657272384
+dieser Gegend eine Heimat gefunden  Mancher einsame [MASK],Wolf,0.00028399366419762373
+Gegend eine Heimat gefunden  Mancher einsame Wolf [MASK],,3.0130484446999617e-05
+eine Heimat gefunden  Mancher einsame Wolf  [MASK],fühlt,0.0006327145383693278
+Heimat gefunden  Mancher einsame Wolf  fühlt [MASK],sich,0.11808262020349503
+gefunden  Mancher einsame Wolf  fühlt sich [MASK],neben,6.845987627457362e-06
+ Mancher einsame Wolf  fühlt sich neben [MASK],Eisbären,0.00012985827925149351
+Mancher einsame Wolf  fühlt sich neben Eisbären [MASK],und,0.0003075458516832441
+einsame Wolf  fühlt sich neben Eisbären und [MASK],Lemmingen,2.0267884792701807e-06
+Wolf  fühlt sich neben Eisbären und Lemmingen [MASK],in,8.03004004410468e-05
+ fühlt sich neben Eisbären und Lemmingen in [MASK],der,0.0009245844557881355
+fühlt sich neben Eisbären und Lemmingen in der [MASK],Kälte,0.006885088514536619
+sich neben Eisbären und Lemmingen in der Kälte [MASK],wohl,0.0020494910422712564
+neben Eisbären und Lemmingen in der Kälte wohl [MASK],,4.749851996166399e-06
+Eisbären und Lemmingen in der Kälte wohl  [MASK],Auch,1.0342623681935947e-06
+und Lemmingen in der Kälte wohl  Auch [MASK],Menschen,0.0001250958302989602
+Lemmingen in der Kälte wohl  Auch Menschen [MASK],kommen,0.00029837098554708064
+in der Kälte wohl  Auch Menschen kommen [MASK],mit,0.0009799001272767782
+der Kälte wohl  Auch Menschen kommen mit [MASK],der,0.0003493548429105431
+Kälte wohl  Auch Menschen kommen mit der [MASK],schweren,5.087399767944589e-05
+wohl  Auch Menschen kommen mit der schweren [MASK],Last,0.05914333090186119
+ Auch Menschen kommen mit der schweren Last [MASK],,7.499864977944526e-07
+Auch Menschen kommen mit der schweren Last  [MASK],des,2.942077480838634e-05
+Menschen kommen mit der schweren Last  des [MASK],arktischen,4.90305581024586e-07
+kommen mit der schweren Last  des arktischen [MASK],Klimas,0.005264659412205219
+mit der schweren Last  des arktischen Klimas [MASK],zurecht,0.002017438877373934
+der schweren Last  des arktischen Klimas zurecht [MASK],,2.1641909597747144e-07
+schweren Last  des arktischen Klimas zurecht  [MASK],Es,2.6806430923898006e-06
+Last  des arktischen Klimas zurecht  Es [MASK],sind,0.002540248678997159
+ des arktischen Klimas zurecht  Es sind [MASK],die,0.0048467437736690044
+des arktischen Klimas zurecht  Es sind die [MASK],Eskimos,4.017990795546211e-05
+arktischen Klimas zurecht  Es sind die Eskimos [MASK],,9.272897472101249e-08
+Klimas zurecht  Es sind die Eskimos  [MASK],oder,0.0003756194782909006
+zurecht  Es sind die Eskimos  oder [MASK],Inuit,1.2203986443637405e-05
+ Es sind die Eskimos  oder Inuit [MASK],,5.143276027297361e-08
+Es sind die Eskimos  oder Inuit  [MASK],Die,1.3485380804922897e-05
+sind die Eskimos  oder Inuit  Die [MASK],Angehörigen,0.00011837448255391791
+die Eskimos  oder Inuit  Die Angehörigen [MASK],dieser,0.00017417567141819745
+Eskimos  oder Inuit  Die Angehörigen dieser [MASK],im,1.387751672154991e-05
+ oder Inuit  Die Angehörigen dieser im [MASK],Vergleich,0.002442848403006792
+oder Inuit  Die Angehörigen dieser im Vergleich [MASK],zu,0.0833820104598999
+Inuit  Die Angehörigen dieser im Vergleich zu [MASK],anderen,0.048133376985788345
+ Die Angehörigen dieser im Vergleich zu anderen [MASK],Völkern,0.010502127930521965
+Die Angehörigen dieser im Vergleich zu anderen Völkern [MASK],zahlenmässig,0.00038679776480421424
+Angehörigen dieser im Vergleich zu anderen Völkern zahlenmässig [MASK],sehr,0.0010734028182923794
+dieser im Vergleich zu anderen Völkern zahlenmässig sehr [MASK],kleinen,0.011173801496624947
+im Vergleich zu anderen Völkern zahlenmässig sehr kleinen [MASK],Gruppe,0.0006032224628143013
+Vergleich zu anderen Völkern zahlenmässig sehr kleinen Gruppe [MASK],,1.0967381058435421e-05
+zu anderen Völkern zahlenmässig sehr kleinen Gruppe  [MASK],werden,0.00014793185982853174
+anderen Völkern zahlenmässig sehr kleinen Gruppe  werden [MASK],von,0.0016413697740063071
+Völkern zahlenmässig sehr kleinen Gruppe  werden von [MASK],den,0.02358265034854412
+zahlenmässig sehr kleinen Gruppe  werden von den [MASK],Anthropologen,4.049187737109605e-06
+sehr kleinen Gruppe  werden von den Anthropologen [MASK],allgemein,0.00036306213587522507
+kleinen Gruppe  werden von den Anthropologen allgemein [MASK],als,0.018354125320911407
+Gruppe  werden von den Anthropologen allgemein als [MASK],untersetzte,1.8442250393491122e-06
+ werden von den Anthropologen allgemein als untersetzte [MASK],Menschen,0.002324545057490468
+werden von den Anthropologen allgemein als untersetzte Menschen [MASK],mit,2.5569908757461235e-05
+von den Anthropologen allgemein als untersetzte Menschen mit [MASK],einem,0.0020401470828801394
+den Anthropologen allgemein als untersetzte Menschen mit einem [MASK],kräftigen,7.329823347390629e-06
+Anthropologen allgemein als untersetzte Menschen mit einem kräftigen [MASK],Körperbau,0.02936227060854435
+allgemein als untersetzte Menschen mit einem kräftigen Körperbau [MASK],beschrieben,0.010720417834818363
+als untersetzte Menschen mit einem kräftigen Körperbau beschrieben [MASK],,9.281553303708279e-08
+untersetzte Menschen mit einem kräftigen Körperbau beschrieben  [MASK],Die,1.7435952031519264e-05
+Menschen mit einem kräftigen Körperbau beschrieben  Die [MASK],Eskimos,9.034883987624198e-06
+mit einem kräftigen Körperbau beschrieben  Die Eskimos [MASK],haben,0.0005519375554285944
+einem kräftigen Körperbau beschrieben  Die Eskimos haben [MASK],eine,0.006890423595905304
+kräftigen Körperbau beschrieben  Die Eskimos haben eine [MASK],auffällig,0.0009785719448700547
+Körperbau beschrieben  Die Eskimos haben eine auffällig [MASK],kleine,0.013383354991674423
+beschrieben  Die Eskimos haben eine auffällig kleine [MASK],Hand,0.0009591510752215981
+ Die Eskimos haben eine auffällig kleine Hand [MASK],,1.0156175278552837e-07
+Die Eskimos haben eine auffällig kleine Hand  [MASK],sowie,2.8166890842840075e-05
+Eskimos haben eine auffällig kleine Hand  sowie [MASK],eher,0.00021499423019122332
+haben eine auffällig kleine Hand  sowie eher [MASK],kurze,0.2468094825744629
+eine auffällig kleine Hand  sowie eher kurze [MASK],,1.1281212769498339e-10
+auffällig kleine Hand  sowie eher kurze  [MASK],Arme,0.09597807377576828
+kleine Hand  sowie eher kurze  Arme [MASK],und,0.0015053321840241551
+Hand  sowie eher kurze  Arme und [MASK],Beine,0.4819078743457794
+ sowie eher kurze  Arme und Beine [MASK],,2.9606624707412266e-07
+sowie eher kurze  Arme und Beine  [MASK],Ihr,1.191457272398111e-06
+eher kurze  Arme und Beine  Ihr [MASK],Haar,0.007542930077761412
+kurze  Arme und Beine  Ihr Haar [MASK],ist,0.0008337314939126372
+ Arme und Beine  Ihr Haar ist [MASK],schwarz,0.0520966611802578
+Arme und Beine  Ihr Haar ist schwarz [MASK],,3.459705624209164e-07
+und Beine  Ihr Haar ist schwarz  [MASK],die,4.995220479031559e-06
+Beine  Ihr Haar ist schwarz  die [MASK],Augen,0.05323324352502823
+ Ihr Haar ist schwarz  die Augen [MASK],sind,0.0023073104675859213
+Ihr Haar ist schwarz  die Augen sind [MASK],braun,0.12918438017368317
+Haar ist schwarz  die Augen sind braun [MASK],,2.2332497451316158e-07
+ist schwarz  die Augen sind braun  [MASK],und,0.0026495379861444235
+schwarz  die Augen sind braun  und [MASK],von,3.218609344912693e-05
+ die Augen sind braun  und von [MASK],mongoloidem,5.575731734097644e-07
+die Augen sind braun  und von mongoloidem [MASK],Schnitt,3.9083304727682844e-05
+Augen sind braun  und von mongoloidem Schnitt [MASK],,1.8650579249879229e-06
+sind braun  und von mongoloidem Schnitt  [MASK],wie,2.6694222469814122e-05
+braun  und von mongoloidem Schnitt  wie [MASK],auch,0.0032856008037924767
+ und von mongoloidem Schnitt  wie auch [MASK],bei,0.003336632391437888
+und von mongoloidem Schnitt  wie auch bei [MASK],den,0.01114644855260849
+von mongoloidem Schnitt  wie auch bei den [MASK],meisten,0.009101027622818947
+mongoloidem Schnitt  wie auch bei den meisten [MASK],Indianern,2.7954456527368166e-05
+Schnitt  wie auch bei den meisten Indianern [MASK],,4.3017938878620043e-05
+ wie auch bei den meisten Indianern  [MASK],Die,1.0950322575808968e-05
+wie auch bei den meisten Indianern  Die [MASK],Hautfarbe,0.0001293564710067585
+auch bei den meisten Indianern  Die Hautfarbe [MASK],reicht,0.008368565700948238
+bei den meisten Indianern  Die Hautfarbe reicht [MASK],von,0.001171907759271562
+den meisten Indianern  Die Hautfarbe reicht von [MASK],einem,0.005584653466939926
+meisten Indianern  Die Hautfarbe reicht von einem [MASK],dunklen,0.0028924276120960712
+Indianern  Die Hautfarbe reicht von einem dunklen [MASK],Gelb,0.0006458272691816092
+ Die Hautfarbe reicht von einem dunklen Gelb [MASK],,1.6575199879298452e-06
+Die Hautfarbe reicht von einem dunklen Gelb  [MASK],bis,0.02310360223054886
+Hautfarbe reicht von einem dunklen Gelb  bis [MASK],zu,0.026555128395557404
+reicht von einem dunklen Gelb  bis zu [MASK],einem,0.20971165597438812
+von einem dunklen Gelb  bis zu einem [MASK],hellen,0.22721470892429352
+einem dunklen Gelb  bis zu einem hellen [MASK],Braun,0.02968761697411537
+dunklen Gelb  bis zu einem hellen Braun [MASK],und,0.001798534649424255
+Gelb  bis zu einem hellen Braun und [MASK],siedelt,2.0259101802366786e-05
+ bis zu einem hellen Braun und siedelt [MASK],sie,0.003739194478839636
+bis zu einem hellen Braun und siedelt sie [MASK],zwischen,0.0014129269402474165
+zu einem hellen Braun und siedelt sie zwischen [MASK],den,0.053770292550325394
+einem hellen Braun und siedelt sie zwischen den [MASK],Indianern,1.0757412383100018e-06
+hellen Braun und siedelt sie zwischen den Indianern [MASK],und,0.003192925127223134
+Braun und siedelt sie zwischen den Indianern und [MASK],den,0.024664340540766716
+und siedelt sie zwischen den Indianern und den [MASK],asiatischen,0.0015010865172371268
+siedelt sie zwischen den Indianern und den asiatischen [MASK],Völkern,0.35919189453125
+sie zwischen den Indianern und den asiatischen Völkern [MASK],an,6.458326242864132e-05
+zwischen den Indianern und den asiatischen Völkern an [MASK],,6.362153470718113e-08
+den Indianern und den asiatischen Völkern an  [MASK],Die,1.705372596916277e-05
+Indianern und den asiatischen Völkern an  Die [MASK],Inuit,4.141485260333866e-05
+und den asiatischen Völkern an  Die Inuit [MASK],gelten,0.0007761958404444158
+den asiatischen Völkern an  Die Inuit gelten [MASK],bei,0.0010486498940736055
+asiatischen Völkern an  Die Inuit gelten bei [MASK],näherer,0.0006106868386268616
+Völkern an  Die Inuit gelten bei näherer [MASK],Anschauung,1.2375083315419033e-05
+an  Die Inuit gelten bei näherer Anschauung [MASK],,1.2598910359429283e-07
+ Die Inuit gelten bei näherer Anschauung  [MASK],als,0.07739371061325073
+Die Inuit gelten bei näherer Anschauung  als [MASK],ausgeglichene,0.00024737592320889235
+Inuit gelten bei näherer Anschauung  als ausgeglichene [MASK],und,0.0011793719604611397
+gelten bei näherer Anschauung  als ausgeglichene und [MASK],fröhliche,0.00013755925465375185
+bei näherer Anschauung  als ausgeglichene und fröhliche [MASK],Menschen,0.010784105397760868
+näherer Anschauung  als ausgeglichene und fröhliche Menschen [MASK],,4.701070338342106e-06
+Anschauung  als ausgeglichene und fröhliche Menschen  [MASK],Offenbar,5.763084232057736e-07
+ als ausgeglichene und fröhliche Menschen  Offenbar [MASK],haben,0.0005114841624163091
+als ausgeglichene und fröhliche Menschen  Offenbar haben [MASK],sie,0.006707479711622
+ausgeglichene und fröhliche Menschen  Offenbar haben sie [MASK],sich,0.00036394369089975953
+und fröhliche Menschen  Offenbar haben sie sich [MASK],trotz,4.698611974163214e-06
+fröhliche Menschen  Offenbar haben sie sich trotz [MASK],der,0.0015706339618191123
+Menschen  Offenbar haben sie sich trotz der [MASK],Umwelt,0.0005010443273931742
+ Offenbar haben sie sich trotz der Umwelt [MASK],eine,0.00020641052105929703
+Offenbar haben sie sich trotz der Umwelt eine [MASK],unbeschwerte,2.4255314201582223e-06
+haben sie sich trotz der Umwelt eine unbeschwerte [MASK],Lebensart,0.0004704578605014831
+sie sich trotz der Umwelt eine unbeschwerte Lebensart [MASK],bewahrt,0.05897655338048935
+sich trotz der Umwelt eine unbeschwerte Lebensart bewahrt [MASK],,1.1009344689227873e-06
+trotz der Umwelt eine unbeschwerte Lebensart bewahrt  [MASK],Die,3.500632374198176e-06
+der Umwelt eine unbeschwerte Lebensart bewahrt  Die [MASK],Eskimos,7.663007636438124e-06
+Umwelt eine unbeschwerte Lebensart bewahrt  Die Eskimos [MASK],,3.793534375517993e-08
+eine unbeschwerte Lebensart bewahrt  Die Eskimos  [MASK],bewohnen,5.296050858305534e-06
+unbeschwerte Lebensart bewahrt  Die Eskimos  bewohnen [MASK],insgesamt,6.35737378615886e-05
+Lebensart bewahrt  Die Eskimos  bewohnen insgesamt [MASK],fast,0.0026740420144051313
+bewahrt  Die Eskimos  bewohnen insgesamt fast [MASK],,1.1733739029295975e-06
+ Die Eskimos  bewohnen insgesamt fast  [MASK],zehntausend,0.008581561967730522
+Die Eskimos  bewohnen insgesamt fast  zehntausend [MASK],Kilometer,0.009256855584681034
+Eskimos  bewohnen insgesamt fast  zehntausend Kilometer [MASK],Küste,0.000857250124681741
+ bewohnen insgesamt fast  zehntausend Kilometer Küste [MASK],vom,1.6345144103979692e-05
+bewohnen insgesamt fast  zehntausend Kilometer Küste vom [MASK],Pazifik,0.06602883338928223
+insgesamt fast  zehntausend Kilometer Küste vom Pazifik [MASK],bis,0.003152672667056322
+fast  zehntausend Kilometer Küste vom Pazifik bis [MASK],zum,0.026399312540888786
+ zehntausend Kilometer Küste vom Pazifik bis zum [MASK],Atlantik,0.7959657907485962
+zehntausend Kilometer Küste vom Pazifik bis zum Atlantik [MASK],,0.00032112933695316315
+Kilometer Küste vom Pazifik bis zum Atlantik  [MASK],von,0.00045218801824375987
+Küste vom Pazifik bis zum Atlantik  von [MASK],Sibirien,2.6212521333945915e-05
+vom Pazifik bis zum Atlantik  von Sibirien [MASK],und,0.003995553590357304
+Pazifik bis zum Atlantik  von Sibirien und [MASK],Alaska,0.0003478432772681117
+bis zum Atlantik  von Sibirien und Alaska [MASK],bis,0.009869283996522427
+zum Atlantik  von Sibirien und Alaska bis [MASK],nach,0.0020529944449663162
+Atlantik  von Sibirien und Alaska bis nach [MASK],Kanada,0.052568428218364716
+ von Sibirien und Alaska bis nach Kanada [MASK],Grönland,1.1713808817148674e-05
+von Sibirien und Alaska bis nach Kanada Grönland [MASK],und,0.0036210615653544664
+Sibirien und Alaska bis nach Kanada Grönland und [MASK],Labrador,0.0003386654716450721
+und Alaska bis nach Kanada Grönland und Labrador [MASK],,2.5481729608145542e-05
+Alaska bis nach Kanada Grönland und Labrador  [MASK],Von,3.3857715607155114e-05
+bis nach Kanada Grönland und Labrador  Von [MASK],Norden,0.002161875367164612
+nach Kanada Grönland und Labrador  Von Norden [MASK],nach,0.013691648840904236
+Kanada Grönland und Labrador  Von Norden nach [MASK],Süden,0.5384067296981812
+Grönland und Labrador  Von Norden nach Süden [MASK],gemessen,0.0003298856317996979
+und Labrador  Von Norden nach Süden gemessen [MASK],ist,0.0006628746050409973
+Labrador  Von Norden nach Süden gemessen ist [MASK],das,0.004605330992490053
+ Von Norden nach Süden gemessen ist das [MASK],riesige,9.422123548574746e-05
+Von Norden nach Süden gemessen ist das riesige [MASK],Land,0.007792352698743343
+Norden nach Süden gemessen ist das riesige Land [MASK],so,5.079273978481069e-05
+nach Süden gemessen ist das riesige Land so [MASK],lang,0.0010356069542467594
+Süden gemessen ist das riesige Land so lang [MASK],wie,0.014763216488063335
+gemessen ist das riesige Land so lang wie [MASK],die,0.001476374571211636
+ist das riesige Land so lang wie die [MASK],U-S-A,1.768501169863157e-05
+das riesige Land so lang wie die U-S-A [MASK],,4.7476983127126005e-06
+riesige Land so lang wie die U-S-A  [MASK],Dieses,8.903097068468924e-07
+Land so lang wie die U-S-A  Dieses [MASK],Gebiet,8.179884753189981e-05
+so lang wie die U-S-A  Dieses Gebiet [MASK],,7.046098471619189e-05
+lang wie die U-S-A  Dieses Gebiet  [MASK],war,0.002784900600090623
+wie die U-S-A  Dieses Gebiet  war [MASK],vor,0.00047020093188621104
+die U-S-A  Dieses Gebiet  war vor [MASK],hundert,2.690005931071937e-05
+U-S-A  Dieses Gebiet  war vor hundert [MASK],Jahren,0.9208602905273438
+ Dieses Gebiet  war vor hundert Jahren [MASK],noch,0.0008485831785947084
+Dieses Gebiet  war vor hundert Jahren noch [MASK],ein,0.0032886986155062914
+Gebiet  war vor hundert Jahren noch ein [MASK],weisser,2.2764811546949204e-06
+ war vor hundert Jahren noch ein weisser [MASK],Fleck,0.011484739370644093
+war vor hundert Jahren noch ein weisser Fleck [MASK],auf,0.0006364601431414485
+vor hundert Jahren noch ein weisser Fleck auf [MASK],den,0.002971494570374489
+hundert Jahren noch ein weisser Fleck auf den [MASK],Landkarten,5.238453013589606e-05
+Jahren noch ein weisser Fleck auf den Landkarten [MASK],,1.1305744919809513e-05
+noch ein weisser Fleck auf den Landkarten  [MASK],Heute,3.9493829717685e-06
+ein weisser Fleck auf den Landkarten  Heute [MASK],leben,0.00012031918595312163
+weisser Fleck auf den Landkarten  Heute leben [MASK],die,0.0025322071742266417
+Fleck auf den Landkarten  Heute leben die [MASK],meisten,0.025009773671627045
+auf den Landkarten  Heute leben die meisten [MASK],der,0.0008679823367856443
+den Landkarten  Heute leben die meisten der [MASK],achtzigtausend,0.00023471241001971066
+Landkarten  Heute leben die meisten der achtzigtausend [MASK],Eskimos,1.155601057689637e-05
+ Heute leben die meisten der achtzigtausend Eskimos [MASK],verteilt,5.081858398625627e-05
+Heute leben die meisten der achtzigtausend Eskimos verteilt [MASK],auf,0.00038581487024202943
+leben die meisten der achtzigtausend Eskimos verteilt auf [MASK],verschiedene,0.0024528715293854475
+die meisten der achtzigtausend Eskimos verteilt auf verschiedene [MASK],Länder,0.02241956815123558
+meisten der achtzigtausend Eskimos verteilt auf verschiedene Länder [MASK],,1.9038379832636565e-05
+der achtzigtausend Eskimos verteilt auf verschiedene Länder  [MASK],in,0.0002797811757773161
+achtzigtausend Eskimos verteilt auf verschiedene Länder  in [MASK],bescheidenem,7.507656505367777e-07
+Eskimos verteilt auf verschiedene Länder  in bescheidenem [MASK],Pflanzen,1.0003591341956053e-06
+verteilt auf verschiedene Länder  in bescheidenem Pflanzen [MASK],,1.6062103895819746e-06
+auf verschiedene Länder  in bescheidenem Pflanzen  [MASK],Wenig,1.0541866402036248e-07
+verschiedene Länder  in bescheidenem Pflanzen  Wenig [MASK],erinnert,1.2522220060873224e-07
+Länder  in bescheidenem Pflanzen  Wenig erinnert [MASK],an,0.06471209973096848
+ in bescheidenem Pflanzen  Wenig erinnert an [MASK],das,0.0012048427015542984
+in bescheidenem Pflanzen  Wenig erinnert an das [MASK],harte,1.3021714948990848e-05
+bescheidenem Pflanzen  Wenig erinnert an das harte [MASK],Leben,0.046488869935274124
+Pflanzen  Wenig erinnert an das harte Leben [MASK],ihrer,0.00014739831385668367
+ Wenig erinnert an das harte Leben ihrer [MASK],Vorfahren,0.007651215884834528
+Wenig erinnert an das harte Leben ihrer Vorfahren [MASK],,2.606085217848886e-06
+erinnert an das harte Leben ihrer Vorfahren  [MASK],In,3.07683285427629e-06
+an das harte Leben ihrer Vorfahren  In [MASK],der,0.0018790551694110036
+das harte Leben ihrer Vorfahren  In der [MASK],Geschichte,0.0027609746903181076
+harte Leben ihrer Vorfahren  In der Geschichte [MASK],der,0.0013964747777208686
+Leben ihrer Vorfahren  In der Geschichte der [MASK],Menschheit,0.7338131666183472
+ihrer Vorfahren  In der Geschichte der Menschheit [MASK],,4.9506823415867984e-05
+Vorfahren  In der Geschichte der Menschheit  [MASK],musste,2.223022192993085e-06
+ In der Geschichte der Menschheit  musste [MASK],keine,0.0005051286425441504
+In der Geschichte der Menschheit  musste keine [MASK],andere,0.0019290439086034894
+der Geschichte der Menschheit  musste keine andere [MASK],ethnische,1.4654671076641534e-06
+Geschichte der Menschheit  musste keine andere ethnische [MASK],Gruppe,0.002525030169636011
+der Menschheit  musste keine andere ethnische Gruppe [MASK],,1.6125406432365708e-07
+Menschheit  musste keine andere ethnische Gruppe  [MASK],in,0.0005665659555234015
+ musste keine andere ethnische Gruppe  in [MASK],einem,0.0015843149740248919
+musste keine andere ethnische Gruppe  in einem [MASK],so,4.6847395424265414e-05
+keine andere ethnische Gruppe  in einem so [MASK],menschenfeindlichen,5.712788333767094e-05
+andere ethnische Gruppe  in einem so menschenfeindlichen [MASK],Land,0.03525887429714203
+ethnische Gruppe  in einem so menschenfeindlichen Land [MASK],leben,0.021464521065354347
+Gruppe  in einem so menschenfeindlichen Land leben [MASK],,1.5358116343122674e-06

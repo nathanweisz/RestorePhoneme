@@ -1,0 +1,597 @@
+Context,Word,Probability
+        [MASK],Sofie,5.121464710100554e-06
+       Sofie [MASK],Amundsen,1.126899314840557e-05
+      Sofie Amundsen [MASK],war,0.0005239424644969404
+     Sofie Amundsen war [MASK],auf,0.000156129477545619
+    Sofie Amundsen war auf [MASK],dem,0.0033529133070260286
+   Sofie Amundsen war auf dem [MASK],Heimweg,0.0009425650350749493
+  Sofie Amundsen war auf dem Heimweg [MASK],von,0.0002500087139196694
+ Sofie Amundsen war auf dem Heimweg von [MASK],der,0.0011010149028152227
+Sofie Amundsen war auf dem Heimweg von der [MASK],Absender,7.109294983820291e-06
+Amundsen war auf dem Heimweg von der Absender [MASK],,3.318115560091428e-08
+war auf dem Heimweg von der Absender  [MASK],Das,1.5255897096722038e-06
+auf dem Heimweg von der Absender  Das [MASK],erste,0.0004440192424226552
+dem Heimweg von der Absender  Das erste [MASK],Stück,0.004827751312404871
+Heimweg von der Absender  Das erste Stück [MASK],war,0.0003190282150171697
+von der Absender  Das erste Stück war [MASK],sie,0.00013289559865370393
+der Absender  Das erste Stück war sie [MASK],mit,0.0002210096427006647
+Absender  Das erste Stück war sie mit [MASK],Jorunn,0.00016369043441955
+ Das erste Stück war sie mit Jorunn [MASK],zusammen,0.0009013558737933636
+Das erste Stück war sie mit Jorunn zusammen [MASK],gegangen,0.00012161823542555794
+erste Stück war sie mit Jorunn zusammen gegangen [MASK],,1.301035155165664e-07
+Stück war sie mit Jorunn zusammen gegangen  [MASK],Sie,1.5207465366984252e-06
+war sie mit Jorunn zusammen gegangen  Sie [MASK],hatten,0.0015719013754278421
+sie mit Jorunn zusammen gegangen  Sie hatten [MASK],sich,0.0010807533981278539
+mit Jorunn zusammen gegangen  Sie hatten sich [MASK],über,0.00037286453880369663
+Jorunn zusammen gegangen  Sie hatten sich über [MASK],Roboter,1.3221027074905578e-05
+zusammen gegangen  Sie hatten sich über Roboter [MASK],unterhalten,0.3086101710796356
+gegangen  Sie hatten sich über Roboter unterhalten [MASK],,1.1805314414914392e-07
+ Sie hatten sich über Roboter unterhalten  [MASK],Jorunn,2.6319527890450445e-08
+Sie hatten sich über Roboter unterhalten  Jorunn [MASK],hielt,3.3115879887191113e-06
+hatten sich über Roboter unterhalten  Jorunn hielt [MASK],das,2.3430271539837122e-05
+sich über Roboter unterhalten  Jorunn hielt das [MASK],menschliche,5.36200877832016e-06
+über Roboter unterhalten  Jorunn hielt das menschliche [MASK],Gehirn,0.2205292284488678
+Roboter unterhalten  Jorunn hielt das menschliche Gehirn [MASK],für,0.0018047408666461706
+unterhalten  Jorunn hielt das menschliche Gehirn für [MASK],einen,0.000698279298376292
+ Jorunn hielt das menschliche Gehirn für einen [MASK],komplizierten,6.218796625034884e-05
+Jorunn hielt das menschliche Gehirn für einen komplizierten [MASK],Briefmarke,2.803729148581624e-05
+hielt das menschliche Gehirn für einen komplizierten Briefmarke [MASK],,9.611815130483592e-07
+das menschliche Gehirn für einen komplizierten Briefmarke  [MASK],Sofie,4.26900603756053e-09
+menschliche Gehirn für einen komplizierten Briefmarke  Sofie [MASK],war,9.094318556890357e-06
+Gehirn für einen komplizierten Briefmarke  Sofie war [MASK],sich,2.1734676920459606e-05
+für einen komplizierten Briefmarke  Sofie war sich [MASK],nicht,0.0016690391348674893
+einen komplizierten Briefmarke  Sofie war sich nicht [MASK],so,0.0005472134216688573
+komplizierten Briefmarke  Sofie war sich nicht so [MASK],sicher,0.39512526988983154
+Briefmarke  Sofie war sich nicht so sicher [MASK],ob,0.0003876809205394238
+ Sofie war sich nicht so sicher ob [MASK],sie,0.008457004092633724
+Sofie war sich nicht so sicher ob sie [MASK],da,0.0016048969700932503
+war sich nicht so sicher ob sie da [MASK],zustimmte,1.0239471521344967e-05
+sich nicht so sicher ob sie da zustimmte [MASK],,1.2168273997303913e-06
+nicht so sicher ob sie da zustimmte  [MASK],Ein,2.4884172944439342e-06
+so sicher ob sie da zustimmte  Ein [MASK],Mensch,2.481105002516415e-05
+sicher ob sie da zustimmte  Ein Mensch [MASK],musste,1.1429685400798917e-05
+ob sie da zustimmte  Ein Mensch musste [MASK],doch,2.9665037800441496e-05
+sie da zustimmte  Ein Mensch musste doch [MASK],mehr,0.0018204732332378626
+da zustimmte  Ein Mensch musste doch mehr [MASK],sein,0.004828759003430605
+zustimmte  Ein Mensch musste doch mehr sein [MASK],als,0.00011498710955493152
+ Ein Mensch musste doch mehr sein als [MASK],eine,0.002898060716688633
+Ein Mensch musste doch mehr sein als eine [MASK],Maschine,0.05403425917029381
+Mensch musste doch mehr sein als eine Maschine [MASK],,9.2946180529907e-07
+musste doch mehr sein als eine Maschine  [MASK],Beim,3.034040219063172e-07
+doch mehr sein als eine Maschine  Beim [MASK],Supermarkt,5.2688814321300015e-05
+mehr sein als eine Maschine  Beim Supermarkt [MASK],hatten,6.480139563791454e-05
+sein als eine Maschine  Beim Supermarkt hatten [MASK],sie,0.010294602252542973
+als eine Maschine  Beim Supermarkt hatten sie [MASK],sich,0.0014589191414415836
+eine Maschine  Beim Supermarkt hatten sie sich [MASK],getrennt,0.030842913314700127
+Maschine  Beim Supermarkt hatten sie sich getrennt [MASK],,6.165255399537273e-07
+ Beim Supermarkt hatten sie sich getrennt  [MASK],Sofie,7.068877039273502e-09
+Beim Supermarkt hatten sie sich getrennt  Sofie [MASK],wohnte,2.8260146791581064e-06
+Supermarkt hatten sie sich getrennt  Sofie wohnte [MASK],am,1.2902364687761292e-05
+hatten sie sich getrennt  Sofie wohnte am [MASK],Ende,0.006408003158867359
+sie sich getrennt  Sofie wohnte am Ende [MASK],eines,0.0009757917723618448
+sich getrennt  Sofie wohnte am Ende eines [MASK],ausgedehnten,1.8218073591924622e-06
+getrennt  Sofie wohnte am Ende eines ausgedehnten [MASK],Viertels,0.0007472776924259961
+ Sofie wohnte am Ende eines ausgedehnten Viertels [MASK],,3.837416079477407e-05
+Sofie wohnte am Ende eines ausgedehnten Viertels  [MASK],mit,0.0017953485948964953
+wohnte am Ende eines ausgedehnten Viertels  mit [MASK],Einfamilienhäusern,0.0001177605299744755
+am Ende eines ausgedehnten Viertels  mit Einfamilienhäusern [MASK],und,0.00432867556810379
+Ende eines ausgedehnten Viertels  mit Einfamilienhäusern und [MASK],hatte,2.569664502516389e-06
+eines ausgedehnten Viertels  mit Einfamilienhäusern und hatte [MASK],,1.2238160707056522e-07
+ausgedehnten Viertels  mit Einfamilienhäusern und hatte  [MASK],einen,0.010137147270143032
+Viertels  mit Einfamilienhäusern und hatte  einen [MASK],fast,6.108268280513585e-05
+ mit Einfamilienhäusern und hatte  einen fast [MASK],doppelt,0.003944609314203262
+mit Einfamilienhäusern und hatte  einen fast doppelt [MASK],so,0.0006432040245272219
+Einfamilienhäusern und hatte  einen fast doppelt so [MASK],langen,0.11078006774187088
+und hatte  einen fast doppelt so langen [MASK],Schulweg,2.1884750822209753e-05
+hatte  einen fast doppelt so langen Schulweg [MASK],wie,3.994969301857054e-05
+ einen fast doppelt so langen Schulweg wie [MASK],Jorunn,2.172358836105559e-05
+einen fast doppelt so langen Schulweg wie Jorunn [MASK],,9.95495042843686e-07
+fast doppelt so langen Schulweg wie Jorunn  [MASK],Ihr,1.2806328413716983e-05
+doppelt so langen Schulweg wie Jorunn  Ihr [MASK],Haus,0.00024663220392540097
+so langen Schulweg wie Jorunn  Ihr Haus [MASK],schien,3.32951130985748e-05
+langen Schulweg wie Jorunn  Ihr Haus schien [MASK],am,0.00010743036546045914
+Schulweg wie Jorunn  Ihr Haus schien am [MASK],Ende,0.010044739581644535
+wie Jorunn  Ihr Haus schien am Ende [MASK],der,6.481485615950078e-05
+Jorunn  Ihr Haus schien am Ende der [MASK],Welt,0.02990291267633438
+ Ihr Haus schien am Ende der Welt [MASK],zu,0.000638328492641449
+Ihr Haus schien am Ende der Welt zu [MASK],liegen,0.055696673691272736
+Haus schien am Ende der Welt zu liegen [MASK],,1.9789177940765512e-07
+schien am Ende der Welt zu liegen  [MASK],denn,4.471838110475801e-06
+am Ende der Welt zu liegen  denn [MASK],hinter,0.00011334451119182631
+Ende der Welt zu liegen  denn hinter [MASK],ihrem,0.0022325089666992426
+der Welt zu liegen  denn hinter ihrem [MASK],Garten,0.0001701977598713711
+Welt zu liegen  denn hinter ihrem Garten [MASK],gab,3.7088491353642894e-06
+zu liegen  denn hinter ihrem Garten gab [MASK],es,0.29709553718566895
+liegen  denn hinter ihrem Garten gab es [MASK],keine,0.04769417271018028
+ denn hinter ihrem Garten gab es keine [MASK],weiteren,0.0007332251989282668
+denn hinter ihrem Garten gab es keine weiteren [MASK],Häuser,0.006014812737703323
+hinter ihrem Garten gab es keine weiteren Häuser [MASK],mehr,0.00043761113192886114
+ihrem Garten gab es keine weiteren Häuser mehr [MASK],,5.275496732792817e-07
+Garten gab es keine weiteren Häuser mehr  [MASK],nur,1.0085112080560066e-05
+gab es keine weiteren Häuser mehr  nur [MASK],noch,0.04252826049923897
+es keine weiteren Häuser mehr  nur noch [MASK],Maschine,2.303559085703455e-06
+keine weiteren Häuser mehr  nur noch Maschine [MASK],,1.7888999082060764e-06
+weiteren Häuser mehr  nur noch Maschine  [MASK],Jetzt,7.677122084714938e-06
+Häuser mehr  nur noch Maschine  Jetzt [MASK],,4.1108214077212324e-07
+mehr  nur noch Maschine  Jetzt  [MASK],bog,1.1367368415449164e-06
+ nur noch Maschine  Jetzt  bog [MASK],sie,0.003094116225838661
+nur noch Maschine  Jetzt  bog sie [MASK],in,0.00014769849076401442
+noch Maschine  Jetzt  bog sie in [MASK],die,0.004495622124522924
+Maschine  Jetzt  bog sie in die [MASK],schmale,6.946076496205933e-07
+ Jetzt  bog sie in die schmale [MASK],Gasse,1.070151301973965e-05
+Jetzt  bog sie in die schmale Gasse [MASK],ein,0.0018106765346601605
+ bog sie in die schmale Gasse ein [MASK],,2.734560355932558e-09
+bog sie in die schmale Gasse ein  [MASK],Ganz,8.099272008621483e-08
+sie in die schmale Gasse ein  Ganz [MASK],am,6.381177809089422e-05
+in die schmale Gasse ein  Ganz am [MASK],Ende,0.005778950173407793
+die schmale Gasse ein  Ganz am Ende [MASK],machte,9.126702934736386e-05
+schmale Gasse ein  Ganz am Ende machte [MASK],die,0.00028387471684254706
+Gasse ein  Ganz am Ende machte die [MASK],eine,1.5663028534618206e-05
+ein  Ganz am Ende machte die eine [MASK],scharfe,0.00010282950097462162
+ Ganz am Ende machte die eine scharfe [MASK],Kurve,0.0016309493221342564
+Ganz am Ende machte die eine scharfe Kurve [MASK],,2.6585954060465156e-07
+am Ende machte die eine scharfe Kurve  [MASK],die,0.0001991938624996692
+Ende machte die eine scharfe Kurve  die [MASK],Kapitänskurve,1.3323370694706682e-05
+machte die eine scharfe Kurve  die Kapitänskurve [MASK],genannt,0.0005538310506381094
+die eine scharfe Kurve  die Kapitänskurve genannt [MASK],wurde,0.00245601125061512
+eine scharfe Kurve  die Kapitänskurve genannt wurde [MASK],,2.624494527481147e-06
+scharfe Kurve  die Kapitänskurve genannt wurde  [MASK],Menschen,2.5999000285992224e-07
+Kurve  die Kapitänskurve genannt wurde  Menschen [MASK],waren,8.496062218910083e-05
+ die Kapitänskurve genannt wurde  Menschen waren [MASK],hier,0.000999046373181045
+die Kapitänskurve genannt wurde  Menschen waren hier [MASK],fast,0.000145395562867634
+Kapitänskurve genannt wurde  Menschen waren hier fast [MASK],nur,0.0030715407337993383
+genannt wurde  Menschen waren hier fast nur [MASK],samstags,7.213801382022211e-06
+wurde  Menschen waren hier fast nur samstags [MASK],und,0.00044150016037747264
+ Menschen waren hier fast nur samstags und [MASK],sonntags,0.04963408783078194
+Menschen waren hier fast nur samstags und sonntags [MASK],zu,0.00010966337140416726
+waren hier fast nur samstags und sonntags zu [MASK],sehen,0.12065846472978592
+hier fast nur samstags und sonntags zu sehen [MASK],,6.721494401062955e-07
+fast nur samstags und sonntags zu sehen  [MASK],Es,1.1563269026737544e-06
+nur samstags und sonntags zu sehen  Es [MASK],war,0.002303348621353507
+samstags und sonntags zu sehen  Es war [MASK],einer,7.804983761161566e-05
+und sonntags zu sehen  Es war einer [MASK],der,0.004459188785403967
+sonntags zu sehen  Es war einer der [MASK],ersten,0.006431994494050741
+zu sehen  Es war einer der ersten [MASK],Tage,0.014172225259244442
+sehen  Es war einer der ersten Tage [MASK],im,0.00043322911369614303
+ Es war einer der ersten Tage im [MASK],Mai,0.009952950291335583
+Es war einer der ersten Tage im Mai [MASK],,9.619177035347093e-06
+war einer der ersten Tage im Mai  [MASK],In,1.9383755898161326e-06
+einer der ersten Tage im Mai  In [MASK],einigen,0.00015838573744986206
+der ersten Tage im Mai  In einigen [MASK],Gärten,0.0005481027765199542
+ersten Tage im Mai  In einigen Gärten [MASK],blühten,0.0003213991585653275
+Tage im Mai  In einigen Gärten blühten [MASK],unter,1.0158847544516902e-05
+im Mai  In einigen Gärten blühten unter [MASK],den,0.0001889497070806101
+Mai  In einigen Gärten blühten unter den [MASK],Obstbäumen,3.3584594348212704e-05
+ In einigen Gärten blühten unter den Obstbäumen [MASK],dichte,0.00048100698040798306
+In einigen Gärten blühten unter den Obstbäumen dichte [MASK],Kränze,3.86944884667173e-06
+einigen Gärten blühten unter den Obstbäumen dichte Kränze [MASK],von,8.324246300617233e-05
+Gärten blühten unter den Obstbäumen dichte Kränze von [MASK],Osterglocken,1.0580140951788053e-05
+blühten unter den Obstbäumen dichte Kränze von Osterglocken [MASK],,3.68941982742399e-05
+unter den Obstbäumen dichte Kränze von Osterglocken  [MASK],Die,2.5884125989250606e-06
+den Obstbäumen dichte Kränze von Osterglocken  Die [MASK],Birken,0.0004025453526992351
+Obstbäumen dichte Kränze von Osterglocken  Die Birken [MASK],hatten,8.909695679903962e-06
+dichte Kränze von Osterglocken  Die Birken hatten [MASK],dünne,2.516574113542447e-06
+Kränze von Osterglocken  Die Birken hatten dünne [MASK],Umhänge,2.176647768692419e-07
+von Osterglocken  Die Birken hatten dünne Umhänge [MASK],aus,0.000968438049312681
+Osterglocken  Die Birken hatten dünne Umhänge aus [MASK],grünem,6.512170784844784e-06
+ Die Birken hatten dünne Umhänge aus grünem [MASK],Briefumschlag,8.935499863582663e-06
+Die Birken hatten dünne Umhänge aus grünem Briefumschlag [MASK],War,4.073823500760909e-09
+Birken hatten dünne Umhänge aus grünem Briefumschlag War [MASK],,5.583478213111448e-08
+hatten dünne Umhänge aus grünem Briefumschlag War  [MASK],es,0.00015697343042120337
+dünne Umhänge aus grünem Briefumschlag War  es [MASK],nicht,0.014794168062508106
+Umhänge aus grünem Briefumschlag War  es nicht [MASK],,5.533973762794631e-06
+aus grünem Briefumschlag War  es nicht  [MASK],seltsam,1.8746884961728938e-05
+grünem Briefumschlag War  es nicht  seltsam [MASK],,3.3724856507433287e-07
+Briefumschlag War  es nicht  seltsam  [MASK],wie,0.00033113796962425113
+War  es nicht  seltsam  wie [MASK],zu,6.653633317910135e-05
+ es nicht  seltsam  wie zu [MASK],dieser,2.1989795641275123e-05
+es nicht  seltsam  wie zu dieser [MASK],Jahreszeit,0.33344244956970215
+nicht  seltsam  wie zu dieser Jahreszeit [MASK],alles,4.4168304157210514e-05
+ seltsam  wie zu dieser Jahreszeit alles [MASK],anfing,3.022335840796586e-05
+seltsam  wie zu dieser Jahreszeit alles anfing [MASK],zu,4.645993612939492e-06
+ wie zu dieser Jahreszeit alles anfing zu [MASK],wachsen,0.00876039918512106
+wie zu dieser Jahreszeit alles anfing zu wachsen [MASK],und,0.0007860676851123571
+zu dieser Jahreszeit alles anfing zu wachsen und [MASK],zu,0.008056938648223877
+dieser Jahreszeit alles anfing zu wachsen und zu [MASK],gedeihen,9.259714715881273e-06
+Jahreszeit alles anfing zu wachsen und zu gedeihen [MASK],,5.8904352044919506e-06
+alles anfing zu wachsen und zu gedeihen  [MASK],Woran,2.3257619830019394e-08
+anfing zu wachsen und zu gedeihen  Woran [MASK],lag,0.011227117851376534
+zu wachsen und zu gedeihen  Woran lag [MASK],es,0.0004203618736937642
+wachsen und zu gedeihen  Woran lag es [MASK],dass,9.5495420282532e-07
+und zu gedeihen  Woran lag es dass [MASK],Kilo,4.3817306050186744e-07
+zu gedeihen  Woran lag es dass Kilo [MASK],um,0.00017967895837500691
+gedeihen  Woran lag es dass Kilo um [MASK],Kilo,0.001726300921291113
+ Woran lag es dass Kilo um Kilo [MASK],des,2.7963793399976566e-05
+Woran lag es dass Kilo um Kilo des [MASK],grünen,8.095863449852914e-05
+lag es dass Kilo um Kilo des grünen [MASK],Pflanzenstoffes,6.882618617964908e-05
+es dass Kilo um Kilo des grünen Pflanzenstoffes [MASK],,1.2455194337235298e-05
+dass Kilo um Kilo des grünen Pflanzenstoffes  [MASK],aus,0.0001898779592011124
+Kilo um Kilo des grünen Pflanzenstoffes  aus [MASK],der,0.0005770865827798843
+um Kilo des grünen Pflanzenstoffes  aus der [MASK],leblosen,1.1098160257461132e-07
+Kilo des grünen Pflanzenstoffes  aus der leblosen [MASK],Erde,0.23065325617790222
+des grünen Pflanzenstoffes  aus der leblosen Erde [MASK],quellen,3.1038302950037178e-06
+grünen Pflanzenstoffes  aus der leblosen Erde quellen [MASK],konnte,0.000612452276982367
+Pflanzenstoffes  aus der leblosen Erde quellen konnte [MASK],,7.3597157097538e-06
+ aus der leblosen Erde quellen konnte  [MASK],sowie,9.07299981918186e-05
+aus der leblosen Erde quellen konnte  sowie [MASK],das,0.009152308106422424
+der leblosen Erde quellen konnte  sowie das [MASK],Wetter,0.004310212098062038
+leblosen Erde quellen konnte  sowie das Wetter [MASK],warm,0.0006959984311833978
+Erde quellen konnte  sowie das Wetter warm [MASK],wurde,0.008964764885604382
+quellen konnte  sowie das Wetter warm wurde [MASK],und,0.002971420530229807
+konnte  sowie das Wetter warm wurde und [MASK],die,0.005168427713215351
+ sowie das Wetter warm wurde und die [MASK],letzten,0.00041897440678440034
+sowie das Wetter warm wurde und die letzten [MASK],Schneereste,0.006929486524313688
+das Wetter warm wurde und die letzten Schneereste [MASK],verschwunden,0.020065851509571075
+Wetter warm wurde und die letzten Schneereste verschwunden [MASK],waren,0.30338314175605774
+warm wurde und die letzten Schneereste verschwunden waren [MASK],,4.820135018235305e-06
+wurde und die letzten Schneereste verschwunden waren  [MASK],Sofie,2.8707567878427653e-08
+und die letzten Schneereste verschwunden waren  Sofie [MASK],schaute,1.228410292242188e-05
+die letzten Schneereste verschwunden waren  Sofie schaute [MASK],in,0.0006880949367769063
+letzten Schneereste verschwunden waren  Sofie schaute in [MASK],den,0.00404455466195941
+Schneereste verschwunden waren  Sofie schaute in den [MASK],Briefkasten,0.0002546042378526181
+verschwunden waren  Sofie schaute in den Briefkasten [MASK],,1.1931831977562979e-05
+waren  Sofie schaute in den Briefkasten  [MASK],ehe,3.780573706535506e-06
+ Sofie schaute in den Briefkasten  ehe [MASK],sie,0.0005918035749346018
+Sofie schaute in den Briefkasten  ehe sie [MASK],das,0.0004975358606316149
+schaute in den Briefkasten  ehe sie das [MASK],Gartentor,5.666893230227288e-06
+in den Briefkasten  ehe sie das Gartentor [MASK],öffnete,0.31482601165771484
+den Briefkasten  ehe sie das Gartentor öffnete [MASK],,7.216822723421501e-06
+Briefkasten  ehe sie das Gartentor öffnete  [MASK],In,9.489148737884534e-07
+ ehe sie das Gartentor öffnete  In [MASK],der,0.007931316271424294
+ehe sie das Gartentor öffnete  In der [MASK],Regel,0.006222943309694529
+sie das Gartentor öffnete  In der Regel [MASK],gab,3.76858442905359e-05
+das Gartentor öffnete  In der Regel gab [MASK],es,0.43425866961479187
+Gartentor öffnete  In der Regel gab es [MASK],darin,0.00018558687588665634
+öffnete  In der Regel gab es darin [MASK],,7.948671765234394e-08
+ In der Regel gab es darin  [MASK],viel,0.0005298361065797508
+In der Regel gab es darin  viel [MASK],Reklamekram,2.539130264267442e-06
+der Regel gab es darin  viel Reklamekram [MASK],,4.628105898518697e-09
+Regel gab es darin  viel Reklamekram  [MASK],und,0.00015637537580914795
+gab es darin  viel Reklamekram  und [MASK],einige,0.0016695699887350202
+es darin  viel Reklamekram  und einige [MASK],grosse,7.306255429284647e-05
+darin  viel Reklamekram  und einige grosse [MASK],Briefumschläge,9.248947208106983e-06
+ viel Reklamekram  und einige grosse Briefumschläge [MASK],für,0.00029860963695682585
+viel Reklamekram  und einige grosse Briefumschläge für [MASK],ihre,0.00029312371043488383
+Reklamekram  und einige grosse Briefumschläge für ihre [MASK],Mutter,0.002358140191063285
+ und einige grosse Briefumschläge für ihre Mutter [MASK],,3.826734428002965e-06
+und einige grosse Briefumschläge für ihre Mutter  [MASK],Sofie,1.0753221431514248e-05
+einige grosse Briefumschläge für ihre Mutter  Sofie [MASK],legte,1.303432509303093e-05
+grosse Briefumschläge für ihre Mutter  Sofie legte [MASK],dann,0.000296142854494974
+Briefumschläge für ihre Mutter  Sofie legte dann [MASK],immer,0.0002078907418763265
+für ihre Mutter  Sofie legte dann immer [MASK],einen,0.002153896726667881
+ihre Mutter  Sofie legte dann immer einen [MASK],dicken,0.00013650963956024498
+Mutter  Sofie legte dann immer einen dicken [MASK],Stapel,0.0010155303170904517
+ Sofie legte dann immer einen dicken Stapel [MASK],Post,2.865187343559228e-05
+Sofie legte dann immer einen dicken Stapel Post [MASK],auf,0.02510659210383892
+legte dann immer einen dicken Stapel Post auf [MASK],den,0.00011394417379051447
+dann immer einen dicken Stapel Post auf den [MASK],Küchentisch,3.803465733653866e-05
+immer einen dicken Stapel Post auf den Küchentisch [MASK],,2.6885190891334787e-06
+einen dicken Stapel Post auf den Küchentisch  [MASK],ehe,8.24193307380483e-07
+dicken Stapel Post auf den Küchentisch  ehe [MASK],sie,1.7825805116444826e-05
+Stapel Post auf den Küchentisch  ehe sie [MASK],auf,0.0006330983596853912
+Post auf den Küchentisch  ehe sie auf [MASK],ihr,6.785903678974137e-05
+auf den Küchentisch  ehe sie auf ihr [MASK],Zimmer,0.18737703561782837
+den Küchentisch  ehe sie auf ihr Zimmer [MASK],ging,0.002525542164221406
+Küchentisch  ehe sie auf ihr Zimmer ging [MASK],um,8.78977298270911e-05
+ ehe sie auf ihr Zimmer ging um [MASK],ihre,0.0012095114216208458
+ehe sie auf ihr Zimmer ging um ihre [MASK],Aufgaben,0.00030024591251276433
+sie auf ihr Zimmer ging um ihre Aufgaben [MASK],zu,0.0011665585916489363
+auf ihr Zimmer ging um ihre Aufgaben zu [MASK],machen,0.0010841204784810543
+ihr Zimmer ging um ihre Aufgaben zu machen [MASK],,2.213702828157693e-06
+Zimmer ging um ihre Aufgaben zu machen  [MASK],An,3.833736457181658e-07
+ging um ihre Aufgaben zu machen  An [MASK],ihren,0.0002989154017996043
+um ihre Aufgaben zu machen  An ihren [MASK],Vater,0.00044628119212575257
+ihre Aufgaben zu machen  An ihren Vater [MASK],kamen,3.060379094677046e-05
+Aufgaben zu machen  An ihren Vater kamen [MASK],nur,0.0006362609565258026
+zu machen  An ihren Vater kamen nur [MASK],manchmal,0.00011615388211794198
+machen  An ihren Vater kamen nur manchmal [MASK],Kontoauszüge,6.793043212383054e-07
+ An ihren Vater kamen nur manchmal Kontoauszüge [MASK],,2.005686837946996e-06
+An ihren Vater kamen nur manchmal Kontoauszüge  [MASK],aber,1.3897368262405507e-05
+ihren Vater kamen nur manchmal Kontoauszüge  aber [MASK],er,2.9942533728899434e-05
+Vater kamen nur manchmal Kontoauszüge  aber er [MASK],war,0.007410254795104265
+kamen nur manchmal Kontoauszüge  aber er war [MASK],schliesslich,1.0302397640771233e-05
+nur manchmal Kontoauszüge  aber er war schliesslich [MASK],auch,0.0008373314049094915
+manchmal Kontoauszüge  aber er war schliesslich auch [MASK],kein,0.003195481840521097
+Kontoauszüge  aber er war schliesslich auch kein [MASK],normaler,5.274098293739371e-05
+ aber er war schliesslich auch kein normaler [MASK],Vater,0.0016915099695324898
+aber er war schliesslich auch kein normaler Vater [MASK],,1.777770421540481e-06
+er war schliesslich auch kein normaler Vater  [MASK],Sofies,5.822633752927686e-08
+war schliesslich auch kein normaler Vater  Sofies [MASK],Vater,0.030240332707762718
+schliesslich auch kein normaler Vater  Sofies Vater [MASK],war,0.0060140336863696575
+auch kein normaler Vater  Sofies Vater war [MASK],Kapitän,0.0007428408716805279
+kein normaler Vater  Sofies Vater war Kapitän [MASK],auf,0.0001612050546100363
+normaler Vater  Sofies Vater war Kapitän auf [MASK],einem,0.0010081774089485407
+Vater  Sofies Vater war Kapitän auf einem [MASK],Öltanker,1.6983658497338183e-05
+ Sofies Vater war Kapitän auf einem Öltanker [MASK],,1.8500263649912085e-06
+Sofies Vater war Kapitän auf einem Öltanker  [MASK],und,0.0003005662583746016
+Vater war Kapitän auf einem Öltanker  und [MASK],fast,2.1198991817072965e-05
+war Kapitän auf einem Öltanker  und fast [MASK],das,0.0002550900971982628
+Kapitän auf einem Öltanker  und fast das [MASK],ganze,0.024265015497803688
+auf einem Öltanker  und fast das ganze [MASK],Jahr,0.1795145720243454
+einem Öltanker  und fast das ganze Jahr [MASK],unterwegs,0.0029453537426888943
+Öltanker  und fast das ganze Jahr unterwegs [MASK],,6.812031642766669e-06
+ und fast das ganze Jahr unterwegs  [MASK],Wenn,4.4052026737517735e-07
+und fast das ganze Jahr unterwegs  Wenn [MASK],er,0.0032831691205501556
+fast das ganze Jahr unterwegs  Wenn er [MASK],dann,0.0010748259956017137
+das ganze Jahr unterwegs  Wenn er dann [MASK],für,0.0001055820903275162
+ganze Jahr unterwegs  Wenn er dann für [MASK],einige,0.0018971501849591732
+Jahr unterwegs  Wenn er dann für einige [MASK],Wochen,0.09448260813951492
+unterwegs  Wenn er dann für einige Wochen [MASK],nach,0.001584795187227428
+ Wenn er dann für einige Wochen nach [MASK],Hause,0.07739755511283875
+Wenn er dann für einige Wochen nach Hause [MASK],kam,0.010249060578644276
+er dann für einige Wochen nach Hause kam [MASK],,1.989940074054175e-06
+dann für einige Wochen nach Hause kam  [MASK],latschte,3.334220934902987e-07
+für einige Wochen nach Hause kam  latschte [MASK],er,0.0010300412541255355
+einige Wochen nach Hause kam  latschte er [MASK],nur,0.0004949186113663018
+Wochen nach Hause kam  latschte er nur [MASK],in,0.0004595438367687166
+nach Hause kam  latschte er nur in [MASK],Pantoffeln,7.975665425874467e-07
+Hause kam  latschte er nur in Pantoffeln [MASK],im,0.0001265502505702898
+kam  latschte er nur in Pantoffeln im [MASK],Haus,0.001840744400396943
+ latschte er nur in Pantoffeln im Haus [MASK],herum,0.01565711945295334
+latschte er nur in Pantoffeln im Haus herum [MASK],,8.272807860976172e-08
+er nur in Pantoffeln im Haus herum  [MASK],und,0.0019239693647250533
+nur in Pantoffeln im Haus herum  und [MASK],kümmerte,1.654998050071299e-05
+in Pantoffeln im Haus herum  und kümmerte [MASK],sich,0.20916031301021576
+Pantoffeln im Haus herum  und kümmerte sich [MASK],rührend,4.438321866473416e-06
+im Haus herum  und kümmerte sich rührend [MASK],um,0.6194491386413574
+Haus herum  und kümmerte sich rührend um [MASK],Sofie,1.7122885765274987e-05
+herum  und kümmerte sich rührend um Sofie [MASK],und,0.0018165480578318238
+ und kümmerte sich rührend um Sofie und [MASK],ihre,0.0017671040259301662
+und kümmerte sich rührend um Sofie und ihre [MASK],Mutter,0.03211529180407524
+kümmerte sich rührend um Sofie und ihre Mutter [MASK],,3.15151123686519e-06
+sich rührend um Sofie und ihre Mutter  [MASK],Aber,4.556977728498168e-06
+rührend um Sofie und ihre Mutter  Aber [MASK],wenn,5.871099347132258e-06
+um Sofie und ihre Mutter  Aber wenn [MASK],er,0.008317125961184502
+Sofie und ihre Mutter  Aber wenn er [MASK],auf,0.00028730195481330156
+und ihre Mutter  Aber wenn er auf [MASK],Reisen,0.001484988839365542
+ihre Mutter  Aber wenn er auf Reisen [MASK],war,0.039595138281583786
+Mutter  Aber wenn er auf Reisen war [MASK],konnte,3.2970679058053065e-06
+ Aber wenn er auf Reisen war konnte [MASK],er,0.0006657622870989144
+Aber wenn er auf Reisen war konnte er [MASK],ziemlich,0.0001306939375353977
+wenn er auf Reisen war konnte er ziemlich [MASK],fern,0.0012643804075196385
+er auf Reisen war konnte er ziemlich fern [MASK],wirken,0.0017022392712533474
+auf Reisen war konnte er ziemlich fern wirken [MASK],,1.904280253484103e-07
+Reisen war konnte er ziemlich fern wirken  [MASK],Heute,2.2041857050680846e-07
+war konnte er ziemlich fern wirken  Heute [MASK],lag,3.4626893466338515e-05
+konnte er ziemlich fern wirken  Heute lag [MASK],in,0.000705743907019496
+er ziemlich fern wirken  Heute lag in [MASK],dem,0.006716771982610226
+ziemlich fern wirken  Heute lag in dem [MASK],grossen,0.0005632804823108017
+fern wirken  Heute lag in dem grossen [MASK],grünen,0.00010831168765434995
+wirken  Heute lag in dem grossen grünen [MASK],Briefkasten,0.00034831833909265697
+ Heute lag in dem grossen grünen Briefkasten [MASK],nur,0.0004576154169626534
+Heute lag in dem grossen grünen Briefkasten nur [MASK],ein,0.020614810287952423
+lag in dem grossen grünen Briefkasten nur ein [MASK],kleiner,0.006377996876835823
+in dem grossen grünen Briefkasten nur ein kleiner [MASK],Brief,0.009616515599191189
+dem grossen grünen Briefkasten nur ein kleiner Brief [MASK],,5.590110845332674e-07
+grossen grünen Briefkasten nur ein kleiner Brief  [MASK],und,8.140918907884043e-07
+grünen Briefkasten nur ein kleiner Brief  und [MASK],der,0.0006206728867255151
+Briefkasten nur ein kleiner Brief  und der [MASK],war,0.00018445489695295691
+nur ein kleiner Brief  und der war [MASK],für,6.442300946218893e-05
+ein kleiner Brief  und der war für [MASK],Sofie,1.7511638361611404e-05
+kleiner Brief  und der war für Sofie [MASK],,1.762755061918142e-07
+Brief  und der war für Sofie  [MASK],Sofie,3.8003599911462516e-05
+ und der war für Sofie  Sofie [MASK],Amundsen,1.3692125321540516e-05
+und der war für Sofie  Sofie Amundsen [MASK],,1.929842454728714e-07
+der war für Sofie  Sofie Amundsen  [MASK],stand,8.441479440080002e-05
+war für Sofie  Sofie Amundsen  stand [MASK],auf,2.5192864995915443e-05
+für Sofie  Sofie Amundsen  stand auf [MASK],dem,0.09693686664104462
+Sofie  Sofie Amundsen  stand auf dem [MASK],kleinen,4.2656861296563875e-06
+ Sofie Amundsen  stand auf dem kleinen [MASK],Briefumschlag,1.2136930308770388e-05
+Sofie Amundsen  stand auf dem kleinen Briefumschlag [MASK],,2.9191305657150224e-05
+Amundsen  stand auf dem kleinen Briefumschlag  [MASK],Das,1.0700829307097592e-06
+ stand auf dem kleinen Briefumschlag  Das [MASK],war,0.0003728065639734268
+stand auf dem kleinen Briefumschlag  Das war [MASK],alles,0.0052259196527302265
+auf dem kleinen Briefumschlag  Das war alles [MASK],,9.420584206054627e-07
+dem kleinen Briefumschlag  Das war alles  [MASK],kein,2.5706724045448937e-05
+kleinen Briefumschlag  Das war alles  kein [MASK],Absender,4.5818120497642667e-07
+Briefumschlag  Das war alles  kein Absender [MASK],,2.501600465620868e-05
+ Das war alles  kein Absender  [MASK],Der,2.2687895580020268e-06
+Das war alles  kein Absender  Der [MASK],Brief,0.000117880103061907
+war alles  kein Absender  Der Brief [MASK],hatte,0.00020926292927470058
+alles  kein Absender  Der Brief hatte [MASK],nicht,0.0010076696053147316
+ kein Absender  Der Brief hatte nicht [MASK],einmal,5.294171569403261e-05
+kein Absender  Der Brief hatte nicht einmal [MASK],eine,0.0010479689808562398
+Absender  Der Brief hatte nicht einmal eine [MASK],Briefmarke,0.0001699037238722667
+ Der Brief hatte nicht einmal eine Briefmarke [MASK],,5.98341966906446e-06
+Der Brief hatte nicht einmal eine Briefmarke  [MASK],Sowie,3.564379937870399e-07
+Brief hatte nicht einmal eine Briefmarke  Sowie [MASK],Sofie,2.94534061140439e-07
+hatte nicht einmal eine Briefmarke  Sowie Sofie [MASK],das,7.688984624110162e-06
+nicht einmal eine Briefmarke  Sowie Sofie das [MASK],Tor,0.0003691416932269931
+einmal eine Briefmarke  Sowie Sofie das Tor [MASK],hinter,4.807029108633287e-05
+eine Briefmarke  Sowie Sofie das Tor hinter [MASK],sich,0.0004251992504578084
+Briefmarke  Sowie Sofie das Tor hinter sich [MASK],geschlossen,0.00010222002310911193
+ Sowie Sofie das Tor hinter sich geschlossen [MASK],hatte,0.04221388325095177
+Sowie Sofie das Tor hinter sich geschlossen hatte [MASK],,9.395881193086097e-07
+Sofie das Tor hinter sich geschlossen hatte  [MASK],öffnete,3.70892894352437e-06
+das Tor hinter sich geschlossen hatte  öffnete [MASK],sie,0.00028376077534630895
+Tor hinter sich geschlossen hatte  öffnete sie [MASK],den,0.000275360798696056
+hinter sich geschlossen hatte  öffnete sie den [MASK],Briefumschlag,0.005442304071038961
+sich geschlossen hatte  öffnete sie den Briefumschlag [MASK],,5.277791933622211e-05
+geschlossen hatte  öffnete sie den Briefumschlag  [MASK],Dann,3.0660382890346227e-06
+hatte  öffnete sie den Briefumschlag  Dann [MASK],fand,2.1905696030444233e-06
+ öffnete sie den Briefumschlag  Dann fand [MASK],sie,0.06256072968244553
+öffnete sie den Briefumschlag  Dann fand sie [MASK],nur,0.0007086226250976324
+sie den Briefumschlag  Dann fand sie nur [MASK],einen,0.000758643145672977
+den Briefumschlag  Dann fand sie nur einen [MASK],ziemlich,2.0946765744156437e-06
+Briefumschlag  Dann fand sie nur einen ziemlich [MASK],kleinen,0.046772900968790054
+ Dann fand sie nur einen ziemlich kleinen [MASK],Zettel,5.556146788876504e-06
+Dann fand sie nur einen ziemlich kleinen Zettel [MASK],,4.572339094011113e-06
+fand sie nur einen ziemlich kleinen Zettel  [MASK],nicht,3.068452497245744e-05
+sie nur einen ziemlich kleinen Zettel  nicht [MASK],grösser,3.2239933034361457e-07
+nur einen ziemlich kleinen Zettel  nicht grösser [MASK],als,0.011398641392588615
+einen ziemlich kleinen Zettel  nicht grösser als [MASK],der,0.001345546799711883
+ziemlich kleinen Zettel  nicht grösser als der [MASK],zugehörige,1.4960452972445637e-05
+kleinen Zettel  nicht grösser als der zugehörige [MASK],Umschlag,0.0029823887161910534
+Zettel  nicht grösser als der zugehörige Umschlag [MASK],,0.00012557453010231256
+ nicht grösser als der zugehörige Umschlag  [MASK],Auf,8.158226592058782e-07
+nicht grösser als der zugehörige Umschlag  Auf [MASK],dem,7.642182026756927e-05
+grösser als der zugehörige Umschlag  Auf dem [MASK],Zettel,2.7089225113741122e-05
+als der zugehörige Umschlag  Auf dem Zettel [MASK],stand,0.023305945098400116
+der zugehörige Umschlag  Auf dem Zettel stand [MASK],,1.7087089872802608e-05
+zugehörige Umschlag  Auf dem Zettel stand  [MASK],Wer,4.120821358810645e-06
+Umschlag  Auf dem Zettel stand  Wer [MASK],bist,4.547307526081568e-06
+ Auf dem Zettel stand  Wer bist [MASK],Du,0.004369544330984354
+Auf dem Zettel stand  Wer bist Du [MASK],,2.656822140068016e-08
+dem Zettel stand  Wer bist Du  [MASK],Mehr,7.035784074105322e-05
+Zettel stand  Wer bist Du  Mehr [MASK],nicht,0.0013991245068609715
+stand  Wer bist Du  Mehr nicht [MASK],,3.82435203505338e-08
+ Wer bist Du  Mehr nicht  [MASK],Der,3.6767728488484863e-06
+Wer bist Du  Mehr nicht  Der [MASK],Zettel,3.548352879079175e-06
+bist Du  Mehr nicht  Der Zettel [MASK],enthielt,2.7434747607912868e-05
+Du  Mehr nicht  Der Zettel enthielt [MASK],keinen,0.0001799396995920688
+ Mehr nicht  Der Zettel enthielt keinen [MASK],Gruss,7.376697340077953e-06
+Mehr nicht  Der Zettel enthielt keinen Gruss [MASK],,1.1077757733346516e-07
+nicht  Der Zettel enthielt keinen Gruss  [MASK],und,0.0009794037323445082
+ Der Zettel enthielt keinen Gruss  und [MASK],keinen,0.1581442505121231
+Der Zettel enthielt keinen Gruss  und keinen [MASK],Absender,5.5171840358525515e-06
+Zettel enthielt keinen Gruss  und keinen Absender [MASK],,5.471480108099058e-06
+enthielt keinen Gruss  und keinen Absender  [MASK],nur,1.333944146608701e-05
+keinen Gruss  und keinen Absender  nur [MASK],diese,2.737343129410874e-05
+Gruss  und keinen Absender  nur diese [MASK],drei,0.0006089467788115144
+ und keinen Absender  nur diese drei [MASK],handgeschriebenen,6.240289621928241e-06
+und keinen Absender  nur diese drei handgeschriebenen [MASK],Wörter,0.020284637808799744
+keinen Absender  nur diese drei handgeschriebenen Wörter [MASK],,3.6678120522992685e-05
+Absender  nur diese drei handgeschriebenen Wörter  [MASK],auf,0.0011663028271868825
+ nur diese drei handgeschriebenen Wörter  auf [MASK],die,0.0020899774972349405
+nur diese drei handgeschriebenen Wörter  auf die [MASK],ein,0.00018295657355338335
+diese drei handgeschriebenen Wörter  auf die ein [MASK],grosses,2.4738335469010053e-06
+drei handgeschriebenen Wörter  auf die ein grosses [MASK],Fragezeichen,5.9387398323451634e-06
+handgeschriebenen Wörter  auf die ein grosses Fragezeichen [MASK],folgte,6.770704931113869e-05
+Wörter  auf die ein grosses Fragezeichen folgte [MASK],,1.6377827023461577e-06
+ auf die ein grosses Fragezeichen folgte  [MASK],Sie,5.471115400723647e-07
+auf die ein grosses Fragezeichen folgte  Sie [MASK],sah,4.171236287220381e-05
+die ein grosses Fragezeichen folgte  Sie sah [MASK],noch,6.14932578173466e-05
+ein grosses Fragezeichen folgte  Sie sah noch [MASK],einmal,0.07141488045454025
+grosses Fragezeichen folgte  Sie sah noch einmal [MASK],den,0.0005100805428810418
+Fragezeichen folgte  Sie sah noch einmal den [MASK],Briefumschlag,0.0017341714119538665
+folgte  Sie sah noch einmal den Briefumschlag [MASK],an,0.006440941244363785
+ Sie sah noch einmal den Briefumschlag an [MASK],,1.3570041801358457e-07
+Sie sah noch einmal den Briefumschlag an  [MASK],Doch,3.9801070670364425e-06
+sah noch einmal den Briefumschlag an  Doch [MASK],der,0.0001077950801118277
+noch einmal den Briefumschlag an  Doch der [MASK],Brief,0.01181444339454174
+einmal den Briefumschlag an  Doch der Brief [MASK],war,0.0004917014739476144
+den Briefumschlag an  Doch der Brief war [MASK],wirklich,0.0003212082665413618
+Briefumschlag an  Doch der Brief war wirklich [MASK],für,1.3506419236364309e-05
+an  Doch der Brief war wirklich für [MASK],sie,0.00827474519610405
+ Doch der Brief war wirklich für sie [MASK],,2.1083236845242936e-07
+Doch der Brief war wirklich für sie  [MASK],Aber,3.841378202196211e-06
+der Brief war wirklich für sie  Aber [MASK],wer,7.358343282248825e-05
+Brief war wirklich für sie  Aber wer [MASK],hatte,0.00010301392467226833
+war wirklich für sie  Aber wer hatte [MASK],ihn,0.0005179370637051761
+wirklich für sie  Aber wer hatte ihn [MASK],in,1.4595434549846686e-05
+für sie  Aber wer hatte ihn in [MASK],den,0.0008587359916418791
+sie  Aber wer hatte ihn in den [MASK],Briefkasten,0.0003464825567789376
+ Aber wer hatte ihn in den Briefkasten [MASK],gesteckt,0.0014247080544009805
+Aber wer hatte ihn in den Briefkasten gesteckt [MASK],,3.248692692636723e-08
+wer hatte ihn in den Briefkasten gesteckt  [MASK],Sofie,9.824294711080483e-10
+hatte ihn in den Briefkasten gesteckt  Sofie [MASK],schloss,7.274234690157755e-07
+ihn in den Briefkasten gesteckt  Sofie schloss [MASK],rasch,0.0008716656011529267
+in den Briefkasten gesteckt  Sofie schloss rasch [MASK],die,0.0009559322497807443
+den Briefkasten gesteckt  Sofie schloss rasch die [MASK],Tür,0.07030945271253586
+Briefkasten gesteckt  Sofie schloss rasch die Tür [MASK],des,2.3818416593712755e-05
+gesteckt  Sofie schloss rasch die Tür des [MASK],roten,4.812878250959329e-05
+ Sofie schloss rasch die Tür des roten [MASK],Hauses,0.12550607323646545
+Sofie schloss rasch die Tür des roten Hauses [MASK],auf,0.0016876895679160953
+schloss rasch die Tür des roten Hauses auf [MASK],,1.397690851945299e-07
+rasch die Tür des roten Hauses auf  [MASK],Wie,1.7001710830299999e-06
+die Tür des roten Hauses auf  Wie [MASK],üblich,9.928326471708715e-05
+Tür des roten Hauses auf  Wie üblich [MASK],konnte,6.020981345500331e-06
+des roten Hauses auf  Wie üblich konnte [MASK],die,0.00899321399629116
+roten Hauses auf  Wie üblich konnte die [MASK],Katze,0.0007001281483098865
+Hauses auf  Wie üblich konnte die Katze [MASK],Sherekan,3.950563325361145e-07
+auf  Wie üblich konnte die Katze Sherekan [MASK],sich,0.0002984832681249827
+ Wie üblich konnte die Katze Sherekan sich [MASK],aus,0.0018630409613251686
+Wie üblich konnte die Katze Sherekan sich aus [MASK],den,0.0009459869470447302
+üblich konnte die Katze Sherekan sich aus den [MASK],Büschen,7.296378316823393e-05
+konnte die Katze Sherekan sich aus den Büschen [MASK],schleichen,5.093426807434298e-05
+die Katze Sherekan sich aus den Büschen schleichen [MASK],,8.385551950595982e-07
+Katze Sherekan sich aus den Büschen schleichen  [MASK],auf,7.58718088036403e-05
+Sherekan sich aus den Büschen schleichen  auf [MASK],den,0.0013987477868795395
+sich aus den Büschen schleichen  auf den [MASK],Treppenabsatz,2.82669370790245e-05
+aus den Büschen schleichen  auf den Treppenabsatz [MASK],springen,0.0007167653529904783
+den Büschen schleichen  auf den Treppenabsatz springen [MASK],und,0.004278482869267464
+Büschen schleichen  auf den Treppenabsatz springen und [MASK],ins,0.00031921197660267353
+schleichen  auf den Treppenabsatz springen und ins [MASK],Haus,0.007798389066010714
+ auf den Treppenabsatz springen und ins Haus [MASK],schlüpfen,5.09164237882942e-06
+auf den Treppenabsatz springen und ins Haus schlüpfen [MASK],ehe,8.964704534264456e-07
+den Treppenabsatz springen und ins Haus schlüpfen ehe [MASK],Sofie,2.5147883206955157e-06
+Treppenabsatz springen und ins Haus schlüpfen ehe Sofie [MASK],die,0.00024172132543753833
+springen und ins Haus schlüpfen ehe Sofie die [MASK],Tür,0.04580780491232872
+und ins Haus schlüpfen ehe Sofie die Tür [MASK],hinter,2.219271846115589e-05
+ins Haus schlüpfen ehe Sofie die Tür hinter [MASK],sich,0.00027080054860562086
+Haus schlüpfen ehe Sofie die Tür hinter sich [MASK],zugemacht,1.5958639778546058e-06
+schlüpfen ehe Sofie die Tür hinter sich zugemacht [MASK],hatte,0.009275641292333603
+ehe Sofie die Tür hinter sich zugemacht hatte [MASK],,2.66017195826862e-06
+Sofie die Tür hinter sich zugemacht hatte  [MASK],Wenn,3.5724448821383703e-07
+die Tür hinter sich zugemacht hatte  Wenn [MASK],Sofies,3.8486413700411504e-07
+Tür hinter sich zugemacht hatte  Wenn Sofies [MASK],Mutter,0.0032092907931655645
+hinter sich zugemacht hatte  Wenn Sofies Mutter [MASK],aus,0.0007335313712246716
+sich zugemacht hatte  Wenn Sofies Mutter aus [MASK],irgendeinem,4.356482168077491e-05
+zugemacht hatte  Wenn Sofies Mutter aus irgendeinem [MASK],Grund,0.13334272801876068
+hatte  Wenn Sofies Mutter aus irgendeinem Grund [MASK],sauer,7.690323400311172e-05
+ Wenn Sofies Mutter aus irgendeinem Grund sauer [MASK],war,0.014368897303938866
+Wenn Sofies Mutter aus irgendeinem Grund sauer war [MASK],,5.333440071808582e-07
+Sofies Mutter aus irgendeinem Grund sauer war  [MASK],bezeichnete,8.199521062124404e-09
+Mutter aus irgendeinem Grund sauer war  bezeichnete [MASK],sie,0.0006338696694001555
+aus irgendeinem Grund sauer war  bezeichnete sie [MASK],ihr,0.0018750260351225734
+irgendeinem Grund sauer war  bezeichnete sie ihr [MASK],Haus,0.0033646097872406244
+Grund sauer war  bezeichnete sie ihr Haus [MASK],manchmal,0.00012347381561994553
+sauer war  bezeichnete sie ihr Haus manchmal [MASK],als,0.03338642418384552
+war  bezeichnete sie ihr Haus manchmal als [MASK],Menagerie,4.689318302553147e-06
+ bezeichnete sie ihr Haus manchmal als Menagerie [MASK],,1.923550826177234e-06
+bezeichnete sie ihr Haus manchmal als Menagerie  [MASK],Eine,1.9323734079534916e-07
+sie ihr Haus manchmal als Menagerie  Eine [MASK],Menagerie,3.2856642064871266e-05
+ihr Haus manchmal als Menagerie  Eine Menagerie [MASK],war,4.947719571646303e-05
+Haus manchmal als Menagerie  Eine Menagerie war [MASK],eine,0.00035677661071531475
+manchmal als Menagerie  Eine Menagerie war eine [MASK],Sammlung,0.0007280520512722433
+als Menagerie  Eine Menagerie war eine Sammlung [MASK],verschiedener,0.0027582556940615177
+Menagerie  Eine Menagerie war eine Sammlung verschiedener [MASK],Tiere,0.0017499562818557024
+ Eine Menagerie war eine Sammlung verschiedener Tiere [MASK],,8.264881898867316e-07
+Eine Menagerie war eine Sammlung verschiedener Tiere  [MASK],und,0.0008526070741936564
+Menagerie war eine Sammlung verschiedener Tiere  und [MASK],wirklich,1.7236900475836592e-06
+war eine Sammlung verschiedener Tiere  und wirklich [MASK],,1.5563049373668036e-06
+eine Sammlung verschiedener Tiere  und wirklich  [MASK],Sofie,1.950698788277805e-06
+Sammlung verschiedener Tiere  und wirklich  Sofie [MASK],war,9.129071258939803e-06
+verschiedener Tiere  und wirklich  Sofie war [MASK],mit,0.00028747529722750187
+Tiere  und wirklich  Sofie war mit [MASK],ihrer,0.0005560092395171523
+ und wirklich  Sofie war mit ihrer [MASK],eigenen,0.0016646989388391376
+und wirklich  Sofie war mit ihrer eigenen [MASK],Sammlung,0.0021935601253062487
+wirklich  Sofie war mit ihrer eigenen Sammlung [MASK],recht,0.0003372569917701185
+ Sofie war mit ihrer eigenen Sammlung recht [MASK],zufrieden,0.07705480605363846
+Sofie war mit ihrer eigenen Sammlung recht zufrieden [MASK],,3.1360919194867165e-08
+war mit ihrer eigenen Sammlung recht zufrieden  [MASK],Zuerst,8.727117695173092e-09
+mit ihrer eigenen Sammlung recht zufrieden  Zuerst [MASK],hatte,0.0002039375394815579
+ihrer eigenen Sammlung recht zufrieden  Zuerst hatte [MASK],sie,0.003485763678327203
+eigenen Sammlung recht zufrieden  Zuerst hatte sie [MASK],ein,0.0019808898214250803
+Sammlung recht zufrieden  Zuerst hatte sie ein [MASK],Glas,0.002344694687053561
+recht zufrieden  Zuerst hatte sie ein Glas [MASK],mit,0.0005042749107815325
+zufrieden  Zuerst hatte sie ein Glas mit [MASK],den,0.0004960681544616818
+ Zuerst hatte sie ein Glas mit den [MASK],Goldfischen,3.9234507198671054e-07
+Zuerst hatte sie ein Glas mit den Goldfischen [MASK],Goldlöckchen,0.0005556287942454219
+hatte sie ein Glas mit den Goldfischen Goldlöckchen [MASK],Rotkäppchen,1.497635730629554e-05
+sie ein Glas mit den Goldfischen Goldlöckchen Rotkäppchen [MASK],und,0.0017104742582887411
+ein Glas mit den Goldfischen Goldlöckchen Rotkäppchen und [MASK],Schwarzer,0.0001725391048239544
+Glas mit den Goldfischen Goldlöckchen Rotkäppchen und Schwarzer [MASK],Peter,0.006788439583033323
+mit den Goldfischen Goldlöckchen Rotkäppchen und Schwarzer Peter [MASK],bekommen,1.5659625205444172e-05
+den Goldfischen Goldlöckchen Rotkäppchen und Schwarzer Peter bekommen [MASK],,1.447931822440296e-06
+Goldfischen Goldlöckchen Rotkäppchen und Schwarzer Peter bekommen  [MASK],Dann,3.5558693980419775e-06
+Goldlöckchen Rotkäppchen und Schwarzer Peter bekommen  Dann [MASK],kamen,2.326321009604726e-05
+Rotkäppchen und Schwarzer Peter bekommen  Dann kamen [MASK],die,0.001207509427331388
+und Schwarzer Peter bekommen  Dann kamen die [MASK],Wellensittiche,0.0025986970867961645
+Schwarzer Peter bekommen  Dann kamen die Wellensittiche [MASK],Tom,1.2349902362984722e-06
+Peter bekommen  Dann kamen die Wellensittiche Tom [MASK],und,0.0020520114339888096
+bekommen  Dann kamen die Wellensittiche Tom und [MASK],Jerry,0.025981539860367775
+ Dann kamen die Wellensittiche Tom und Jerry [MASK],,6.252065531953122e-07
+Dann kamen die Wellensittiche Tom und Jerry  [MASK],die,4.0709161112317815e-05
+kamen die Wellensittiche Tom und Jerry  die [MASK],Schildkröte,1.982237517950125e-05
+die Wellensittiche Tom und Jerry  die Schildkröte [MASK],Govinda,3.3261133012274513e-06
+Wellensittiche Tom und Jerry  die Schildkröte Govinda [MASK],,2.0500750963492465e-07
+Tom und Jerry  die Schildkröte Govinda  [MASK],und,0.0007672461215406656
+und Jerry  die Schildkröte Govinda  und [MASK],schliesslich,2.839270200638566e-05
+Jerry  die Schildkröte Govinda  und schliesslich [MASK],noch,0.0002092903305310756
+ die Schildkröte Govinda  und schliesslich noch [MASK],die,0.0036191940307617188
+die Schildkröte Govinda  und schliesslich noch die [MASK],gelbbraune,4.9382171710021794e-05
+Schildkröte Govinda  und schliesslich noch die gelbbraune [MASK],Tigerkatze,0.0003322942357044667
+Govinda  und schliesslich noch die gelbbraune Tigerkatze [MASK],Sherekan,2.949359156900755e-07
+ und schliesslich noch die gelbbraune Tigerkatze Sherekan [MASK],dazu,0.0002529729390516877
+und schliesslich noch die gelbbraune Tigerkatze Sherekan dazu [MASK],,2.8488199177445495e-07

@@ -1,0 +1,642 @@
+Context,Entropy
+       Ich [MASK],1.5418430858214645
+      Ich fürchte [MASK],1.1821124934693867
+     Ich fürchte Sie [MASK],0.8582868853534251
+    Ich fürchte Sie müssen [MASK],1.2194418213967169
+   Ich fürchte Sie müssen vorher [MASK],1.278322259125073
+  Ich fürchte Sie müssen vorher mit [MASK],1.3973684814987883
+ Ich fürchte Sie müssen vorher mit einer [MASK],1.309650282614027
+Ich fürchte Sie müssen vorher mit einer Sense [MASK],1.520279944647058
+fürchte Sie müssen vorher mit einer Sense ran [MASK],1.5959555528331781
+Sie müssen vorher mit einer Sense ran  [MASK],1.552461342947895
+müssen vorher mit einer Sense ran  meinte [MASK],1.5219004894617445
+vorher mit einer Sense ran  meinte Theo [MASK],0.32190887022162706
+mit einer Sense ran  meinte Theo  [MASK],0.30134193129500414
+einer Sense ran  meinte Theo  Sie [MASK],1.1933980178685264
+Sense ran  meinte Theo  Sie seufzte [MASK],1.537351341592555
+ran  meinte Theo  Sie seufzte  [MASK],1.483462004633344
+ meinte Theo  Sie seufzte  Und [MASK],1.5318334333560384
+meinte Theo  Sie seufzte  Und wo [MASK],1.60529801243886
+Theo  Sie seufzte  Und wo bekomme [MASK],1.0486472988863016
+ Sie seufzte  Und wo bekomme ich [MASK],1.5141083456318103
+Sie seufzte  Und wo bekomme ich jetzt [MASK],1.5912873577866966
+seufzte  Und wo bekomme ich jetzt ne [MASK],1.3620666944225808
+ Und wo bekomme ich jetzt ne Sense [MASK],1.584911714939657
+Und wo bekomme ich jetzt ne Sense her [MASK],1.432053842386943
+wo bekomme ich jetzt ne Sense her  [MASK],1.483331720340998
+bekomme ich jetzt ne Sense her  Von [MASK],1.5844321224648277
+ich jetzt ne Sense her  Von mir [MASK],1.4119949828201848
+jetzt ne Sense her  Von mir  [MASK],1.1883847481997476
+ne Sense her  Von mir  Ich [MASK],1.4755805284738723
+Sense her  Von mir  Ich hole [MASK],1.4171848539057157
+her  Von mir  Ich hole sie [MASK],1.4849352251978494
+ Von mir  Ich hole sie  [MASK],1.4556478743265209
+Von mir  Ich hole sie  Prompt [MASK],1.4571106220082592
+mir  Ich hole sie  Prompt  [MASK],1.4146672615891693
+ Ich hole sie  Prompt  setzte [MASK],1.1544591213100066
+Ich hole sie  Prompt  setzte er [MASK],1.5725158399210064
+hole sie  Prompt  setzte er sich [MASK],1.576986074325705
+sie  Prompt  setzte er sich in [MASK],0.6277009769070381
+ Prompt  setzte er sich in Bewegung [MASK],1.3207446536294154
+Prompt  setzte er sich in Bewegung und [MASK],1.4744805809951982
+ setzte er sich in Bewegung und kam [MASK],1.5361400587729914
+setzte er sich in Bewegung und kam kurze [MASK],1.004340957585251
+er sich in Bewegung und kam kurze Zeit [MASK],0.8677932970901763
+sich in Bewegung und kam kurze Zeit später [MASK],1.5731160083421951
+in Bewegung und kam kurze Zeit später mit [MASK],1.477143028466357
+Bewegung und kam kurze Zeit später mit der [MASK],1.4861323241637958
+und kam kurze Zeit später mit der Sense [MASK],1.5925861686355756
+kam kurze Zeit später mit der Sense zurück [MASK],0.6587879531102402
+kurze Zeit später mit der Sense zurück  [MASK],1.3174996322543975
+Zeit später mit der Sense zurück  Oh [MASK],1.2875700257427993
+später mit der Sense zurück  Oh je [MASK],1.430867867899118
+mit der Sense zurück  Oh je  [MASK],1.4776565615386583
+der Sense zurück  Oh je  ist [MASK],1.5489644096944142
+Sense zurück  Oh je  ist die [MASK],1.491400522157457
+zurück  Oh je  ist die riesig [MASK],1.4459535228954152
+ Oh je  ist die riesig  [MASK],1.3662927068272415
+Oh je  ist die riesig  Übervorsichtig [MASK],0.053655361942704295
+je  ist die riesig  Übervorsichtig  [MASK],0.206386888774891
+ ist die riesig  Übervorsichtig  nahm [MASK],1.2512726137550558
+ist die riesig  Übervorsichtig  nahm Marlene [MASK],0.2792190312606961
+die riesig  Übervorsichtig  nahm Marlene das [MASK],1.2592268630199142
+riesig  Übervorsichtig  nahm Marlene das Gerät [MASK],1.4818766252037159
+ Übervorsichtig  nahm Marlene das Gerät entgegen [MASK],0.41049805197116174
+Übervorsichtig  nahm Marlene das Gerät entgegen weil [MASK],1.3052732822482858
+ nahm Marlene das Gerät entgegen weil sie [MASK],1.3724714819589987
+nahm Marlene das Gerät entgegen weil sie fürchtete [MASK],0.6077133028840617
+Marlene das Gerät entgegen weil sie fürchtete  [MASK],0.7574635448862069
+das Gerät entgegen weil sie fürchtete  sich [MASK],1.5974736363825244
+Gerät entgegen weil sie fürchtete  sich an [MASK],0.882283645004617
+entgegen weil sie fürchtete  sich an dem [MASK],1.599229029598644
+weil sie fürchtete  sich an dem scharfen [MASK],1.4934529801497702
+sie fürchtete  sich an dem scharfen langen [MASK],1.4393365242617342
+fürchtete  sich an dem scharfen langen Messer [MASK],1.3444286148199602
+ sich an dem scharfen langen Messer zu [MASK],1.4534123278574664
+sich an dem scharfen langen Messer zu verletzen [MASK],1.5727560151933988
+an dem scharfen langen Messer zu verletzen  [MASK],1.605447196066632
+dem scharfen langen Messer zu verletzen  Sie [MASK],1.2443651671739913
+scharfen langen Messer zu verletzen  Sie hatte [MASK],1.1456257631822915
+langen Messer zu verletzen  Sie hatte keine [MASK],0.5285933560152775
+Messer zu verletzen  Sie hatte keine Ahnung [MASK],0.8586432085088338
+zu verletzen  Sie hatte keine Ahnung  [MASK],1.5451946617803602
+verletzen  Sie hatte keine Ahnung  wie [MASK],1.483021185085243
+ Sie hatte keine Ahnung  wie sie [MASK],1.4801216092666505
+Sie hatte keine Ahnung  wie sie nun [MASK],0.8312674778694576
+hatte keine Ahnung  wie sie nun vorgehen [MASK],1.5961674838979727
+keine Ahnung  wie sie nun vorgehen sollte [MASK],1.3708490928437007
+Ahnung  wie sie nun vorgehen sollte  [MASK],1.4889316488411135
+ wie sie nun vorgehen sollte  Das [MASK],1.5229556991552498
+wie sie nun vorgehen sollte  Das war [MASK],1.5922538477384558
+sie nun vorgehen sollte  Das war Theo [MASK],1.1802388944629252
+nun vorgehen sollte  Das war Theo offenbar [MASK],1.5519447074350323
+vorgehen sollte  Das war Theo offenbar gleich [MASK],0.6630536980259052
+sollte  Das war Theo offenbar gleich klar [MASK],1.5418357245330567
+ Das war Theo offenbar gleich klar  [MASK],1.543348750663838
+Das war Theo offenbar gleich klar  daher [MASK],1.5357330299241017
+war Theo offenbar gleich klar  daher machte [MASK],1.1961166891581876
+Theo offenbar gleich klar  daher machte er [MASK],1.5994853320108793
+offenbar gleich klar  daher machte er es [MASK],1.5530301418660692
+gleich klar  daher machte er es ihr [MASK],1.395670725183545
+klar  daher machte er es ihr vor [MASK],1.226199635795502
+ daher machte er es ihr vor  [MASK],1.2936598530949877
+daher machte er es ihr vor  Bei [MASK],1.1326745343396487
+machte er es ihr vor  Bei ihm [MASK],1.4071189907586223
+er es ihr vor  Bei ihm sah [MASK],1.4475402459469242
+es ihr vor  Bei ihm sah es [MASK],1.539748938034294
+ihr vor  Bei ihm sah es so [MASK],1.2553300809076613
+vor  Bei ihm sah es so einfach [MASK],0.7449295584521618
+ Bei ihm sah es so einfach aus [MASK],1.4613945877648202
+Bei ihm sah es so einfach aus  [MASK],1.4613945877648202
+ihm sah es so einfach aus  aber [MASK],1.4418020644319844
+sah es so einfach aus  aber als [MASK],1.5882612167797312
+es so einfach aus  aber als Marlene [MASK],0.33039066652239046
+so einfach aus  aber als Marlene es [MASK],1.4999521796403203
+einfach aus  aber als Marlene es selbst [MASK],1.3665926433066546
+aus  aber als Marlene es selbst versuchte [MASK],0.6498224727258013
+ aber als Marlene es selbst versuchte  [MASK],0.8096285673038919
+aber als Marlene es selbst versuchte  stellte [MASK],1.1762031763921852
+als Marlene es selbst versuchte  stellte sie [MASK],1.4605580510868659
+Marlene es selbst versuchte  stellte sie sich [MASK],0.9402118872504186
+es selbst versuchte  stellte sie sich so [MASK],1.598506917358311
+selbst versuchte  stellte sie sich so ungeschickt [MASK],1.5874298067307033
+versuchte  stellte sie sich so ungeschickt an [MASK],0.9711446729288725
+ stellte sie sich so ungeschickt an dass [MASK],1.3516452086442952
+stellte sie sich so ungeschickt an dass sie [MASK],1.4752261891120404
+sie sich so ungeschickt an dass sie beinahe [MASK],1.3164391377187201
+sich so ungeschickt an dass sie beinahe Theos [MASK],1.5777393098306414
+so ungeschickt an dass sie beinahe Theos rechte [MASK],1.5127275569842065
+ungeschickt an dass sie beinahe Theos rechte Wade [MASK],1.401614541112198
+an dass sie beinahe Theos rechte Wade erwischte [MASK],0.951831847943696
+dass sie beinahe Theos rechte Wade erwischte  [MASK],0.561090475610606
+sie beinahe Theos rechte Wade erwischte  Geistesgegenwärtig [MASK],0.6483721798591956
+beinahe Theos rechte Wade erwischte  Geistesgegenwärtig  [MASK],0.3366781123912579
+Theos rechte Wade erwischte  Geistesgegenwärtig  konnte [MASK],1.2516735461163693
+rechte Wade erwischte  Geistesgegenwärtig  konnte er [MASK],1.0918657588169949
+Wade erwischte  Geistesgegenwärtig  konnte er im [MASK],1.4106108716100618
+erwischte  Geistesgegenwärtig  konnte er im letzten [MASK],1.505322478460693
+ Geistesgegenwärtig  konnte er im letzten Moment [MASK],1.5056976089869902
+Geistesgegenwärtig  konnte er im letzten Moment  [MASK],1.5056976089869902
+ konnte er im letzten Moment  gerade [MASK],1.533015048027917
+konnte er im letzten Moment  gerade noch [MASK],1.5550698307617292
+er im letzten Moment  gerade noch zur [MASK],1.38573420339648
+im letzten Moment  gerade noch zur Seite [MASK],1.2570173816567347
+letzten Moment  gerade noch zur Seite springen [MASK],1.564572503910411
+Moment  gerade noch zur Seite springen  [MASK],1.5667005159210101
+ gerade noch zur Seite springen  Das [MASK],1.20762629655719
+gerade noch zur Seite springen  Das müssen [MASK],0.9397084447411053
+noch zur Seite springen  Das müssen wir [MASK],1.4091264577191112
+zur Seite springen  Das müssen wir aber [MASK],1.53991748351172
+Seite springen  Das müssen wir aber noch [MASK],1.2794690976754695
+springen  Das müssen wir aber noch üben [MASK],1.2650862573058588
+ Das müssen wir aber noch üben  [MASK],1.2139743551072457
+Das müssen wir aber noch üben  Er [MASK],1.5326101710355395
+müssen wir aber noch üben  Er grinste [MASK],1.5767501292956432
+wir aber noch üben  Er grinste wieder [MASK],1.5734927350513168
+aber noch üben  Er grinste wieder  [MASK],1.6071488354075512
+noch üben  Er grinste wieder  nahm [MASK],1.59349665469054
+üben  Er grinste wieder  nahm es [MASK],1.3143232744679327
+ Er grinste wieder  nahm es mit [MASK],1.2624615530417829
+Er grinste wieder  nahm es mit Humor [MASK],1.3769645047578418
+grinste wieder  nahm es mit Humor  [MASK],1.5929821570290599
+wieder  nahm es mit Humor  Insgeheim [MASK],1.4181108210113749
+ nahm es mit Humor  Insgeheim hoffte [MASK],1.2945541847985618
+nahm es mit Humor  Insgeheim hoffte Marlene [MASK],0.19094686336771644
+es mit Humor  Insgeheim hoffte Marlene  [MASK],0.26303543338270186
+mit Humor  Insgeheim hoffte Marlene  Theo [MASK],0.24154292228197816
+Humor  Insgeheim hoffte Marlene  Theo würde [MASK],1.4758594738329887
+ Insgeheim hoffte Marlene  Theo würde ihr [MASK],1.582158519174455
+Insgeheim hoffte Marlene  Theo würde ihr anbieten [MASK],1.4453569611048707
+hoffte Marlene  Theo würde ihr anbieten  [MASK],1.4923261794412834
+Marlene  Theo würde ihr anbieten  die [MASK],1.3582204694825657
+ Theo würde ihr anbieten  die Wiese [MASK],1.5273668203715913
+Theo würde ihr anbieten  die Wiese für [MASK],1.5746156265389135
+würde ihr anbieten  die Wiese für sie [MASK],1.5586353427332564
+ihr anbieten  die Wiese für sie zu [MASK],1.425827729101435
+anbieten  die Wiese für sie zu schneiden [MASK],1.5605851585538917
+ die Wiese für sie zu schneiden  [MASK],1.5163871630333428
+die Wiese für sie zu schneiden  Aber [MASK],1.3826391293004536
+Wiese für sie zu schneiden  Aber das [MASK],1.5358248666626895
+für sie zu schneiden  Aber das tat [MASK],1.4949517137112704
+sie zu schneiden  Aber das tat er [MASK],0.8945400411358603
+zu schneiden  Aber das tat er nicht [MASK],1.609163908681639
+schneiden  Aber das tat er nicht  [MASK],1.4049699211703073
+ Aber das tat er nicht  Ich [MASK],1.581164859164224
+Aber das tat er nicht  Ich gehe [MASK],1.5746102989695079
+das tat er nicht  Ich gehe dann [MASK],1.5357287540434776
+tat er nicht  Ich gehe dann man [MASK],1.4775626691417367
+er nicht  Ich gehe dann man wieder [MASK],1.5126149845759576
+nicht  Ich gehe dann man wieder rüber [MASK],1.600200544748351
+ Ich gehe dann man wieder rüber sagte [MASK],1.532259282888169
+Ich gehe dann man wieder rüber sagte er [MASK],1.5717751983446173
+gehe dann man wieder rüber sagte er  [MASK],1.5660057885805032
+dann man wieder rüber sagte er  Muss [MASK],1.4633721997561877
+man wieder rüber sagte er  Muss noch [MASK],1.4105503975611422
+wieder rüber sagte er  Muss noch giessen [MASK],1.5090549863073355
+rüber sagte er  Muss noch giessen  [MASK],1.5700717323949056
+sagte er  Muss noch giessen  Frohes [MASK],1.4197291487805004
+er  Muss noch giessen  Frohes Schaffen [MASK],1.577333702096737
+ Muss noch giessen  Frohes Schaffen  [MASK],1.4916197954999564
+Muss noch giessen  Frohes Schaffen  Gleichfalls [MASK],1.5563862848990162
+noch giessen  Frohes Schaffen  Gleichfalls erwiderte [MASK],1.5324117289661132
+giessen  Frohes Schaffen  Gleichfalls erwiderte  [MASK],1.5287139439919366
+ Frohes Schaffen  Gleichfalls erwiderte  sie [MASK],1.3059161020066516
+Frohes Schaffen  Gleichfalls erwiderte  sie  [MASK],1.3059161020066516
+Schaffen  Gleichfalls erwiderte  sie  Weg [MASK],1.453743387442787
+ Gleichfalls erwiderte  sie  Weg war [MASK],1.5162659857311418
+Gleichfalls erwiderte  sie  Weg war  [MASK],1.5162659857311418
+erwiderte  sie  Weg war  er [MASK],1.5862189971608949
+ sie  Weg war  er Später [MASK],1.586879576404992
+sie  Weg war  er Später kam [MASK],1.3793344244933448
+ Weg war  er Später kam er [MASK],1.5528021542970827
+Weg war  er Später kam er jedoch [MASK],1.3727483967070442
+war  er Später kam er jedoch nochmal [MASK],1.26754909620501
+ er Später kam er jedoch nochmal kurz [MASK],1.5392959916806843
+er Später kam er jedoch nochmal kurz vorbei [MASK],0.532950570491666
+Später kam er jedoch nochmal kurz vorbei  [MASK],0.13423632708541874
+kam er jedoch nochmal kurz vorbei  und [MASK],1.233495326112715
+er jedoch nochmal kurz vorbei  und brachte [MASK],1.5211215001493772
+jedoch nochmal kurz vorbei  und brachte Marlene [MASK],0.3708357941860996
+nochmal kurz vorbei  und brachte Marlene ein [MASK],1.4830208111818806
+kurz vorbei  und brachte Marlene ein Mettbrötchen [MASK],1.589588392657278
+vorbei  und brachte Marlene ein Mettbrötchen mit [MASK],1.5540693471812057
+ und brachte Marlene ein Mettbrötchen mit Handgelenk [MASK],1.5762975484216644
+und brachte Marlene ein Mettbrötchen mit Handgelenk  [MASK],1.5762975484216644
+brachte Marlene ein Mettbrötchen mit Handgelenk  Zur [MASK],1.3834342064855452
+Marlene ein Mettbrötchen mit Handgelenk  Zur Stärkung [MASK],1.578738349734099
+ein Mettbrötchen mit Handgelenk  Zur Stärkung sagte [MASK],1.4038803173277645
+Mettbrötchen mit Handgelenk  Zur Stärkung sagte  [MASK],1.6060316838949955
+mit Handgelenk  Zur Stärkung sagte  er [MASK],1.5683654288756543
+Handgelenk  Zur Stärkung sagte  er Das [MASK],1.4382844029083277
+ Zur Stärkung sagte  er Das gibt [MASK],1.314955919856606
+Zur Stärkung sagte  er Das gibt Kraft [MASK],1.164166374455732
+Stärkung sagte  er Das gibt Kraft  [MASK],1.309142817739229
+sagte  er Das gibt Kraft  Habe [MASK],1.0855983466515617
+ er Das gibt Kraft  Habe ich [MASK],1.569503950326605
+er Das gibt Kraft  Habe ich heute [MASK],1.4174456059081333
+Das gibt Kraft  Habe ich heute früh [MASK],1.5910445407431664
+gibt Kraft  Habe ich heute früh frisch [MASK],1.4486373173045615
+Kraft  Habe ich heute früh frisch auf [MASK],1.4872758361014347
+ Habe ich heute früh frisch auf dem [MASK],1.564749040837181
+Habe ich heute früh frisch auf dem Markt [MASK],1.5809744106159636
+ich heute früh frisch auf dem Markt gekauft [MASK],1.2663314974834243
+heute früh frisch auf dem Markt gekauft  [MASK],1.5703935410477932
+früh frisch auf dem Markt gekauft  Danke [MASK],0.8123021735072121
+frisch auf dem Markt gekauft  Danke  [MASK],0.9411991775106332
+auf dem Markt gekauft  Danke  Herzhaft [MASK],1.5793470707581971
+dem Markt gekauft  Danke  Herzhaft  [MASK],1.4125162979859227
+Markt gekauft  Danke  Herzhaft  biss [MASK],1.483646261636425
+gekauft  Danke  Herzhaft  biss sie [MASK],1.5533315595306563
+ Danke  Herzhaft  biss sie in [MASK],1.413867909433223
+Danke  Herzhaft  biss sie in das [MASK],1.5721580794993195
+ Herzhaft  biss sie in das Fortkommen [MASK],0.8590831166039783
+Herzhaft  biss sie in das Fortkommen  [MASK],0.8590831166039783
+ biss sie in das Fortkommen  Erst [MASK],1.479497656896385
+biss sie in das Fortkommen  Erst  [MASK],1.479497656896385
+sie in das Fortkommen  Erst  jetzt [MASK],1.6060335326040436
+in das Fortkommen  Erst  jetzt merkte [MASK],1.1058354666318808
+das Fortkommen  Erst  jetzt merkte sie [MASK],1.5420446486173964
+Fortkommen  Erst  jetzt merkte sie wie [MASK],1.4678329624795385
+ Erst  jetzt merkte sie wie hungrig [MASK],1.4763789403106504
+Erst  jetzt merkte sie wie hungrig sie [MASK],0.9095547234239749
+ jetzt merkte sie wie hungrig sie war [MASK],1.1535598135103702
+jetzt merkte sie wie hungrig sie war  [MASK],1.1535598135103702
+merkte sie wie hungrig sie war  Sie [MASK],1.5741752568258314
+sie wie hungrig sie war  Sie fragte [MASK],1.5378913964348147
+wie hungrig sie war  Sie fragte sich [MASK],1.4812685988793626
+hungrig sie war  Sie fragte sich  [MASK],1.2906582536021867
+sie war  Sie fragte sich  ob [MASK],1.5688521782617944
+war  Sie fragte sich  ob Theo [MASK],1.0700793435867249
+ Sie fragte sich  ob Theo wohl [MASK],1.531035832163549
+Sie fragte sich  ob Theo wohl eine [MASK],1.5029079836655954
+fragte sich  ob Theo wohl eine Ehefrau [MASK],1.286587262662514
+sich  ob Theo wohl eine Ehefrau oder [MASK],1.5907301818528987
+ ob Theo wohl eine Ehefrau oder Lebensgefährtin [MASK],1.4729872206932946
+ob Theo wohl eine Ehefrau oder Lebensgefährtin hatte [MASK],1.2348815406150524
+Theo wohl eine Ehefrau oder Lebensgefährtin hatte  [MASK],1.2558260570246516
+wohl eine Ehefrau oder Lebensgefährtin hatte  Kann [MASK],1.5818987652201875
+eine Ehefrau oder Lebensgefährtin hatte  Kann mir [MASK],1.1724351500106058
+Ehefrau oder Lebensgefährtin hatte  Kann mir doch [MASK],1.4720583942947207
+oder Lebensgefährtin hatte  Kann mir doch sowieso [MASK],1.5021590526304793
+Lebensgefährtin hatte  Kann mir doch sowieso egal [MASK],1.1283307919089847
+hatte  Kann mir doch sowieso egal sein [MASK],1.408419807601446
+ Kann mir doch sowieso egal sein  [MASK],1.1034239972097362
+Kann mir doch sowieso egal sein  schalt [MASK],1.4137840535914818
+mir doch sowieso egal sein  schalt sie [MASK],1.5613317208581747
+doch sowieso egal sein  schalt sie sich [MASK],1.5613871180489514
+sowieso egal sein  schalt sie sich  [MASK],1.5684171982309925
+egal sein  schalt sie sich  Ich [MASK],1.5586063558341168
+sein  schalt sie sich  Ich bin [MASK],1.4447921350157935
+ schalt sie sich  Ich bin an [MASK],1.4742842560448606
+schalt sie sich  Ich bin an keiner [MASK],1.0962839268907116
+sie sich  Ich bin an keiner Beziehung [MASK],0.41146042971395524
+sich  Ich bin an keiner Beziehung interessiert [MASK],1.3461185520077068
+ Ich bin an keiner Beziehung interessiert  [MASK],0.985847564406684
+Ich bin an keiner Beziehung interessiert  Verzweifelt [MASK],1.6039187607393675
+bin an keiner Beziehung interessiert  Verzweifelt  [MASK],1.4330321564600568
+an keiner Beziehung interessiert  Verzweifelt  mühte [MASK],1.3284453037600485
+keiner Beziehung interessiert  Verzweifelt  mühte sie [MASK],1.4870208095616355
+Beziehung interessiert  Verzweifelt  mühte sie sich [MASK],1.4875812284347187
+interessiert  Verzweifelt  mühte sie sich mit [MASK],1.565646448910091
+ Verzweifelt  mühte sie sich mit der [MASK],1.4877128927115009
+Verzweifelt  mühte sie sich mit der Sense [MASK],1.5965280766496712
+ mühte sie sich mit der Sense ab [MASK],1.349157498271501
+mühte sie sich mit der Sense ab  [MASK],1.349157498271501
+sie sich mit der Sense ab  Die [MASK],1.5506890768723
+sich mit der Sense ab  Die Arbeit [MASK],1.4550853807376851
+mit der Sense ab  Die Arbeit ging [MASK],1.0978285491771111
+der Sense ab  Die Arbeit ging ihr [MASK],1.310704570888103
+Sense ab  Die Arbeit ging ihr sehr [MASK],1.0719967467688416
+ab  Die Arbeit ging ihr sehr schwer [MASK],1.484131321271981
+ Die Arbeit ging ihr sehr schwer von [MASK],0.27301698550538656
+Die Arbeit ging ihr sehr schwer von der [MASK],1.3071492623773389
+Arbeit ging ihr sehr schwer von der Garten [MASK],1.2439051523479019
+ging ihr sehr schwer von der Garten  [MASK],1.1242570596395904
+ihr sehr schwer von der Garten  Nach [MASK],1.4506615374243939
+sehr schwer von der Garten  Nach mehr [MASK],1.424011475945358
+schwer von der Garten  Nach mehr als [MASK],1.5880225430718036
+von der Garten  Nach mehr als einer [MASK],1.3423835715473575
+der Garten  Nach mehr als einer Stunde [MASK],1.2084682763391117
+Garten  Nach mehr als einer Stunde  [MASK],1.5451111823416754
+ Nach mehr als einer Stunde  sah [MASK],1.243579624999969
+Nach mehr als einer Stunde  sah man [MASK],1.5232590737307583
+mehr als einer Stunde  sah man kaum [MASK],1.5619979704392808
+als einer Stunde  sah man kaum eine [MASK],1.504112993129467
+einer Stunde  sah man kaum eine Besuch [MASK],1.302196525729727
+Stunde  sah man kaum eine Besuch  [MASK],1.3718982295975783
+ sah man kaum eine Besuch  Was [MASK],1.438522977227906
+sah man kaum eine Besuch  Was für [MASK],1.5858067369420414
+man kaum eine Besuch  Was für eine [MASK],1.5521432083536815
+kaum eine Besuch  Was für eine Sisyphusarbeit [MASK],1.5563362320608665
+eine Besuch  Was für eine Sisyphusarbeit  [MASK],1.4840564682377606
+Besuch  Was für eine Sisyphusarbeit  Jetzt [MASK],1.5615210421333339
+ Was für eine Sisyphusarbeit  Jetzt schmerzte [MASK],1.3789607648223148
+Was für eine Sisyphusarbeit  Jetzt schmerzte auch [MASK],1.4742517598419087
+für eine Sisyphusarbeit  Jetzt schmerzte auch noch [MASK],1.5921047689085328
+eine Sisyphusarbeit  Jetzt schmerzte auch noch ihr [MASK],1.5151181973768026
+Sisyphusarbeit  Jetzt schmerzte auch noch ihr rechter [MASK],0.9664423214384854
+ Jetzt schmerzte auch noch ihr rechter Arm [MASK],1.523836524235576
+Jetzt schmerzte auch noch ihr rechter Arm  [MASK],1.523836524235576
+schmerzte auch noch ihr rechter Arm  und [MASK],1.4704914178916724
+auch noch ihr rechter Arm  und das [MASK],1.5869045378371724
+noch ihr rechter Arm  und das Handgelenk [MASK],1.569096008259249
+ihr rechter Arm  und das Handgelenk  [MASK],1.608932779675261
+rechter Arm  und das Handgelenk  Marlene [MASK],0.26969780940768323
+Arm  und das Handgelenk  Marlene hätte [MASK],1.5994662198257525
+ und das Handgelenk  Marlene hätte heulen [MASK],1.4581586486625842
+und das Handgelenk  Marlene hätte heulen können [MASK],1.470640625258959
+das Handgelenk  Marlene hätte heulen können  [MASK],1.4915123523354714
+Handgelenk  Marlene hätte heulen können  Sie [MASK],1.531866062497473
+ Marlene hätte heulen können  Sie hatte [MASK],1.5483320978198414
+Marlene hätte heulen können  Sie hatte keine [MASK],1.356539867987896
+hätte heulen können  Sie hatte keine Ahnung [MASK],1.4101163001354133
+heulen können  Sie hatte keine Ahnung wie [MASK],1.5646226329703408
+können  Sie hatte keine Ahnung wie sie [MASK],1.566078453229454
+ Sie hatte keine Ahnung wie sie es [MASK],1.5408801165287045
+Sie hatte keine Ahnung wie sie es schaffen [MASK],1.558019746996182
+hatte keine Ahnung wie sie es schaffen sollte [MASK],0.8298850688833415
+keine Ahnung wie sie es schaffen sollte die [MASK],1.3944555660453064
+Ahnung wie sie es schaffen sollte die vielen [MASK],1.573854911543702
+wie sie es schaffen sollte die vielen Quadratmeter [MASK],1.5431907768207929
+sie es schaffen sollte die vielen Quadratmeter Rasenfläche [MASK],1.5035268693902157
+es schaffen sollte die vielen Quadratmeter Rasenfläche  [MASK],1.580985943060023
+schaffen sollte die vielen Quadratmeter Rasenfläche  zu [MASK],1.4158556738236636
+sollte die vielen Quadratmeter Rasenfläche  zu kürzen [MASK],1.4952064928018516
+die vielen Quadratmeter Rasenfläche  zu kürzen  [MASK],1.598114608120402
+vielen Quadratmeter Rasenfläche  zu kürzen  aber [MASK],1.5220645325040405
+Quadratmeter Rasenfläche  zu kürzen  aber eins [MASK],0.050230369197771664
+Rasenfläche  zu kürzen  aber eins wusste [MASK],1.5763133666195608
+ zu kürzen  aber eins wusste sie [MASK],1.3019966732529595
+zu kürzen  aber eins wusste sie  [MASK],1.3019966732529595
+kürzen  aber eins wusste sie  für [MASK],1.454472210498791
+ aber eins wusste sie  für  [MASK],1.2635707013833648
+aber eins wusste sie  für  heute [MASK],1.5653890597891067
+eins wusste sie  für  heute hatte [MASK],1.5223624061689307
+wusste sie  für  heute hatte sie [MASK],1.6000085912512043
+sie  für  heute hatte sie jedenfalls [MASK],1.5447768323327433
+ für  heute hatte sie jedenfalls genug [MASK],1.5526669085876184
+für  heute hatte sie jedenfalls genug  [MASK],1.5526669085876184
+ heute hatte sie jedenfalls genug  Am [MASK],1.4765169388464325
+heute hatte sie jedenfalls genug  Am Ende [MASK],1.1619203229030446
+hatte sie jedenfalls genug  Am Ende kriege [MASK],1.5219773348657493
+sie jedenfalls genug  Am Ende kriege ich [MASK],1.5996958144172153
+jedenfalls genug  Am Ende kriege ich noch [MASK],1.532727312863611
+genug  Am Ende kriege ich noch eine [MASK],0.8897537508505682
+ Am Ende kriege ich noch eine Sehnenscheidenentzündung [MASK],1.216490648689199
+Am Ende kriege ich noch eine Sehnenscheidenentzündung dachte [MASK],1.468379991427938
+Ende kriege ich noch eine Sehnenscheidenentzündung dachte sie [MASK],1.5905757456251213
+kriege ich noch eine Sehnenscheidenentzündung dachte sie  [MASK],1.571965202848634
+ich noch eine Sehnenscheidenentzündung dachte sie  und [MASK],1.526718018444583
+noch eine Sehnenscheidenentzündung dachte sie  und entschied [MASK],0.9388408912432752
+eine Sehnenscheidenentzündung dachte sie  und entschied  [MASK],1.0202555000447429
+Sehnenscheidenentzündung dachte sie  und entschied  lieber [MASK],1.5625964286568634
+dachte sie  und entschied  lieber dem [MASK],1.5303235789579999
+sie  und entschied  lieber dem Unkraut [MASK],1.5095332953914338
+ und entschied  lieber dem Unkraut zu [MASK],1.5702456122907955
+und entschied  lieber dem Unkraut zu Leibe [MASK],1.4112722895847123
+entschied  lieber dem Unkraut zu Leibe zu [MASK],0.1959579234148808
+ lieber dem Unkraut zu Leibe zu rücken [MASK],1.3345508393673338
+lieber dem Unkraut zu Leibe zu rücken  [MASK],1.3345508393673338
+dem Unkraut zu Leibe zu rücken  Doch [MASK],1.464255429854306
+Unkraut zu Leibe zu rücken  Doch auch [MASK],1.532886979456547
+zu Leibe zu rücken  Doch auch diese [MASK],1.5107406328772004
+Leibe zu rücken  Doch auch diese Arbeit [MASK],1.3571062612572036
+zu rücken  Doch auch diese Arbeit war [MASK],1.5180752208318653
+rücken  Doch auch diese Arbeit war müssig [MASK],1.4792680865741779
+ Doch auch diese Arbeit war müssig  [MASK],1.3246518908835059
+Doch auch diese Arbeit war müssig  Vogelmiere [MASK],1.5087857325183676
+auch diese Arbeit war müssig  Vogelmiere  [MASK],1.2322191847550552
+diese Arbeit war müssig  Vogelmiere  Löwenzahn [MASK],1.5900429137339436
+Arbeit war müssig  Vogelmiere  Löwenzahn  [MASK],1.4523656366841002
+war müssig  Vogelmiere  Löwenzahn  Giersch [MASK],1.5748594475926985
+müssig  Vogelmiere  Löwenzahn  Giersch  [MASK],1.5432390556495954
+ Vogelmiere  Löwenzahn  Giersch  Brennesseln [MASK],1.5090592227174298
+Vogelmiere  Löwenzahn  Giersch  Brennesseln  [MASK],1.5090592227174298
+ Löwenzahn  Giersch  Brennesseln  und [MASK],1.5790260695414156
+Löwenzahn  Giersch  Brennesseln  und anderes [MASK],1.327765848554054
+ Giersch  Brennesseln  und anderes Gestrüpp [MASK],1.5631581676449573
+Giersch  Brennesseln  und anderes Gestrüpp  [MASK],1.5631581676449573
+ Brennesseln  und anderes Gestrüpp  wucherte [MASK],1.4408152975693538
+Brennesseln  und anderes Gestrüpp  wucherte überall [MASK],1.2032793564013133
+ und anderes Gestrüpp  wucherte überall  [MASK],1.0882061812849217
+und anderes Gestrüpp  wucherte überall  Obwohl [MASK],1.3577214191223126
+anderes Gestrüpp  wucherte überall  Obwohl Marlenes [MASK],1.5181520127199213
+Gestrüpp  wucherte überall  Obwohl Marlenes Eimer [MASK],1.3551586484579219
+ wucherte überall  Obwohl Marlenes Eimer bereits [MASK],1.2444750471598942
+wucherte überall  Obwohl Marlenes Eimer bereits überquoll [MASK],1.398350349847197
+überall  Obwohl Marlenes Eimer bereits überquoll  [MASK],1.573847569744002
+ Obwohl Marlenes Eimer bereits überquoll  sah [MASK],1.1523742049463377
+Obwohl Marlenes Eimer bereits überquoll  sah man [MASK],1.3777108816412118
+Marlenes Eimer bereits überquoll  sah man einfach [MASK],1.5685159099674313
+Eimer bereits überquoll  sah man einfach kein [MASK],1.5264678807467589
+bereits überquoll  sah man einfach kein Fortkommen [MASK],1.249629213518091
+überquoll  sah man einfach kein Fortkommen  [MASK],1.2694839997199725
+ sah man einfach kein Fortkommen  Sie [MASK],1.5820329462014058
+sah man einfach kein Fortkommen  Sie  [MASK],1.5820329462014058
+man einfach kein Fortkommen  Sie  seufzte [MASK],1.537390106693849
+einfach kein Fortkommen  Sie  seufzte  [MASK],1.5567073254009642
+kein Fortkommen  Sie  seufzte  Dann [MASK],1.573464683166092
+Fortkommen  Sie  seufzte  Dann tauchte [MASK],1.5800475317871625
+ Sie  seufzte  Dann tauchte Vera [MASK],1.6061212550454942
+Sie  seufzte  Dann tauchte Vera auf [MASK],1.3182074967457635
+ seufzte  Dann tauchte Vera auf  [MASK],1.4679378382225008
+seufzte  Dann tauchte Vera auf  Ach [MASK],0.500476152011018
+ Dann tauchte Vera auf  Ach  [MASK],0.527664332418538
+Dann tauchte Vera auf  Ach  du [MASK],0.821458763929862
+tauchte Vera auf  Ach  du liebe [MASK],1.4091420501808787
+Vera auf  Ach  du liebe Zeit [MASK],1.1127281581905253
+auf  Ach  du liebe Zeit  [MASK],1.409826476420899
+ Ach  du liebe Zeit  rief [MASK],1.5717101846943358
+Ach  du liebe Zeit  rief die [MASK],1.5394473554792645
+ du liebe Zeit  rief die Freundin [MASK],1.559414659932487
+du liebe Zeit  rief die Freundin schon [MASK],1.470908097865358
+liebe Zeit  rief die Freundin schon von [MASK],1.445380028103595
+Zeit  rief die Freundin schon von Weitem [MASK],1.602644342998774
+ rief die Freundin schon von Weitem  [MASK],1.5886699971494405
+rief die Freundin schon von Weitem  Da [MASK],1.4654003357359169
+die Freundin schon von Weitem  Da hast [MASK],1.507715717399452
+Freundin schon von Weitem  Da hast du [MASK],1.5386682393708553
+schon von Weitem  Da hast du dir [MASK],1.4979320129504279
+von Weitem  Da hast du dir ja [MASK],1.5473930395753734
+Weitem  Da hast du dir ja was [MASK],1.571262914708391
+ Da hast du dir ja was aufgehalst [MASK],1.3783662011376285
+Da hast du dir ja was aufgehalst  [MASK],1.3783662011376285
+hast du dir ja was aufgehalst  Danke [MASK],1.523243922224197
+du dir ja was aufgehalst  Danke für [MASK],1.345590847796449
+dir ja was aufgehalst  Danke für die [MASK],1.5487159312604861
+ja was aufgehalst  Danke für die Motivation [MASK],1.3529932350689953
+was aufgehalst  Danke für die Motivation  [MASK],1.5179880022711716
+aufgehalst  Danke für die Motivation  erwiderte [MASK],1.5925521772721958
+ Danke für die Motivation  erwiderte Marlene [MASK],0.4253590353618597
+Danke für die Motivation  erwiderte Marlene angesäuert [MASK],1.4383054001639524
+für die Motivation  erwiderte Marlene angesäuert  [MASK],1.094122498592616
+die Motivation  erwiderte Marlene angesäuert  Im [MASK],1.4724143244185233
+Motivation  erwiderte Marlene angesäuert  Im Grunde [MASK],1.3374307467347761
+ erwiderte Marlene angesäuert  Im Grunde genommen [MASK],1.5635414695248853
+erwiderte Marlene angesäuert  Im Grunde genommen war [MASK],1.5771628627034529
+Marlene angesäuert  Im Grunde genommen war sie [MASK],1.2808476298780007
+angesäuert  Im Grunde genommen war sie aber [MASK],1.52530128950348
+ Im Grunde genommen war sie aber froh [MASK],1.5587987245788846
+Im Grunde genommen war sie aber froh über [MASK],1.5486903579151976
+Grunde genommen war sie aber froh über Veras [MASK],1.5928135396520458
+genommen war sie aber froh über Veras  [MASK],1.585924089092991
+war sie aber froh über Veras  Besuch [MASK],0.8915387498557265
+sie aber froh über Veras  Besuch  [MASK],0.8411008356981939
+aber froh über Veras  Besuch  Jetzt [MASK],1.5514843724050134
+froh über Veras  Besuch  Jetzt hatte [MASK],1.4026477100773989
+über Veras  Besuch  Jetzt hatte sie [MASK],1.487746819281769
+Veras  Besuch  Jetzt hatte sie wenigstens [MASK],0.9918760134862796
+ Besuch  Jetzt hatte sie wenigstens einen [MASK],1.584068279863144
+Besuch  Jetzt hatte sie wenigstens einen Vorwand [MASK],1.591589885096367
+ Jetzt hatte sie wenigstens einen Vorwand heute [MASK],1.5835545991605147
+Jetzt hatte sie wenigstens einen Vorwand heute nicht [MASK],1.5559666517828519
+hatte sie wenigstens einen Vorwand heute nicht mehr [MASK],1.5456360611413724
+sie wenigstens einen Vorwand heute nicht mehr weiter [MASK],1.3168851004722504
+wenigstens einen Vorwand heute nicht mehr weiter schuften [MASK],1.550667422400441
+einen Vorwand heute nicht mehr weiter schuften zu [MASK],1.4254880517733555
+Vorwand heute nicht mehr weiter schuften zu müssen [MASK],1.0593639081895698
+heute nicht mehr weiter schuften zu müssen  [MASK],1.3396462157438092
+nicht mehr weiter schuften zu müssen  Als [MASK],1.6004017894667564
+mehr weiter schuften zu müssen  Als sie [MASK],1.5957778194393213
+weiter schuften zu müssen  Als sie abends [MASK],1.2961781188399994
+schuften zu müssen  Als sie abends im [MASK],1.402306606538763
+zu müssen  Als sie abends im Bett [MASK],1.048382617851921
+müssen  Als sie abends im Bett lag [MASK],0.8956884404317202
+ Als sie abends im Bett lag  [MASK],1.5019591202023739
+Als sie abends im Bett lag  fand [MASK],1.436507426194444
+sie abends im Bett lag  fand sie [MASK],1.2972710038544875
+abends im Bett lag  fand sie keinen [MASK],0.7912342297423214
+im Bett lag  fand sie keinen Humor [MASK],1.3756337748379623
+Bett lag  fand sie keinen Humor  [MASK],1.324925501440587
+lag  fand sie keinen Humor  Ständig [MASK],1.1919531255368883
+ fand sie keinen Humor  Ständig grübelte [MASK],1.4514339126223286
+fand sie keinen Humor  Ständig grübelte sie [MASK],1.2915767432472425
+sie keinen Humor  Ständig grübelte sie darüber [MASK],1.1523594767776217
+keinen Humor  Ständig grübelte sie darüber nach [MASK],1.4970751769147592
+Humor  Ständig grübelte sie darüber nach wie [MASK],0.43363038896555783
+ Ständig grübelte sie darüber nach wie sie [MASK],1.260691739503476
+Ständig grübelte sie darüber nach wie sie aus [MASK],0.04142488130033322
+grübelte sie darüber nach wie sie aus  [MASK],0.025585764356330955
+sie darüber nach wie sie aus  dieser [MASK],1.5708889892517326
+darüber nach wie sie aus  dieser Wildwuchsparzelle [MASK],1.174689923490114
+nach wie sie aus  dieser Wildwuchsparzelle einen [MASK],1.5518120477124993
+wie sie aus  dieser Wildwuchsparzelle einen passablen [MASK],1.5180045149307357
+sie aus  dieser Wildwuchsparzelle einen passablen Schrebergarten [MASK],1.5954081588290772
+aus  dieser Wildwuchsparzelle einen passablen Schrebergarten zaubern [MASK],1.5570564742318997
+ dieser Wildwuchsparzelle einen passablen Schrebergarten zaubern könnte [MASK],1.4177946258806038
+dieser Wildwuchsparzelle einen passablen Schrebergarten zaubern könnte Wenn [MASK],1.5881989502719263
+Wildwuchsparzelle einen passablen Schrebergarten zaubern könnte Wenn  [MASK],1.5598772635978349
+einen passablen Schrebergarten zaubern könnte Wenn  ich [MASK],1.606067559213205
+passablen Schrebergarten zaubern könnte Wenn  ich in [MASK],1.5616787008894688
+Schrebergarten zaubern könnte Wenn  ich in diesem [MASK],1.5775417984426543
+zaubern könnte Wenn  ich in diesem Jahr [MASK],1.370592615666808
+könnte Wenn  ich in diesem Jahr noch [MASK],1.3495437447867702
+Wenn  ich in diesem Jahr noch etwas [MASK],1.542698647289913
+ ich in diesem Jahr noch etwas ernten [MASK],1.5803046587174954
+ich in diesem Jahr noch etwas ernten will [MASK],0.8704901760554883
+in diesem Jahr noch etwas ernten will  [MASK],1.5858458697248206
+diesem Jahr noch etwas ernten will  muss [MASK],1.5686610488909078
+Jahr noch etwas ernten will  muss ich [MASK],1.475478781346775
+noch etwas ernten will  muss ich mich [MASK],1.5764770820668885
+etwas ernten will  muss ich mich mit [MASK],1.5380376827216016
+ernten will  muss ich mich mit dem [MASK],1.6050399153180017
+will  muss ich mich mit dem Aussäen [MASK],0.912405135499002
+ muss ich mich mit dem Aussäen beeilen [MASK],1.605204683954618
+muss ich mich mit dem Aussäen beeilen  [MASK],1.605204683954618
+ich mich mit dem Aussäen beeilen  überlegte [MASK],0.9944879497396669
+mich mit dem Aussäen beeilen  überlegte sie [MASK],0.9841223546770219
+mit dem Aussäen beeilen  überlegte sie  [MASK],1.3013029232459676
+dem Aussäen beeilen  überlegte sie  Das [MASK],1.0815272620264949
+Aussäen beeilen  überlegte sie  Das Frühjahr [MASK],1.1328595686582394
+beeilen  überlegte sie  Das Frühjahr ist [MASK],1.252267199155266
+ überlegte sie  Das Frühjahr ist ja [MASK],1.3316536900104787
+überlegte sie  Das Frühjahr ist ja schon [MASK],1.1771625167672677
+sie  Das Frühjahr ist ja schon fast [MASK],1.469127939474076
+ Das Frühjahr ist ja schon fast vorbei [MASK],1.4294757469786101
+Das Frühjahr ist ja schon fast vorbei In [MASK],1.5659329017517618
+Frühjahr ist ja schon fast vorbei In  [MASK],1.574171453944694
+ist ja schon fast vorbei In  der [MASK],1.5779685034506636
+ja schon fast vorbei In  der Nacht [MASK],1.543273153291669
+schon fast vorbei In  der Nacht wurde [MASK],1.3495221114841538
+fast vorbei In  der Nacht wurde sie [MASK],1.5506754821655602
+vorbei In  der Nacht wurde sie wach [MASK],1.4683179521687526
+In  der Nacht wurde sie wach  [MASK],1.4003606353724751
+ der Nacht wurde sie wach  Ihr [MASK],1.5947558460314868
+der Nacht wurde sie wach  Ihr war [MASK],1.508316458722903
+Nacht wurde sie wach  Ihr war speiübel [MASK],1.5120120364976009
+wurde sie wach  Ihr war speiübel  [MASK],1.471553902272984
+sie wach  Ihr war speiübel  Sie [MASK],0.5405396302081908
+wach  Ihr war speiübel  Sie musste [MASK],1.5789623658884189
+ Ihr war speiübel  Sie musste sich [MASK],1.581209302382095
+Ihr war speiübel  Sie musste sich mehrfach [MASK],1.558980731416827
+war speiübel  Sie musste sich mehrfach übergeben [MASK],1.3756215246419745
+speiübel  Sie musste sich mehrfach übergeben  [MASK],1.4146706960176338
+ Sie musste sich mehrfach übergeben  Dann [MASK],1.3148408987388178
+Sie musste sich mehrfach übergeben  Dann bekam [MASK],1.437278221127624
+musste sich mehrfach übergeben  Dann bekam sie [MASK],1.448952700556314
+sich mehrfach übergeben  Dann bekam sie auch [MASK],1.5844357048975874
+mehrfach übergeben  Dann bekam sie auch noch [MASK],1.511526500971271
+übergeben  Dann bekam sie auch noch fürchterliche [MASK],1.3125497869332483
+ Dann bekam sie auch noch fürchterliche Bauchschmerzen [MASK],0.6906991526880709
+Dann bekam sie auch noch fürchterliche Bauchschmerzen und [MASK],1.1035529902200825
+bekam sie auch noch fürchterliche Bauchschmerzen und Durchfall [MASK],1.5301027734376027
+sie auch noch fürchterliche Bauchschmerzen und Durchfall  [MASK],1.384438813684142
+auch noch fürchterliche Bauchschmerzen und Durchfall  Sie [MASK],1.5016182243709297
+noch fürchterliche Bauchschmerzen und Durchfall  Sie dachte [MASK],1.5333118095659322
+fürchterliche Bauchschmerzen und Durchfall  Sie dachte an [MASK],1.4252079423228143
+Bauchschmerzen und Durchfall  Sie dachte an das [MASK],1.5652361965536257
+und Durchfall  Sie dachte an das Mettbrötchen [MASK],1.3065052559063128
+Durchfall  Sie dachte an das Mettbrötchen  [MASK],1.4600838282117143
+ Sie dachte an das Mettbrötchen  und [MASK],1.4730520289988833
+Sie dachte an das Mettbrötchen  und musste [MASK],1.580493399045386
+dachte an das Mettbrötchen  und musste direkt [MASK],1.5125172328010494
+an das Mettbrötchen  und musste direkt wieder [MASK],1.4337665602815055
+das Mettbrötchen  und musste direkt wieder erbrechen [MASK],1.319799083901672
+Mettbrötchen  und musste direkt wieder erbrechen  [MASK],0.9858724158770558
+ und musste direkt wieder erbrechen  Drei [MASK],1.5585145368945965
+und musste direkt wieder erbrechen  Drei Tage [MASK],1.3323876154644057
+musste direkt wieder erbrechen  Drei Tage war [MASK],1.5761954865214611
+direkt wieder erbrechen  Drei Tage war sie [MASK],1.079226275393896
+wieder erbrechen  Drei Tage war sie krank [MASK],1.2979531431464837
+erbrechen  Drei Tage war sie krank  [MASK],1.2509120677194283
+ Drei Tage war sie krank  am [MASK],1.5688857447691213
+Drei Tage war sie krank  am vierten [MASK],1.4375651718441291
+Tage war sie krank  am vierten Tag [MASK],1.5129582425586352
+war sie krank  am vierten Tag  [MASK],1.2866030845580798
+sie krank  am vierten Tag  ging [MASK],1.461962689373842
+krank  am vierten Tag  ging es [MASK],0.6835164855817762
+ am vierten Tag  ging es ihr [MASK],0.9436010634292752
+am vierten Tag  ging es ihr zwar [MASK],1.5423434437632468
+vierten Tag  ging es ihr zwar noch [MASK],1.3241547539072658
+Tag  ging es ihr zwar noch nicht [MASK],1.3372801061028723
+ ging es ihr zwar noch nicht richtig [MASK],1.4142615622892833
+ging es ihr zwar noch nicht richtig gut [MASK],1.4059550003704624
+es ihr zwar noch nicht richtig gut  [MASK],1.3716660388100574
+ihr zwar noch nicht richtig gut  sie [MASK],1.4723093982391258
+zwar noch nicht richtig gut  sie raffte [MASK],1.5147007095794327
+noch nicht richtig gut  sie raffte sich [MASK],1.2976081872384646
+nicht richtig gut  sie raffte sich aber [MASK],1.4744639329628444
+richtig gut  sie raffte sich aber dennoch [MASK],1.2516168485500108
+gut  sie raffte sich aber dennoch auf [MASK],1.5099420869993925
+ sie raffte sich aber dennoch auf und [MASK],1.46828200967163
+sie raffte sich aber dennoch auf und fuhr [MASK],1.3522733203529131
+raffte sich aber dennoch auf und fuhr zum [MASK],1.5288515334031199
+sich aber dennoch auf und fuhr zum Garten [MASK],1.5679976387740704
+aber dennoch auf und fuhr zum Garten  [MASK],1.57142722258796
+dennoch auf und fuhr zum Garten  Die [MASK],1.5164349891524065
+auf und fuhr zum Garten  Die frische [MASK],1.4424176995467435
+und fuhr zum Garten  Die frische Luft [MASK],1.4173314509055233
+fuhr zum Garten  Die frische Luft wird [MASK],1.4630129946714927
+zum Garten  Die frische Luft wird mir [MASK],1.5073626830721172
+Garten  Die frische Luft wird mir guttun [MASK],1.5289604118780686
+ Die frische Luft wird mir guttun  [MASK],1.4483764671159254
+Die frische Luft wird mir guttun  Ich [MASK],1.4630912689464965
+frische Luft wird mir guttun  Ich muss [MASK],1.4463499414856689
+Luft wird mir guttun  Ich muss mich [MASK],1.6024811489674684
+wird mir guttun  Ich muss mich ja [MASK],1.5379776689889222
+mir guttun  Ich muss mich ja nicht [MASK],1.2788166116514477
+guttun  Ich muss mich ja nicht gleich [MASK],1.5656717780712957
+ Ich muss mich ja nicht gleich wieder [MASK],1.2818588395103647
+Ich muss mich ja nicht gleich wieder so [MASK],1.4994879726188448
+muss mich ja nicht gleich wieder so verausgaben [MASK],1.1899142731970784
+mich ja nicht gleich wieder so verausgaben  [MASK],1.52926727683346

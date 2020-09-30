@@ -1,0 +1,655 @@
+Context,Word,Probability
+        [MASK],Es,3.394813757040538e-05
+       Es [MASK],war,0.0075367409735918045
+      Es war [MASK],Morgen,0.0002520318957976997
+     Es war Morgen [MASK],,8.129748039209517e-07
+    Es war Morgen  [MASK],und,0.00022845911735203117
+   Es war Morgen  und [MASK],die,0.00014562813157681376
+  Es war Morgen  und die [MASK],neue,3.620412098825909e-05
+ Es war Morgen  und die neue [MASK],Sonne,0.04127486050128937
+Es war Morgen  und die neue Sonne [MASK],,5.804459306091303e-06
+war Morgen  und die neue Sonne  [MASK],flimmerte,3.0379940653801896e-05
+Morgen  und die neue Sonne  flimmerte [MASK],golden,0.008711169473826885
+ und die neue Sonne  flimmerte golden [MASK],über,0.0005964772426523268
+und die neue Sonne  flimmerte golden über [MASK],dem,0.0009377212845720351
+die neue Sonne  flimmerte golden über dem [MASK],Wellengekräusel,6.48797577014193e-05
+neue Sonne  flimmerte golden über dem Wellengekräusel [MASK],der,0.00019377328862901777
+Sonne  flimmerte golden über dem Wellengekräusel der [MASK],stillen,1.4254372899813461e-06
+ flimmerte golden über dem Wellengekräusel der stillen [MASK],,7.711922211939282e-10
+flimmerte golden über dem Wellengekräusel der stillen  [MASK],Vogel,5.6778670113999397e-05
+golden über dem Wellengekräusel der stillen  Vogel [MASK],,1.3062062009794317e-07
+über dem Wellengekräusel der stillen  Vogel  [MASK],Von,4.3450202724670817e-07
+dem Wellengekräusel der stillen  Vogel  Von [MASK],einem,7.70735368860187e-06
+Wellengekräusel der stillen  Vogel  Von einem [MASK],Fischerboot,0.0015380545519292355
+der stillen  Vogel  Von einem Fischerboot [MASK],eine,6.821186161687365e-06
+stillen  Vogel  Von einem Fischerboot eine [MASK],Meile,6.0622514865826815e-05
+ Vogel  Von einem Fischerboot eine Meile [MASK],,2.917907977462164e-07
+Vogel  Von einem Fischerboot eine Meile  [MASK],vor,0.000645583204459399
+ Von einem Fischerboot eine Meile  vor [MASK],der,9.359989780932665e-05
+Von einem Fischerboot eine Meile  vor der [MASK],Küste,0.6054580807685852
+einem Fischerboot eine Meile  vor der Küste [MASK],,1.6412343029514886e-05
+Fischerboot eine Meile  vor der Küste  [MASK],wurden,3.8129516610752034e-07
+eine Meile  vor der Küste  wurden [MASK],die,0.0008085757144726813
+Meile  vor der Küste  wurden die [MASK],Netze,0.0010542279342189431
+ vor der Küste  wurden die Netze [MASK],ausgeworfen,0.0015080021694302559
+vor der Küste  wurden die Netze ausgeworfen [MASK],,3.3580911917852063e-07
+der Küste  wurden die Netze ausgeworfen  [MASK],Blitzschnell,3.356137057153319e-08
+Küste  wurden die Netze ausgeworfen  Blitzschnell [MASK],verbreitete,2.684235369088128e-06
+ wurden die Netze ausgeworfen  Blitzschnell verbreitete [MASK],sich,2.2571774024982005e-05
+wurden die Netze ausgeworfen  Blitzschnell verbreitete sich [MASK],die,0.0019117513438686728
+die Netze ausgeworfen  Blitzschnell verbreitete sich die [MASK],Nachricht,0.03396052122116089
+Netze ausgeworfen  Blitzschnell verbreitete sich die Nachricht [MASK],in,0.0033590709790587425
+ausgeworfen  Blitzschnell verbreitete sich die Nachricht in [MASK],der,0.0016263065626844764
+ Blitzschnell verbreitete sich die Nachricht in der [MASK],Luft,0.0006300884997472167
+Blitzschnell verbreitete sich die Nachricht in der Luft [MASK],,6.026331448083511e-06
+verbreitete sich die Nachricht in der Luft  [MASK],und,0.004236078821122646
+sich die Nachricht in der Luft  und [MASK],lockte,5.350193077902077e-06
+die Nachricht in der Luft  und lockte [MASK],einen,0.002919672057032585
+Nachricht in der Luft  und lockte einen [MASK],Schwarm,7.349610677920282e-05
+in der Luft  und lockte einen Schwarm [MASK],Seemöwen,1.0913728146988433e-05
+der Luft  und lockte einen Schwarm Seemöwen [MASK],an,0.008847913704812527
+Luft  und lockte einen Schwarm Seemöwen an [MASK],,1.0139039829937246e-08
+ und lockte einen Schwarm Seemöwen an  [MASK],Tausende,3.1754600058775395e-05
+und lockte einen Schwarm Seemöwen an  Tausende [MASK],flitzten,4.8981117288349196e-05
+lockte einen Schwarm Seemöwen an  Tausende flitzten [MASK],hin,4.7705438191769645e-05
+einen Schwarm Seemöwen an  Tausende flitzten hin [MASK],und,0.002433136338368058
+Schwarm Seemöwen an  Tausende flitzten hin und [MASK],her,0.965981662273407
+Seemöwen an  Tausende flitzten hin und her [MASK],,4.7097918809413386e-07
+an  Tausende flitzten hin und her  [MASK],und,0.0013720334973186255
+ Tausende flitzten hin und her  und [MASK],balgten,2.225637445008033e-06
+Tausende flitzten hin und her  und balgten [MASK],sich,0.016119444742798805
+flitzten hin und her  und balgten sich [MASK],,1.7475365439167945e-06
+hin und her  und balgten sich  [MASK],kreischend,8.09454832051415e-06
+und her  und balgten sich  kreischend [MASK],um,0.016183963045477867
+her  und balgten sich  kreischend um [MASK],ein,0.006033360492438078
+ und balgten sich  kreischend um ein [MASK],paar,0.0038760602474212646
+und balgten sich  kreischend um ein paar [MASK],Kreise,0.004962671548128128
+balgten sich  kreischend um ein paar Kreise [MASK],,1.5063059208841878e-06
+sich  kreischend um ein paar Kreise  [MASK],Ein,8.991223694465589e-07
+ kreischend um ein paar Kreise  Ein [MASK],neuer,1.7992789480558713e-06
+kreischend um ein paar Kreise  Ein neuer [MASK],Tag,0.0015205730451270938
+um ein paar Kreise  Ein neuer Tag [MASK],voller,0.0014873158652335405
+ein paar Kreise  Ein neuer Tag voller [MASK],Geschäftigkeit,4.057446858496405e-05
+paar Kreise  Ein neuer Tag voller Geschäftigkeit [MASK],,2.6636014808900654e-05
+Kreise  Ein neuer Tag voller Geschäftigkeit  [MASK],hatte,2.890988298531738e-06
+ Ein neuer Tag voller Geschäftigkeit  hatte [MASK],begonnen,0.5320383906364441
+Ein neuer Tag voller Geschäftigkeit  hatte begonnen [MASK],,1.312378969942074e-07
+neuer Tag voller Geschäftigkeit  hatte begonnen  [MASK],Nur,1.982356856444767e-08
+Tag voller Geschäftigkeit  hatte begonnen  Nur [MASK],ganz,9.802800923353061e-05
+voller Geschäftigkeit  hatte begonnen  Nur ganz [MASK],draussen,1.864040996224503e-06
+Geschäftigkeit  hatte begonnen  Nur ganz draussen [MASK],,4.110023894554615e-07
+ hatte begonnen  Nur ganz draussen  [MASK],weit,8.03526199888438e-05
+hatte begonnen  Nur ganz draussen  weit [MASK],,9.678889227870968e-07
+begonnen  Nur ganz draussen  weit  [MASK],weit,0.0003433250531088561
+ Nur ganz draussen  weit  weit [MASK],von,0.001059236004948616
+Nur ganz draussen  weit  weit von [MASK],Boot,3.3279663966823136e-06
+ganz draussen  weit  weit von Boot [MASK],und,0.0008953774231486022
+draussen  weit  weit von Boot und [MASK],Küste,0.005695126950740814
+ weit  weit von Boot und Küste [MASK],,9.696284450910753e-07
+weit  weit von Boot und Küste  [MASK],entfernt,0.938630998134613
+ weit von Boot und Küste  entfernt [MASK],,5.525279448193032e-06
+weit von Boot und Küste  entfernt  [MASK],zog,4.4190855987835675e-06
+von Boot und Küste  entfernt  zog [MASK],die,0.0038108122535049915
+Boot und Küste  entfernt  zog die [MASK],Möwe,1.141639586421661e-05
+und Küste  entfernt  zog die Möwe [MASK],Jonathan,1.0495382412045728e-05
+Küste  entfernt  zog die Möwe Jonathan [MASK],ganz,3.621061478042975e-05
+ entfernt  zog die Möwe Jonathan ganz [MASK],allein,0.015747306868433952
+entfernt  zog die Möwe Jonathan ganz allein [MASK],ihre,1.4084710528550204e-05
+ zog die Möwe Jonathan ganz allein ihre [MASK],,5.537147823586608e-11
+zog die Möwe Jonathan ganz allein ihre  [MASK],Kreise,0.02090086042881012
+die Möwe Jonathan ganz allein ihre  Kreise [MASK],,4.606869424605975e-06
+Möwe Jonathan ganz allein ihre  Kreise  [MASK],In,7.311302283596888e-07
+Jonathan ganz allein ihre  Kreise  In [MASK],dreissig,6.592219870071858e-05
+ganz allein ihre  Kreise  In dreissig [MASK],Meter,1.4389928765012883e-05
+allein ihre  Kreise  In dreissig Meter [MASK],Höhe,0.032649289816617966
+ihre  Kreise  In dreissig Meter Höhe [MASK],senkte,0.0001980008091777563
+ Kreise  In dreissig Meter Höhe senkte [MASK],sie,0.021686770021915436
+Kreise  In dreissig Meter Höhe senkte sie [MASK],die,0.009050421416759491
+ In dreissig Meter Höhe senkte sie die [MASK],Läufe,0.00021555187413468957
+In dreissig Meter Höhe senkte sie die Läufe [MASK],,2.911788442361285e-06
+dreissig Meter Höhe senkte sie die Läufe  [MASK],hob,6.306671366473893e-06
+Meter Höhe senkte sie die Läufe  hob [MASK],den,0.000540195731446147
+Höhe senkte sie die Läufe  hob den [MASK],Schnabel,0.001213273499161005
+senkte sie die Läufe  hob den Schnabel [MASK],und,0.004327699542045593
+sie die Läufe  hob den Schnabel und [MASK],versuchte,0.0004777268914040178
+die Läufe  hob den Schnabel und versuchte [MASK],schwebend,2.306001988472417e-05
+Läufe  hob den Schnabel und versuchte schwebend [MASK],eine,0.0011350990971550345
+ hob den Schnabel und versuchte schwebend eine [MASK],ganz,8.514196088071913e-05
+hob den Schnabel und versuchte schwebend eine ganz [MASK],enge,0.0068807159550487995
+den Schnabel und versuchte schwebend eine ganz enge [MASK],Kurve,0.011306934989988804
+Schnabel und versuchte schwebend eine ganz enge Kurve [MASK],zu,0.030284538865089417
+und versuchte schwebend eine ganz enge Kurve zu [MASK],beschreiben,0.005501429550349712
+versuchte schwebend eine ganz enge Kurve zu beschreiben [MASK],,6.998363346610859e-07
+schwebend eine ganz enge Kurve zu beschreiben  [MASK],Die,4.317842012824258e-06
+eine ganz enge Kurve zu beschreiben  Die [MASK],Wendung,6.051648597349413e-06
+ganz enge Kurve zu beschreiben  Die Wendung [MASK],verringerte,9.216448961524293e-05
+enge Kurve zu beschreiben  Die Wendung verringerte [MASK],die,0.004162163939327002
+Kurve zu beschreiben  Die Wendung verringerte die [MASK],Futter,1.316936959483428e-06
+zu beschreiben  Die Wendung verringerte die Futter [MASK],,6.691924792079362e-10
+beschreiben  Die Wendung verringerte die Futter  [MASK],Jonathan,1.614327231891366e-07
+ Die Wendung verringerte die Futter  Jonathan [MASK],hielt,2.9683012598979985e-06
+Die Wendung verringerte die Futter  Jonathan hielt [MASK],so,0.0001291261287406087
+Wendung verringerte die Futter  Jonathan hielt so [MASK],lange,0.04040364921092987
+verringerte die Futter  Jonathan hielt so lange [MASK],durch,0.002095288597047329
+die Futter  Jonathan hielt so lange durch [MASK],,2.997120773784445e-09
+Futter  Jonathan hielt so lange durch  [MASK],bis,0.00013000112085137516
+ Jonathan hielt so lange durch  bis [MASK],das,0.00025291781639680266
+Jonathan hielt so lange durch  bis das [MASK],Sausen,8.598360182077158e-06
+hielt so lange durch  bis das Sausen [MASK],der,0.00012160716869402677
+so lange durch  bis das Sausen der [MASK],Zugluft,4.575659113470465e-05
+lange durch  bis das Sausen der Zugluft [MASK],um,0.0005425905110314488
+durch  bis das Sausen der Zugluft um [MASK],seinen,6.320896500255913e-05
+ bis das Sausen der Zugluft um seinen [MASK],Kopf,0.02573145553469658
+bis das Sausen der Zugluft um seinen Kopf [MASK],nur,4.507063204073347e-05
+das Sausen der Zugluft um seinen Kopf nur [MASK],noch,0.02164984866976738
+Sausen der Zugluft um seinen Kopf nur noch [MASK],ein,0.0015883393352851272
+der Zugluft um seinen Kopf nur noch ein [MASK],leises,9.005814354168251e-05
+Zugluft um seinen Kopf nur noch ein leises [MASK],Flüstern,8.262261690106243e-05
+um seinen Kopf nur noch ein leises Flüstern [MASK],war,4.3108801037305966e-05
+seinen Kopf nur noch ein leises Flüstern war [MASK],,1.3466436939779669e-05
+Kopf nur noch ein leises Flüstern war  [MASK],und,0.00046844311873428524
+nur noch ein leises Flüstern war  und [MASK],der,0.00032443966483697295
+noch ein leises Flüstern war  und der [MASK],Ozean,0.00022517821344081312
+ein leises Flüstern war  und der Ozean [MASK],unter,0.0008098128600977361
+leises Flüstern war  und der Ozean unter [MASK],ihm,0.00019958642951678485
+Flüstern war  und der Ozean unter ihm [MASK],stillzustehen,0.00017548160394653678
+war  und der Ozean unter ihm stillzustehen [MASK],schien,0.3437897562980652
+ und der Ozean unter ihm stillzustehen schien [MASK],,5.749992396886228e-06
+und der Ozean unter ihm stillzustehen schien  [MASK],In,4.2307854641876474e-07
+der Ozean unter ihm stillzustehen schien  In [MASK],äusserster,4.545106094155926e-06
+Ozean unter ihm stillzustehen schien  In äusserster [MASK],Konzentration,0.0008217863505706191
+unter ihm stillzustehen schien  In äusserster Konzentration [MASK],,6.712550202792045e-06
+ihm stillzustehen schien  In äusserster Konzentration  [MASK],machte,5.838979632244445e-06
+stillzustehen schien  In äusserster Konzentration  machte [MASK],er,0.0011468019802123308
+schien  In äusserster Konzentration  machte er [MASK],die,0.0025046442169696093
+ In äusserster Konzentration  machte er die [MASK],Augen,0.0006924333283677697
+In äusserster Konzentration  machte er die Augen [MASK],schmal,5.857636278960854e-05
+äusserster Konzentration  machte er die Augen schmal [MASK],,3.001831601068261e-07
+Konzentration  machte er die Augen schmal  [MASK],hielt,1.1735565408343973e-07
+ machte er die Augen schmal  hielt [MASK],den,2.6440662622917444e-05
+machte er die Augen schmal  hielt den [MASK],Atem,0.005939975380897522
+er die Augen schmal  hielt den Atem [MASK],an,0.0021633137948811054
+die Augen schmal  hielt den Atem an [MASK],,2.5702407313588083e-08
+Augen schmal  hielt den Atem an  [MASK],erzwang,3.0201390277539986e-09
+schmal  hielt den Atem an  erzwang [MASK],noch,1.5642990547348745e-05
+ hielt den Atem an  erzwang noch [MASK],,2.195154138462385e-06
+hielt den Atem an  erzwang noch  [MASK],ein,0.0006922250031493604
+den Atem an  erzwang noch  ein [MASK],,1.0478574674621655e-09
+Atem an  erzwang noch  ein  [MASK],einziges,0.0013819418381899595
+an  erzwang noch  ein  einziges [MASK],,5.013545134602282e-09
+ erzwang noch  ein  einziges  [MASK],kleines,6.934537395864027e-06
+erzwang noch  ein  einziges  kleines [MASK],,1.2865198906197861e-09
+noch  ein  einziges  kleines  [MASK],Stück,0.0742448940873146
+ ein  einziges  kleines  Stück [MASK],,2.7876076273969375e-06
+ein  einziges  kleines  Stück  [MASK],dann,4.550453741103411e-05
+ einziges  kleines  Stück  dann [MASK],sträubte,0.00010506577382329851
+einziges  kleines  Stück  dann sträubte [MASK],sich,0.0018409246113151312
+ kleines  Stück  dann sträubte sich [MASK],das,0.0018181783379986882
+kleines  Stück  dann sträubte sich das [MASK],Gefieder,1.5673784218961373e-05
+ Stück  dann sträubte sich das Gefieder [MASK],,2.2183518012752756e-05
+Stück  dann sträubte sich das Gefieder  [MASK],er,4.715094837592915e-05
+ dann sträubte sich das Gefieder  er [MASK],sackte,9.71200847743603e-07
+dann sträubte sich das Gefieder  er sackte [MASK],durch,0.00018101304885931313
+sträubte sich das Gefieder  er sackte durch [MASK],und,0.0006382630090229213
+sich das Gefieder  er sackte durch und [MASK],kippte,0.0014257399598136544
+das Gefieder  er sackte durch und kippte [MASK],ab,0.016537560150027275
+Gefieder  er sackte durch und kippte ab [MASK],,1.0070018419128246e-07
+ er sackte durch und kippte ab  [MASK],Niemals,2.5625713107046977e-08
+er sackte durch und kippte ab  Niemals [MASK],,4.6233319039856724e-07
+sackte durch und kippte ab  Niemals  [MASK],dürfen,8.860761226969771e-07
+durch und kippte ab  Niemals  dürfen [MASK],Seemöwen,0.00019682802667375654
+und kippte ab  Niemals  dürfen Seemöwen [MASK],aufhören,0.0003273614856880158
+kippte ab  Niemals  dürfen Seemöwen aufhören [MASK],zu,0.00029376367456279695
+ab  Niemals  dürfen Seemöwen aufhören zu [MASK],schweben,4.8102887376444414e-05
+ Niemals  dürfen Seemöwen aufhören zu schweben [MASK],oder,0.00012891259393654764
+Niemals  dürfen Seemöwen aufhören zu schweben oder [MASK],zu,0.004531136713922024
+ dürfen Seemöwen aufhören zu schweben oder zu [MASK],,3.3853829961572046e-08
+dürfen Seemöwen aufhören zu schweben oder zu  [MASK],fliegen,0.03779086098074913
+Seemöwen aufhören zu schweben oder zu  fliegen [MASK],,7.270734840858495e-07
+aufhören zu schweben oder zu  fliegen  [MASK],niemals,1.1657693903543986e-05
+zu schweben oder zu  fliegen  niemals [MASK],,1.5018774774944177e-06
+schweben oder zu  fliegen  niemals  [MASK],dürfen,0.0035067088901996613
+oder zu  fliegen  niemals  dürfen [MASK],sie,0.000371129484847188
+zu  fliegen  niemals  dürfen sie [MASK],absacken,5.8784829889191315e-05
+ fliegen  niemals  dürfen sie absacken [MASK],,6.405070962500758e-08
+fliegen  niemals  dürfen sie absacken  [MASK],Für,6.876315072901207e-09
+ niemals  dürfen sie absacken  Für [MASK],eine,0.0008897411753423512
+niemals  dürfen sie absacken  Für eine [MASK],Möwe,8.73746375873452e-06
+ dürfen sie absacken  Für eine Möwe [MASK],bedeutet,4.357894795248285e-05
+dürfen sie absacken  Für eine Möwe bedeutet [MASK],das,0.010291830636560917
+sie absacken  Für eine Möwe bedeutet das [MASK],Schmach,1.0926257346000057e-05
+absacken  Für eine Möwe bedeutet das Schmach [MASK],und,0.0004783965414389968
+ Für eine Möwe bedeutet das Schmach und [MASK],Welt,2.172332096961327e-05
+Für eine Möwe bedeutet das Schmach und Welt [MASK],,4.592469693420753e-08
+eine Möwe bedeutet das Schmach und Welt  [MASK],Aber,1.3359406693780329e-05
+Möwe bedeutet das Schmach und Welt  Aber [MASK],die,5.706243246095255e-05
+bedeutet das Schmach und Welt  Aber die [MASK],Möwe,1.53136788867414e-05
+das Schmach und Welt  Aber die Möwe [MASK],Jonathan,2.4228032998507842e-05
+Schmach und Welt  Aber die Möwe Jonathan [MASK],,6.409453021660738e-07
+und Welt  Aber die Möwe Jonathan  [MASK],die,0.0002887495211325586
+Welt  Aber die Möwe Jonathan  die [MASK],da,7.433323480654508e-05
+ Aber die Möwe Jonathan  die da [MASK],so,3.435694088693708e-05
+Aber die Möwe Jonathan  die da so [MASK],ungeniert,1.1762651411117986e-05
+die Möwe Jonathan  die da so ungeniert [MASK],und,0.000801687128841877
+Möwe Jonathan  die da so ungeniert und [MASK],ohne,0.0004966841661371291
+Jonathan  die da so ungeniert und ohne [MASK],Zaudern,1.91191679732583e-06
+ die da so ungeniert und ohne Zaudern [MASK],nochmals,3.5436883081274573e-06
+die da so ungeniert und ohne Zaudern nochmals [MASK],mit,0.00022507425455842167
+da so ungeniert und ohne Zaudern nochmals mit [MASK],ausgespannten,3.8606485759373754e-06
+so ungeniert und ohne Zaudern nochmals mit ausgespannten [MASK],Flügeln,0.0008269015233963728
+ungeniert und ohne Zaudern nochmals mit ausgespannten Flügeln [MASK],die,6.68783686705865e-05
+und ohne Zaudern nochmals mit ausgespannten Flügeln die [MASK],schwierige,0.0001364221825497225
+ohne Zaudern nochmals mit ausgespannten Flügeln die schwierige [MASK],Kurve,0.0043993438594043255
+Zaudern nochmals mit ausgespannten Flügeln die schwierige Kurve [MASK],,1.8289783838554285e-05
+nochmals mit ausgespannten Flügeln die schwierige Kurve  [MASK],versuchte,3.469120929366909e-05
+mit ausgespannten Flügeln die schwierige Kurve  versuchte [MASK],,7.976869369485939e-07
+ausgespannten Flügeln die schwierige Kurve  versuchte  [MASK],und,0.0016743760788813233
+Flügeln die schwierige Kurve  versuchte  und [MASK],immer,0.00012612012505996972
+die schwierige Kurve  versuchte  und immer [MASK],langsamer,0.1280679702758789
+schwierige Kurve  versuchte  und immer langsamer [MASK],werdend,0.000842141977045685
+Kurve  versuchte  und immer langsamer werdend [MASK],wieder,0.001040350878611207
+ versuchte  und immer langsamer werdend wieder [MASK],absackte,1.5174457075772807e-05
+versuchte  und immer langsamer werdend wieder absackte [MASK],,3.063762132882175e-09
+ und immer langsamer werdend wieder absackte  [MASK],war,8.380247163586318e-05
+und immer langsamer werdend wieder absackte  war [MASK],kein,6.787671736674383e-05
+immer langsamer werdend wieder absackte  war kein [MASK],gewöhnlicher,6.685648259008303e-05
+langsamer werdend wieder absackte  war kein gewöhnlicher [MASK],,4.824476373954667e-10
+werdend wieder absackte  war kein gewöhnlicher  [MASK],Vogel,0.0005509820184670389
+wieder absackte  war kein gewöhnlicher  Vogel [MASK],,2.248335249532829e-06
+absackte  war kein gewöhnlicher  Vogel  [MASK],Die,5.286798341330723e-07
+ war kein gewöhnlicher  Vogel  Die [MASK],meisten,0.0016501289792358875
+war kein gewöhnlicher  Vogel  Die meisten [MASK],Möwen,2.5610056582081597e-06
+kein gewöhnlicher  Vogel  Die meisten Möwen [MASK],begnügen,1.7588872935903055e-07
+gewöhnlicher  Vogel  Die meisten Möwen begnügen [MASK],sich,0.428477019071579
+ Vogel  Die meisten Möwen begnügen sich [MASK],mit,0.006973812356591225
+Vogel  Die meisten Möwen begnügen sich mit [MASK],den,0.0003811321221292019
+ Die meisten Möwen begnügen sich mit den [MASK],einfachsten,3.07521695503965e-05
+Die meisten Möwen begnügen sich mit den einfachsten [MASK],Grundbegriffen,3.59435252903495e-05
+meisten Möwen begnügen sich mit den einfachsten Grundbegriffen [MASK],des,3.7173776945564896e-05
+Möwen begnügen sich mit den einfachsten Grundbegriffen des [MASK],Fliegens,6.835052772657946e-05
+begnügen sich mit den einfachsten Grundbegriffen des Fliegens [MASK],,3.300090611446649e-06
+sich mit den einfachsten Grundbegriffen des Fliegens  [MASK],sind,1.4646596355305519e-05
+mit den einfachsten Grundbegriffen des Fliegens  sind [MASK],zufrieden,0.0007877051248215139
+den einfachsten Grundbegriffen des Fliegens  sind zufrieden [MASK],von,0.00033262267243117094
+einfachsten Grundbegriffen des Fliegens  sind zufrieden von [MASK],der,0.007306229788810015
+Grundbegriffen des Fliegens  sind zufrieden von der [MASK],Küste,0.0004922274965792894
+des Fliegens  sind zufrieden von der Küste [MASK],zum,7.907821418484673e-05
+Fliegens  sind zufrieden von der Küste zum [MASK],Futter,2.2347592675941996e-05
+ sind zufrieden von der Küste zum Futter [MASK],und,0.0019032470881938934
+sind zufrieden von der Küste zum Futter und [MASK],zurück,0.0004708485212177038
+zufrieden von der Küste zum Futter und zurück [MASK],zu,0.003285410348325968
+von der Küste zum Futter und zurück zu [MASK],kommen,0.0021819404792040586
+der Küste zum Futter und zurück zu kommen [MASK],,2.5253793864976615e-06
+Küste zum Futter und zurück zu kommen  [MASK],Ihnen,5.006244464311749e-06
+zum Futter und zurück zu kommen  Ihnen [MASK],ging,2.872296499845106e-05
+Futter und zurück zu kommen  Ihnen ging [MASK],es,0.011674173176288605
+und zurück zu kommen  Ihnen ging es [MASK],nicht,0.01035589724779129
+zurück zu kommen  Ihnen ging es nicht [MASK],um,0.007644022349268198
+zu kommen  Ihnen ging es nicht um [MASK],die,0.012071930803358555
+kommen  Ihnen ging es nicht um die [MASK],Kunst,0.00018961451132781804
+ Ihnen ging es nicht um die Kunst [MASK],,5.952825858912547e-07
+Ihnen ging es nicht um die Kunst  [MASK],des,0.0006309106247499585
+ging es nicht um die Kunst  des [MASK],Fliegens,0.00011512717901496217
+es nicht um die Kunst  des Fliegens [MASK],,2.528547383917612e-06
+nicht um die Kunst  des Fliegens  [MASK],sondern,0.0002999264688696712
+um die Kunst  des Fliegens  sondern [MASK],um,0.11480270326137543
+die Kunst  des Fliegens  sondern um [MASK],das,0.009309858083724976
+Kunst  des Fliegens  sondern um das [MASK],Futter,0.0005453504854813218
+ des Fliegens  sondern um das Futter [MASK],,3.571952402126044e-05
+des Fliegens  sondern um das Futter  [MASK],Jonathan,1.4577101410395699e-06
+Fliegens  sondern um das Futter  Jonathan [MASK],aber,0.00011700090544763952
+ sondern um das Futter  Jonathan aber [MASK],war,5.1565049943747e-05
+sondern um das Futter  Jonathan aber war [MASK],das,0.003402050118893385
+um das Futter  Jonathan aber war das [MASK],Fressen,3.0401182812056504e-05
+das Futter  Jonathan aber war das Fressen [MASK],unwichtig,3.072048275498673e-05
+Futter  Jonathan aber war das Fressen unwichtig [MASK],,9.912043452686703e-08
+ Jonathan aber war das Fressen unwichtig  [MASK],er,3.0264384349720785e-06
+Jonathan aber war das Fressen unwichtig  er [MASK],wollte,0.00022690628247801214
+aber war das Fressen unwichtig  er wollte [MASK],,4.1620376123319147e-07
+war das Fressen unwichtig  er wollte  [MASK],fliegen,5.966523076494923e-06
+das Fressen unwichtig  er wollte  fliegen [MASK],,7.643117783118214e-07
+Fressen unwichtig  er wollte  fliegen  [MASK],liebte,1.5380179320345633e-05
+unwichtig  er wollte  fliegen  liebte [MASK],es,0.0005435263155959547
+ er wollte  fliegen  liebte es [MASK],mehr,0.00034434747067280114
+er wollte  fliegen  liebte es mehr [MASK],als,0.01836262457072735
+wollte  fliegen  liebte es mehr als [MASK],alles,0.0033434354700148106
+ fliegen  liebte es mehr als alles [MASK],andere,0.11827076971530914
+fliegen  liebte es mehr als alles andere [MASK],auf,0.00012443352898117155
+ liebte es mehr als alles andere auf [MASK],der,0.00010129940346814692
+liebte es mehr als alles andere auf der [MASK],Welt,0.4187392592430115
+es mehr als alles andere auf der Welt [MASK],,1.2274367691134103e-05
+mehr als alles andere auf der Welt  [MASK],Diese,1.022741002998373e-06
+als alles andere auf der Welt  Diese [MASK],Neigung,3.4308022804907523e-06
+alles andere auf der Welt  Diese Neigung [MASK],machte,7.04217964084819e-05
+andere auf der Welt  Diese Neigung machte [MASK],ihn,0.01385883055627346
+auf der Welt  Diese Neigung machte ihn [MASK],bei,4.787649231730029e-06
+der Welt  Diese Neigung machte ihn bei [MASK],den,0.018273187801241875
+Welt  Diese Neigung machte ihn bei den [MASK],übrigen,0.0003481384483166039
+ Diese Neigung machte ihn bei den übrigen [MASK],,4.3076156530652554e-10
+Diese Neigung machte ihn bei den übrigen  [MASK],Vögeln,4.1320650780107826e-05
+Neigung machte ihn bei den übrigen  Vögeln [MASK],nicht,0.0004310001968406141
+machte ihn bei den übrigen  Vögeln nicht [MASK],gerade,0.000894397497177124
+ihn bei den übrigen  Vögeln nicht gerade [MASK],beliebt,0.044613663107156754
+bei den übrigen  Vögeln nicht gerade beliebt [MASK],,3.573708511339646e-07
+den übrigen  Vögeln nicht gerade beliebt  [MASK],das,2.6585244995658286e-05
+übrigen  Vögeln nicht gerade beliebt  das [MASK],merkte,3.789802940445952e-05
+ Vögeln nicht gerade beliebt  das merkte [MASK],er,0.004002668429166079
+Vögeln nicht gerade beliebt  das merkte er [MASK],bald,0.001222786377184093
+nicht gerade beliebt  das merkte er bald [MASK],,1.260198473573837e-06
+gerade beliebt  das merkte er bald  [MASK],Selbst,1.1359867357896292e-06
+beliebt  das merkte er bald  Selbst [MASK],seine,4.212393776015233e-07
+ das merkte er bald  Selbst seine [MASK],Eltern,0.007994826883077621
+das merkte er bald  Selbst seine Eltern [MASK],waren,0.0002786924014799297
+merkte er bald  Selbst seine Eltern waren [MASK],unzufrieden,6.865242903586477e-05
+er bald  Selbst seine Eltern waren unzufrieden [MASK],dass,2.7700971259037033e-05
+bald  Selbst seine Eltern waren unzufrieden dass [MASK],Jonathan,0.000940935977268964
+ Selbst seine Eltern waren unzufrieden dass Jonathan [MASK],ganze,6.013602160237497e-06
+Selbst seine Eltern waren unzufrieden dass Jonathan ganze [MASK],Tage,0.0004357132420409471
+seine Eltern waren unzufrieden dass Jonathan ganze Tage [MASK],mit,0.0008905584109015763
+Eltern waren unzufrieden dass Jonathan ganze Tage mit [MASK],seinen,0.0017914146883413196
+waren unzufrieden dass Jonathan ganze Tage mit seinen [MASK],Experimenten,8.955333760241047e-05
+unzufrieden dass Jonathan ganze Tage mit seinen Experimenten [MASK],im,0.0001238390541402623
+dass Jonathan ganze Tage mit seinen Experimenten im [MASK],tiefen,1.943415918503888e-05
+Jonathan ganze Tage mit seinen Experimenten im tiefen [MASK],Gleitflug,3.0615192372351885e-06
+ganze Tage mit seinen Experimenten im tiefen Gleitflug [MASK],verbrachte,2.8131165890954435e-05
+Tage mit seinen Experimenten im tiefen Gleitflug verbrachte [MASK],,6.44868123345077e-07
+mit seinen Experimenten im tiefen Gleitflug verbrachte  [MASK],und,0.001977577107027173
+seinen Experimenten im tiefen Gleitflug verbrachte  und [MASK],seine,0.002313842996954918
+Experimenten im tiefen Gleitflug verbrachte  und seine [MASK],Übungen,0.0007753223180770874
+im tiefen Gleitflug verbrachte  und seine Übungen [MASK],hundertfach,2.069329411824583e-06
+tiefen Gleitflug verbrachte  und seine Übungen hundertfach [MASK],wiederholte,0.024490846320986748
+Gleitflug verbrachte  und seine Übungen hundertfach wiederholte [MASK],,2.1368997682458257e-09
+verbrachte  und seine Übungen hundertfach wiederholte  [MASK],Er,5.504596629180014e-05
+ und seine Übungen hundertfach wiederholte  Er [MASK],entdeckte,1.5003519138190313e-06
+und seine Übungen hundertfach wiederholte  Er entdeckte [MASK],zum,0.00015906544285826385
+seine Übungen hundertfach wiederholte  Er entdeckte zum [MASK],Beispiel,0.1267383098602295
+Übungen hundertfach wiederholte  Er entdeckte zum Beispiel [MASK],,1.4098120573180495e-06
+hundertfach wiederholte  Er entdeckte zum Beispiel  [MASK],ohne,0.00013903465878684074
+wiederholte  Er entdeckte zum Beispiel  ohne [MASK],den,0.00099167600274086
+ Er entdeckte zum Beispiel  ohne den [MASK],Grund,0.00026185711612924933
+Er entdeckte zum Beispiel  ohne den Grund [MASK],zu,0.00029399374034255743
+entdeckte zum Beispiel  ohne den Grund zu [MASK],wissen,0.016347333788871765
+zum Beispiel  ohne den Grund zu wissen [MASK],,6.88474301568931e-07
+Beispiel  ohne den Grund zu wissen  [MASK],dass,1.4500922588922549e-05
+ ohne den Grund zu wissen  dass [MASK],er,0.017993139103055
+ohne den Grund zu wissen  dass er [MASK],sich,0.008580788038671017
+den Grund zu wissen  dass er sich [MASK],länger,0.00014635569823440164
+Grund zu wissen  dass er sich länger [MASK],und,0.00046010682126507163
+zu wissen  dass er sich länger und [MASK],müheloser,3.1135973586060572e-06
+wissen  dass er sich länger und müheloser [MASK],in,0.0005530694616027176
+ dass er sich länger und müheloser in [MASK],der,0.011052540503442287
+dass er sich länger und müheloser in der [MASK],Luft,0.0017048768931999803
+er sich länger und müheloser in der Luft [MASK],halten,0.009797707200050354
+sich länger und müheloser in der Luft halten [MASK],konnte,0.00029316681320779026
+länger und müheloser in der Luft halten konnte [MASK],,2.090961743306252e-06
+und müheloser in der Luft halten konnte  [MASK],wenn,7.653512511751615e-06
+müheloser in der Luft halten konnte  wenn [MASK],er,0.021776346489787102
+in der Luft halten konnte  wenn er [MASK],ganz,0.0006951323593966663
+der Luft halten konnte  wenn er ganz [MASK],dicht,0.0022371585946530104
+Luft halten konnte  wenn er ganz dicht [MASK],über,0.0003725958813447505
+halten konnte  wenn er ganz dicht über [MASK],dem,0.003101913956925273
+konnte  wenn er ganz dicht über dem [MASK],Wasser,0.0052358792163431644
+ wenn er ganz dicht über dem Wasser [MASK],dahinflog,2.0810995920328423e-05
+wenn er ganz dicht über dem Wasser dahinflog [MASK],,9.570918564349995e-07
+er ganz dicht über dem Wasser dahinflog  [MASK],nur,1.8823490108843544e-06
+ganz dicht über dem Wasser dahinflog  nur [MASK],eine,0.0012549982639029622
+dicht über dem Wasser dahinflog  nur eine [MASK],halbe,0.001981822308152914
+über dem Wasser dahinflog  nur eine halbe [MASK],Spannweite,1.8359305613557808e-06
+dem Wasser dahinflog  nur eine halbe Spannweite [MASK],seiner,2.717493953241501e-05
+Wasser dahinflog  nur eine halbe Spannweite seiner [MASK],Schwingen,5.037969458498992e-05
+dahinflog  nur eine halbe Spannweite seiner Schwingen [MASK],hoch,2.7778240109910257e-05
+ nur eine halbe Spannweite seiner Schwingen hoch [MASK],,4.639392955141375e-06
+nur eine halbe Spannweite seiner Schwingen hoch  [MASK],Dann,5.480245022226882e-07
+eine halbe Spannweite seiner Schwingen hoch  Dann [MASK],endete,1.8257669864851778e-07
+halbe Spannweite seiner Schwingen hoch  Dann endete [MASK],der,0.0028017323929816484
+Spannweite seiner Schwingen hoch  Dann endete der [MASK],Gleitflug,4.002126843261067e-07
+seiner Schwingen hoch  Dann endete der Gleitflug [MASK],nicht,0.001140796928666532
+Schwingen hoch  Dann endete der Gleitflug nicht [MASK],mit,0.0005382755189202726
+hoch  Dann endete der Gleitflug nicht mit [MASK],dem,0.001629265141673386
+ Dann endete der Gleitflug nicht mit dem [MASK],üblichen,0.0002981917932629585
+Dann endete der Gleitflug nicht mit dem üblichen [MASK],Aufplatschen,0.00021401229605544358
+endete der Gleitflug nicht mit dem üblichen Aufplatschen [MASK],der,0.00010098469647346064
+der Gleitflug nicht mit dem üblichen Aufplatschen der [MASK],,4.74895713031831e-11
+Gleitflug nicht mit dem üblichen Aufplatschen der  [MASK],vorgereckten,3.816378921328578e-06
+nicht mit dem üblichen Aufplatschen der  vorgereckten [MASK],Läufe,6.7545870479079895e-06
+mit dem üblichen Aufplatschen der  vorgereckten Läufe [MASK],,1.6736637917347252e-05
+dem üblichen Aufplatschen der  vorgereckten Läufe  [MASK],er,6.414422387024388e-05
+üblichen Aufplatschen der  vorgereckten Läufe  er [MASK],setzte,8.758842886891216e-05
+Aufplatschen der  vorgereckten Läufe  er setzte [MASK],viel,0.0015846823807805777
+der  vorgereckten Läufe  er setzte viel [MASK],mehr,0.005208580754697323
+ vorgereckten Läufe  er setzte viel mehr [MASK],mit,0.0003500322054605931
+vorgereckten Läufe  er setzte viel mehr mit [MASK],stromlinienförmig,1.4656100574939046e-05
+Läufe  er setzte viel mehr mit stromlinienförmig [MASK],,4.044512024847791e-06
+ er setzte viel mehr mit stromlinienförmig  [MASK],dicht,0.00023870449513196945
+er setzte viel mehr mit stromlinienförmig  dicht [MASK],am,0.0019217422232031822
+setzte viel mehr mit stromlinienförmig  dicht am [MASK],Körper,0.0075729102827608585
+viel mehr mit stromlinienförmig  dicht am Körper [MASK],anliegenden,0.002542096422985196
+mehr mit stromlinienförmig  dicht am Körper anliegenden [MASK],,3.5431210743119834e-10
+mit stromlinienförmig  dicht am Körper anliegenden  [MASK],Füssen,1.8561817341833375e-05
+stromlinienförmig  dicht am Körper anliegenden  Füssen [MASK],,4.916155830869684e-06
+ dicht am Körper anliegenden  Füssen  [MASK],in,0.00021589991229120642
+dicht am Körper anliegenden  Füssen  in [MASK],langem,4.071922739967704e-05
+am Körper anliegenden  Füssen  in langem [MASK],flachen,5.440899622044526e-05
+Körper anliegenden  Füssen  in langem flachen [MASK],Gleiten,1.1308396096865181e-05
+anliegenden  Füssen  in langem flachen Gleiten [MASK],auf,0.0009993599960580468
+ Füssen  in langem flachen Gleiten auf [MASK],,2.2484814010681475e-08
+Füssen  in langem flachen Gleiten auf  [MASK],Als,5.57125758859911e-06
+ in langem flachen Gleiten auf  Als [MASK],er,7.396762521238998e-05
+in langem flachen Gleiten auf  Als er [MASK],aber,0.00010771735105663538
+langem flachen Gleiten auf  Als er aber [MASK],dann,0.0007799360319040716
+flachen Gleiten auf  Als er aber dann [MASK],auch,0.005926318932324648
+Gleiten auf  Als er aber dann auch [MASK],bei,0.00041912388405762613
+auf  Als er aber dann auch bei [MASK],Gleitflügen,1.6075209714472294e-05
+ Als er aber dann auch bei Gleitflügen [MASK],über,0.0008764787926338613
+Als er aber dann auch bei Gleitflügen über [MASK],dem,0.001635784050449729
+er aber dann auch bei Gleitflügen über dem [MASK],Strand,0.0005981568247079849
+aber dann auch bei Gleitflügen über dem Strand [MASK],,2.6201716536888853e-05
+dann auch bei Gleitflügen über dem Strand  [MASK],mit,0.00018489727517589927
+auch bei Gleitflügen über dem Strand  mit [MASK],angezogenen,0.00015070608060341328
+bei Gleitflügen über dem Strand  mit angezogenen [MASK],Beinen,0.12645195424556732
+Gleitflügen über dem Strand  mit angezogenen Beinen [MASK],zur,9.316477371612564e-05
+über dem Strand  mit angezogenen Beinen zur [MASK],Landung,0.010411475785076618
+dem Strand  mit angezogenen Beinen zur Landung [MASK],anzusetzen,1.1647130122582894e-05
+Strand  mit angezogenen Beinen zur Landung anzusetzen [MASK],begann,6.217018380993977e-05
+ mit angezogenen Beinen zur Landung anzusetzen begann [MASK],,2.4038724859565264e-06
+mit angezogenen Beinen zur Landung anzusetzen begann  [MASK],und,0.0005100138951092958
+angezogenen Beinen zur Landung anzusetzen begann  und [MASK],hinterher,0.0008796384208835661
+Beinen zur Landung anzusetzen begann  und hinterher [MASK],die,0.000337259320076555
+zur Landung anzusetzen begann  und hinterher die [MASK],Länge,0.0004957653000019491
+Landung anzusetzen begann  und hinterher die Länge [MASK],der,0.005084827076643705
+anzusetzen begann  und hinterher die Länge der [MASK],Gleitspur,6.883135029056575e-06
+begann  und hinterher die Länge der Gleitspur [MASK],abtrippelte,0.0028484235517680645
+ und hinterher die Länge der Gleitspur abtrippelte [MASK],,7.240519153128844e-07
+und hinterher die Länge der Gleitspur abtrippelte  [MASK],da,7.03653713571839e-05
+hinterher die Länge der Gleitspur abtrippelte  da [MASK],wurde,1.6081690773717128e-05
+die Länge der Gleitspur abtrippelte  da wurde [MASK],seine,3.523844134178944e-05
+Länge der Gleitspur abtrippelte  da wurde seine [MASK],Eltern,2.939675141533371e-05
+der Gleitspur abtrippelte  da wurde seine Eltern [MASK],wirklich,4.667766916099936e-05
+Gleitspur abtrippelte  da wurde seine Eltern wirklich [MASK],,1.5780453566094366e-07
+abtrippelte  da wurde seine Eltern wirklich  [MASK],böse,0.002111604670062661
+ da wurde seine Eltern wirklich  böse [MASK],,7.404896251728132e-08
+da wurde seine Eltern wirklich  böse  [MASK],Wozu,1.0630671454237017e-07
+wurde seine Eltern wirklich  böse  Wozu [MASK],das,6.549472345795948e-06
+seine Eltern wirklich  böse  Wozu das [MASK],Jon,6.682309958705446e-07
+Eltern wirklich  böse  Wozu das Jon [MASK],,2.645504615372829e-08
+wirklich  böse  Wozu das Jon  [MASK],Warum,4.1400733607588336e-05
+ böse  Wozu das Jon  Warum [MASK],in,0.00011573518713703379
+böse  Wozu das Jon  Warum in [MASK],aller,9.457942360313609e-05
+ Wozu das Jon  Warum in aller [MASK],Welt,0.2995302677154541
+Wozu das Jon  Warum in aller Welt [MASK],,5.018686124458327e-07
+das Jon  Warum in aller Welt  [MASK],fragte,4.547701610135846e-05
+Jon  Warum in aller Welt  fragte [MASK],seine,0.00013165129348635674
+ Warum in aller Welt  fragte seine [MASK],Mutter,0.09960594773292542
+Warum in aller Welt  fragte seine Mutter [MASK],,1.976412022486329e-06
+in aller Welt  fragte seine Mutter  [MASK],Ist,3.1442749559573713e-07
+aller Welt  fragte seine Mutter  Ist [MASK],es,9.938387665897608e-05
+Welt  fragte seine Mutter  Ist es [MASK],denn,0.0021464817691594362
+ fragte seine Mutter  Ist es denn [MASK],wirklich,4.776038258569315e-05
+fragte seine Mutter  Ist es denn wirklich [MASK],so,9.642586519476026e-05
+seine Mutter  Ist es denn wirklich so [MASK],schwer,2.7101476007374004e-05
+Mutter  Ist es denn wirklich so schwer [MASK],wie,7.396802629955346e-06
+ Ist es denn wirklich so schwer wie [MASK],alle,5.514176518772729e-05
+Ist es denn wirklich so schwer wie alle [MASK],anderen,0.0002351328730583191
+es denn wirklich so schwer wie alle anderen [MASK],zu,0.000345239182934165
+denn wirklich so schwer wie alle anderen zu [MASK],sein,0.005285435821861029
+wirklich so schwer wie alle anderen zu sein [MASK],,4.3116829147038516e-06
+so schwer wie alle anderen zu sein  [MASK],Warum,2.4430562461930094e-06
+schwer wie alle anderen zu sein  Warum [MASK],überlässt,0.00011813699529739097
+wie alle anderen zu sein  Warum überlässt [MASK],du,0.00449646171182394
+alle anderen zu sein  Warum überlässt du [MASK],den,0.0002488273603376001
+anderen zu sein  Warum überlässt du den [MASK],Tiefflug,1.5826585695322137e-06
+zu sein  Warum überlässt du den Tiefflug [MASK],nicht,0.0002913779753725976
+sein  Warum überlässt du den Tiefflug nicht [MASK],den,3.457920911387191e-06
+ Warum überlässt du den Tiefflug nicht den [MASK],Pelikanen,4.934118464916537e-07
+Warum überlässt du den Tiefflug nicht den Pelikanen [MASK],,1.7712986633000583e-08
+überlässt du den Tiefflug nicht den Pelikanen  [MASK],oder,3.4704360587056726e-05
+du den Tiefflug nicht den Pelikanen  oder [MASK],dem,0.0009179777116514742
+den Tiefflug nicht den Pelikanen  oder dem [MASK],Albatros,2.5189887310261838e-05
+Tiefflug nicht den Pelikanen  oder dem Albatros [MASK],,2.385010247962782e-06
+nicht den Pelikanen  oder dem Albatros  [MASK],Warum,1.1371788787073456e-05
+den Pelikanen  oder dem Albatros  Warum [MASK],frisst,2.7473477530293167e-05
+Pelikanen  oder dem Albatros  Warum frisst [MASK],du,0.00022698967950418591
+ oder dem Albatros  Warum frisst du [MASK],nicht,0.005070136394351721
+oder dem Albatros  Warum frisst du nicht [MASK],wie,0.0008586521144025028
+dem Albatros  Warum frisst du nicht wie [MASK],die,0.0006518660811707377
+Albatros  Warum frisst du nicht wie die [MASK],anderen,0.009354572743177414
+ Warum frisst du nicht wie die anderen [MASK],,1.0763187008322461e-09
+Warum frisst du nicht wie die anderen  [MASK],Du,1.271818018722115e-05
+frisst du nicht wie die anderen  Du [MASK],bist,0.0029851305298507214
+du nicht wie die anderen  Du bist [MASK],ja,0.000276996404863894
+nicht wie die anderen  Du bist ja [MASK],nur,0.00028200363158248365
+wie die anderen  Du bist ja nur [MASK],noch,0.000917889759875834
+die anderen  Du bist ja nur noch [MASK],Federn,2.0863177269347943e-05
+anderen  Du bist ja nur noch Federn [MASK],und,0.0002890526666305959
+ Du bist ja nur noch Federn und [MASK],Knochen,0.0004495801404118538
+Du bist ja nur noch Federn und Knochen [MASK],wie,0.00014127950998954475
+bist ja nur noch Federn und Knochen wie [MASK],siehst,8.855150372255594e-05
+ja nur noch Federn und Knochen wie siehst [MASK],du,0.0009660978685133159
+nur noch Federn und Knochen wie siehst du [MASK],bloss,1.3556165868067183e-05
+noch Federn und Knochen wie siehst du bloss [MASK],aus,0.0009652682347223163
+Federn und Knochen wie siehst du bloss aus [MASK],,5.430058180877495e-08
+und Knochen wie siehst du bloss aus  [MASK],Das,2.941828540770075e-07
+Knochen wie siehst du bloss aus  Das [MASK],ist,0.0003711288154590875
+wie siehst du bloss aus  Das ist [MASK],mir,5.929966573603451e-05
+siehst du bloss aus  Das ist mir [MASK],ganz,6.04878478043247e-05
+du bloss aus  Das ist mir ganz [MASK],einerlei,9.090661478694528e-06
+bloss aus  Das ist mir ganz einerlei [MASK],Mama,1.0192206900683232e-05
+aus  Das ist mir ganz einerlei Mama [MASK],,6.814962461021423e-08
+ Das ist mir ganz einerlei Mama  [MASK],Ich,1.1770330274885055e-05
+Das ist mir ganz einerlei Mama  Ich [MASK],muss,0.000993349589407444
+ist mir ganz einerlei Mama  Ich muss [MASK],herausfinden,0.0007615386857651174
+mir ganz einerlei Mama  Ich muss herausfinden [MASK],was,0.00020698150910902768
+ganz einerlei Mama  Ich muss herausfinden was [MASK],ich,0.008840232156217098
+einerlei Mama  Ich muss herausfinden was ich [MASK],in,4.3251118768239394e-05
+Mama  Ich muss herausfinden was ich in [MASK],der,0.002191884210333228
+ Ich muss herausfinden was ich in der [MASK],Luft,0.0017161947907879949
+Ich muss herausfinden was ich in der Luft [MASK],kann,0.010218673385679722
+muss herausfinden was ich in der Luft kann [MASK],,2.796513399516698e-06
+herausfinden was ich in der Luft kann  [MASK],und,0.0008444181876257062
+was ich in der Luft kann  und [MASK],was,0.04633104056119919
+ich in der Luft kann  und was [MASK],nicht,0.00359854893758893
+in der Luft kann  und was nicht [MASK],,8.257237027464726e-07
+der Luft kann  und was nicht  [MASK],das,0.0018555709393694997
+Luft kann  und was nicht  das [MASK],ist,0.0987897738814354
+kann  und was nicht  das ist [MASK],alles,0.0009500532760284841
+ und was nicht  das ist alles [MASK],,2.128099595211097e-06
+und was nicht  das ist alles  [MASK],Ich,2.7613266411208315e-06
+was nicht  das ist alles  Ich [MASK],muss,0.000927401939406991
+nicht  das ist alles  Ich muss [MASK],es,0.003814607160165906
+ das ist alles  Ich muss es [MASK],einfach,0.000950242392718792
+das ist alles  Ich muss es einfach [MASK],wissen,0.03454698249697685
+ist alles  Ich muss es einfach wissen [MASK],,1.5067827519033017e-07
+alles  Ich muss es einfach wissen  [MASK],Sieh,2.964938516925031e-07
+ Ich muss es einfach wissen  Sieh [MASK],einmal,0.0007110682199709117
+Ich muss es einfach wissen  Sieh einmal [MASK],Jonathan,5.221579340286553e-05
+muss es einfach wissen  Sieh einmal Jonathan [MASK],,2.4564466016840925e-08
+es einfach wissen  Sieh einmal Jonathan  [MASK],sagte,0.00021184950310271233
+einfach wissen  Sieh einmal Jonathan  sagte [MASK],sein,0.0011803650995716453
+wissen  Sieh einmal Jonathan  sagte sein [MASK],Vater,0.009339607320725918
+ Sieh einmal Jonathan  sagte sein Vater [MASK],nicht,4.410082692629658e-05
+Sieh einmal Jonathan  sagte sein Vater nicht [MASK],unfreundlich,1.0225084224657621e-05
+einmal Jonathan  sagte sein Vater nicht unfreundlich [MASK],,1.900901054341375e-07
+Jonathan  sagte sein Vater nicht unfreundlich  [MASK],Bald,3.572089468661943e-08
+ sagte sein Vater nicht unfreundlich  Bald [MASK],kommt,3.4089956898242235e-05
+sagte sein Vater nicht unfreundlich  Bald kommt [MASK],der,4.3729738536057994e-05
+sein Vater nicht unfreundlich  Bald kommt der [MASK],Winter,0.003833773313090205
+Vater nicht unfreundlich  Bald kommt der Winter [MASK],,5.055977453594096e-06
+nicht unfreundlich  Bald kommt der Winter  [MASK],Da,5.01445811096346e-06
+unfreundlich  Bald kommt der Winter  Da [MASK],gibt,1.4075079661779455e-06
+ Bald kommt der Winter  Da gibt [MASK],es,0.0009325883584097028
+Bald kommt der Winter  Da gibt es [MASK],nicht,0.0008590395445935428
+kommt der Winter  Da gibt es nicht [MASK],viele,0.0020240501035004854
+der Winter  Da gibt es nicht viele [MASK],Boote,0.0002569113567005843
+Winter  Da gibt es nicht viele Boote [MASK],,9.45919964578934e-07
+ Da gibt es nicht viele Boote  [MASK],und,0.0007794129778631032
+Da gibt es nicht viele Boote  und [MASK],die,0.0004003409412689507
+gibt es nicht viele Boote  und die [MASK],Fische,0.0070110466331243515
+es nicht viele Boote  und die Fische [MASK],schwimmen,0.0004299970169086009
+nicht viele Boote  und die Fische schwimmen [MASK],nicht,0.007466271985322237
+viele Boote  und die Fische schwimmen nicht [MASK],mehr,0.2137918323278427
+Boote  und die Fische schwimmen nicht mehr [MASK],dicht,4.054540113429539e-05
+ und die Fische schwimmen nicht mehr dicht [MASK],unter,0.0007334323599934578
+und die Fische schwimmen nicht mehr dicht unter [MASK],der,0.0003736293292604387
+die Fische schwimmen nicht mehr dicht unter der [MASK],Oberfläche,0.4978484511375427
+Fische schwimmen nicht mehr dicht unter der Oberfläche [MASK],,3.2201921840169234e-06
+schwimmen nicht mehr dicht unter der Oberfläche  [MASK],sondern,0.00012383748253341764
+nicht mehr dicht unter der Oberfläche  sondern [MASK],in,0.007611018605530262
+mehr dicht unter der Oberfläche  sondern in [MASK],der,0.010012198239564896
+dicht unter der Oberfläche  sondern in der [MASK],,6.581143269235312e-11
+unter der Oberfläche  sondern in der  [MASK],Tiefe,0.04929504543542862
+der Oberfläche  sondern in der  Tiefe [MASK],,1.6122394299600273e-05
+Oberfläche  sondern in der  Tiefe  [MASK],Wenn,2.8231797841726802e-06
+ sondern in der  Tiefe  Wenn [MASK],du,0.0004453985020518303
+sondern in der  Tiefe  Wenn du [MASK],unbedingt,8.108956535579637e-06
+in der  Tiefe  Wenn du unbedingt [MASK],etwas,0.00014019208902027458
+der  Tiefe  Wenn du unbedingt etwas [MASK],lernen,0.0017952104099094868
+ Tiefe  Wenn du unbedingt etwas lernen [MASK],willst,0.1331920027732849
+Tiefe  Wenn du unbedingt etwas lernen willst [MASK],,1.0305889475148433e-07
+ Wenn du unbedingt etwas lernen willst  [MASK],dann,6.156019026093418e-06
+Wenn du unbedingt etwas lernen willst  dann [MASK],lerne,0.00010038898471975699
+du unbedingt etwas lernen willst  dann lerne [MASK],wie,0.0004095439799129963
+unbedingt etwas lernen willst  dann lerne wie [MASK],man,0.0026441658847033978
+etwas lernen willst  dann lerne wie man [MASK],sich,0.0002725524827837944
+lernen willst  dann lerne wie man sich [MASK],sein,7.812304829712957e-06
+willst  dann lerne wie man sich sein [MASK],Futter,1.3382065162659273e-06
+ dann lerne wie man sich sein Futter [MASK],beschafft,0.0002321832289453596
+dann lerne wie man sich sein Futter beschafft [MASK],,2.3980044261406874e-07
+lerne wie man sich sein Futter beschafft  [MASK],Fliegerei,6.854033074432664e-08
+wie man sich sein Futter beschafft  Fliegerei [MASK],,1.1574024938454386e-05
+man sich sein Futter beschafft  Fliegerei  [MASK],gut,0.0002442709228489548
+sich sein Futter beschafft  Fliegerei  gut [MASK],und,0.0006414218223653734
+sein Futter beschafft  Fliegerei  gut und [MASK],schön,0.012839382514357567
+Futter beschafft  Fliegerei  gut und schön [MASK],,2.5871000275401457e-07
+beschafft  Fliegerei  gut und schön  [MASK],aber,5.0076570914825425e-05
+ Fliegerei  gut und schön  aber [MASK],von,4.759658622788265e-06
+Fliegerei  gut und schön  aber von [MASK],einem,0.00034012386458925903
+ gut und schön  aber von einem [MASK],Gleitflug,2.0297851222039753e-07
+gut und schön  aber von einem Gleitflug [MASK],,4.383119448903017e-05
+und schön  aber von einem Gleitflug  [MASK],kann,3.971025216742419e-05
+schön  aber von einem Gleitflug  kann [MASK],man,0.02939094789326191
+ aber von einem Gleitflug  kann man [MASK],nichts,0.028432291001081467
+aber von einem Gleitflug  kann man nichts [MASK],abbeissen,8.930816693464294e-05
+von einem Gleitflug  kann man nichts abbeissen [MASK],,1.180839319658844e-07
+einem Gleitflug  kann man nichts abbeissen  [MASK],verstehst,2.0076143414371472e-08
+Gleitflug  kann man nichts abbeissen  verstehst [MASK],du,1.4170828762871679e-05
+ kann man nichts abbeissen  verstehst du [MASK],,1.7620804371176746e-08
+kann man nichts abbeissen  verstehst du  [MASK],Zweck,3.070976788421831e-07
+man nichts abbeissen  verstehst du  Zweck [MASK],des,0.00017766645760275424
+nichts abbeissen  verstehst du  Zweck des [MASK],Fliegens,7.055551395751536e-05
+abbeissen  verstehst du  Zweck des Fliegens [MASK],ist,2.364730062254239e-05
+ verstehst du  Zweck des Fliegens ist [MASK],,1.660676502979186e-07
+verstehst du  Zweck des Fliegens ist  [MASK],dass,3.954092971980572e-05
+du  Zweck des Fliegens ist  dass [MASK],man,0.004505566321313381
+ Zweck des Fliegens ist  dass man [MASK],etwas,0.0007926358957774937
+Zweck des Fliegens ist  dass man etwas [MASK],zu,0.00015007132606115192
+des Fliegens ist  dass man etwas zu [MASK],Essen,0.00017427821876481175
+Fliegens ist  dass man etwas zu Essen [MASK],hat,0.03679269179701805
+ist  dass man etwas zu Essen hat [MASK],,8.328381113642536e-07
+ dass man etwas zu Essen hat  [MASK],vergiss,1.0656052751301104e-07
+dass man etwas zu Essen hat  vergiss [MASK],das,2.2020900360075757e-05
+man etwas zu Essen hat  vergiss das [MASK],nicht,0.005032824352383614
+etwas zu Essen hat  vergiss das nicht [MASK],,2.1042585558461724e-06
+zu Essen hat  vergiss das nicht  [MASK],Jonathan,7.999203717190539e-07
+Essen hat  vergiss das nicht  Jonathan [MASK],nickte,4.022166137929162e-07
+hat  vergiss das nicht  Jonathan nickte [MASK],gehorsam,4.268018892616965e-05
+ vergiss das nicht  Jonathan nickte gehorsam [MASK],,2.4846392534527695e-06

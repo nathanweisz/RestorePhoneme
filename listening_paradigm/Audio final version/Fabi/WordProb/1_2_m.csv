@@ -1,0 +1,620 @@
+Context,Word,Probability
+        [MASK],,1.6024438309614197e-07
+        [MASK],Vielleicht,3.1735988159198314e-05
+       Vielleicht [MASK],,1.4654804090241669e-06
+      Vielleicht  [MASK],bekam,3.506756911519915e-05
+     Vielleicht  bekam [MASK],sie,0.01955590769648552
+    Vielleicht  bekam sie [MASK],ja,0.005734359845519066
+   Vielleicht  bekam sie ja [MASK],sogar,0.0009841592982411385
+  Vielleicht  bekam sie ja sogar [MASK],einen,0.027533115819096565
+ Vielleicht  bekam sie ja sogar einen [MASK],Pokal,0.0031629507429897785
+Vielleicht  bekam sie ja sogar einen Pokal [MASK],verliehen,0.0008760283817537129
+ bekam sie ja sogar einen Pokal verliehen [MASK],,5.2326676325265e-08
+bekam sie ja sogar einen Pokal verliehen  [MASK],für,5.551277808990562e-06
+sie ja sogar einen Pokal verliehen  für [MASK],die,0.01647149957716465
+ja sogar einen Pokal verliehen  für die [MASK],schönste,0.00033293463638983667
+sogar einen Pokal verliehen  für die schönste [MASK],Parzelle,3.510652732074959e-06
+einen Pokal verliehen  für die schönste Parzelle [MASK],in,0.0005575704853981733
+Pokal verliehen  für die schönste Parzelle in [MASK],der,0.00022888441162649542
+verliehen  für die schönste Parzelle in der [MASK],Vollbart,1.5093654326392425e-07
+ für die schönste Parzelle in der Vollbart [MASK],,2.2063953508677514e-07
+für die schönste Parzelle in der Vollbart  [MASK],Zwar,6.69183179979882e-07
+die schönste Parzelle in der Vollbart  Zwar [MASK],hatte,0.00010123292304342613
+schönste Parzelle in der Vollbart  Zwar hatte [MASK],sie,0.005838925484567881
+Parzelle in der Vollbart  Zwar hatte sie [MASK],keinerlei,0.00021121828467585146
+in der Vollbart  Zwar hatte sie keinerlei [MASK],Erfahrung,0.015834340825676918
+der Vollbart  Zwar hatte sie keinerlei Erfahrung [MASK],in,0.00029451900627464056
+Vollbart  Zwar hatte sie keinerlei Erfahrung in [MASK],Gartengestaltung,2.2705151422997005e-05
+ Zwar hatte sie keinerlei Erfahrung in Gartengestaltung [MASK],und,0.0005273119895718992
+Zwar hatte sie keinerlei Erfahrung in Gartengestaltung und [MASK],noch,2.466943442414049e-05
+hatte sie keinerlei Erfahrung in Gartengestaltung und noch [MASK],nie,0.15920643508434296
+sie keinerlei Erfahrung in Gartengestaltung und noch nie [MASK],in,0.0007399845053441823
+keinerlei Erfahrung in Gartengestaltung und noch nie in [MASK],ihrem,0.0006774502107873559
+Erfahrung in Gartengestaltung und noch nie in ihrem [MASK],Leben,0.040520079433918
+in Gartengestaltung und noch nie in ihrem Leben [MASK],irgendetwas,7.892798748798668e-06
+Gartengestaltung und noch nie in ihrem Leben irgendetwas [MASK],angepflanzt,1.0889475561270956e-06
+und noch nie in ihrem Leben irgendetwas angepflanzt [MASK],,1.3230443300926709e-06
+noch nie in ihrem Leben irgendetwas angepflanzt  [MASK],aber,7.109281341399765e-06
+nie in ihrem Leben irgendetwas angepflanzt  aber [MASK],ihre,0.00012832203356083483
+in ihrem Leben irgendetwas angepflanzt  aber ihre [MASK],Kakteenzucht,1.7406728147761896e-06
+ihrem Leben irgendetwas angepflanzt  aber ihre Kakteenzucht [MASK],auf,0.00029812107095494866
+Leben irgendetwas angepflanzt  aber ihre Kakteenzucht auf [MASK],der,0.0012976882280781865
+irgendetwas angepflanzt  aber ihre Kakteenzucht auf der [MASK],Fensterbank,2.150083219021326e-06
+angepflanzt  aber ihre Kakteenzucht auf der Fensterbank [MASK],,3.2305058994097635e-05
+ aber ihre Kakteenzucht auf der Fensterbank  [MASK],gedieh,8.48932540975511e-06
+aber ihre Kakteenzucht auf der Fensterbank  gedieh [MASK],prächtig,5.461763521452667e-06
+ihre Kakteenzucht auf der Fensterbank  gedieh prächtig [MASK],,1.3760656656813808e-05
+Kakteenzucht auf der Fensterbank  gedieh prächtig  [MASK],Ein,9.693218999018427e-06
+auf der Fensterbank  gedieh prächtig  Ein [MASK],sicherer,4.471803094929783e-06
+der Fensterbank  gedieh prächtig  Ein sicherer [MASK],Beweis,2.51124583883211e-05
+Fensterbank  gedieh prächtig  Ein sicherer Beweis [MASK],dafür,0.01099359430372715
+ gedieh prächtig  Ein sicherer Beweis dafür [MASK],dass,4.377377990749665e-06
+gedieh prächtig  Ein sicherer Beweis dafür dass [MASK],sie,0.009701371192932129
+prächtig  Ein sicherer Beweis dafür dass sie [MASK],einen,0.0008167041814886034
+ Ein sicherer Beweis dafür dass sie einen [MASK],grünen,0.00016324904572684318
+Ein sicherer Beweis dafür dass sie einen grünen [MASK],Daumen,0.06470495462417603
+sicherer Beweis dafür dass sie einen grünen Daumen [MASK],hatte,0.01631283573806286
+Beweis dafür dass sie einen grünen Daumen hatte [MASK],fand,1.551714149172767e-06
+dafür dass sie einen grünen Daumen hatte fand [MASK],,8.951330414674885e-07
+dass sie einen grünen Daumen hatte fand  [MASK],sie,1.778940531949047e-05
+sie einen grünen Daumen hatte fand  sie [MASK],,2.477823954905034e-06
+einen grünen Daumen hatte fand  sie  [MASK],Im,2.6450893528817687e-06
+grünen Daumen hatte fand  sie  Im [MASK],Übrigen,0.0008718849276192486
+Daumen hatte fand  sie  Im Übrigen [MASK],gab,2.043904532911256e-05
+hatte fand  sie  Im Übrigen gab [MASK],es,0.02837277390062809
+fand  sie  Im Übrigen gab es [MASK],ja,0.004532455932348967
+ sie  Im Übrigen gab es ja [MASK],das,0.0004888662369921803
+sie  Im Übrigen gab es ja das [MASK],Schuppen,9.052527275343891e-06
+ Im Übrigen gab es ja das Schuppen [MASK],,1.709880876887837e-07
+Im Übrigen gab es ja das Schuppen  [MASK],Sie,2.301842141605448e-05
+Übrigen gab es ja das Schuppen  Sie [MASK],fuhr,6.954841182960081e-07
+gab es ja das Schuppen  Sie fuhr [MASK],zu,0.00019993730529677123
+es ja das Schuppen  Sie fuhr zu [MASK],diesem,0.0018119147280231118
+ja das Schuppen  Sie fuhr zu diesem [MASK],grossen,3.1502495403401554e-05
+das Schuppen  Sie fuhr zu diesem grossen [MASK],Gartencenter,0.0003292548062745482
+Schuppen  Sie fuhr zu diesem grossen Gartencenter [MASK],in,0.00031542181386612356
+ Sie fuhr zu diesem grossen Gartencenter in [MASK],dem,0.001148070557974279
+Sie fuhr zu diesem grossen Gartencenter in dem [MASK],neuen,0.0007341627497226
+fuhr zu diesem grossen Gartencenter in dem neuen [MASK],Industriegebiet,1.5628398841727176e-06
+zu diesem grossen Gartencenter in dem neuen Industriegebiet [MASK],,6.742344703525305e-05
+diesem grossen Gartencenter in dem neuen Industriegebiet  [MASK],und,0.001934611122123897
+grossen Gartencenter in dem neuen Industriegebiet  und [MASK],packte,1.0346550425310852e-06
+Gartencenter in dem neuen Industriegebiet  und packte [MASK],von,0.00010606029536575079
+in dem neuen Industriegebiet  und packte von [MASK],der,0.003809693269431591
+dem neuen Industriegebiet  und packte von der [MASK],Heckenschere,5.674136900779558e-06
+neuen Industriegebiet  und packte von der Heckenschere [MASK],bis,0.002921599429100752
+Industriegebiet  und packte von der Heckenschere bis [MASK],zur,0.11818566173315048
+ und packte von der Heckenschere bis zur [MASK],Grabegabel,3.6147699574939907e-05
+und packte von der Heckenschere bis zur Grabegabel [MASK],alle,5.404825787991285e-05
+packte von der Heckenschere bis zur Grabegabel alle [MASK],Gartengeräte,4.380866448627785e-05
+von der Heckenschere bis zur Grabegabel alle Gartengeräte [MASK],in,0.0004051345749758184
+der Heckenschere bis zur Grabegabel alle Gartengeräte in [MASK],den,0.0013553473399952054
+Heckenschere bis zur Grabegabel alle Gartengeräte in den [MASK],riesigen,6.993598731241946e-07
+bis zur Grabegabel alle Gartengeräte in den riesigen [MASK],Einkaufswagen,4.3316977098584175e-05
+zur Grabegabel alle Gartengeräte in den riesigen Einkaufswagen [MASK],,5.624592631647829e-06
+Grabegabel alle Gartengeräte in den riesigen Einkaufswagen  [MASK],die,3.0575825803680345e-05
+alle Gartengeräte in den riesigen Einkaufswagen  die [MASK],laut,5.35240587851149e-06
+Gartengeräte in den riesigen Einkaufswagen  die laut [MASK],Google,3.7201272789388895e-05
+in den riesigen Einkaufswagen  die laut Google [MASK],,4.039719442516798e-06
+den riesigen Einkaufswagen  die laut Google  [MASK],für,0.00023680653248447925
+riesigen Einkaufswagen  die laut Google  für [MASK],jeden,0.002292933175340295
+Einkaufswagen  die laut Google  für jeden [MASK],Hobbygärtner,3.431577852097689e-06
+ die laut Google  für jeden Hobbygärtner [MASK],unerlässlich,2.1617479433189146e-05
+die laut Google  für jeden Hobbygärtner unerlässlich [MASK],sind,0.5219472646713257
+laut Google  für jeden Hobbygärtner unerlässlich sind [MASK],,1.3743671445354266e-07
+Google  für jeden Hobbygärtner unerlässlich sind  [MASK],Marlene,1.580517476895693e-07
+ für jeden Hobbygärtner unerlässlich sind  Marlene [MASK],irrte,1.7719672484872717e-07
+für jeden Hobbygärtner unerlässlich sind  Marlene irrte [MASK],durch,4.305410402594134e-05
+jeden Hobbygärtner unerlässlich sind  Marlene irrte durch [MASK],den,0.0008391193114221096
+Hobbygärtner unerlässlich sind  Marlene irrte durch den [MASK],Laden,0.0020529450848698616
+unerlässlich sind  Marlene irrte durch den Laden [MASK],auf,0.0002063615684164688
+sind  Marlene irrte durch den Laden auf [MASK],der,0.001096643740311265
+ Marlene irrte durch den Laden auf der [MASK],Suche,0.0020158090628683567
+Marlene irrte durch den Laden auf der Suche [MASK],nach,0.06521302461624146
+irrte durch den Laden auf der Suche nach [MASK],einer,0.0011302049970254302
+durch den Laden auf der Suche nach einer [MASK],Schubkarre,3.7202498788246885e-06
+den Laden auf der Suche nach einer Schubkarre [MASK],,2.088363908114843e-05
+Laden auf der Suche nach einer Schubkarre  [MASK],Das,9.829159353103023e-06
+auf der Suche nach einer Schubkarre  Das [MASK],,7.841893245874587e-10
+der Suche nach einer Schubkarre  Das  [MASK],gibts,4.121295569348149e-05
+Suche nach einer Schubkarre  Das  gibts [MASK],doch,0.0004950285074301064
+nach einer Schubkarre  Das  gibts doch [MASK],nicht,0.006889454089105129
+einer Schubkarre  Das  gibts doch nicht [MASK],dass,1.1055025424866471e-05
+Schubkarre  Das  gibts doch nicht dass [MASK],hier,0.0003291611501481384
+ Das  gibts doch nicht dass hier [MASK],kein,0.0023774567525833845
+Das  gibts doch nicht dass hier kein [MASK],Verkäufer,0.0001766696950653568
+ gibts doch nicht dass hier kein Verkäufer [MASK],rumläuft,8.421162783633918e-05
+gibts doch nicht dass hier kein Verkäufer rumläuft [MASK],,2.2050429038245056e-08
+doch nicht dass hier kein Verkäufer rumläuft  [MASK],den,8.445912271781708e-07
+nicht dass hier kein Verkäufer rumläuft  den [MASK],man,3.349728649482131e-05
+dass hier kein Verkäufer rumläuft  den man [MASK],mal,4.0034239646047354e-05
+hier kein Verkäufer rumläuft  den man mal [MASK],was,9.985914221033454e-05
+kein Verkäufer rumläuft  den man mal was [MASK],fragen,0.00024276194744743407
+Verkäufer rumläuft  den man mal was fragen [MASK],kann,0.10192284733057022
+rumläuft  den man mal was fragen kann [MASK],,3.8528844470420154e-07
+ den man mal was fragen kann  [MASK],Inzwischen,1.6291089366404776e-07
+den man mal was fragen kann  Inzwischen [MASK],war,0.00019033665012102574
+man mal was fragen kann  Inzwischen war [MASK],sie,0.0022516059689223766
+mal was fragen kann  Inzwischen war sie [MASK],völlig,0.00015151237312238663
+was fragen kann  Inzwischen war sie völlig [MASK],genervt,0.0001039709968608804
+fragen kann  Inzwischen war sie völlig genervt [MASK],,1.0424340644021868e-06
+kann  Inzwischen war sie völlig genervt  [MASK],Doch,1.3407537153398152e-05
+ Inzwischen war sie völlig genervt  Doch [MASK],dann,0.0007610100437887013
+Inzwischen war sie völlig genervt  Doch dann [MASK],,6.639797447860474e-06
+war sie völlig genervt  Doch dann  [MASK],blieb,0.0009897362906485796
+sie völlig genervt  Doch dann  blieb [MASK],ihr,0.006207920610904694
+völlig genervt  Doch dann  blieb ihr [MASK],Blick,0.0002679144963622093
+genervt  Doch dann  blieb ihr Blick [MASK],an,0.0001426135713700205
+ Doch dann  blieb ihr Blick an [MASK],einer,4.380626342026517e-05
+Doch dann  blieb ihr Blick an einer [MASK],Zwergengruppe,7.76405727265228e-07
+dann  blieb ihr Blick an einer Zwergengruppe [MASK],hängen,0.7409949898719788
+ blieb ihr Blick an einer Zwergengruppe hängen [MASK],,6.933275358278479e-07
+blieb ihr Blick an einer Zwergengruppe hängen  [MASK],Die,1.177315425593406e-06
+ihr Blick an einer Zwergengruppe hängen  Die [MASK],Figuren,0.007457080762833357
+Blick an einer Zwergengruppe hängen  Die Figuren [MASK],zogen,5.9794507251353934e-05
+an einer Zwergengruppe hängen  Die Figuren zogen [MASK],sie,0.004118476063013077
+einer Zwergengruppe hängen  Die Figuren zogen sie [MASK],förmlich,1.0880974059546134e-06
+Zwergengruppe hängen  Die Figuren zogen sie förmlich [MASK],magisch,6.49867956781236e-07
+hängen  Die Figuren zogen sie förmlich magisch [MASK],an,0.012449470348656178
+ Die Figuren zogen sie förmlich magisch an [MASK],,2.015493194562623e-08
+Die Figuren zogen sie förmlich magisch an  [MASK],Diese,3.073107635032102e-08
+Figuren zogen sie förmlich magisch an  Diese [MASK],fünf,0.00010726603795774281
+zogen sie förmlich magisch an  Diese fünf [MASK],Zwerge,0.00010160044621443376
+sie förmlich magisch an  Diese fünf Zwerge [MASK],hatten,0.0002367065753787756
+förmlich magisch an  Diese fünf Zwerge hatten [MASK],so,0.0001388534583384171
+magisch an  Diese fünf Zwerge hatten so [MASK],unheimlich,5.3417547860590275e-06
+an  Diese fünf Zwerge hatten so unheimlich [MASK],echt,0.0009636988979764283
+ Diese fünf Zwerge hatten so unheimlich echt [MASK],aussehende,0.0050049652345478535
+Diese fünf Zwerge hatten so unheimlich echt aussehende [MASK],Schubkarre,6.049707508282154e-07
+fünf Zwerge hatten so unheimlich echt aussehende Schubkarre [MASK],Ihr,2.297863375133602e-07
+Zwerge hatten so unheimlich echt aussehende Schubkarre Ihr [MASK],schien,1.1825340152427088e-05
+hatten so unheimlich echt aussehende Schubkarre Ihr schien [MASK],,1.2582361250679241e-06
+so unheimlich echt aussehende Schubkarre Ihr schien  [MASK],als,0.00024105681222863495
+unheimlich echt aussehende Schubkarre Ihr schien  als [MASK],hätte,0.00017776215099729598
+echt aussehende Schubkarre Ihr schien  als hätte [MASK],ihr,0.00015521841123700142
+aussehende Schubkarre Ihr schien  als hätte ihr [MASK],der,0.0002832318132277578
+Schubkarre Ihr schien  als hätte ihr der [MASK],Zwerg,0.00012467504711821675
+Ihr schien  als hätte ihr der Zwerg [MASK],mit,0.0009905582992359996
+schien  als hätte ihr der Zwerg mit [MASK],der,0.0027714651077985764
+ als hätte ihr der Zwerg mit der [MASK],Schaufel,0.0004395374853629619
+als hätte ihr der Zwerg mit der Schaufel [MASK],eben,5.1699862524401397e-05
+hätte ihr der Zwerg mit der Schaufel eben [MASK],zugezwinkert,0.00023312577104661614
+ihr der Zwerg mit der Schaufel eben zugezwinkert [MASK],,1.4385091162694152e-07
+der Zwerg mit der Schaufel eben zugezwinkert  [MASK],Eigentlich,2.456900460856559e-07
+Zwerg mit der Schaufel eben zugezwinkert  Eigentlich [MASK],konnte,0.0001353156694676727
+mit der Schaufel eben zugezwinkert  Eigentlich konnte [MASK],Marlene,1.107899151975289e-06
+der Schaufel eben zugezwinkert  Eigentlich konnte Marlene [MASK],sich,1.903027259686496e-05
+Schaufel eben zugezwinkert  Eigentlich konnte Marlene sich [MASK],solchen,3.437893951740989e-07
+eben zugezwinkert  Eigentlich konnte Marlene sich solchen [MASK],Luxus,0.006958364509046078
+zugezwinkert  Eigentlich konnte Marlene sich solchen Luxus [MASK],,5.034225978306495e-07
+ Eigentlich konnte Marlene sich solchen Luxus  [MASK],beim,6.12400472164154e-05
+Eigentlich konnte Marlene sich solchen Luxus  beim [MASK],besten,0.0008150606881827116
+konnte Marlene sich solchen Luxus  beim besten [MASK],Willen,0.011531162075698376
+Marlene sich solchen Luxus  beim besten Willen [MASK],nicht,0.006125063635408878
+sich solchen Luxus  beim besten Willen nicht [MASK],leisten,0.714431643486023
+solchen Luxus  beim besten Willen nicht leisten [MASK],,2.605475799555279e-07
+Luxus  beim besten Willen nicht leisten  [MASK],aber,1.881126627267804e-05
+ beim besten Willen nicht leisten  aber [MASK],egal,6.687846325803548e-05
+beim besten Willen nicht leisten  aber egal [MASK],,1.0570637698492646e-07
+besten Willen nicht leisten  aber egal  [MASK],sie,0.00036013880162499845
+Willen nicht leisten  aber egal  sie [MASK],musste,6.593556463485584e-05
+nicht leisten  aber egal  sie musste [MASK],diese,0.0004545273841358721
+leisten  aber egal  sie musste diese [MASK],,6.347657066640977e-09
+ aber egal  sie musste diese  [MASK],Zwerge,3.214518301319913e-06
+aber egal  sie musste diese  Zwerge [MASK],einfach,8.568609337089583e-05
+egal  sie musste diese  Zwerge einfach [MASK],haben,0.0013327326159924269
+ sie musste diese  Zwerge einfach haben [MASK],,7.5511664476835e-08
+sie musste diese  Zwerge einfach haben  [MASK],alle,6.317387942544883e-06
+musste diese  Zwerge einfach haben  alle [MASK],fünf,0.0002567266928963363
+diese  Zwerge einfach haben  alle fünf [MASK],,4.207182158211253e-09
+ Zwerge einfach haben  alle fünf  [MASK],Der,1.2062151881764294e-06
+Zwerge einfach haben  alle fünf  Der [MASK],Zwerg,0.00021598156308755279
+einfach haben  alle fünf  Der Zwerg [MASK],mit,0.00019503728253766894
+haben  alle fünf  Der Zwerg mit [MASK],dem,0.002492365427315235
+ alle fünf  Der Zwerg mit dem [MASK],Rasenmäher,1.869316656666342e-05
+alle fünf  Der Zwerg mit dem Rasenmäher [MASK],,0.00014664306945633143
+fünf  Der Zwerg mit dem Rasenmäher  [MASK],hatte,1.1635830560408067e-05
+ Der Zwerg mit dem Rasenmäher  hatte [MASK],dicke,7.040621858322993e-05
+Der Zwerg mit dem Rasenmäher  hatte dicke [MASK],rote,6.962166662560776e-05
+Zwerg mit dem Rasenmäher  hatte dicke rote [MASK],Pausbacken,3.602507447908465e-08
+mit dem Rasenmäher  hatte dicke rote Pausbacken [MASK],,1.175176294054836e-06
+dem Rasenmäher  hatte dicke rote Pausbacken  [MASK],der,6.034076795913279e-05
+Rasenmäher  hatte dicke rote Pausbacken  der [MASK],daneben,1.778052501322236e-05
+ hatte dicke rote Pausbacken  der daneben [MASK],trug,3.3214928407687694e-05
+hatte dicke rote Pausbacken  der daneben trug [MASK],eine,3.8280173612292856e-05
+dicke rote Pausbacken  der daneben trug eine [MASK],Brille,0.00031478708842769265
+rote Pausbacken  der daneben trug eine Brille [MASK],,3.905496441802825e-07
+Pausbacken  der daneben trug eine Brille  [MASK],und,0.0007885132217779756
+ der daneben trug eine Brille  und [MASK],stützte,2.3845113901188597e-05
+der daneben trug eine Brille  und stützte [MASK],sich,0.04058384150266647
+daneben trug eine Brille  und stützte sich [MASK],auf,0.03586573153734207
+trug eine Brille  und stützte sich auf [MASK],seiner,7.374284905381501e-05
+eine Brille  und stützte sich auf seiner [MASK],Schaufel,0.00021879671839997172
+Brille  und stützte sich auf seiner Schaufel [MASK],ab,0.00011357940820744261
+ und stützte sich auf seiner Schaufel ab [MASK],,2.88525541236595e-07
+und stützte sich auf seiner Schaufel ab  [MASK],einer,1.6391550161642954e-05
+stützte sich auf seiner Schaufel ab  einer [MASK],hielt,7.734847713436466e-06
+sich auf seiner Schaufel ab  einer hielt [MASK],einen,5.610924563370645e-05
+auf seiner Schaufel ab  einer hielt einen [MASK],Rechen,0.001073890132829547
+seiner Schaufel ab  einer hielt einen Rechen [MASK],in,0.00037569948472082615
+Schaufel ab  einer hielt einen Rechen in [MASK],der,0.0013489831471815705
+ab  einer hielt einen Rechen in der [MASK],Hand,0.28560367226600647
+ einer hielt einen Rechen in der Hand [MASK],ein,0.0004221757990308106
+einer hielt einen Rechen in der Hand ein [MASK],anderer,1.4612998711527325e-05
+hielt einen Rechen in der Hand ein anderer [MASK],der,0.0008164141327142715
+einen Rechen in der Hand ein anderer der [MASK],frech,1.349816557194572e-06
+Rechen in der Hand ein anderer der frech [MASK],grinste,2.4104798285407014e-05
+in der Hand ein anderer der frech grinste [MASK],eine,0.0002172193635487929
+der Hand ein anderer der frech grinste eine [MASK],Heckenschere,2.399718596279854e-06
+Hand ein anderer der frech grinste eine Heckenschere [MASK],,3.29420458911045e-06
+ein anderer der frech grinste eine Heckenschere  [MASK],und,0.0006582126370631158
+anderer der frech grinste eine Heckenschere  und [MASK],einer,0.0011503666173666716
+der frech grinste eine Heckenschere  und einer [MASK],schob,5.5100725148804486e-05
+frech grinste eine Heckenschere  und einer schob [MASK],eine,0.0016766805201768875
+grinste eine Heckenschere  und einer schob eine [MASK],Schubkarre,5.744515510741621e-05
+eine Heckenschere  und einer schob eine Schubkarre [MASK],,1.27011355743889e-06
+Heckenschere  und einer schob eine Schubkarre  [MASK],Prompt,4.486159443928273e-09
+ und einer schob eine Schubkarre  Prompt [MASK],fiel,2.159845962523832e-06
+und einer schob eine Schubkarre  Prompt fiel [MASK],Marlene,2.6512702788750175e-06
+einer schob eine Schubkarre  Prompt fiel Marlene [MASK],ein,0.00019344651082064956
+schob eine Schubkarre  Prompt fiel Marlene ein [MASK],wonach,4.2400392885610927e-07
+eine Schubkarre  Prompt fiel Marlene ein wonach [MASK],sie,5.316461101756431e-05
+Schubkarre  Prompt fiel Marlene ein wonach sie [MASK],eigentlich,0.00024583900813013315
+ Prompt fiel Marlene ein wonach sie eigentlich [MASK],gesucht,0.0010850310791283846
+Prompt fiel Marlene ein wonach sie eigentlich gesucht [MASK],hatte,0.2557407319545746
+fiel Marlene ein wonach sie eigentlich gesucht hatte [MASK],,6.005019486110541e-07
+Marlene ein wonach sie eigentlich gesucht hatte  [MASK],Ach,9.667207905295072e-07
+ein wonach sie eigentlich gesucht hatte  Ach [MASK],eine,5.922716809436679e-05
+wonach sie eigentlich gesucht hatte  Ach eine [MASK],Schubkarre,3.4389122447464615e-05
+sie eigentlich gesucht hatte  Ach eine Schubkarre [MASK],bekomme,3.0028848414076492e-05
+eigentlich gesucht hatte  Ach eine Schubkarre bekomme [MASK],ich,4.2290037526981905e-05
+gesucht hatte  Ach eine Schubkarre bekomme ich [MASK],sicher,0.00034873784170486033
+hatte  Ach eine Schubkarre bekomme ich sicher [MASK],günstig,3.0093593522906303e-05
+ Ach eine Schubkarre bekomme ich sicher günstig [MASK],bei,3.2210064091486856e-05
+Ach eine Schubkarre bekomme ich sicher günstig bei [MASK],Ebay,4.26084479840938e-05
+eine Schubkarre bekomme ich sicher günstig bei Ebay [MASK],,4.100421335806459e-07
+Schubkarre bekomme ich sicher günstig bei Ebay  [MASK],Die,1.4867773643345572e-06
+bekomme ich sicher günstig bei Ebay  Die [MASK],kaufe,1.9270584743935615e-05
+ich sicher günstig bei Ebay  Die kaufe [MASK],ich,0.0034211562015116215
+sicher günstig bei Ebay  Die kaufe ich [MASK],dann,0.0026490685995668173
+günstig bei Ebay  Die kaufe ich dann [MASK],halt,0.0005668469239026308
+bei Ebay  Die kaufe ich dann halt [MASK],im,0.00043641889351420105
+Ebay  Die kaufe ich dann halt im [MASK],nächsten,0.0007098710048012435
+ Die kaufe ich dann halt im nächsten [MASK],Monat,0.20516061782836914
+Die kaufe ich dann halt im nächsten Monat [MASK],wenn,2.9125347282388248e-05
+kaufe ich dann halt im nächsten Monat wenn [MASK],es,0.012360731139779091
+ich dann halt im nächsten Monat wenn es [MASK],wieder,0.0004538533394224942
+dann halt im nächsten Monat wenn es wieder [MASK],Geld,0.00012403119762893766
+halt im nächsten Monat wenn es wieder Geld [MASK],gegeben,0.0007473048754036427
+im nächsten Monat wenn es wieder Geld gegeben [MASK],hat,0.2558722198009491
+nächsten Monat wenn es wieder Geld gegeben hat [MASK],,7.804244432918495e-07
+Monat wenn es wieder Geld gegeben hat  [MASK],dachte,1.6503945516888052e-06
+wenn es wieder Geld gegeben hat  dachte [MASK],sie,0.0005875594215467572
+es wieder Geld gegeben hat  dachte sie [MASK],und,0.0003219120262656361
+wieder Geld gegeben hat  dachte sie und [MASK],machte,0.0012570754624903202
+Geld gegeben hat  dachte sie und machte [MASK],sich,0.0031496991869062185
+gegeben hat  dachte sie und machte sich [MASK],auf,0.01082812249660492
+hat  dachte sie und machte sich auf [MASK],den,0.007660538423806429
+ dachte sie und machte sich auf den [MASK],Weg,0.7944047451019287
+dachte sie und machte sich auf den Weg [MASK],,2.4301048142660875e-06
+sie und machte sich auf den Weg  [MASK],zu,0.016394181177020073
+und machte sich auf den Weg  zu [MASK],den,0.009883125312626362
+machte sich auf den Weg  zu den [MASK],Wiese,9.606933417671826e-07
+sich auf den Weg  zu den Wiese [MASK],,5.977435080239957e-07
+auf den Weg  zu den Wiese  [MASK],Als,8.734336006455123e-06
+den Weg  zu den Wiese  Als [MASK],Marlene,4.2335233274570783e-07
+Weg  zu den Wiese  Als Marlene [MASK],die,3.5524753911886364e-05
+ zu den Wiese  Als Marlene die [MASK],neuen,0.00014088465832173824
+zu den Wiese  Als Marlene die neuen [MASK],Gartengeräte,3.531238326104358e-05
+den Wiese  Als Marlene die neuen Gartengeräte [MASK],im,0.00028799715801142156
+Wiese  Als Marlene die neuen Gartengeräte im [MASK],Schuppen,0.0012877269182354212
+ Als Marlene die neuen Gartengeräte im Schuppen [MASK],verstaut,3.0289268124761293e-06
+Als Marlene die neuen Gartengeräte im Schuppen verstaut [MASK],hatte,0.04333140701055527
+Marlene die neuen Gartengeräte im Schuppen verstaut hatte [MASK],,5.456826784211444e-06
+die neuen Gartengeräte im Schuppen verstaut hatte  [MASK],die,5.668115773005411e-05
+neuen Gartengeräte im Schuppen verstaut hatte  die [MASK],Zwerge,2.0383784431032836e-05
+Gartengeräte im Schuppen verstaut hatte  die Zwerge [MASK],stellte,3.0483897717203945e-07
+im Schuppen verstaut hatte  die Zwerge stellte [MASK],sie,0.0037739286199212074
+Schuppen verstaut hatte  die Zwerge stellte sie [MASK],erst,0.0005657391157001257
+verstaut hatte  die Zwerge stellte sie erst [MASK],mal,0.00560309924185276
+hatte  die Zwerge stellte sie erst mal [MASK],in,0.0007551020244136453
+ die Zwerge stellte sie erst mal in [MASK],die,0.009681379422545433
+die Zwerge stellte sie erst mal in die [MASK],Laube,7.844892024877481e-06
+Zwerge stellte sie erst mal in die Laube [MASK],überlegte,1.4964184913424106e-07
+stellte sie erst mal in die Laube überlegte [MASK],sie,0.00039032098720781505
+sie erst mal in die Laube überlegte sie [MASK],wie,0.00024070202198345214
+erst mal in die Laube überlegte sie wie [MASK],sie,0.0015602348139509559
+mal in die Laube überlegte sie wie sie [MASK],nun,0.00020266750652808696
+in die Laube überlegte sie wie sie nun [MASK],arbeitstechnisch,3.6188569083606126e-06
+die Laube überlegte sie wie sie nun arbeitstechnisch [MASK],am,0.00034432747634127736
+Laube überlegte sie wie sie nun arbeitstechnisch am [MASK],besten,0.021757226437330246
+überlegte sie wie sie nun arbeitstechnisch am besten [MASK],vorgehen,0.004544607363641262
+sie wie sie nun arbeitstechnisch am besten vorgehen [MASK],sollte,0.0013980802614241838
+wie sie nun arbeitstechnisch am besten vorgehen sollte [MASK],,2.714051788643701e-06
+sie nun arbeitstechnisch am besten vorgehen sollte  [MASK],Zuerst,5.080804044155229e-07
+nun arbeitstechnisch am besten vorgehen sollte  Zuerst [MASK],kümmere,1.2686532500083558e-06
+arbeitstechnisch am besten vorgehen sollte  Zuerst kümmere [MASK],ich,0.0027943879831582308
+am besten vorgehen sollte  Zuerst kümmere ich [MASK],mich,0.7069513201713562
+besten vorgehen sollte  Zuerst kümmere ich mich [MASK],um,0.1874646246433258
+vorgehen sollte  Zuerst kümmere ich mich um [MASK],den,0.004123445600271225
+sollte  Zuerst kümmere ich mich um den [MASK],Rasen,0.0008957867976278067
+ Zuerst kümmere ich mich um den Rasen [MASK],entschied,5.125212965140236e-07
+Zuerst kümmere ich mich um den Rasen entschied [MASK],sie,8.900078682927415e-06
+kümmere ich mich um den Rasen entschied sie [MASK],,1.1919887583644595e-06
+ich mich um den Rasen entschied sie  [MASK],und,0.001373319304548204
+mich um den Rasen entschied sie  und [MASK],holte,0.0025263954885303974
+um den Rasen entschied sie  und holte [MASK],den,0.005841103382408619
+den Rasen entschied sie  und holte den [MASK],Elektrorasenmäher,1.8898248299592524e-06
+Rasen entschied sie  und holte den Elektrorasenmäher [MASK],,4.733204605145147e-06
+entschied sie  und holte den Elektrorasenmäher  [MASK],den,8.414030889980495e-05
+sie  und holte den Elektrorasenmäher  den [MASK],sie,0.00013619483797810972
+ und holte den Elektrorasenmäher  den sie [MASK],von,0.0005077963578514755
+und holte den Elektrorasenmäher  den sie von [MASK],dem,0.005458851344883442
+holte den Elektrorasenmäher  den sie von dem [MASK],Vorbesitzer,1.3289510206959676e-05
+den Elektrorasenmäher  den sie von dem Vorbesitzer [MASK],übernommen,0.0025050356052815914
+Elektrorasenmäher  den sie von dem Vorbesitzer übernommen [MASK],hatte,0.04619647562503815
+ den sie von dem Vorbesitzer übernommen hatte [MASK],,1.6437999192930874e-06
+den sie von dem Vorbesitzer übernommen hatte  [MASK],aus,6.975002179387957e-06
+sie von dem Vorbesitzer übernommen hatte  aus [MASK],dem,0.014735654927790165
+von dem Vorbesitzer übernommen hatte  aus dem [MASK],Schuppen,0.0003766052541323006
+dem Vorbesitzer übernommen hatte  aus dem Schuppen [MASK],,2.426851096970495e-05
+Vorbesitzer übernommen hatte  aus dem Schuppen  [MASK],Kaum,5.64791491797223e-07
+übernommen hatte  aus dem Schuppen  Kaum [MASK],hatte,2.2608046492678113e-05
+hatte  aus dem Schuppen  Kaum hatte [MASK],sie,0.0003416342369746417
+ aus dem Schuppen  Kaum hatte sie [MASK],den,0.0005871113971807063
+aus dem Schuppen  Kaum hatte sie den [MASK],Rasenmäher,0.00023643005988560617
+dem Schuppen  Kaum hatte sie den Rasenmäher [MASK],eingeschaltet,0.0021900609135627747
+Schuppen  Kaum hatte sie den Rasenmäher eingeschaltet [MASK],und,0.0008620041771791875
+ Kaum hatte sie den Rasenmäher eingeschaltet und [MASK],ein,0.0003774748183786869
+Kaum hatte sie den Rasenmäher eingeschaltet und ein [MASK],Stück,0.007127758581191301
+hatte sie den Rasenmäher eingeschaltet und ein Stück [MASK],vor,0.00014561624266207218
+sie den Rasenmäher eingeschaltet und ein Stück vor [MASK],sich,0.0005323259392753243
+den Rasenmäher eingeschaltet und ein Stück vor sich [MASK],hergeschoben,0.05962149426341057
+Rasenmäher eingeschaltet und ein Stück vor sich hergeschoben [MASK],,2.303376959389425e-06
+eingeschaltet und ein Stück vor sich hergeschoben  [MASK],gab,3.821689631422487e-07
+und ein Stück vor sich hergeschoben  gab [MASK],er,0.00028639353695325553
+ein Stück vor sich hergeschoben  gab er [MASK],ein,0.0023659064900130033
+Stück vor sich hergeschoben  gab er ein [MASK],Brummen,2.871990432140592e-07
+vor sich hergeschoben  gab er ein Brummen [MASK],von,0.0001329654041910544
+sich hergeschoben  gab er ein Brummen von [MASK],sich,0.0009618817130103707
+hergeschoben  gab er ein Brummen von sich [MASK],,1.171540930045012e-06
+ gab er ein Brummen von sich  [MASK],kurz,2.596894091766444e-06
+gab er ein Brummen von sich  kurz [MASK],darauf,0.0013674874790012836
+er ein Brummen von sich  kurz darauf [MASK],ging,0.0003435190301388502
+ein Brummen von sich  kurz darauf ging [MASK],er,0.0004956526099704206
+Brummen von sich  kurz darauf ging er [MASK],aus,0.007238395046442747
+von sich  kurz darauf ging er aus [MASK],,3.1970316172191815e-07
+sich  kurz darauf ging er aus  [MASK],Verdammter,3.6451503149237396e-08
+ kurz darauf ging er aus  Verdammter [MASK],Mist,2.6860654998017708e-06
+kurz darauf ging er aus  Verdammter Mist [MASK],,2.1581342934950953e-07
+darauf ging er aus  Verdammter Mist  [MASK],fluchte,1.3133919765095925e-06
+ging er aus  Verdammter Mist  fluchte [MASK],Marlene,1.1302915936539648e-07
+er aus  Verdammter Mist  fluchte Marlene [MASK],,3.2281877793138847e-07
+aus  Verdammter Mist  fluchte Marlene  [MASK],Was,5.144318038219353e-07
+ Verdammter Mist  fluchte Marlene  Was [MASK],ist,6.0420745285227895e-05
+Verdammter Mist  fluchte Marlene  Was ist [MASK],denn,0.002009045332670212
+Mist  fluchte Marlene  Was ist denn [MASK],jetzt,0.0007101110531948507
+ fluchte Marlene  Was ist denn jetzt [MASK],bloss,2.4186272185033886e-06
+fluchte Marlene  Was ist denn jetzt bloss [MASK],mit,3.417062771404744e-06
+Marlene  Was ist denn jetzt bloss mit [MASK],dem,0.0005921627744100988
+ Was ist denn jetzt bloss mit dem [MASK],blöden,1.6594864064245485e-05
+Was ist denn jetzt bloss mit dem blöden [MASK],Ding,0.01838557794690132
+ist denn jetzt bloss mit dem blöden Ding [MASK],los,0.0017151909414678812
+denn jetzt bloss mit dem blöden Ding los [MASK],,1.1414456047020849e-09
+jetzt bloss mit dem blöden Ding los  [MASK],Das,7.306387317385088e-08
+bloss mit dem blöden Ding los  Das [MASK],Gras,0.0006267221760936081
+mit dem blöden Ding los  Das Gras [MASK],ist,0.0021268222481012344
+dem blöden Ding los  Das Gras ist [MASK],viel,0.00015960156451910734
+blöden Ding los  Das Gras ist viel [MASK],zu,0.00019722252909559757
+Ding los  Das Gras ist viel zu [MASK],hoch,0.031675565987825394
+los  Das Gras ist viel zu hoch [MASK],,5.02180910189054e-06
+ Das Gras ist viel zu hoch  [MASK],Die,1.38628661261464e-06
+Das Gras ist viel zu hoch  Die [MASK],langen,3.334396024001762e-05
+Gras ist viel zu hoch  Die langen [MASK],Grasbüschel,0.00013947871048003435
+ist viel zu hoch  Die langen Grasbüschel [MASK],werden,0.0008691740222275257
+viel zu hoch  Die langen Grasbüschel werden [MASK],sich,0.00014093067147769034
+zu hoch  Die langen Grasbüschel werden sich [MASK],in,0.00022210627503227443
+hoch  Die langen Grasbüschel werden sich in [MASK],den,0.00916836503893137
+ Die langen Grasbüschel werden sich in den [MASK],Rotorblättern,5.43672067578882e-05
+Die langen Grasbüschel werden sich in den Rotorblättern [MASK],verfangen,0.0008019926026463509
+langen Grasbüschel werden sich in den Rotorblättern verfangen [MASK],haben,0.000196059190784581
+Grasbüschel werden sich in den Rotorblättern verfangen haben [MASK],und,0.00026674612308852375
+werden sich in den Rotorblättern verfangen haben und [MASK],blockieren,2.6154307306569535e-06
+sich in den Rotorblättern verfangen haben und blockieren [MASK],sie,0.0005801141378469765
+in den Rotorblättern verfangen haben und blockieren sie [MASK],,2.3587048417539336e-05
+den Rotorblättern verfangen haben und blockieren sie  [MASK],ertönte,6.765515649931331e-07
+Rotorblättern verfangen haben und blockieren sie  ertönte [MASK],eine,2.7071318982052617e-05
+verfangen haben und blockieren sie  ertönte eine [MASK],tiefe,0.0009780527325347066
+haben und blockieren sie  ertönte eine tiefe [MASK],Stimme,0.31272023916244507
+und blockieren sie  ertönte eine tiefe Stimme [MASK],aus,0.0030477805994451046
+blockieren sie  ertönte eine tiefe Stimme aus [MASK],dem,0.006361894775182009
+sie  ertönte eine tiefe Stimme aus dem [MASK],Garten,0.00044973165495321155
+ ertönte eine tiefe Stimme aus dem Garten [MASK],gegenüber,7.224338332889602e-06
+ertönte eine tiefe Stimme aus dem Garten gegenüber [MASK],,1.0889801842495217e-06
+eine tiefe Stimme aus dem Garten gegenüber  [MASK],Marlene,8.418354582317988e-07
+tiefe Stimme aus dem Garten gegenüber  Marlene [MASK],drehte,1.9689291548274923e-06
+Stimme aus dem Garten gegenüber  Marlene drehte [MASK],sich,0.002526470459997654
+aus dem Garten gegenüber  Marlene drehte sich [MASK],zu,0.001822786987759173
+dem Garten gegenüber  Marlene drehte sich zu [MASK],dem,0.00038449096609838307
+Garten gegenüber  Marlene drehte sich zu dem [MASK],Nachbarn,0.002035279758274555
+gegenüber  Marlene drehte sich zu dem Nachbarn [MASK],um,0.009540902450680733
+ Marlene drehte sich zu dem Nachbarn um [MASK],einem,1.3318302990228403e-05
+Marlene drehte sich zu dem Nachbarn um einem [MASK],grauhaarigen,4.0701302168599796e-06
+drehte sich zu dem Nachbarn um einem grauhaarigen [MASK],stattlichen,2.592444843685371e-06
+sich zu dem Nachbarn um einem grauhaarigen stattlichen [MASK],Mann,0.03930293023586273
+zu dem Nachbarn um einem grauhaarigen stattlichen Mann [MASK],mit,0.0005372553714551032
+dem Nachbarn um einem grauhaarigen stattlichen Mann mit [MASK],Vollbart,6.594875230803154e-06
+Nachbarn um einem grauhaarigen stattlichen Mann mit Vollbart [MASK],,7.047815415717196e-06
+um einem grauhaarigen stattlichen Mann mit Vollbart  [MASK],Der,3.4740298815449933e-06
+einem grauhaarigen stattlichen Mann mit Vollbart  Der [MASK],Klugscheisser,6.504091629722097e-07
+grauhaarigen stattlichen Mann mit Vollbart  Der Klugscheisser [MASK],hat,0.00017060499521903694
+stattlichen Mann mit Vollbart  Der Klugscheisser hat [MASK],eine,0.0002506610471755266
+Mann mit Vollbart  Der Klugscheisser hat eine [MASK],verblüffende,1.1237059993618459e-07
+mit Vollbart  Der Klugscheisser hat eine verblüffende [MASK],Ähnlichkeit,0.008593099191784859
+Vollbart  Der Klugscheisser hat eine verblüffende Ähnlichkeit [MASK],mit,0.006205032579600811
+ Der Klugscheisser hat eine verblüffende Ähnlichkeit mit [MASK],dem,0.0478639230132103
+Der Klugscheisser hat eine verblüffende Ähnlichkeit mit dem [MASK],Zwerg,0.001682243193499744
+Klugscheisser hat eine verblüffende Ähnlichkeit mit dem Zwerg [MASK],mit,5.369145219447091e-05
+hat eine verblüffende Ähnlichkeit mit dem Zwerg mit [MASK],der,0.0033918716944754124
+eine verblüffende Ähnlichkeit mit dem Zwerg mit der [MASK],Heckenschere,2.3129337023419794e-07
+verblüffende Ähnlichkeit mit dem Zwerg mit der Heckenschere [MASK],dachte,7.065530667205167e-07
+Ähnlichkeit mit dem Zwerg mit der Heckenschere dachte [MASK],sie,0.003260846482589841
+mit dem Zwerg mit der Heckenschere dachte sie [MASK],und,0.0002462815318722278
+dem Zwerg mit der Heckenschere dachte sie und [MASK],machte,0.0029032048769295216
+Zwerg mit der Heckenschere dachte sie und machte [MASK],sich,0.0025586429983377457
+mit der Heckenschere dachte sie und machte sich [MASK],daran,0.010731489397585392
+der Heckenschere dachte sie und machte sich daran [MASK],den,0.000739330134820193
+Heckenschere dachte sie und machte sich daran den [MASK],Rasenmäher,8.190873631974682e-05
+dachte sie und machte sich daran den Rasenmäher [MASK],umzudrehen,1.2649787095142528e-05
+sie und machte sich daran den Rasenmäher umzudrehen [MASK],So,4.7486373944138904e-08
+und machte sich daran den Rasenmäher umzudrehen So [MASK],sehr,0.0004699806740973145
+machte sich daran den Rasenmäher umzudrehen So sehr [MASK],sie,0.001297768554650247
+sich daran den Rasenmäher umzudrehen So sehr sie [MASK],sich,0.006476301234215498
+daran den Rasenmäher umzudrehen So sehr sie sich [MASK],auch,0.00021345229470171034
+den Rasenmäher umzudrehen So sehr sie sich auch [MASK],anstrengte,0.0004036540922243148
+Rasenmäher umzudrehen So sehr sie sich auch anstrengte [MASK],es,0.00013165836571715772
+umzudrehen So sehr sie sich auch anstrengte es [MASK],gelang,0.000617571990005672
+So sehr sie sich auch anstrengte es gelang [MASK],ihr,0.0006021694862283766
+sehr sie sich auch anstrengte es gelang ihr [MASK],nicht,0.002512195613235235
+sie sich auch anstrengte es gelang ihr nicht [MASK],,6.994039267738117e-06
+sich auch anstrengte es gelang ihr nicht  [MASK],Sie,2.3620150386705063e-05
+auch anstrengte es gelang ihr nicht  Sie [MASK],war,0.0004343331966083497
+anstrengte es gelang ihr nicht  Sie war [MASK],einfach,0.00040387382614426315
+es gelang ihr nicht  Sie war einfach [MASK],zu,0.0014687124639749527
+gelang ihr nicht  Sie war einfach zu [MASK],schwach,0.024858267977833748
+ihr nicht  Sie war einfach zu schwach [MASK],,3.883126851178531e-07
+nicht  Sie war einfach zu schwach  [MASK],Marlene,9.381920307305336e-08
+ Sie war einfach zu schwach  Marlene [MASK],ärgerte,9.177691850936753e-08
+Sie war einfach zu schwach  Marlene ärgerte [MASK],sich,0.0016176111530512571
+war einfach zu schwach  Marlene ärgerte sich [MASK],über,0.004752121865749359
+einfach zu schwach  Marlene ärgerte sich über [MASK],sich,0.0007146098068915308
+zu schwach  Marlene ärgerte sich über sich [MASK],selbst,0.0273003950715065
+schwach  Marlene ärgerte sich über sich selbst [MASK],und,0.00041803892236202955
+ Marlene ärgerte sich über sich selbst und [MASK],erst,5.1508417527657e-05
+Marlene ärgerte sich über sich selbst und erst [MASK],recht,0.021435482427477837
+ärgerte sich über sich selbst und erst recht [MASK],darüber,0.0017179681453853846
+sich über sich selbst und erst recht darüber [MASK],dass,2.3712880647508428e-05
+über sich selbst und erst recht darüber dass [MASK],der,0.00282119307667017
+sich selbst und erst recht darüber dass der [MASK],Besserwisser,1.3387912076723296e-05
+selbst und erst recht darüber dass der Besserwisser [MASK],von,0.0012517946306616068
+und erst recht darüber dass der Besserwisser von [MASK],gegenüber,4.553190228762105e-05
+erst recht darüber dass der Besserwisser von gegenüber [MASK],offenbar,1.3886977285437752e-05
+recht darüber dass der Besserwisser von gegenüber offenbar [MASK],alles,5.1318096666364e-05
+darüber dass der Besserwisser von gegenüber offenbar alles [MASK],was,7.300178549485281e-05
+dass der Besserwisser von gegenüber offenbar alles was [MASK],sie,3.093555733357789e-06
+der Besserwisser von gegenüber offenbar alles was sie [MASK],tat,0.005116868764162064
+Besserwisser von gegenüber offenbar alles was sie tat [MASK],genau,4.070136492373422e-05
+von gegenüber offenbar alles was sie tat genau [MASK],beobachtete,0.013939465396106243
+gegenüber offenbar alles was sie tat genau beobachtete [MASK],,6.222961701496388e-07
+offenbar alles was sie tat genau beobachtete  [MASK],Ungefragt,3.119389191397204e-08
+alles was sie tat genau beobachtete  Ungefragt [MASK],kam,7.545103289885446e-05
+was sie tat genau beobachtete  Ungefragt kam [MASK],er,2.4669650883879513e-05
+sie tat genau beobachtete  Ungefragt kam er [MASK],jetzt,0.0008043678826652467
+tat genau beobachtete  Ungefragt kam er jetzt [MASK],einfach,0.0002969558699987829
+genau beobachtete  Ungefragt kam er jetzt einfach [MASK],in,0.0011922901030629873
+beobachtete  Ungefragt kam er jetzt einfach in [MASK],ihren,0.00019153833272866905
+ Ungefragt kam er jetzt einfach in ihren [MASK],Garten,0.029513731598854065
+Ungefragt kam er jetzt einfach in ihren Garten [MASK],,4.57733904113411e-06
+kam er jetzt einfach in ihren Garten  [MASK],Lassen,8.109127236366476e-08
+er jetzt einfach in ihren Garten  Lassen [MASK],Sie,5.836564741912298e-05
+jetzt einfach in ihren Garten  Lassen Sie [MASK],mich,0.03743840381503105
+einfach in ihren Garten  Lassen Sie mich [MASK],das,6.693986506434157e-05
+in ihren Garten  Lassen Sie mich das [MASK],mal,0.0028285752050578594
+ihren Garten  Lassen Sie mich das mal [MASK],machen,0.03627796098589897
+Garten  Lassen Sie mich das mal machen [MASK],sagte,5.644978529062428e-08
+ Lassen Sie mich das mal machen sagte [MASK],er,0.0003046996716875583
+Lassen Sie mich das mal machen sagte er [MASK],,1.1088484370702645e-06
+Sie mich das mal machen sagte er  [MASK],Das,1.4785100574954413e-06
+mich das mal machen sagte er  Das [MASK],ist,0.00622169952839613
+das mal machen sagte er  Das ist [MASK],doch,0.0008092214120551944
+mal machen sagte er  Das ist doch [MASK],Männerarbeit,2.238432898593601e-05
+machen sagte er  Das ist doch Männerarbeit [MASK],,4.030054014947382e-07
+sagte er  Das ist doch Männerarbeit  [MASK],Sacht,1.1662850241123124e-08
+er  Das ist doch Männerarbeit  Sacht [MASK],,7.939721058392024e-07
+ Das ist doch Männerarbeit  Sacht  [MASK],schob,3.0955284273659345e-06
+Das ist doch Männerarbeit  Sacht  schob [MASK],er,6.877039413666353e-05
+ist doch Männerarbeit  Sacht  schob er [MASK],sie,0.000737941125407815
+doch Männerarbeit  Sacht  schob er sie [MASK],zur,0.00028004508931189775
+Männerarbeit  Sacht  schob er sie zur [MASK],Seite,0.11234652996063232
+ Sacht  schob er sie zur Seite [MASK],und,0.0012197245378047228
+Sacht  schob er sie zur Seite und [MASK],schaffte,0.0004087693814653903
+ schob er sie zur Seite und schaffte [MASK],es,0.056354351341724396
+schob er sie zur Seite und schaffte es [MASK],in,0.0014586015604436398
+er sie zur Seite und schaffte es in [MASK],wenigen,3.0120336305117235e-05
+sie zur Seite und schaffte es in wenigen [MASK],Minuten,0.15907597541809082
+zur Seite und schaffte es in wenigen Minuten [MASK],,8.81627966009546e-06
+Seite und schaffte es in wenigen Minuten  [MASK],die,0.0004896167083643377
+und schaffte es in wenigen Minuten  die [MASK],Grasbüschel,1.6529255617570016e-06
+schaffte es in wenigen Minuten  die Grasbüschel [MASK],zu,0.0024015195667743683
+es in wenigen Minuten  die Grasbüschel zu [MASK],entfernen,0.19562451541423798
+in wenigen Minuten  die Grasbüschel zu entfernen [MASK],Anschliessend,3.0898306135895837e-08
+wenigen Minuten  die Grasbüschel zu entfernen Anschliessend [MASK],,5.058687747805379e-06
+Minuten  die Grasbüschel zu entfernen Anschliessend  [MASK],schaltete,6.153807589726057e-06
+ die Grasbüschel zu entfernen Anschliessend  schaltete [MASK],er,0.0054172310046851635
+die Grasbüschel zu entfernen Anschliessend  schaltete er [MASK],den,0.0008360663196071982
+Grasbüschel zu entfernen Anschliessend  schaltete er den [MASK],Rasenmäher,0.004074756987392902
+zu entfernen Anschliessend  schaltete er den Rasenmäher [MASK],an,0.018944859504699707
+entfernen Anschliessend  schaltete er den Rasenmäher an [MASK],,3.277058846506975e-09
+Anschliessend  schaltete er den Rasenmäher an  [MASK],um,1.1899293212991324e-06
+ schaltete er den Rasenmäher an  um [MASK],festzustellen,2.3622982553206384e-05
+schaltete er den Rasenmäher an  um festzustellen [MASK],dass,0.0004137542564421892
+er den Rasenmäher an  um festzustellen dass [MASK],er,0.03445032611489296
+den Rasenmäher an  um festzustellen dass er [MASK],nun,0.0004761815071105957
+Rasenmäher an  um festzustellen dass er nun [MASK],wieder,0.004372226539999247
+an  um festzustellen dass er nun wieder [MASK],tadellos,6.433191447285935e-05
+ um festzustellen dass er nun wieder tadellos [MASK],funktionierte,0.045007217675447464
+um festzustellen dass er nun wieder tadellos funktionierte [MASK],,5.874084081369801e-07
+festzustellen dass er nun wieder tadellos funktionierte  [MASK],Danke,3.921878644064236e-08
+dass er nun wieder tadellos funktionierte  Danke [MASK],murmelte,1.5434847000506124e-06
+er nun wieder tadellos funktionierte  Danke murmelte [MASK],Marlene,1.552148063410641e-07
+nun wieder tadellos funktionierte  Danke murmelte Marlene [MASK],verschämt,2.7704918466042727e-06
+wieder tadellos funktionierte  Danke murmelte Marlene verschämt [MASK],,2.1640785234922078e-06
+tadellos funktionierte  Danke murmelte Marlene verschämt  [MASK],Keine,1.9962876649515238e-06
+funktionierte  Danke murmelte Marlene verschämt  Keine [MASK],Ursache,0.0010479860939085484
+ Danke murmelte Marlene verschämt  Keine Ursache [MASK],,1.5533178157056682e-06
+Danke murmelte Marlene verschämt  Keine Ursache  [MASK],sagte,2.979172313644085e-05
+murmelte Marlene verschämt  Keine Ursache  sagte [MASK],der,0.0002298815525136888
+Marlene verschämt  Keine Ursache  sagte der [MASK],Bärtige,0.0004604114801622927
+verschämt  Keine Ursache  sagte der Bärtige [MASK],und,0.0004643984430003911
+ Keine Ursache  sagte der Bärtige und [MASK],reichte,0.00010973813914461061
+Keine Ursache  sagte der Bärtige und reichte [MASK],ihr,0.004694411065429449
+Ursache  sagte der Bärtige und reichte ihr [MASK],die,0.0007733320235274732
+ sagte der Bärtige und reichte ihr die [MASK],Garten,4.321300366427749e-06
+sagte der Bärtige und reichte ihr die Garten [MASK],,1.5316244272867152e-08
+der Bärtige und reichte ihr die Garten  [MASK],Theo,1.088387875824992e-06
+Bärtige und reichte ihr die Garten  Theo [MASK],Förster,1.267362131329719e-05
+und reichte ihr die Garten  Theo Förster [MASK],,6.037338096120948e-08
+reichte ihr die Garten  Theo Förster  [MASK],Marlene,8.852801329339854e-06
+ihr die Garten  Theo Förster  Marlene [MASK],erwiderte,1.9119759997465735e-07
+die Garten  Theo Förster  Marlene erwiderte [MASK],den,5.7865330745698884e-05
+Garten  Theo Förster  Marlene erwiderte den [MASK],Handschlag,4.954496830578137e-07
+ Theo Förster  Marlene erwiderte den Handschlag [MASK],,1.1947250641242135e-05
+Theo Förster  Marlene erwiderte den Handschlag  [MASK],und,0.00027692478033713996
+Förster  Marlene erwiderte den Handschlag  und [MASK],stellte,0.0005942617426626384
+ Marlene erwiderte den Handschlag  und stellte [MASK],sich,0.0492439791560173
+Marlene erwiderte den Handschlag  und stellte sich [MASK],ebenfalls,0.0011432371102273464
+erwiderte den Handschlag  und stellte sich ebenfalls [MASK],vor,0.06969424337148666
+den Handschlag  und stellte sich ebenfalls vor [MASK],,4.773065143126587e-08
+Handschlag  und stellte sich ebenfalls vor  [MASK],Marlene,4.4316184357739985e-06
+ und stellte sich ebenfalls vor  Marlene [MASK],Schmidt,0.002888134913519025
+und stellte sich ebenfalls vor  Marlene Schmidt [MASK],,1.1589423820623779e-06
+stellte sich ebenfalls vor  Marlene Schmidt  [MASK],Sie,1.910728769871639e-06
+sich ebenfalls vor  Marlene Schmidt  Sie [MASK],deutete,6.99060763054149e-07
+ebenfalls vor  Marlene Schmidt  Sie deutete [MASK],auf,0.01570165529847145
+vor  Marlene Schmidt  Sie deutete auf [MASK],die,0.003994598984718323
+ Marlene Schmidt  Sie deutete auf die [MASK],Wiese,0.001233982970006764
+Marlene Schmidt  Sie deutete auf die Wiese [MASK],,2.0399686491145985e-06
+Schmidt  Sie deutete auf die Wiese  [MASK],Wie,4.821550646738615e-06
+ Sie deutete auf die Wiese  Wie [MASK],krieg,1.0885343044719775e-06
+Sie deutete auf die Wiese  Wie krieg [MASK],ich,4.251910922903335e-06
+deutete auf die Wiese  Wie krieg ich [MASK],den,0.00044316312414593995
+auf die Wiese  Wie krieg ich den [MASK],Rasen,0.0039991154335439205
+die Wiese  Wie krieg ich den Rasen [MASK],denn,7.034924055915326e-05
+Wiese  Wie krieg ich den Rasen denn [MASK],so,5.478911043610424e-05
+ Wie krieg ich den Rasen denn so [MASK],kurz,2.084608240693342e-05
+Wie krieg ich den Rasen denn so kurz [MASK],,3.0164809317057006e-08
+krieg ich den Rasen denn so kurz  [MASK],dass,5.439339929580456e-07
+ich den Rasen denn so kurz  dass [MASK],ich,0.16006392240524292
+den Rasen denn so kurz  dass ich [MASK],mähen,0.00024061692238319665
+Rasen denn so kurz  dass ich mähen [MASK],kann,0.07463999837636948
+denn so kurz  dass ich mähen kann [MASK],,1.7841962574038917e-07

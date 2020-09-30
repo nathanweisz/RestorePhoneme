@@ -1,0 +1,564 @@
+Context,Word,Probability
+        [MASK],Viele,0.00011090499174315482
+       Viele [MASK],Wissenschaftler,0.0004336630809120834
+      Viele Wissenschaftler [MASK],wundern,1.914819767989684e-05
+     Viele Wissenschaftler wundern [MASK],sich,0.48874470591545105
+    Viele Wissenschaftler wundern sich [MASK],auch,0.0016876122681424022
+   Viele Wissenschaftler wundern sich auch [MASK],heute,0.0013292954536154866
+  Viele Wissenschaftler wundern sich auch heute [MASK],noch,0.001244535087607801
+ Viele Wissenschaftler wundern sich auch heute noch [MASK],darüber,0.0056533655151724815
+Viele Wissenschaftler wundern sich auch heute noch darüber [MASK],,1.3607504456558672e-07
+Wissenschaftler wundern sich auch heute noch darüber  [MASK],dass,9.040716577146668e-06
+wundern sich auch heute noch darüber  dass [MASK],die,0.014485364779829979
+sich auch heute noch darüber  dass die [MASK],Eskimos,2.7795394998975098e-05
+auch heute noch darüber  dass die Eskimos [MASK],in,0.001668762182816863
+heute noch darüber  dass die Eskimos in [MASK],den,0.009046316146850586
+noch darüber  dass die Eskimos in den [MASK],unbewegsamen,1.9261208308307687e-06
+darüber  dass die Eskimos in den unbewegsamen [MASK],baumlosen,2.931029712271993e-07
+ dass die Eskimos in den unbewegsamen baumlosen [MASK],Gebieten,0.10749519616365433
+dass die Eskimos in den unbewegsamen baumlosen Gebieten [MASK],der,0.001372809987515211
+die Eskimos in den unbewegsamen baumlosen Gebieten der [MASK],arktischen,5.539596895687282e-05
+Eskimos in den unbewegsamen baumlosen Gebieten der arktischen [MASK],Tundra,6.22621541879198e-07
+in den unbewegsamen baumlosen Gebieten der arktischen Tundra [MASK],überlebten,2.683842285478022e-05
+den unbewegsamen baumlosen Gebieten der arktischen Tundra überlebten [MASK],,1.4026275039213942e-06
+unbewegsamen baumlosen Gebieten der arktischen Tundra überlebten  [MASK],Vor,3.7853724279557355e-06
+baumlosen Gebieten der arktischen Tundra überlebten  Vor [MASK],allem,0.00036802966496907175
+Gebieten der arktischen Tundra überlebten  Vor allem [MASK],im,0.002571128774434328
+der arktischen Tundra überlebten  Vor allem im [MASK],Winter,0.051510151475667953
+arktischen Tundra überlebten  Vor allem im Winter [MASK],konnte,1.0731037946243305e-05
+Tundra überlebten  Vor allem im Winter konnte [MASK],Nahrung,0.00035615538945421576
+überlebten  Vor allem im Winter konnte Nahrung [MASK],über,0.0006264501716941595
+ Vor allem im Winter konnte Nahrung über [MASK],Monate,0.005423104856163263
+Vor allem im Winter konnte Nahrung über Monate [MASK],knapp,0.0035250969231128693
+allem im Winter konnte Nahrung über Monate knapp [MASK],werden,0.1384163796901703
+im Winter konnte Nahrung über Monate knapp werden [MASK],,9.9199674252759e-08
+Winter konnte Nahrung über Monate knapp werden  [MASK],Die,8.383287308788567e-07
+konnte Nahrung über Monate knapp werden  Die [MASK],Menschen,0.0009418509434908628
+Nahrung über Monate knapp werden  Die Menschen [MASK],mussten,6.082324398448691e-05
+über Monate knapp werden  Die Menschen mussten [MASK],manche,4.961991362506524e-05
+Monate knapp werden  Die Menschen mussten manche [MASK],schwere,0.003278460120782256
+knapp werden  Die Menschen mussten manche schwere [MASK],Dürre,9.652845619712025e-05
+werden  Die Menschen mussten manche schwere Dürre [MASK],überstehen,5.2758190577151254e-05
+ Die Menschen mussten manche schwere Dürre überstehen [MASK],,1.1310575587231142e-07
+Die Menschen mussten manche schwere Dürre überstehen  [MASK],und,0.0007083498639985919
+Menschen mussten manche schwere Dürre überstehen  und [MASK],langen,2.0875912014162168e-05
+mussten manche schwere Dürre überstehen  und langen [MASK],Stürmen,6.745513928763103e-06
+manche schwere Dürre überstehen  und langen Stürmen [MASK],trotzen,0.007145247887820005
+schwere Dürre überstehen  und langen Stürmen trotzen [MASK],,1.646687195488994e-07
+Dürre überstehen  und langen Stürmen trotzen  [MASK],Trotz,0.00023701932514086366
+überstehen  und langen Stürmen trotzen  Trotz [MASK],Hunger,2.635230885061901e-05
+ und langen Stürmen trotzen  Trotz Hunger [MASK],und,0.00947608519345522
+und langen Stürmen trotzen  Trotz Hunger und [MASK],Kälte,0.24292881786823273
+langen Stürmen trotzen  Trotz Hunger und Kälte [MASK],konnte,2.218794179498218e-06
+Stürmen trotzen  Trotz Hunger und Kälte konnte [MASK],sich,0.0014106027083471417
+trotzen  Trotz Hunger und Kälte konnte sich [MASK],in,0.0008188434294424951
+ Trotz Hunger und Kälte konnte sich in [MASK],der,0.027247769758105278
+Trotz Hunger und Kälte konnte sich in der [MASK],kargen,4.536617325356929e-06
+Hunger und Kälte konnte sich in der kargen [MASK],Natur,0.00035096972715109587
+und Kälte konnte sich in der kargen Natur [MASK],eine,0.00013307749759405851
+Kälte konnte sich in der kargen Natur eine [MASK],eigene,0.0015861054416745901
+konnte sich in der kargen Natur eine eigene [MASK],Kultur,0.005297933239489794
+sich in der kargen Natur eine eigene Kultur [MASK],entfalten,5.0360173190711066e-05
+in der kargen Natur eine eigene Kultur entfalten [MASK],,8.53078319096312e-08
+der kargen Natur eine eigene Kultur entfalten  [MASK],Dem,1.7015754849580844e-07
+kargen Natur eine eigene Kultur entfalten  Dem [MASK],seltsamen,4.383867349133652e-07
+Natur eine eigene Kultur entfalten  Dem seltsamen [MASK],Namen,0.0004780067829415202
+eine eigene Kultur entfalten  Dem seltsamen Namen [MASK],der,0.0010221757693216205
+eigene Kultur entfalten  Dem seltsamen Namen der [MASK],Eskimos,1.3605121239379514e-05
+Kultur entfalten  Dem seltsamen Namen der Eskimos [MASK],war,1.3169653357181232e-05
+entfalten  Dem seltsamen Namen der Eskimos war [MASK],als,5.7884579291567206e-05
+ Dem seltsamen Namen der Eskimos war als [MASK],erster,0.006757221184670925
+Dem seltsamen Namen der Eskimos war als erster [MASK],ein,0.0023911776952445507
+seltsamen Namen der Eskimos war als erster ein [MASK],junger,0.0005328916013240814
+Namen der Eskimos war als erster ein junger [MASK],Journalist,0.0022954330779612064
+der Eskimos war als erster ein junger Journalist [MASK],auf,0.0003459501313045621
+Eskimos war als erster ein junger Journalist auf [MASK],der,0.008291173726320267
+war als erster ein junger Journalist auf der [MASK],Anpassung,9.767832125362474e-07
+als erster ein junger Journalist auf der Anpassung [MASK],,7.069515390867309e-07
+erster ein junger Journalist auf der Anpassung  [MASK],Er,2.3450085791409947e-05
+ein junger Journalist auf der Anpassung  Er [MASK],forschte,5.07469349031453e-06
+junger Journalist auf der Anpassung  Er forschte [MASK],nach,0.0009756939834915102
+Journalist auf der Anpassung  Er forschte nach [MASK],ähnlichen,3.9284121157834306e-05
+auf der Anpassung  Er forschte nach ähnlichen [MASK],oder,0.0001020590279949829
+der Anpassung  Er forschte nach ähnlichen oder [MASK],bedeutungsgleichen,3.207687768735923e-06
+Anpassung  Er forschte nach ähnlichen oder bedeutungsgleichen [MASK],Wörtern,0.00033116110716946423
+ Er forschte nach ähnlichen oder bedeutungsgleichen Wörtern [MASK],,4.841243708142429e-07
+Er forschte nach ähnlichen oder bedeutungsgleichen Wörtern  [MASK],und,0.0030421295668929815
+forschte nach ähnlichen oder bedeutungsgleichen Wörtern  und [MASK],wurde,0.0007294560200534761
+nach ähnlichen oder bedeutungsgleichen Wörtern  und wurde [MASK],fündig,5.941870040260255e-05
+ähnlichen oder bedeutungsgleichen Wörtern  und wurde fündig [MASK],,6.5782128331193235e-06
+oder bedeutungsgleichen Wörtern  und wurde fündig  [MASK],Eskimo,8.017433970053389e-07
+bedeutungsgleichen Wörtern  und wurde fündig  Eskimo [MASK],ist,0.00010683947766665369
+Wörtern  und wurde fündig  Eskimo ist [MASK],ein,0.0018875974928960204
+ und wurde fündig  Eskimo ist ein [MASK],einfaches,0.0006179625634104013
+und wurde fündig  Eskimo ist ein einfaches [MASK],Synonym,0.00016642329865135252
+wurde fündig  Eskimo ist ein einfaches Synonym [MASK],eines,5.9980728110531345e-05
+fündig  Eskimo ist ein einfaches Synonym eines [MASK],Wortes,0.17369283735752106
+ Eskimo ist ein einfaches Synonym eines Wortes [MASK],aus,0.0011216873535886407
+Eskimo ist ein einfaches Synonym eines Wortes aus [MASK],der,0.005248704459518194
+ist ein einfaches Synonym eines Wortes aus der [MASK],Sprache,0.06050524488091469
+ein einfaches Synonym eines Wortes aus der Sprache [MASK],der,0.0018660089699551463
+einfaches Synonym eines Wortes aus der Sprache der [MASK],Cree,5.600409735961875e-07
+Synonym eines Wortes aus der Sprache der Cree [MASK],Indianer,0.007452942430973053
+eines Wortes aus der Sprache der Cree Indianer [MASK],,9.146139632321137e-07
+Wortes aus der Sprache der Cree Indianer  [MASK],Es,1.6280666841339553e-06
+aus der Sprache der Cree Indianer  Es [MASK],bedeutet,0.0009749687160365283
+der Sprache der Cree Indianer  Es bedeutet [MASK],Esser,1.112559971261362e-06
+Sprache der Cree Indianer  Es bedeutet Esser [MASK],von,8.480279211653396e-05
+der Cree Indianer  Es bedeutet Esser von [MASK],rohem,2.200170638388954e-05
+Cree Indianer  Es bedeutet Esser von rohem [MASK],Fleisch,0.24901464581489563
+Indianer  Es bedeutet Esser von rohem Fleisch [MASK],,1.4625989024352748e-06
+ Es bedeutet Esser von rohem Fleisch  [MASK],Die,2.1727498733525863e-07
+Es bedeutet Esser von rohem Fleisch  Die [MASK],Eskimo,1.6030722690629773e-05
+bedeutet Esser von rohem Fleisch  Die Eskimo [MASK],schätzen,2.3397917175316252e-05
+Esser von rohem Fleisch  Die Eskimo schätzen [MASK],aber,2.7085077817901038e-05
+von rohem Fleisch  Die Eskimo schätzen aber [MASK],auch,0.013060740195214748
+rohem Fleisch  Die Eskimo schätzen aber auch [MASK],gekochtes,1.3308943380252458e-05
+Fleisch  Die Eskimo schätzen aber auch gekochtes [MASK],Fleisch,0.23520809412002563
+ Die Eskimo schätzen aber auch gekochtes Fleisch [MASK],,2.718537075452332e-07
+Die Eskimo schätzen aber auch gekochtes Fleisch  [MASK],hatten,1.450362105970271e-07
+Eskimo schätzen aber auch gekochtes Fleisch  hatten [MASK],aber,1.698904816294089e-05
+schätzen aber auch gekochtes Fleisch  hatten aber [MASK],früher,0.0015557692386209965
+aber auch gekochtes Fleisch  hatten aber früher [MASK],in,0.0007300300057977438
+auch gekochtes Fleisch  hatten aber früher in [MASK],Eis,3.227791239623912e-05
+gekochtes Fleisch  hatten aber früher in Eis [MASK],und,0.003732462413609028
+Fleisch  hatten aber früher in Eis und [MASK],Schnee,0.1285066455602646
+ hatten aber früher in Eis und Schnee [MASK],oft,0.00020322413183748722
+hatten aber früher in Eis und Schnee oft [MASK],keinen,0.0007535152835771441
+aber früher in Eis und Schnee oft keinen [MASK],Brennstoff,0.00043716662912629545
+früher in Eis und Schnee oft keinen Brennstoff [MASK],zur,6.063901673769578e-05
+in Eis und Schnee oft keinen Brennstoff zur [MASK],Verfügung,0.764609158039093
+Eis und Schnee oft keinen Brennstoff zur Verfügung [MASK],,2.314556013516267e-06
+und Schnee oft keinen Brennstoff zur Verfügung  [MASK],Sie,5.2701587264891714e-05
+Schnee oft keinen Brennstoff zur Verfügung  Sie [MASK],selbst,0.005159671418368816
+oft keinen Brennstoff zur Verfügung  Sie selbst [MASK],,1.1466140676930081e-05
+keinen Brennstoff zur Verfügung  Sie selbst  [MASK],nennen,0.00011494765931274742
+Brennstoff zur Verfügung  Sie selbst  nennen [MASK],sich,0.0013512320583686233
+zur Verfügung  Sie selbst  nennen sich [MASK],Inuit,2.096645039273426e-05
+Verfügung  Sie selbst  nennen sich Inuit [MASK],,6.764454241192652e-08
+ Sie selbst  nennen sich Inuit  [MASK],was,1.2891576943729888e-06
+Sie selbst  nennen sich Inuit  was [MASK],man,3.6735498724738136e-05
+selbst  nennen sich Inuit  was man [MASK],mit,3.5192737414035946e-05
+ nennen sich Inuit  was man mit [MASK],Volk,5.5399465054506436e-05
+nennen sich Inuit  was man mit Volk [MASK],oder,0.000125870035844855
+sich Inuit  was man mit Volk oder [MASK],Menschen,0.0008118429104797542
+Inuit  was man mit Volk oder Menschen [MASK],übersetzen,1.7258679463338922e-06
+ was man mit Volk oder Menschen übersetzen [MASK],könnte,0.06618127971887589
+was man mit Volk oder Menschen übersetzen könnte [MASK],,1.1532367807376431e-06
+man mit Volk oder Menschen übersetzen könnte  [MASK],Das,5.633183718600776e-06
+mit Volk oder Menschen übersetzen könnte  Das [MASK],Wort,0.01644507423043251
+Volk oder Menschen übersetzen könnte  Das Wort [MASK],Eskimo,5.533919102163054e-05
+oder Menschen übersetzen könnte  Das Wort Eskimo [MASK],bezeichnet,0.006435987539589405
+Menschen übersetzen könnte  Das Wort Eskimo bezeichnet [MASK],heute,0.00013712247891817242
+übersetzen könnte  Das Wort Eskimo bezeichnet heute [MASK],vor,9.168453834718093e-05
+könnte  Das Wort Eskimo bezeichnet heute vor [MASK],allem,0.5947168469429016
+ Das Wort Eskimo bezeichnet heute vor allem [MASK],eine,0.0012478422140702605
+Das Wort Eskimo bezeichnet heute vor allem eine [MASK],gemeinsame,0.0006657341727986932
+Wort Eskimo bezeichnet heute vor allem eine gemeinsame [MASK],Sprache,0.1407172679901123
+Eskimo bezeichnet heute vor allem eine gemeinsame Sprache [MASK],,3.2369626978834276e-08
+bezeichnet heute vor allem eine gemeinsame Sprache  [MASK],die,8.280179463326931e-05
+heute vor allem eine gemeinsame Sprache  die [MASK],von,0.0001460494240745902
+vor allem eine gemeinsame Sprache  die von [MASK],fast,5.230661918176338e-05
+allem eine gemeinsame Sprache  die von fast [MASK],allen,0.28976044058799744
+eine gemeinsame Sprache  die von fast allen [MASK],Inuit,0.0001733627141220495
+gemeinsame Sprache  die von fast allen Inuit [MASK],in,0.0007317690178751945
+Sprache  die von fast allen Inuit in [MASK],verschiedenen,0.0043046665377914906
+ die von fast allen Inuit in verschiedenen [MASK],Gebieten,0.034779198467731476
+die von fast allen Inuit in verschiedenen Gebieten [MASK],in,0.0011402997188270092
+von fast allen Inuit in verschiedenen Gebieten in [MASK],Grönland,0.00013571485760621727
+fast allen Inuit in verschiedenen Gebieten in Grönland [MASK],,2.9716793505940586e-05
+allen Inuit in verschiedenen Gebieten in Grönland  [MASK],Kanada,0.0002511923376005143
+Inuit in verschiedenen Gebieten in Grönland  Kanada [MASK],und,0.0016401284374296665
+in verschiedenen Gebieten in Grönland  Kanada und [MASK],Alaska,2.945201595139224e-05
+verschiedenen Gebieten in Grönland  Kanada und Alaska [MASK],gesprochen,0.00016316113760694861
+Gebieten in Grönland  Kanada und Alaska gesprochen [MASK],wird,0.021776771172881126
+in Grönland  Kanada und Alaska gesprochen wird [MASK],,2.003313738896395e-06
+Grönland  Kanada und Alaska gesprochen wird  [MASK],Das,2.1556284082180355e-06
+ Kanada und Alaska gesprochen wird  Das [MASK],genaue,7.647922757314518e-05
+Kanada und Alaska gesprochen wird  Das genaue [MASK],Verhältnis,0.0005255253636278212
+und Alaska gesprochen wird  Das genaue Verhältnis [MASK],der,0.008034148253500462
+Alaska gesprochen wird  Das genaue Verhältnis der [MASK],regionalen,0.0018172257114201784
+gesprochen wird  Das genaue Verhältnis der regionalen [MASK],Dialekte,4.335893754614517e-05
+wird  Das genaue Verhältnis der regionalen Dialekte [MASK],ist,0.003019689815118909
+ Das genaue Verhältnis der regionalen Dialekte ist [MASK],heute,0.00028958270559087396
+Das genaue Verhältnis der regionalen Dialekte ist heute [MASK],linguistisch,2.1638634279952385e-06
+genaue Verhältnis der regionalen Dialekte ist heute linguistisch [MASK],gut,0.0012363219866529107
+Verhältnis der regionalen Dialekte ist heute linguistisch gut [MASK],untersucht,0.0033016724046319723
+der regionalen Dialekte ist heute linguistisch gut untersucht [MASK],,1.3753678729244712e-07
+regionalen Dialekte ist heute linguistisch gut untersucht  [MASK],Selbst,1.1083601236805407e-07
+Dialekte ist heute linguistisch gut untersucht  Selbst [MASK],bei,1.261316538148094e-05
+ist heute linguistisch gut untersucht  Selbst bei [MASK],sehr,0.0002039617975242436
+heute linguistisch gut untersucht  Selbst bei sehr [MASK],weit,0.003002461511641741
+linguistisch gut untersucht  Selbst bei sehr weit [MASK],entfernt,0.006232910323888063
+gut untersucht  Selbst bei sehr weit entfernt [MASK],voneinander,0.002605088986456394
+untersucht  Selbst bei sehr weit entfernt voneinander [MASK],lebenden,0.024142252281308174
+ Selbst bei sehr weit entfernt voneinander lebenden [MASK],Stämmen,7.282945443876088e-05
+Selbst bei sehr weit entfernt voneinander lebenden Stämmen [MASK],,7.82771166996099e-06
+bei sehr weit entfernt voneinander lebenden Stämmen  [MASK],zeigen,0.00018995472055394202
+sehr weit entfernt voneinander lebenden Stämmen  zeigen [MASK],sich,0.046643078327178955
+weit entfernt voneinander lebenden Stämmen  zeigen sich [MASK],immer,0.00026964390417560935
+entfernt voneinander lebenden Stämmen  zeigen sich immer [MASK],noch,0.006350192707031965
+voneinander lebenden Stämmen  zeigen sich immer noch [MASK],erstaunliche,0.0003668014833237976
+lebenden Stämmen  zeigen sich immer noch erstaunliche [MASK],Gemeinsamkeiten,0.00010464186925673857
+Stämmen  zeigen sich immer noch erstaunliche Gemeinsamkeiten [MASK],,1.8988821466336958e-06
+ zeigen sich immer noch erstaunliche Gemeinsamkeiten  [MASK],vor,7.927147089503706e-05
+zeigen sich immer noch erstaunliche Gemeinsamkeiten  vor [MASK],allem,0.022478744387626648
+sich immer noch erstaunliche Gemeinsamkeiten  vor allem [MASK],in,0.003006938612088561
+immer noch erstaunliche Gemeinsamkeiten  vor allem in [MASK],Wortschatz,2.78254065051442e-05
+noch erstaunliche Gemeinsamkeiten  vor allem in Wortschatz [MASK],,1.0162034413951915e-06
+erstaunliche Gemeinsamkeiten  vor allem in Wortschatz  [MASK],Satzbau,1.9214364783692872e-06
+Gemeinsamkeiten  vor allem in Wortschatz  Satzbau [MASK],und,0.0016491295536980033
+ vor allem in Wortschatz  Satzbau und [MASK],Verfügung,7.2486709541408345e-06
+vor allem in Wortschatz  Satzbau und Verfügung [MASK],,1.5573880318697775e-06
+allem in Wortschatz  Satzbau und Verfügung  [MASK],Ein,1.3561100786319003e-05
+in Wortschatz  Satzbau und Verfügung  Ein [MASK],gutes,1.2361630069790408e-05
+Wortschatz  Satzbau und Verfügung  Ein gutes [MASK],Beispiel,0.028712868690490723
+ Satzbau und Verfügung  Ein gutes Beispiel [MASK],für,0.03147687762975693
+Satzbau und Verfügung  Ein gutes Beispiel für [MASK],ähnliche,9.19910817174241e-05
+und Verfügung  Ein gutes Beispiel für ähnliche [MASK],Dialekte,4.0930837030828116e-07
+Verfügung  Ein gutes Beispiel für ähnliche Dialekte [MASK],,2.6112287741852924e-05
+ Ein gutes Beispiel für ähnliche Dialekte  [MASK],sind,0.017326464876532555
+Ein gutes Beispiel für ähnliche Dialekte  sind [MASK],die,0.02648925594985485
+gutes Beispiel für ähnliche Dialekte  sind die [MASK],Inuit,0.00010686727910069749
+Beispiel für ähnliche Dialekte  sind die Inuit [MASK],aus,0.00046965162619017065
+für ähnliche Dialekte  sind die Inuit aus [MASK],Alaska,0.0002282348577864468
+ähnliche Dialekte  sind die Inuit aus Alaska [MASK],und,0.0010258386610075831
+Dialekte  sind die Inuit aus Alaska und [MASK],Grönland,0.0010134070180356503
+ sind die Inuit aus Alaska und Grönland [MASK],,6.128305358288344e-06
+sind die Inuit aus Alaska und Grönland  [MASK],Es,1.4218092019291362e-06
+die Inuit aus Alaska und Grönland  Es [MASK],würde,8.381876250496134e-05
+Inuit aus Alaska und Grönland  Es würde [MASK],einem,9.744112321641296e-05
+aus Alaska und Grönland  Es würde einem [MASK],Inuit,2.8727317840093747e-05
+Alaska und Grönland  Es würde einem Inuit [MASK],vom,7.707667100476101e-05
+und Grönland  Es würde einem Inuit vom [MASK],Polarkreis,0.0005188211798667908
+Grönland  Es würde einem Inuit vom Polarkreis [MASK],also,3.011906665051356e-05
+ Es würde einem Inuit vom Polarkreis also [MASK],keine,0.0008222103933803737
+Es würde einem Inuit vom Polarkreis also keine [MASK],Schwierigkeiten,0.0006773975910618901
+würde einem Inuit vom Polarkreis also keine Schwierigkeiten [MASK],bereiten,0.8923536539077759
+einem Inuit vom Polarkreis also keine Schwierigkeiten bereiten [MASK],,5.386585257838306e-07
+Inuit vom Polarkreis also keine Schwierigkeiten bereiten  [MASK],einen,1.1041629477404058e-05
+vom Polarkreis also keine Schwierigkeiten bereiten  einen [MASK],Inuit,3.9292965084314346e-05
+Polarkreis also keine Schwierigkeiten bereiten  einen Inuit [MASK],vom,5.445369242806919e-05
+also keine Schwierigkeiten bereiten  einen Inuit vom [MASK],Beringmeer,6.414357358153211e-06
+keine Schwierigkeiten bereiten  einen Inuit vom Beringmeer [MASK],zu,0.005525548476725817
+Schwierigkeiten bereiten  einen Inuit vom Beringmeer zu [MASK],verstehen,0.0003019387077074498
+bereiten  einen Inuit vom Beringmeer zu verstehen [MASK],,2.0527207311715756e-07
+ einen Inuit vom Beringmeer zu verstehen  [MASK],wenn,3.754599447347573e-06
+einen Inuit vom Beringmeer zu verstehen  wenn [MASK],er,0.022545654326677322
+Inuit vom Beringmeer zu verstehen  wenn er [MASK],denn,0.0006670609000138938
+vom Beringmeer zu verstehen  wenn er denn [MASK],einmal,0.0011549183400347829
+Beringmeer zu verstehen  wenn er denn einmal [MASK],den,0.00017185555770993233
+zu verstehen  wenn er denn einmal den [MASK],langen,0.0003949203819502145
+verstehen  wenn er denn einmal den langen [MASK],Weg,0.17141693830490112
+ wenn er denn einmal den langen Weg [MASK],machen,0.0005308714462444186
+wenn er denn einmal den langen Weg machen [MASK],würde,0.07266885787248611
+er denn einmal den langen Weg machen würde [MASK],,1.394334617543791e-06
+denn einmal den langen Weg machen würde  [MASK],Die,2.1962064238323364e-06
+einmal den langen Weg machen würde  Die [MASK],einzige,3.791822382481769e-05
+den langen Weg machen würde  Die einzige [MASK],Ausnahme,0.00364762544631958
+langen Weg machen würde  Die einzige Ausnahme [MASK],mit,7.332509267143905e-05
+Weg machen würde  Die einzige Ausnahme mit [MASK],eigener,7.0007867179811e-05
+machen würde  Die einzige Ausnahme mit eigener [MASK],Sprache,0.003952838480472565
+würde  Die einzige Ausnahme mit eigener Sprache [MASK],sind,0.0032506922725588083
+ Die einzige Ausnahme mit eigener Sprache sind [MASK],die,0.0274208914488554
+Die einzige Ausnahme mit eigener Sprache sind die [MASK],Inseln,0.00620633689686656
+einzige Ausnahme mit eigener Sprache sind die Inseln [MASK],im,0.0009948457591235638
+Ausnahme mit eigener Sprache sind die Inseln im [MASK],südwestlichen,7.69126654631691e-06
+mit eigener Sprache sind die Inseln im südwestlichen [MASK],Alaska,9.930034138960764e-06
+eigener Sprache sind die Inseln im südwestlichen Alaska [MASK],,1.2792502275260631e-05
+Sprache sind die Inseln im südwestlichen Alaska  [MASK],Die,7.879857548687141e-06
+sind die Inseln im südwestlichen Alaska  Die [MASK],Bewohner,0.0011137262918055058
+die Inseln im südwestlichen Alaska  Die Bewohner [MASK],dieser,0.0005547287873923779
+Inseln im südwestlichen Alaska  Die Bewohner dieser [MASK],Inseln,0.6126043200492859
+im südwestlichen Alaska  Die Bewohner dieser Inseln [MASK],sprechen,0.006471657659858465
+südwestlichen Alaska  Die Bewohner dieser Inseln sprechen [MASK],einen,9.38193334150128e-05
+Alaska  Die Bewohner dieser Inseln sprechen einen [MASK],Dialekt,0.3797326982021332
+ Die Bewohner dieser Inseln sprechen einen Dialekt [MASK],,7.714337613151656e-08
+Die Bewohner dieser Inseln sprechen einen Dialekt  [MASK],der,4.069221904501319e-05
+Bewohner dieser Inseln sprechen einen Dialekt  der [MASK],Indianersprachen,0.004683312494307756
+dieser Inseln sprechen einen Dialekt  der Indianersprachen [MASK],ähnlich,3.855570412270026e-06
+Inseln sprechen einen Dialekt  der Indianersprachen ähnlich [MASK],ist,1.2672727280005347e-05
+sprechen einen Dialekt  der Indianersprachen ähnlich ist [MASK],,4.0317513594345655e-06
+einen Dialekt  der Indianersprachen ähnlich ist  [MASK],Die,3.154073283440084e-06
+Dialekt  der Indianersprachen ähnlich ist  Die [MASK],Inselbewohner,0.0004921226645819843
+ der Indianersprachen ähnlich ist  Die Inselbewohner [MASK],unterscheiden,0.00332438456825912
+der Indianersprachen ähnlich ist  Die Inselbewohner unterscheiden [MASK],sich,0.04044967517256737
+Indianersprachen ähnlich ist  Die Inselbewohner unterscheiden sich [MASK],durch,0.0036849069874733686
+ähnlich ist  Die Inselbewohner unterscheiden sich durch [MASK],einen,0.006863337010145187
+ist  Die Inselbewohner unterscheiden sich durch einen [MASK],kleineren,0.003784793894737959
+ Die Inselbewohner unterscheiden sich durch einen kleineren [MASK],Wuchs,6.579974524356658e-06
+Die Inselbewohner unterscheiden sich durch einen kleineren Wuchs [MASK],von,0.0005850578309036791
+Inselbewohner unterscheiden sich durch einen kleineren Wuchs von [MASK],den,0.0050264387391507626
+unterscheiden sich durch einen kleineren Wuchs von den [MASK],Übrigen,7.144868868635967e-05
+sich durch einen kleineren Wuchs von den Übrigen [MASK],,8.698417559571681e-07
+durch einen kleineren Wuchs von den Übrigen  [MASK],Daher,9.969753591576591e-06
+einen kleineren Wuchs von den Übrigen  Daher [MASK],werden,0.0004919554921798408
+kleineren Wuchs von den Übrigen  Daher werden [MASK],sie,0.01628653146326542
+Wuchs von den Übrigen  Daher werden sie [MASK],von,0.0020543974824249744
+von den Übrigen  Daher werden sie von [MASK],einigen,0.006369274575263262
+den Übrigen  Daher werden sie von einigen [MASK],Forschern,0.0003584506339393556
+Übrigen  Daher werden sie von einigen Forschern [MASK],gar,8.695843280293047e-05
+ Daher werden sie von einigen Forschern gar [MASK],nicht,0.3008567690849304
+Daher werden sie von einigen Forschern gar nicht [MASK],mehr,0.003326270030811429
+werden sie von einigen Forschern gar nicht mehr [MASK],zu,0.00015339367382694036
+sie von einigen Forschern gar nicht mehr zu [MASK],den,0.0002489933103788644
+von einigen Forschern gar nicht mehr zu den [MASK],Eskimos,4.819207970285788e-05
+einigen Forschern gar nicht mehr zu den Eskimos [MASK],gerechnet,0.022523382678627968
+Forschern gar nicht mehr zu den Eskimos gerechnet [MASK],,3.147765994526708e-07
+gar nicht mehr zu den Eskimos gerechnet  [MASK],Die,1.302900841437804e-06
+nicht mehr zu den Eskimos gerechnet  Die [MASK],bewegte,4.554682163870893e-06
+mehr zu den Eskimos gerechnet  Die bewegte [MASK],Geschichte,0.01273357030004263
+zu den Eskimos gerechnet  Die bewegte Geschichte [MASK],der,0.0016796912532299757
+den Eskimos gerechnet  Die bewegte Geschichte der [MASK],Inuit,2.5540289243508596e-06
+Eskimos gerechnet  Die bewegte Geschichte der Inuit [MASK],,8.425699604686088e-08
+gerechnet  Die bewegte Geschichte der Inuit  [MASK],berichtet,0.00012243310629855841
+ Die bewegte Geschichte der Inuit  berichtet [MASK],von,0.004906809888780117
+Die bewegte Geschichte der Inuit  berichtet von [MASK],einem,0.028823373839259148
+bewegte Geschichte der Inuit  berichtet von einem [MASK],langen,0.001913800835609436
+Geschichte der Inuit  berichtet von einem langen [MASK],Prozess,0.008445670828223228
+der Inuit  berichtet von einem langen Prozess [MASK],,1.0108205970027484e-06
+Inuit  berichtet von einem langen Prozess  [MASK],der,0.00013221148401498795
+ berichtet von einem langen Prozess  der [MASK],Anpassung,0.006191771011799574
+berichtet von einem langen Prozess  der Anpassung [MASK],,1.3373083902479266e-06
+von einem langen Prozess  der Anpassung  [MASK],Sie,1.4381795153894927e-05
+einem langen Prozess  der Anpassung  Sie [MASK],reagierten,5.4462057050841395e-06
+langen Prozess  der Anpassung  Sie reagierten [MASK],äusserst,0.00010828985250554979
+Prozess  der Anpassung  Sie reagierten äusserst [MASK],sensibel,4.6317461965372786e-05
+ der Anpassung  Sie reagierten äusserst sensibel [MASK],auf,0.0019503923831507564
+der Anpassung  Sie reagierten äusserst sensibel auf [MASK],alle,0.0011439792579039931
+Anpassung  Sie reagierten äusserst sensibel auf alle [MASK],Änderungen,0.00488614197820425
+ Sie reagierten äusserst sensibel auf alle Änderungen [MASK],in,0.0006137483287602663
+Sie reagierten äusserst sensibel auf alle Änderungen in [MASK],Klima,4.526204793364741e-05
+reagierten äusserst sensibel auf alle Änderungen in Klima [MASK],und,0.0015540927415713668
+äusserst sensibel auf alle Änderungen in Klima und [MASK],Nahrungsangebot,0.00021532090613618493
+sensibel auf alle Änderungen in Klima und Nahrungsangebot [MASK],,5.391021886680392e-07
+auf alle Änderungen in Klima und Nahrungsangebot  [MASK],Über,2.654946683833259e-06
+alle Änderungen in Klima und Nahrungsangebot  Über [MASK],die,5.450889148050919e-05
+Änderungen in Klima und Nahrungsangebot  Über die [MASK],Jahrhunderte,0.04384630545973778
+in Klima und Nahrungsangebot  Über die Jahrhunderte [MASK],gelang,1.96133059944259e-05
+Klima und Nahrungsangebot  Über die Jahrhunderte gelang [MASK],eine,0.00012979828170500696
+und Nahrungsangebot  Über die Jahrhunderte gelang eine [MASK],perfekte,0.00084165163571015
+Nahrungsangebot  Über die Jahrhunderte gelang eine perfekte [MASK],Angleichung,0.00015301365056075156
+ Über die Jahrhunderte gelang eine perfekte Angleichung [MASK],der,0.010186411440372467
+Über die Jahrhunderte gelang eine perfekte Angleichung der [MASK],Inuit,2.0838542695855722e-05
+die Jahrhunderte gelang eine perfekte Angleichung der Inuit [MASK],an,0.0006054390105418861
+Jahrhunderte gelang eine perfekte Angleichung der Inuit an [MASK],ihre,0.002797471359372139
+gelang eine perfekte Angleichung der Inuit an ihre [MASK],Nahrungsangebot,1.943231291079428e-05
+eine perfekte Angleichung der Inuit an ihre Nahrungsangebot [MASK],,2.6813268050318584e-07
+perfekte Angleichung der Inuit an ihre Nahrungsangebot  [MASK],Obwohl,2.4857361040631076e-06
+Angleichung der Inuit an ihre Nahrungsangebot  Obwohl [MASK],ihr,5.7352813200850505e-06
+der Inuit an ihre Nahrungsangebot  Obwohl ihr [MASK],Leben,0.009433021768927574
+Inuit an ihre Nahrungsangebot  Obwohl ihr Leben [MASK],in,0.001483624568209052
+an ihre Nahrungsangebot  Obwohl ihr Leben in [MASK],starkem,1.0389544513600413e-05
+ihre Nahrungsangebot  Obwohl ihr Leben in starkem [MASK],Masse,0.043799176812171936
+Nahrungsangebot  Obwohl ihr Leben in starkem Masse [MASK],von,0.0007011142442934215
+ Obwohl ihr Leben in starkem Masse von [MASK],der,0.007862371392548084
+Obwohl ihr Leben in starkem Masse von der [MASK],unwirtlichen,5.1926366722909734e-05
+ihr Leben in starkem Masse von der unwirtlichen [MASK],Umgebung,0.07469280809164047
+Leben in starkem Masse von der unwirtlichen Umgebung [MASK],,1.10424716694979e-05
+in starkem Masse von der unwirtlichen Umgebung  [MASK],der,0.0010422668419778347
+starkem Masse von der unwirtlichen Umgebung  der [MASK],sehr,9.593677532393485e-06
+Masse von der unwirtlichen Umgebung  der sehr [MASK],unsicheren,0.0001012882639770396
+von der unwirtlichen Umgebung  der sehr unsicheren [MASK],Ernährungssituation,2.3374999727820978e-05
+der unwirtlichen Umgebung  der sehr unsicheren Ernährungssituation [MASK],bestimmt,0.0006311920005828142
+unwirtlichen Umgebung  der sehr unsicheren Ernährungssituation bestimmt [MASK],wurde,0.004519347567111254
+Umgebung  der sehr unsicheren Ernährungssituation bestimmt wurde [MASK],,3.078206646023318e-06
+ der sehr unsicheren Ernährungssituation bestimmt wurde  [MASK],gelang,2.935009888460627e-06
+der sehr unsicheren Ernährungssituation bestimmt wurde  gelang [MASK],es,0.0015999823808670044
+sehr unsicheren Ernährungssituation bestimmt wurde  gelang es [MASK],ihnen,0.014195594005286694
+unsicheren Ernährungssituation bestimmt wurde  gelang es ihnen [MASK],über,0.0011589184869080782
+Ernährungssituation bestimmt wurde  gelang es ihnen über [MASK],Jahrhunderte,0.0478375144302845
+bestimmt wurde  gelang es ihnen über Jahrhunderte [MASK],eine,8.817754860501736e-05
+wurde  gelang es ihnen über Jahrhunderte eine [MASK],relativ,0.00024232834402937442
+ gelang es ihnen über Jahrhunderte eine relativ [MASK],hochstehende,0.0012475213734433055
+gelang es ihnen über Jahrhunderte eine relativ hochstehende [MASK],sehr,5.88110378885176e-06
+es ihnen über Jahrhunderte eine relativ hochstehende sehr [MASK],eigenwillige,5.322286961018108e-05
+ihnen über Jahrhunderte eine relativ hochstehende sehr eigenwillige [MASK],und,0.001261102152056992
+über Jahrhunderte eine relativ hochstehende sehr eigenwillige und [MASK],flexible,0.03047824464738369
+Jahrhunderte eine relativ hochstehende sehr eigenwillige und flexible [MASK],Kultur,0.00041526451241225004
+eine relativ hochstehende sehr eigenwillige und flexible Kultur [MASK],zu,0.0003698786022141576
+relativ hochstehende sehr eigenwillige und flexible Kultur zu [MASK],entwickeln,0.08348735421895981
+hochstehende sehr eigenwillige und flexible Kultur zu entwickeln [MASK],,1.1658879657261423e-06
+sehr eigenwillige und flexible Kultur zu entwickeln  [MASK],Die,9.554853477311553e-07
+eigenwillige und flexible Kultur zu entwickeln  Die [MASK],optimale,8.244802302215248e-05
+und flexible Kultur zu entwickeln  Die optimale [MASK],Anpassung,0.001381869544275105
+flexible Kultur zu entwickeln  Die optimale Anpassung [MASK],erschwerte,8.164699102053419e-05
+Kultur zu entwickeln  Die optimale Anpassung erschwerte [MASK],eine,0.0005764785455539823
+zu entwickeln  Die optimale Anpassung erschwerte eine [MASK],klare,0.0008672804688103497
+entwickeln  Die optimale Anpassung erschwerte eine klare [MASK],Antwort,0.013500157743692398
+ Die optimale Anpassung erschwerte eine klare Antwort [MASK],auf,0.01732007786631584
+Die optimale Anpassung erschwerte eine klare Antwort auf [MASK],wissenschaftliche,1.2676087862928398e-05
+optimale Anpassung erschwerte eine klare Antwort auf wissenschaftliche [MASK],Anpassung,4.97826158607495e-06
+Anpassung erschwerte eine klare Antwort auf wissenschaftliche Anpassung [MASK],,3.363722044014139e-06
+erschwerte eine klare Antwort auf wissenschaftliche Anpassung  [MASK],Ein,7.886001185397618e-06
+eine klare Antwort auf wissenschaftliche Anpassung  Ein [MASK],grosses,9.515549095340248e-07
+klare Antwort auf wissenschaftliche Anpassung  Ein grosses [MASK],Mirakel,1.6762343193477136e-06
+Antwort auf wissenschaftliche Anpassung  Ein grosses Mirakel [MASK],innerhalb,4.129530498175882e-05
+auf wissenschaftliche Anpassung  Ein grosses Mirakel innerhalb [MASK],der,0.02159060351550579
+wissenschaftliche Anpassung  Ein grosses Mirakel innerhalb der [MASK],Völkerkunde,0.00040504548815079033
+Anpassung  Ein grosses Mirakel innerhalb der Völkerkunde [MASK],,1.329291353613371e-05
+ Ein grosses Mirakel innerhalb der Völkerkunde  [MASK],ist,0.0023246826604008675
+Ein grosses Mirakel innerhalb der Völkerkunde  ist [MASK],die,0.0010527217527851462
+grosses Mirakel innerhalb der Völkerkunde  ist die [MASK],Frage,0.0028745499439537525
+Mirakel innerhalb der Völkerkunde  ist die Frage [MASK],der,0.001127294497564435
+innerhalb der Völkerkunde  ist die Frage der [MASK],Herkunft,0.0023860170040279627
+der Völkerkunde  ist die Frage der Herkunft [MASK],der,0.002979995682835579
+Völkerkunde  ist die Frage der Herkunft der [MASK],Inuit,1.6353609680663794e-05
+ ist die Frage der Herkunft der Inuit [MASK],,2.1112310832904768e-07
+ist die Frage der Herkunft der Inuit  [MASK],Woher,9.65052913670661e-06
+die Frage der Herkunft der Inuit  Woher [MASK],kamen,6.321127148112282e-05
+Frage der Herkunft der Inuit  Woher kamen [MASK],sie,0.0028182542882859707
+der Herkunft der Inuit  Woher kamen sie [MASK],,7.018808446446201e-06
+Herkunft der Inuit  Woher kamen sie  [MASK],Zogen,5.29904298218753e-07
+der Inuit  Woher kamen sie  Zogen [MASK],sie,7.931742584332824e-05
+Inuit  Woher kamen sie  Zogen sie [MASK],mit,0.00022530020214617252
+ Woher kamen sie  Zogen sie mit [MASK],den,0.0006789501057937741
+Woher kamen sie  Zogen sie mit den [MASK],Indianern,3.154875594191253e-05
+kamen sie  Zogen sie mit den Indianern [MASK],vor,0.00025665611610747874
+sie  Zogen sie mit den Indianern vor [MASK],fünfzehntausend,5.456977760331938e-06
+ Zogen sie mit den Indianern vor fünfzehntausend [MASK],,5.500236710531681e-08
+Zogen sie mit den Indianern vor fünfzehntausend  [MASK],oder,0.0002463962300680578
+sie mit den Indianern vor fünfzehntausend  oder [MASK],wie,6.29648202448152e-05
+mit den Indianern vor fünfzehntausend  oder wie [MASK],man,0.001445394940674305
+den Indianern vor fünfzehntausend  oder wie man [MASK],bei,8.060043182922527e-05
+Indianern vor fünfzehntausend  oder wie man bei [MASK],Ausgrabungen,0.0018022945150732994
+vor fünfzehntausend  oder wie man bei Ausgrabungen [MASK],in,0.0005080291884951293
+fünfzehntausend  oder wie man bei Ausgrabungen in [MASK],der,0.00285159470513463
+ oder wie man bei Ausgrabungen in der [MASK],Nähe,0.06343954801559448
+oder wie man bei Ausgrabungen in der Nähe [MASK],von,0.0016382893081754446
+wie man bei Ausgrabungen in der Nähe von [MASK],La,0.0006545036449097097
+man bei Ausgrabungen in der Nähe von La [MASK],Jolla,5.644376506097615e-05
+bei Ausgrabungen in der Nähe von La Jolla [MASK],in,0.0009500978048890829
+Ausgrabungen in der Nähe von La Jolla in [MASK],Kalifornien,0.03702271729707718
+in der Nähe von La Jolla in Kalifornien [MASK],festgestellt,8.430301932094153e-06
+der Nähe von La Jolla in Kalifornien festgestellt [MASK],haben,0.0027857788372784853
+Nähe von La Jolla in Kalifornien festgestellt haben [MASK],will,0.0006825782475061715
+von La Jolla in Kalifornien festgestellt haben will [MASK],,4.352494329395995e-07
+La Jolla in Kalifornien festgestellt haben will  [MASK],sogar,1.943370762091945e-06
+Jolla in Kalifornien festgestellt haben will  sogar [MASK],schon,0.00038960439269430935
+in Kalifornien festgestellt haben will  sogar schon [MASK],vor,0.0003666205739136785
+Kalifornien festgestellt haben will  sogar schon vor [MASK],mindestens,3.1786061299499124e-05
+festgestellt haben will  sogar schon vor mindestens [MASK],achtundvierzigtausend,0.013865366578102112
+haben will  sogar schon vor mindestens achtundvierzigtausend [MASK],Jahren,0.30751800537109375
+will  sogar schon vor mindestens achtundvierzigtausend Jahren [MASK],von,0.0002445185964461416
+ sogar schon vor mindestens achtundvierzigtausend Jahren von [MASK],Asien,0.00026773850549943745
+sogar schon vor mindestens achtundvierzigtausend Jahren von Asien [MASK],kommend,0.07447879761457443
+schon vor mindestens achtundvierzigtausend Jahren von Asien kommend [MASK],über,0.00040460657328367233
+vor mindestens achtundvierzigtausend Jahren von Asien kommend über [MASK],die,0.01108915451914072
+mindestens achtundvierzigtausend Jahren von Asien kommend über die [MASK],Beringstrasse,5.836382115376182e-05
+achtundvierzigtausend Jahren von Asien kommend über die Beringstrasse [MASK],auf,0.0009198700427077711
+Jahren von Asien kommend über die Beringstrasse auf [MASK],den,0.00959788542240858
+von Asien kommend über die Beringstrasse auf den [MASK],amerikanischen,6.406581815099344e-05
+Asien kommend über die Beringstrasse auf den amerikanischen [MASK],Kontinent,0.7402339577674866
+kommend über die Beringstrasse auf den amerikanischen Kontinent [MASK],,6.021971057634801e-05
+über die Beringstrasse auf den amerikanischen Kontinent  [MASK],und,0.0057387519627809525
+die Beringstrasse auf den amerikanischen Kontinent  und [MASK],weiter,0.001262965495698154
+Beringstrasse auf den amerikanischen Kontinent  und weiter [MASK],nach,0.001049055135808885
+auf den amerikanischen Kontinent  und weiter nach [MASK],,8.050519113567134e-07
+den amerikanischen Kontinent  und weiter nach  [MASK],Grönland,2.28793596761534e-05
+amerikanischen Kontinent  und weiter nach  Grönland [MASK],,2.957379365398083e-05
+Kontinent  und weiter nach  Grönland  [MASK],Vielleicht,3.98567181036924e-06
+ und weiter nach  Grönland  Vielleicht [MASK],benutzten,4.94277912821417e-07
+und weiter nach  Grönland  Vielleicht benutzten [MASK],die,0.00031896328437142074
+weiter nach  Grönland  Vielleicht benutzten die [MASK],Inuit,4.148571315454319e-05
+nach  Grönland  Vielleicht benutzten die Inuit [MASK],ein,0.0007549769361503422
+ Grönland  Vielleicht benutzten die Inuit ein [MASK],einfaches,0.0011528576724231243
+Grönland  Vielleicht benutzten die Inuit ein einfaches [MASK],Boot,0.008081256411969662
+ Vielleicht benutzten die Inuit ein einfaches Boot [MASK],zur,5.839344521518797e-05
+Vielleicht benutzten die Inuit ein einfaches Boot zur [MASK],,4.310648019090202e-11
+benutzten die Inuit ein einfaches Boot zur  [MASK],Überquerung,0.0002431933826301247
+die Inuit ein einfaches Boot zur  Überquerung [MASK],der,0.0008357585174962878
+Inuit ein einfaches Boot zur  Überquerung der [MASK],Beringstrasse,1.517044711363269e-05
+ein einfaches Boot zur  Überquerung der Beringstrasse [MASK],,1.5908981367829256e-05
+einfaches Boot zur  Überquerung der Beringstrasse  [MASK],Möglicherweise,3.8223051888053305e-06
+Boot zur  Überquerung der Beringstrasse  Möglicherweise [MASK],stammen,2.787708694995672e-07
+zur  Überquerung der Beringstrasse  Möglicherweise stammen [MASK],sie,0.0023179950658231974
+ Überquerung der Beringstrasse  Möglicherweise stammen sie [MASK],ursprünglich,0.0030631697736680508
+Überquerung der Beringstrasse  Möglicherweise stammen sie ursprünglich [MASK],von,0.02618798427283764
+der Beringstrasse  Möglicherweise stammen sie ursprünglich von [MASK],den,0.012104502879083157
+Beringstrasse  Möglicherweise stammen sie ursprünglich von den [MASK],Indianern,0.0003181360079906881
+ Möglicherweise stammen sie ursprünglich von den Indianern [MASK],ab,2.6321615223423578e-05
+Möglicherweise stammen sie ursprünglich von den Indianern ab [MASK],,2.5029896377759542e-08
+stammen sie ursprünglich von den Indianern ab  [MASK],und,0.001071045990101993
+sie ursprünglich von den Indianern ab  und [MASK],setzten,0.004367084242403507
+ursprünglich von den Indianern ab  und setzten [MASK],sich,0.01661914400756359
+von den Indianern ab  und setzten sich [MASK],erst,0.00020644403412006795
+den Indianern ab  und setzten sich erst [MASK],,6.662213763775071e-06
+Indianern ab  und setzten sich erst  [MASK],vor,0.00942185614258051
+ab  und setzten sich erst  vor [MASK],einigen,0.0017753071151673794
+ und setzten sich erst  vor einigen [MASK],tausend,0.00016135466285049915
+und setzten sich erst  vor einigen tausend [MASK],Jahren,0.34521394968032837
+setzten sich erst  vor einigen tausend Jahren [MASK],von,0.0007738244603388011
+sich erst  vor einigen tausend Jahren von [MASK],den,0.029972221702337265
+erst  vor einigen tausend Jahren von den [MASK],übrigen,0.000725822348613292
+ vor einigen tausend Jahren von den übrigen [MASK],Stämmen,6.374812073772773e-05
+vor einigen tausend Jahren von den übrigen Stämmen [MASK],ab,0.005821715574711561
+einigen tausend Jahren von den übrigen Stämmen ab [MASK],,5.595970833383035e-07
+tausend Jahren von den übrigen Stämmen ab  [MASK],die,0.0003986001538578421
+Jahren von den übrigen Stämmen ab  die [MASK],im,0.0002045526052825153
+von den übrigen Stämmen ab  die im [MASK],Inland,0.018331246450543404
+den übrigen Stämmen ab  die im Inland [MASK],siedelten,4.990652814740315e-05
+übrigen Stämmen ab  die im Inland siedelten [MASK],,2.142570920682374e-08
+Stämmen ab  die im Inland siedelten  [MASK],Eine,1.7148481674666982e-06
+ab  die im Inland siedelten  Eine [MASK],alternative,2.0201476218062453e-05
+ die im Inland siedelten  Eine alternative [MASK],Hypothese,9.392289211973548e-05
+die im Inland siedelten  Eine alternative Hypothese [MASK],besagt,8.069170144153759e-05
+im Inland siedelten  Eine alternative Hypothese besagt [MASK],,1.1780433624153375e-06
+Inland siedelten  Eine alternative Hypothese besagt  [MASK],dass,0.002901059575378895
+siedelten  Eine alternative Hypothese besagt  dass [MASK],sie,0.01069673616439104
+ Eine alternative Hypothese besagt  dass sie [MASK],gar,0.0002260039036627859
+Eine alternative Hypothese besagt  dass sie gar [MASK],nicht,0.20198217034339905
+alternative Hypothese besagt  dass sie gar nicht [MASK],an,0.0009967450750991702
+Hypothese besagt  dass sie gar nicht an [MASK],der,0.0007432453567162156
+besagt  dass sie gar nicht an der [MASK],Wanderung,0.00014981262211222202
+ dass sie gar nicht an der Wanderung [MASK],teilnahmen,0.005291071720421314
+dass sie gar nicht an der Wanderung teilnahmen [MASK],,2.16045282286359e-06
+sie gar nicht an der Wanderung teilnahmen  [MASK],Doch,3.2694757123863383e-07
+gar nicht an der Wanderung teilnahmen  Doch [MASK],wird,0.00012915299157612026
+nicht an der Wanderung teilnahmen  Doch wird [MASK],ihre,0.00019778382556978613
+an der Wanderung teilnahmen  Doch wird ihre [MASK],Herkunft,0.0107380086556077
+der Wanderung teilnahmen  Doch wird ihre Herkunft [MASK],überhaupt,0.00013936476898379624
+Wanderung teilnahmen  Doch wird ihre Herkunft überhaupt [MASK],jemals,9.567226516082883e-05
+teilnahmen  Doch wird ihre Herkunft überhaupt jemals [MASK],ohne,0.00016039285401348025
+ Doch wird ihre Herkunft überhaupt jemals ohne [MASK],jeden,0.0009518705774098635
+Doch wird ihre Herkunft überhaupt jemals ohne jeden [MASK],Zweifel,0.34079650044441223
+wird ihre Herkunft überhaupt jemals ohne jeden Zweifel [MASK],zu,0.0004459996416699141
+ihre Herkunft überhaupt jemals ohne jeden Zweifel zu [MASK],bestimmen,0.06831838190555573
+Herkunft überhaupt jemals ohne jeden Zweifel zu bestimmen [MASK],sein,0.002230927348136902
+überhaupt jemals ohne jeden Zweifel zu bestimmen sein [MASK],,4.3436918417683046e-07
+jemals ohne jeden Zweifel zu bestimmen sein  [MASK],Die,2.6474763217265718e-06
+ohne jeden Zweifel zu bestimmen sein  Die [MASK],Eskimos,1.4030051715963054e-05
+jeden Zweifel zu bestimmen sein  Die Eskimos [MASK],wissen,0.00026642391458153725
+Zweifel zu bestimmen sein  Die Eskimos wissen [MASK],selbst,0.00035541935358196497
+zu bestimmen sein  Die Eskimos wissen selbst [MASK],keine,0.0010764860780909657
+bestimmen sein  Die Eskimos wissen selbst keine [MASK],Antwort,0.0567801296710968
+sein  Die Eskimos wissen selbst keine Antwort [MASK],auf,0.0012185880914330482
+ Die Eskimos wissen selbst keine Antwort auf [MASK],die,0.02372976765036583
+Die Eskimos wissen selbst keine Antwort auf die [MASK],schwere,5.837349090143107e-05
+Eskimos wissen selbst keine Antwort auf die schwere [MASK],Frage,0.021367603912949562
+wissen selbst keine Antwort auf die schwere Frage [MASK],nach,9.134041465586051e-05
+selbst keine Antwort auf die schwere Frage nach [MASK],ihrer,0.002226013457402587
+keine Antwort auf die schwere Frage nach ihrer [MASK],Herkunft,0.02699817530810833
+Antwort auf die schwere Frage nach ihrer Herkunft [MASK],,5.626556230708957e-06
+auf die schwere Frage nach ihrer Herkunft  [MASK],Die,1.6439566024928354e-05
+die schwere Frage nach ihrer Herkunft  Die [MASK],Inuit,1.4977700629970059e-05
+schwere Frage nach ihrer Herkunft  Die Inuit [MASK],suchen,0.0006606396054849029
+Frage nach ihrer Herkunft  Die Inuit suchen [MASK],die,0.0007372740074060857
+nach ihrer Herkunft  Die Inuit suchen die [MASK],Erklärung,0.003996353596448898
+ihrer Herkunft  Die Inuit suchen die Erklärung [MASK],ihrer,0.0038522735703736544
+Herkunft  Die Inuit suchen die Erklärung ihrer [MASK],Herkunft,0.23661066591739655
+ Die Inuit suchen die Erklärung ihrer Herkunft [MASK],in,0.001174615346826613
+Die Inuit suchen die Erklärung ihrer Herkunft in [MASK],,4.840743272893633e-08
+Inuit suchen die Erklärung ihrer Herkunft in  [MASK],der,0.00681834714487195
+suchen die Erklärung ihrer Herkunft in  der [MASK],reichen,1.7251522876904346e-05
+die Erklärung ihrer Herkunft in  der reichen [MASK],Dichtkunst,4.114208422834054e-06
+Erklärung ihrer Herkunft in  der reichen Dichtkunst [MASK],ihrer,8.379180144402198e-06
+ihrer Herkunft in  der reichen Dichtkunst ihrer [MASK],Herkunft,0.008167782798409462
+Herkunft in  der reichen Dichtkunst ihrer Herkunft [MASK],,3.726070644916035e-05
+in  der reichen Dichtkunst ihrer Herkunft  [MASK],Dort,3.150118118355749e-06
+ der reichen Dichtkunst ihrer Herkunft  Dort [MASK],gibt,9.880105062620714e-05
+der reichen Dichtkunst ihrer Herkunft  Dort gibt [MASK],es,0.5852416157722473
+reichen Dichtkunst ihrer Herkunft  Dort gibt es [MASK],verschiedene,0.0028562983497977257
+Dichtkunst ihrer Herkunft  Dort gibt es verschiedene [MASK],Versionen,0.053476110100746155
+ihrer Herkunft  Dort gibt es verschiedene Versionen [MASK],darüber,3.4236461942782626e-05
+Herkunft  Dort gibt es verschiedene Versionen darüber [MASK],,2.948776796074526e-07

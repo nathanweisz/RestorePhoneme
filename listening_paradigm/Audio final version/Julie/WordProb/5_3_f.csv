@@ -1,0 +1,509 @@
+Context,Word,Probability
+        [MASK],Eine,0.00011083488789154217
+       Eine [MASK],der,0.00027843978023156524
+      Eine der [MASK],bekanntesten,0.03693266585469246
+     Eine der bekanntesten [MASK],Geschichten,0.0666956901550293
+    Eine der bekanntesten Geschichten [MASK],sagt,0.0002255519648315385
+   Eine der bekanntesten Geschichten sagt [MASK],,1.2021831707897945e-07
+  Eine der bekanntesten Geschichten sagt  [MASK],Der,1.364319359709043e-05
+ Eine der bekanntesten Geschichten sagt  Der [MASK],bei,2.482596755726263e-06
+Eine der bekanntesten Geschichten sagt  Der bei [MASK],den,0.00291526410728693
+der bekanntesten Geschichten sagt  Der bei den [MASK],Eskimos,2.2774449462303892e-05
+bekanntesten Geschichten sagt  Der bei den Eskimos [MASK],heilige,3.292813516964088e-06
+Geschichten sagt  Der bei den Eskimos heilige [MASK],Rabe,4.852468555327505e-05
+sagt  Der bei den Eskimos heilige Rabe [MASK],soll,0.0012619007611647248
+ Der bei den Eskimos heilige Rabe soll [MASK],vor,0.000742986099794507
+Der bei den Eskimos heilige Rabe soll vor [MASK],langer,0.0003861583536490798
+bei den Eskimos heilige Rabe soll vor langer [MASK],Zeit,0.3580513298511505
+den Eskimos heilige Rabe soll vor langer Zeit [MASK],ihr,0.00015836424427106977
+Eskimos heilige Rabe soll vor langer Zeit ihr [MASK],Land,0.0011192334350198507
+heilige Rabe soll vor langer Zeit ihr Land [MASK],erschaffen,0.0014434645418077707
+Rabe soll vor langer Zeit ihr Land erschaffen [MASK],haben,0.8414525389671326
+soll vor langer Zeit ihr Land erschaffen haben [MASK],,6.58993855040535e-08
+vor langer Zeit ihr Land erschaffen haben  [MASK],Der,7.329939535338781e-07
+langer Zeit ihr Land erschaffen haben  Der [MASK],Beginn,2.161179145332426e-05
+Zeit ihr Land erschaffen haben  Der Beginn [MASK],dieser,0.0011861620005220175
+ihr Land erschaffen haben  Der Beginn dieser [MASK],über,3.933464086003369e-06
+Land erschaffen haben  Der Beginn dieser über [MASK],Jahrhunderte,0.0015828624600544572
+erschaffen haben  Der Beginn dieser über Jahrhunderte [MASK],von,0.0001852082641562447
+haben  Der Beginn dieser über Jahrhunderte von [MASK],Mund,8.375915058422834e-06
+ Der Beginn dieser über Jahrhunderte von Mund [MASK],zu,9.394250810146332e-05
+Der Beginn dieser über Jahrhunderte von Mund zu [MASK],Mund,0.997349739074707
+Beginn dieser über Jahrhunderte von Mund zu Mund [MASK],weitergegebenen,0.0012635275488719344
+dieser über Jahrhunderte von Mund zu Mund weitergegebenen [MASK],Legende,0.003545481711626053
+über Jahrhunderte von Mund zu Mund weitergegebenen Legende [MASK],,9.934547051670961e-08
+Jahrhunderte von Mund zu Mund weitergegebenen Legende  [MASK],lautet,5.730570592277218e-06
+von Mund zu Mund weitergegebenen Legende  lautet [MASK],ungefähr,7.268588524311781e-05
+Mund zu Mund weitergegebenen Legende  lautet ungefähr [MASK],wie,0.002097015269100666
+zu Mund weitergegebenen Legende  lautet ungefähr wie [MASK],folgt,0.14510896801948547
+Mund weitergegebenen Legende  lautet ungefähr wie folgt [MASK],,7.499745180439277e-08
+weitergegebenen Legende  lautet ungefähr wie folgt  [MASK],Vor,6.195608079906378e-07
+Legende  lautet ungefähr wie folgt  Vor [MASK],langer,2.607853502922808e-06
+ lautet ungefähr wie folgt  Vor langer [MASK],Zeit,0.0015136187430471182
+lautet ungefähr wie folgt  Vor langer Zeit [MASK],,2.941778348031221e-06
+ungefähr wie folgt  Vor langer Zeit  [MASK],so,4.5174401748226956e-05
+wie folgt  Vor langer Zeit  so [MASK],wird,0.0006848563207313418
+folgt  Vor langer Zeit  so wird [MASK],uns,0.0005698432214558125
+ Vor langer Zeit  so wird uns [MASK],erzählt,0.0036001107655465603
+Vor langer Zeit  so wird uns erzählt [MASK],,2.25507292839211e-07
+langer Zeit  so wird uns erzählt  [MASK],gab,5.3772018873132765e-06
+Zeit  so wird uns erzählt  gab [MASK],es,0.00150062027387321
+ so wird uns erzählt  gab es [MASK],kein,0.005032076966017485
+so wird uns erzählt  gab es kein [MASK],Anpassung,2.162723831133917e-06
+wird uns erzählt  gab es kein Anpassung [MASK],,4.2118969645343896e-07
+uns erzählt  gab es kein Anpassung  [MASK],Überall,5.817797045892803e-06
+erzählt  gab es kein Anpassung  Überall [MASK],war,7.382594048976898e-05
+ gab es kein Anpassung  Überall war [MASK],nichts,0.0005728320684283972
+gab es kein Anpassung  Überall war nichts [MASK],als,3.247353379265405e-05
+es kein Anpassung  Überall war nichts als [MASK],Wasser,0.00010313544771634042
+kein Anpassung  Überall war nichts als Wasser [MASK],,1.1020989632015699e-06
+Anpassung  Überall war nichts als Wasser  [MASK],Dem,9.285012225745959e-08
+ Überall war nichts als Wasser  Dem [MASK],Raben,1.466825949592021e-07
+Überall war nichts als Wasser  Dem Raben [MASK],bereitete,1.0806916179717518e-05
+war nichts als Wasser  Dem Raben bereitete [MASK],dieser,1.3788844626105856e-05
+nichts als Wasser  Dem Raben bereitete dieser [MASK],Anblick,0.08716341108083725
+als Wasser  Dem Raben bereitete dieser Anblick [MASK],grossen,2.7050878998124972e-05
+Wasser  Dem Raben bereitete dieser Anblick grossen [MASK],Theorie,2.8954882935749993e-08
+ Dem Raben bereitete dieser Anblick grossen Theorie [MASK],,4.8531568097587297e-08
+Dem Raben bereitete dieser Anblick grossen Theorie  [MASK],Plötzlich,1.6648938228058796e-08
+Raben bereitete dieser Anblick grossen Theorie  Plötzlich [MASK],sah,3.102382834185846e-06
+bereitete dieser Anblick grossen Theorie  Plötzlich sah [MASK],der,0.00010219226533081383
+dieser Anblick grossen Theorie  Plötzlich sah der [MASK],Rabe,3.941418253816664e-05
+Anblick grossen Theorie  Plötzlich sah der Rabe [MASK],einen,0.0007615647045895457
+grossen Theorie  Plötzlich sah der Rabe einen [MASK],grossen,0.00036983739119023085
+Theorie  Plötzlich sah der Rabe einen grossen [MASK],grünen,1.5711873857071623e-05
+ Plötzlich sah der Rabe einen grossen grünen [MASK],Büschel,1.6406969734816812e-05
+Plötzlich sah der Rabe einen grossen grünen Büschel [MASK],Gras,0.00013057856995146722
+sah der Rabe einen grossen grünen Büschel Gras [MASK],im,0.0007619237876497209
+der Rabe einen grossen grünen Büschel Gras im [MASK],Meer,0.0006119633326306939
+Rabe einen grossen grünen Büschel Gras im Meer [MASK],schwimmen,0.0019907786045223475
+einen grossen grünen Büschel Gras im Meer schwimmen [MASK],,7.553147156613704e-07
+grossen grünen Büschel Gras im Meer schwimmen  [MASK],Er,1.3425532188193756e-06
+grünen Büschel Gras im Meer schwimmen  Er [MASK],stieg,2.561459223215934e-05
+Büschel Gras im Meer schwimmen  Er stieg [MASK],in,0.0007429947727359831
+Gras im Meer schwimmen  Er stieg in [MASK],sein,0.0007508989074267447
+im Meer schwimmen  Er stieg in sein [MASK],Kajak,6.338740786304697e-05
+Meer schwimmen  Er stieg in sein Kajak [MASK],und,0.00046775880036875606
+schwimmen  Er stieg in sein Kajak und [MASK],paddelte,3.196976467734203e-05
+ Er stieg in sein Kajak und paddelte [MASK],hinterher,0.015788406133651733
+Er stieg in sein Kajak und paddelte hinterher [MASK],,2.4668807441230456e-07
+stieg in sein Kajak und paddelte hinterher  [MASK],Dann,1.79800611022074e-06
+in sein Kajak und paddelte hinterher  Dann [MASK],warf,3.613343142205849e-05
+sein Kajak und paddelte hinterher  Dann warf [MASK],eine,0.0012084997724741697
+Kajak und paddelte hinterher  Dann warf eine [MASK],Harpune,1.2465445706766332e-06
+und paddelte hinterher  Dann warf eine Harpune [MASK],auf,0.00790012814104557
+paddelte hinterher  Dann warf eine Harpune auf [MASK],das,0.001178995706140995
+hinterher  Dann warf eine Harpune auf das [MASK],Gras,0.002169114537537098
+ Dann warf eine Harpune auf das Gras [MASK],,3.3123617413366446e-06
+Dann warf eine Harpune auf das Gras  [MASK],wickelte,4.306900336814579e-06
+warf eine Harpune auf das Gras  wickelte [MASK],die,0.00015685847029089928
+eine Harpune auf das Gras  wickelte die [MASK],Leine,7.428879325743765e-05
+Harpune auf das Gras  wickelte die Leine [MASK],darum,2.633928306750022e-05
+auf das Gras  wickelte die Leine darum [MASK],,1.3540631016439875e-07
+das Gras  wickelte die Leine darum  [MASK],zog,5.92797550780233e-06
+Gras  wickelte die Leine darum  zog [MASK],es,0.0009888461790978909
+ wickelte die Leine darum  zog es [MASK],ins,0.0012939836597070098
+wickelte die Leine darum  zog es ins [MASK],,5.224838894868356e-10
+die Leine darum  zog es ins  [MASK],Boot,0.0015647589461877942
+Leine darum  zog es ins  Boot [MASK],und,0.0008869700250215828
+darum  zog es ins  Boot und [MASK],grub,2.6056439310195856e-05
+ zog es ins  Boot und grub [MASK],es,0.002179199829697609
+zog es ins  Boot und grub es [MASK],fest,0.0066328877583146095
+es ins  Boot und grub es fest [MASK],,6.875764597680245e-07
+ins  Boot und grub es fest  [MASK],in,0.0002381619851803407
+ Boot und grub es fest  in [MASK],den,0.0008917826926335692
+Boot und grub es fest  in den [MASK],Meeresgrund,0.0007093256572261453
+und grub es fest  in den Meeresgrund [MASK],,3.4455929380783346e-06
+grub es fest  in den Meeresgrund  [MASK],Der,1.9144865746056894e-06
+es fest  in den Meeresgrund  Der [MASK],Rabe,2.9555258151958697e-05
+fest  in den Meeresgrund  Der Rabe [MASK],baute,8.045302092796192e-05
+ in den Meeresgrund  Der Rabe baute [MASK],einen,0.002107213018462062
+in den Meeresgrund  Der Rabe baute einen [MASK],kleinen,0.0016293205553665757
+den Meeresgrund  Der Rabe baute einen kleinen [MASK],Steg,1.200614951812895e-05
+Meeresgrund  Der Rabe baute einen kleinen Steg [MASK],,9.831504030444194e-06
+ Der Rabe baute einen kleinen Steg  [MASK],und,0.0006524316850118339
+Der Rabe baute einen kleinen Steg  und [MASK],suchte,0.005598115734755993
+Rabe baute einen kleinen Steg  und suchte [MASK],dann,0.0004011543351225555
+baute einen kleinen Steg  und suchte dann [MASK],nach,0.14248406887054443
+einen kleinen Steg  und suchte dann nach [MASK],weiteren,0.008417285047471523
+kleinen Steg  und suchte dann nach weiteren [MASK],Meeresgrund,1.1168216587975621e-05
+Steg  und suchte dann nach weiteren Meeresgrund [MASK],,8.514987115404438e-08
+ und suchte dann nach weiteren Meeresgrund  [MASK],Er,2.5680364501567965e-07
+und suchte dann nach weiteren Meeresgrund  Er [MASK],verfuhr,1.643600398892886e-06
+suchte dann nach weiteren Meeresgrund  Er verfuhr [MASK],mit,0.0010965473484247923
+dann nach weiteren Meeresgrund  Er verfuhr mit [MASK],den,0.0016877010930329561
+nach weiteren Meeresgrund  Er verfuhr mit den [MASK],nächsten,0.0005261393380351365
+weiteren Meeresgrund  Er verfuhr mit den nächsten [MASK],Büscheln,1.2807569191863877e-06
+Meeresgrund  Er verfuhr mit den nächsten Büscheln [MASK],genauso,1.081163100025151e-05
+ Er verfuhr mit den nächsten Büscheln genauso [MASK],,2.763078441603284e-07
+Er verfuhr mit den nächsten Büscheln genauso  [MASK],bis,7.70494225434959e-05
+verfuhr mit den nächsten Büscheln genauso  bis [MASK],genug,8.796401380095631e-05
+mit den nächsten Büscheln genauso  bis genug [MASK],Land,2.0896579371765256e-05
+den nächsten Büscheln genauso  bis genug Land [MASK],da,0.00034796324325725436
+nächsten Büscheln genauso  bis genug Land da [MASK],war,0.007034831680357456
+Büscheln genauso  bis genug Land da war [MASK],,1.1347619874868542e-06
+genauso  bis genug Land da war  [MASK],Dann,5.276549472910119e-07
+ bis genug Land da war  Dann [MASK],rief,4.952316521666944e-05
+bis genug Land da war  Dann rief [MASK],er,0.003039520001038909
+genug Land da war  Dann rief er [MASK],sein,0.0005711594712920487
+Land da war  Dann rief er sein [MASK],Volk,0.023278018459677696
+da war  Dann rief er sein Volk [MASK],von,0.0003220977378077805
+war  Dann rief er sein Volk von [MASK],überallher,0.0009738477529026568
+ Dann rief er sein Volk von überallher [MASK],zusammen,0.00041086270357482135
+Dann rief er sein Volk von überallher zusammen [MASK],und,0.0011173634557053447
+rief er sein Volk von überallher zusammen und [MASK],sagte,0.0033735069446265697
+er sein Volk von überallher zusammen und sagte [MASK],,2.8138939001109975e-07
+sein Volk von überallher zusammen und sagte  [MASK],Nun,8.823616553854663e-06
+Volk von überallher zusammen und sagte  Nun [MASK],,1.8775858645625476e-10
+von überallher zusammen und sagte  Nun  [MASK],habt,4.886130113845866e-07
+überallher zusammen und sagte  Nun  habt [MASK],ihr,0.02668113261461258
+zusammen und sagte  Nun  habt ihr [MASK],Land,5.82477223360911e-05
+und sagte  Nun  habt ihr Land [MASK],zum,0.00018076307605952024
+sagte  Nun  habt ihr Land zum [MASK],Leben,0.005063128657639027
+ Nun  habt ihr Land zum Leben [MASK],,1.1054861914772118e-07
+Nun  habt ihr Land zum Leben  [MASK],Die,7.576084612992418e-07
+ habt ihr Land zum Leben  Die [MASK],Wissenschaft,0.001889804727397859
+habt ihr Land zum Leben  Die Wissenschaft [MASK],erkannte,2.875973450500169e-06
+ihr Land zum Leben  Die Wissenschaft erkannte [MASK],bis,3.1494713766733184e-05
+Land zum Leben  Die Wissenschaft erkannte bis [MASK],zum,0.0015208175173029304
+zum Leben  Die Wissenschaft erkannte bis zum [MASK],Ende,0.01549214031547308
+Leben  Die Wissenschaft erkannte bis zum Ende [MASK],des,0.002814552281051874
+ Die Wissenschaft erkannte bis zum Ende des [MASK],neunzehnten,4.563030961435288e-05
+Die Wissenschaft erkannte bis zum Ende des neunzehnten [MASK],Jahrhunderts,0.9640038013458252
+Wissenschaft erkannte bis zum Ende des neunzehnten Jahrhunderts [MASK],nur,0.0007746087503619492
+erkannte bis zum Ende des neunzehnten Jahrhunderts nur [MASK],eine,0.00621688412502408
+bis zum Ende des neunzehnten Jahrhunderts nur eine [MASK],Theorie,0.0007615556824021041
+zum Ende des neunzehnten Jahrhunderts nur eine Theorie [MASK],an,0.00041067213169299066
+Ende des neunzehnten Jahrhunderts nur eine Theorie an [MASK],,9.488195473750238e-08
+des neunzehnten Jahrhunderts nur eine Theorie an  [MASK],Nach,5.842905466124648e-07
+neunzehnten Jahrhunderts nur eine Theorie an  Nach [MASK],der,3.597329123294912e-05
+Jahrhunderts nur eine Theorie an  Nach der [MASK],Meinung,0.00045220102765597403
+nur eine Theorie an  Nach der Meinung [MASK],des,0.03957810625433922
+eine Theorie an  Nach der Meinung des [MASK],dänischen,0.001732053468003869
+Theorie an  Nach der Meinung des dänischen [MASK],Missionars,2.999256821567542e-06
+an  Nach der Meinung des dänischen Missionars [MASK],David,0.00673159584403038
+ Nach der Meinung des dänischen Missionars David [MASK],Cranz,6.185530219227076e-05
+Nach der Meinung des dänischen Missionars David Cranz [MASK],,7.713831109867897e-06
+der Meinung des dänischen Missionars David Cranz  [MASK],waren,0.0001442443608539179
+Meinung des dänischen Missionars David Cranz  waren [MASK],die,0.009449118748307228
+des dänischen Missionars David Cranz  waren die [MASK],Eskimos,1.8090579033014365e-05
+dänischen Missionars David Cranz  waren die Eskimos [MASK],ursprünglich,0.00032496609492227435
+Missionars David Cranz  waren die Eskimos ursprünglich [MASK],ein,0.0003355864901095629
+David Cranz  waren die Eskimos ursprünglich ein [MASK],asiatischer,1.360432406727341e-07
+Cranz  waren die Eskimos ursprünglich ein asiatischer [MASK],Volksstamm,0.0006966425571590662
+ waren die Eskimos ursprünglich ein asiatischer Volksstamm [MASK],,5.5340560578542863e-08
+waren die Eskimos ursprünglich ein asiatischer Volksstamm  [MASK],Es,1.684279311575665e-07
+die Eskimos ursprünglich ein asiatischer Volksstamm  Es [MASK],kam,2.180878618673887e-05
+Eskimos ursprünglich ein asiatischer Volksstamm  Es kam [MASK],zu,0.0006806589080952108
+ursprünglich ein asiatischer Volksstamm  Es kam zu [MASK],Auseinandersetzungen,0.0003783770662266761
+ein asiatischer Volksstamm  Es kam zu Auseinandersetzungen [MASK],mit,0.006977940443903208
+asiatischer Volksstamm  Es kam zu Auseinandersetzungen mit [MASK],anderen,0.0030399318784475327
+Volksstamm  Es kam zu Auseinandersetzungen mit anderen [MASK],zahlenmässig,2.116047426170553e-06
+ Es kam zu Auseinandersetzungen mit anderen zahlenmässig [MASK],stärkeren,0.049642413854599
+Es kam zu Auseinandersetzungen mit anderen zahlenmässig stärkeren [MASK],Volksgruppen,7.843694766052067e-05
+kam zu Auseinandersetzungen mit anderen zahlenmässig stärkeren Volksgruppen [MASK],,6.587105758626421e-07
+zu Auseinandersetzungen mit anderen zahlenmässig stärkeren Volksgruppen  [MASK],die,0.00015314811025746167
+Auseinandersetzungen mit anderen zahlenmässig stärkeren Volksgruppen  die [MASK],mit,7.227560126921162e-05
+mit anderen zahlenmässig stärkeren Volksgruppen  die mit [MASK],Vorfahren,5.997444077365799e-06
+anderen zahlenmässig stärkeren Volksgruppen  die mit Vorfahren [MASK],der,0.004329411778599024
+zahlenmässig stärkeren Volksgruppen  die mit Vorfahren der [MASK],Eskimos,7.535166332672816e-06
+stärkeren Volksgruppen  die mit Vorfahren der Eskimos [MASK],um,0.0004320954903960228
+Volksgruppen  die mit Vorfahren der Eskimos um [MASK],Jagdgründe,2.6062662072945386e-06
+ die mit Vorfahren der Eskimos um Jagdgründe [MASK],konkurrierten,0.005021038930863142
+die mit Vorfahren der Eskimos um Jagdgründe konkurrierten [MASK],,5.09329574072126e-08
+mit Vorfahren der Eskimos um Jagdgründe konkurrierten  [MASK],Die,1.0673100405256264e-05
+Vorfahren der Eskimos um Jagdgründe konkurrierten  Die [MASK],Inuit,5.537703600566601e-06
+der Eskimos um Jagdgründe konkurrierten  Die Inuit [MASK],wurden,0.0003908708749804646
+Eskimos um Jagdgründe konkurrierten  Die Inuit wurden [MASK],im,0.00017379179189447314
+um Jagdgründe konkurrierten  Die Inuit wurden im [MASK],weiteren,0.0005877434741705656
+Jagdgründe konkurrierten  Die Inuit wurden im weiteren [MASK],Verlauf,0.5097671747207642
+konkurrierten  Die Inuit wurden im weiteren Verlauf [MASK],der,0.003490927629172802
+ Die Inuit wurden im weiteren Verlauf der [MASK],Geschichte,0.044409241527318954
+Die Inuit wurden im weiteren Verlauf der Geschichte [MASK],in,0.0016307197511196136
+Inuit wurden im weiteren Verlauf der Geschichte in [MASK],Richtung,0.003190096700564027
+wurden im weiteren Verlauf der Geschichte in Richtung [MASK],Norden,0.0027263620868325233
+im weiteren Verlauf der Geschichte in Richtung Norden [MASK],,3.323062264826149e-05
+weiteren Verlauf der Geschichte in Richtung Norden  [MASK],verdrängt,1.9223383787903003e-05
+Verlauf der Geschichte in Richtung Norden  verdrängt [MASK],,1.1214876394660678e-05
+der Geschichte in Richtung Norden  verdrängt  [MASK],Sie,8.31062516226666e-06
+Geschichte in Richtung Norden  verdrängt  Sie [MASK],mussten,7.880757038947195e-06
+in Richtung Norden  verdrängt  Sie mussten [MASK],in,0.0005011655739508569
+Richtung Norden  verdrängt  Sie mussten in [MASK],das,0.004016281571239233
+Norden  verdrängt  Sie mussten in das [MASK],eisige,1.692620753601659e-05
+ verdrängt  Sie mussten in das eisige [MASK],Grönland,1.722817842164659e-06
+verdrängt  Sie mussten in das eisige Grönland [MASK],sowie,1.8193424693890847e-05
+ Sie mussten in das eisige Grönland sowie [MASK],nach,0.008143466897308826
+Sie mussten in das eisige Grönland sowie nach [MASK],Alaska,0.0007515697507187724
+mussten in das eisige Grönland sowie nach Alaska [MASK],und,0.006839777808636427
+in das eisige Grönland sowie nach Alaska und [MASK],Kanada,0.12278494983911514
+das eisige Grönland sowie nach Alaska und Kanada [MASK],auswandern,0.0018787132576107979
+eisige Grönland sowie nach Alaska und Kanada auswandern [MASK],,2.414828713881434e-06
+Grönland sowie nach Alaska und Kanada auswandern  [MASK],Auf,2.206872693477635e-07
+sowie nach Alaska und Kanada auswandern  Auf [MASK],dem,6.113401468610391e-05
+nach Alaska und Kanada auswandern  Auf dem [MASK],langen,1.8855374946724623e-05
+Alaska und Kanada auswandern  Auf dem langen [MASK],Weg,0.44966521859169006
+und Kanada auswandern  Auf dem langen Weg [MASK],dienten,1.1682524814204953e-07
+Kanada auswandern  Auf dem langen Weg dienten [MASK],vor,8.34232268971391e-05
+auswandern  Auf dem langen Weg dienten vor [MASK],allem,0.41351357102394104
+ Auf dem langen Weg dienten vor allem [MASK],am,0.00034508228418417275
+Auf dem langen Weg dienten vor allem am [MASK],Eisrand,0.0001655119558563456
+dem langen Weg dienten vor allem am Eisrand [MASK],lebende,0.00012605079973582178
+langen Weg dienten vor allem am Eisrand lebende [MASK],Meerestiere,0.00017546274466440082
+Weg dienten vor allem am Eisrand lebende Meerestiere [MASK],als,0.0004519677604548633
+dienten vor allem am Eisrand lebende Meerestiere als [MASK],Kontinent,9.867301287158625e-07
+vor allem am Eisrand lebende Meerestiere als Kontinent [MASK],Die,7.988863217178732e-06
+allem am Eisrand lebende Meerestiere als Kontinent Die [MASK],,2.00267225025641e-09
+am Eisrand lebende Meerestiere als Kontinent Die  [MASK],grobe,1.2924632528665825e-06
+Eisrand lebende Meerestiere als Kontinent Die  grobe [MASK],Richtung,5.115149906487204e-05
+lebende Meerestiere als Kontinent Die  grobe Richtung [MASK],der,0.005006656050682068
+Meerestiere als Kontinent Die  grobe Richtung der [MASK],Wanderung,0.007716112770140171
+als Kontinent Die  grobe Richtung der Wanderung [MASK],wurde,5.1528702897485346e-05
+Kontinent Die  grobe Richtung der Wanderung wurde [MASK],von,0.0010388049995526671
+Die  grobe Richtung der Wanderung wurde von [MASK],einer,0.011131740175187588
+ grobe Richtung der Wanderung wurde von einer [MASK],schmalen,0.0005944003351032734
+grobe Richtung der Wanderung wurde von einer schmalen [MASK],Landbrücke,0.000135573951411061
+Richtung der Wanderung wurde von einer schmalen Landbrücke [MASK],bestimmt,0.008743385784327984
+der Wanderung wurde von einer schmalen Landbrücke bestimmt [MASK],,1.219015643982857e-07
+Wanderung wurde von einer schmalen Landbrücke bestimmt  [MASK],Diese,4.3114167169733264e-07
+wurde von einer schmalen Landbrücke bestimmt  Diese [MASK],bestand,0.00023041416716296226
+von einer schmalen Landbrücke bestimmt  Diese bestand [MASK],damals,0.005533941555768251
+einer schmalen Landbrücke bestimmt  Diese bestand damals [MASK],zwischen,0.022239647805690765
+schmalen Landbrücke bestimmt  Diese bestand damals zwischen [MASK],dem,0.03832737356424332
+Landbrücke bestimmt  Diese bestand damals zwischen dem [MASK],asiatischen,1.7351449059788138e-06
+bestimmt  Diese bestand damals zwischen dem asiatischen [MASK],und,0.005841537844389677
+ Diese bestand damals zwischen dem asiatischen und [MASK],dem,0.012475958094000816
+Diese bestand damals zwischen dem asiatischen und dem [MASK],amerikanischen,0.03150263428688049
+bestand damals zwischen dem asiatischen und dem amerikanischen [MASK],Kontinent,0.026174217462539673
+damals zwischen dem asiatischen und dem amerikanischen Kontinent [MASK],,0.00022249785251915455
+zwischen dem asiatischen und dem amerikanischen Kontinent  [MASK],Die,4.821416951017454e-05
+dem asiatischen und dem amerikanischen Kontinent  Die [MASK],nördlichsten,5.644048997055506e-06
+asiatischen und dem amerikanischen Kontinent  Die nördlichsten [MASK],Küsten,0.0006166324019432068
+und dem amerikanischen Kontinent  Die nördlichsten Küsten [MASK],der,5.48194075236097e-05
+dem amerikanischen Kontinent  Die nördlichsten Küsten der [MASK],ganzen,9.256419275516237e-07
+amerikanischen Kontinent  Die nördlichsten Küsten der ganzen [MASK],Erde,0.14328056573867798
+Kontinent  Die nördlichsten Küsten der ganzen Erde [MASK],,5.351044092094526e-05
+ Die nördlichsten Küsten der ganzen Erde  [MASK],wurden,0.0007908279076218605
+Die nördlichsten Küsten der ganzen Erde  wurden [MASK],zur,0.0005377713241614401
+nördlichsten Küsten der ganzen Erde  wurden zur [MASK],neuen,0.0010964768007397652
+Küsten der ganzen Erde  wurden zur neuen [MASK],Heimat,0.004774077329784632
+der ganzen Erde  wurden zur neuen Heimat [MASK],der,0.0018012014916166663
+ganzen Erde  wurden zur neuen Heimat der [MASK],Eskimos,4.049117706017569e-06
+Erde  wurden zur neuen Heimat der Eskimos [MASK],,1.0657781501777208e-07
+ wurden zur neuen Heimat der Eskimos  [MASK],Die,1.8537732103141025e-05
+wurden zur neuen Heimat der Eskimos  Die [MASK],Reise,0.000517115113325417
+zur neuen Heimat der Eskimos  Die Reise [MASK],konnte,2.1304733763827244e-06
+neuen Heimat der Eskimos  Die Reise konnte [MASK],nur,0.0007091795559972525
+Heimat der Eskimos  Die Reise konnte nur [MASK],in,0.0002482378331478685
+der Eskimos  Die Reise konnte nur in [MASK],einer,0.020059257745742798
+Eskimos  Die Reise konnte nur in einer [MASK],sehr,4.189074024907313e-05
+ Die Reise konnte nur in einer sehr [MASK],kalten,0.002125251106917858
+Die Reise konnte nur in einer sehr kalten [MASK],Periode,0.061833035200834274
+Reise konnte nur in einer sehr kalten Periode [MASK],stattgefunden,0.0053640091791749
+konnte nur in einer sehr kalten Periode stattgefunden [MASK],haben,0.0049124849028885365
+nur in einer sehr kalten Periode stattgefunden haben [MASK],,4.822330765819061e-07
+in einer sehr kalten Periode stattgefunden haben  [MASK],denn,3.718716243383824e-06
+einer sehr kalten Periode stattgefunden haben  denn [MASK],die,0.005610954947769642
+sehr kalten Periode stattgefunden haben  denn die [MASK],Landbrücke,0.00029271101811900735
+kalten Periode stattgefunden haben  denn die Landbrücke [MASK],bestand,0.0007591454195789993
+Periode stattgefunden haben  denn die Landbrücke bestand [MASK],überwiegend,8.153128874255344e-05
+stattgefunden haben  denn die Landbrücke bestand überwiegend [MASK],aus,0.4405074417591095
+haben  denn die Landbrücke bestand überwiegend aus [MASK],Eis,0.0004859076871071011
+ denn die Landbrücke bestand überwiegend aus Eis [MASK],und,0.00592521857470274
+denn die Landbrücke bestand überwiegend aus Eis und [MASK],schmolz,4.047807124152314e-06
+die Landbrücke bestand überwiegend aus Eis und schmolz [MASK],einige,1.4967218703532126e-05
+Landbrücke bestand überwiegend aus Eis und schmolz einige [MASK],Jahrhunderte,0.010577596724033356
+bestand überwiegend aus Eis und schmolz einige Jahrhunderte [MASK],später,0.36600929498672485
+überwiegend aus Eis und schmolz einige Jahrhunderte später [MASK],,8.735188202990685e-06
+aus Eis und schmolz einige Jahrhunderte später  [MASK],Die,1.318193085353414e-06
+Eis und schmolz einige Jahrhunderte später  Die [MASK],Inseln,0.00011900912068085745
+und schmolz einige Jahrhunderte später  Die Inseln [MASK],S-t,1.0408851267129648e-05
+schmolz einige Jahrhunderte später  Die Inseln S-t [MASK],Lawrende,6.10253573540831e-06
+einige Jahrhunderte später  Die Inseln S-t Lawrende [MASK],Nunivak,2.303032852069009e-05
+Jahrhunderte später  Die Inseln S-t Lawrende Nunivak [MASK],,1.3481601968123869e-07
+später  Die Inseln S-t Lawrende Nunivak  [MASK],und,0.0006600932101719081
+ Die Inseln S-t Lawrende Nunivak  und [MASK],die,0.0034558898769319057
+Die Inseln S-t Lawrende Nunivak  und die [MASK],Pribilof-Inseln,5.845923169545131e-06
+Inseln S-t Lawrende Nunivak  und die Pribilof-Inseln [MASK],,7.09727260073123e-07
+S-t Lawrende Nunivak  und die Pribilof-Inseln  [MASK],sind,0.004322666674852371
+Lawrende Nunivak  und die Pribilof-Inseln  sind [MASK],nichts,3.941059185308404e-05
+Nunivak  und die Pribilof-Inseln  sind nichts [MASK],anderes,0.033928729593753815
+ und die Pribilof-Inseln  sind nichts anderes [MASK],als,0.04014676436781883
+und die Pribilof-Inseln  sind nichts anderes als [MASK],die,0.0032008639536798
+die Pribilof-Inseln  sind nichts anderes als die [MASK],Gipfel,0.00013943927478976548
+Pribilof-Inseln  sind nichts anderes als die Gipfel [MASK],der,0.00016096634499263018
+ sind nichts anderes als die Gipfel der [MASK],Berge,0.01456394512206316
+sind nichts anderes als die Gipfel der Berge [MASK],,2.3602151486556977e-06
+nichts anderes als die Gipfel der Berge  [MASK],die,1.5738718502689153e-05
+anderes als die Gipfel der Berge  die [MASK],aus,3.977872256655246e-05
+als die Gipfel der Berge  die aus [MASK],der,0.003143985290080309
+die Gipfel der Berge  die aus der [MASK],ehemaligen,0.0030514698009938
+Gipfel der Berge  die aus der ehemaligen [MASK],Landbrücke,4.2983733692381065e-06
+der Berge  die aus der ehemaligen Landbrücke [MASK],emporsteigen,0.0004919437924399972
+Berge  die aus der ehemaligen Landbrücke emporsteigen [MASK],,4.609718189385603e-07
+ die aus der ehemaligen Landbrücke emporsteigen  [MASK],und,0.0028487988747656345
+die aus der ehemaligen Landbrücke emporsteigen  und [MASK],aus,0.0019786355551332235
+aus der ehemaligen Landbrücke emporsteigen  und aus [MASK],dem,0.012356594204902649
+der ehemaligen Landbrücke emporsteigen  und aus dem [MASK],Wasser,0.0045058089308440685
+ehemaligen Landbrücke emporsteigen  und aus dem Wasser [MASK],ragen,0.0004171700566075742
+Landbrücke emporsteigen  und aus dem Wasser ragen [MASK],,3.4090289773303084e-06
+emporsteigen  und aus dem Wasser ragen  [MASK],Dennoch,2.581365095011279e-07
+ und aus dem Wasser ragen  Dennoch [MASK],gab,1.0406082537883776e-06
+und aus dem Wasser ragen  Dennoch gab [MASK],es,0.1986127495765686
+aus dem Wasser ragen  Dennoch gab es [MASK],an,0.00015682473895139992
+dem Wasser ragen  Dennoch gab es an [MASK],der,0.008797743357717991
+Wasser ragen  Dennoch gab es an der [MASK],Einwanderung,1.3218834737926954e-06
+ragen  Dennoch gab es an der Einwanderung [MASK],aus,0.0008238211739808321
+ Dennoch gab es an der Einwanderung aus [MASK],Asien,0.025869760662317276
+Dennoch gab es an der Einwanderung aus Asien [MASK],schon,0.0007893701549619436
+gab es an der Einwanderung aus Asien schon [MASK],früh,0.0010888762772083282
+es an der Einwanderung aus Asien schon früh [MASK],Wasser,2.3453593200883915e-07
+an der Einwanderung aus Asien schon früh Wasser [MASK],,3.496041699690977e-06
+der Einwanderung aus Asien schon früh Wasser  [MASK],Henry,1.4037793334864546e-05
+Einwanderung aus Asien schon früh Wasser  Henry [MASK],Rink,3.3884400636452483e-06
+aus Asien schon früh Wasser  Henry Rink [MASK],untersuchte,0.00015035162505228072
+Asien schon früh Wasser  Henry Rink untersuchte [MASK],ab,0.00042253933497704566
+schon früh Wasser  Henry Rink untersuchte ab [MASK],achtzehneinundsiebzig,2.8230497264303267e-05
+früh Wasser  Henry Rink untersuchte ab achtzehneinundsiebzig [MASK],mit,0.0001791216345736757
+Wasser  Henry Rink untersuchte ab achtzehneinundsiebzig mit [MASK],,9.402139511394125e-09
+ Henry Rink untersuchte ab achtzehneinundsiebzig mit  [MASK],grossem,1.3264851077110507e-05
+Henry Rink untersuchte ab achtzehneinundsiebzig mit  grossem [MASK],Scharfsinn,1.7136479755208711e-06
+Rink untersuchte ab achtzehneinundsiebzig mit  grossem Scharfsinn [MASK],die,0.0036197637673467398
+untersuchte ab achtzehneinundsiebzig mit  grossem Scharfsinn die [MASK],Herkunft,4.4981374230701476e-05
+ab achtzehneinundsiebzig mit  grossem Scharfsinn die Herkunft [MASK],der,0.015018821693956852
+achtzehneinundsiebzig mit  grossem Scharfsinn die Herkunft der [MASK],Eskimos,4.991452897229465e-06
+mit  grossem Scharfsinn die Herkunft der Eskimos [MASK],,1.183861741083092e-06
+ grossem Scharfsinn die Herkunft der Eskimos  [MASK],Er,1.8008612414632807e-06
+grossem Scharfsinn die Herkunft der Eskimos  Er [MASK],,2.272158711180694e-10
+Scharfsinn die Herkunft der Eskimos  Er  [MASK],erkannte,4.99158886668738e-07
+die Herkunft der Eskimos  Er  erkannte [MASK],als,0.00043250099406577647
+Herkunft der Eskimos  Er  erkannte als [MASK],erster,0.001466058543883264
+der Eskimos  Er  erkannte als erster [MASK],,4.7972676497920475e-08
+Eskimos  Er  erkannte als erster  [MASK],dass,7.443277718266472e-05
+ Er  erkannte als erster  dass [MASK],an,0.0005240589962340891
+Er  erkannte als erster  dass an [MASK],der,0.019861269742250443
+ erkannte als erster  dass an der [MASK],so,2.082971832351177e-06
+erkannte als erster  dass an der so [MASK],plausiblen,3.8629730170214316e-07
+als erster  dass an der so plausiblen [MASK],Hypothese,0.0003157264436595142
+erster  dass an der so plausiblen Hypothese [MASK],Zweifel,0.008675201795995235
+ dass an der so plausiblen Hypothese Zweifel [MASK],angebracht,0.0006907509523443878
+dass an der so plausiblen Hypothese Zweifel angebracht [MASK],waren,0.0771036222577095
+an der so plausiblen Hypothese Zweifel angebracht waren [MASK],,2.2696256110066315e-06
+der so plausiblen Hypothese Zweifel angebracht waren  [MASK],Seine,7.630921317058892e-08
+so plausiblen Hypothese Zweifel angebracht waren  Seine [MASK],ehrgeizige,2.204119118687231e-05
+plausiblen Hypothese Zweifel angebracht waren  Seine ehrgeizige [MASK],Ambition,0.0005962144932709634
+Hypothese Zweifel angebracht waren  Seine ehrgeizige Ambition [MASK],bestand,0.0036355936899781227
+Zweifel angebracht waren  Seine ehrgeizige Ambition bestand [MASK],in,0.0008823214448057115
+angebracht waren  Seine ehrgeizige Ambition bestand in [MASK],der,0.00876760296523571
+waren  Seine ehrgeizige Ambition bestand in der [MASK],Entwicklung,0.005179084837436676
+ Seine ehrgeizige Ambition bestand in der Entwicklung [MASK],einer,0.022022917866706848
+Seine ehrgeizige Ambition bestand in der Entwicklung einer [MASK],alternativen,0.00010544541873969138
+ehrgeizige Ambition bestand in der Entwicklung einer alternativen [MASK],Theorie,0.0015885455068200827
+Ambition bestand in der Entwicklung einer alternativen Theorie [MASK],,3.695350585530832e-07
+bestand in der Entwicklung einer alternativen Theorie  [MASK],Rink,1.4535278580751765e-07
+in der Entwicklung einer alternativen Theorie  Rink [MASK],stützte,8.108394831651822e-05
+der Entwicklung einer alternativen Theorie  Rink stützte [MASK],sich,0.001307294238358736
+Entwicklung einer alternativen Theorie  Rink stützte sich [MASK],auf,0.5292270183563232
+einer alternativen Theorie  Rink stützte sich auf [MASK],die,0.034931112080812454
+alternativen Theorie  Rink stützte sich auf die [MASK],Darwin'schen,0.00022168147552292794
+Theorie  Rink stützte sich auf die Darwin'schen [MASK],Theorien,0.4421476721763611
+ Rink stützte sich auf die Darwin'schen Theorien [MASK],,1.1985808896497474e-06
+Rink stützte sich auf die Darwin'schen Theorien  [MASK],die,5.2679482905659825e-05
+stützte sich auf die Darwin'schen Theorien  die [MASK],damals,0.0002958890108857304
+sich auf die Darwin'schen Theorien  die damals [MASK],gerade,0.00023825613607186824
+auf die Darwin'schen Theorien  die damals gerade [MASK],Furore,7.255778200487839e-06
+die Darwin'schen Theorien  die damals gerade Furore [MASK],machten,0.23152609169483185
+Darwin'schen Theorien  die damals gerade Furore machten [MASK],,2.593929593786015e-06
+Theorien  die damals gerade Furore machten  [MASK],Nach,1.2501918433827086e-07
+ die damals gerade Furore machten  Nach [MASK],,2.7344406738905036e-09
+die damals gerade Furore machten  Nach  [MASK],Darwin,2.0883489071366057e-07
+damals gerade Furore machten  Nach  Darwin [MASK],entwickelte,0.00010207467130385339
+gerade Furore machten  Nach  Darwin entwickelte [MASK],sich,0.0014624495524913073
+Furore machten  Nach  Darwin entwickelte sich [MASK],die,0.0007613701745867729
+machten  Nach  Darwin entwickelte sich die [MASK],gesamte,0.0004223700088914484
+ Nach  Darwin entwickelte sich die gesamte [MASK],Fauna,9.207866969518363e-05
+Nach  Darwin entwickelte sich die gesamte Fauna [MASK],durch,0.002876982558518648
+ Darwin entwickelte sich die gesamte Fauna durch [MASK],biologische,0.0019562968518584967
+Darwin entwickelte sich die gesamte Fauna durch biologische [MASK],Anpassung,0.0046880124136805534
+entwickelte sich die gesamte Fauna durch biologische Anpassung [MASK],,3.1433073672815226e-06
+sich die gesamte Fauna durch biologische Anpassung  [MASK],Darwin,2.222911916760495e-06
+die gesamte Fauna durch biologische Anpassung  Darwin [MASK],ging,9.866181244433392e-06
+gesamte Fauna durch biologische Anpassung  Darwin ging [MASK],davon,0.0002973083173856139
+Fauna durch biologische Anpassung  Darwin ging davon [MASK],aus,0.5096439123153687
+durch biologische Anpassung  Darwin ging davon aus [MASK],dass,0.0002249100652989
+biologische Anpassung  Darwin ging davon aus dass [MASK],Menschen,0.0008121028076857328
+Anpassung  Darwin ging davon aus dass Menschen [MASK],sich,0.00044731245725415647
+ Darwin ging davon aus dass Menschen sich [MASK],innerhalb,0.00011951596388826147
+Darwin ging davon aus dass Menschen sich innerhalb [MASK],weniger,0.01188592053949833
+ging davon aus dass Menschen sich innerhalb weniger [MASK],Generationen,0.001780391437932849
+davon aus dass Menschen sich innerhalb weniger Generationen [MASK],so,0.0003800918930210173
+aus dass Menschen sich innerhalb weniger Generationen so [MASK],sehr,0.007850282825529575
+dass Menschen sich innerhalb weniger Generationen so sehr [MASK],verändern,0.22071455419063568
+Menschen sich innerhalb weniger Generationen so sehr verändern [MASK],können,0.1804206222295761
+sich innerhalb weniger Generationen so sehr verändern können [MASK],,1.2342860600256245e-06
+innerhalb weniger Generationen so sehr verändern können  [MASK],dass,0.00014106000890024006
+weniger Generationen so sehr verändern können  dass [MASK],sie,0.02490367367863655
+Generationen so sehr verändern können  dass sie [MASK],in,0.0013325756881386042
+so sehr verändern können  dass sie in [MASK],ganz,0.0016352791571989655
+sehr verändern können  dass sie in ganz [MASK],neuen,0.0016941941576078534
+verändern können  dass sie in ganz neuen [MASK],Lebensräumen,0.001212386880069971
+können  dass sie in ganz neuen Lebensräumen [MASK],bestehen,0.00134370313026011
+ dass sie in ganz neuen Lebensräumen bestehen [MASK],können,0.014504904858767986
+dass sie in ganz neuen Lebensräumen bestehen können [MASK],,3.0251794669311494e-07
+sie in ganz neuen Lebensräumen bestehen können  [MASK],Die,6.174847158035845e-07
+in ganz neuen Lebensräumen bestehen können  Die [MASK],Fähigkeit,0.0022461239714175463
+ganz neuen Lebensräumen bestehen können  Die Fähigkeit [MASK],zur,0.040158022195100784
+neuen Lebensräumen bestehen können  Die Fähigkeit zur [MASK],flexiblen,3.119812026852742e-05
+Lebensräumen bestehen können  Die Fähigkeit zur flexiblen [MASK],Mutation,4.108588029794191e-07
+bestehen können  Die Fähigkeit zur flexiblen Mutation [MASK],könnte,0.0018133025150746107
+können  Die Fähigkeit zur flexiblen Mutation könnte [MASK],manche,8.068478928180411e-05
+ Die Fähigkeit zur flexiblen Mutation könnte manche [MASK],Merkmale,0.0005316445021890104
+Die Fähigkeit zur flexiblen Mutation könnte manche Merkmale [MASK],der,0.0018982954788953066
+Fähigkeit zur flexiblen Mutation könnte manche Merkmale der [MASK],Inuit,8.038010128075257e-05
+zur flexiblen Mutation könnte manche Merkmale der Inuit [MASK],erklären,0.0007152173784561455
+flexiblen Mutation könnte manche Merkmale der Inuit erklären [MASK],,4.106503936895933e-08
+Mutation könnte manche Merkmale der Inuit erklären  [MASK],Beispielsweise,1.264392153643712e-06
+könnte manche Merkmale der Inuit erklären  Beispielsweise [MASK],ist,0.00019776192493736744
+manche Merkmale der Inuit erklären  Beispielsweise ist [MASK],ihr,0.0002533545484766364
+Merkmale der Inuit erklären  Beispielsweise ist ihr [MASK],gedrungener,1.8969419670611387e-06
+der Inuit erklären  Beispielsweise ist ihr gedrungener [MASK],Körperbau,0.07455837726593018
+Inuit erklären  Beispielsweise ist ihr gedrungener Körperbau [MASK],ideal,0.00017549253243487328
+erklären  Beispielsweise ist ihr gedrungener Körperbau ideal [MASK],für,0.0046504526399075985
+ Beispielsweise ist ihr gedrungener Körperbau ideal für [MASK],die,0.04625939205288887
+Beispielsweise ist ihr gedrungener Körperbau ideal für die [MASK],Wärmeregulation,0.0007386546349152923
+ist ihr gedrungener Körperbau ideal für die Wärmeregulation [MASK],,1.628890515803505e-07
+ihr gedrungener Körperbau ideal für die Wärmeregulation  [MASK],Nach,5.717807027849631e-08
+gedrungener Körperbau ideal für die Wärmeregulation  Nach [MASK],Henry,9.529714475320361e-07
+Körperbau ideal für die Wärmeregulation  Nach Henry [MASK],Rinks,1.6045763686634018e-06
+ideal für die Wärmeregulation  Nach Henry Rinks [MASK],Meinung,0.00017123640282079577
+für die Wärmeregulation  Nach Henry Rinks Meinung [MASK],waren,0.0016462537460029125
+die Wärmeregulation  Nach Henry Rinks Meinung waren [MASK],die,0.006824335549026728
+Wärmeregulation  Nach Henry Rinks Meinung waren die [MASK],ersten,0.0019531239522621036
+ Nach Henry Rinks Meinung waren die ersten [MASK],Eskimos,1.7154679881059565e-05
+Nach Henry Rinks Meinung waren die ersten Eskimos [MASK],primitive,0.00011627061030594632
+Henry Rinks Meinung waren die ersten Eskimos primitive [MASK],Indianerstämme,0.0029880127403885126
+Rinks Meinung waren die ersten Eskimos primitive Indianerstämme [MASK],,1.938060307793421e-07
+Meinung waren die ersten Eskimos primitive Indianerstämme  [MASK],Diese,5.502492399500625e-07
+waren die ersten Eskimos primitive Indianerstämme  Diese [MASK],sollen,0.00036402500700205564
+die ersten Eskimos primitive Indianerstämme  Diese sollen [MASK],ursprünglich,0.0032037701457738876
+ersten Eskimos primitive Indianerstämme  Diese sollen ursprünglich [MASK],in,0.0024676257744431496
+Eskimos primitive Indianerstämme  Diese sollen ursprünglich in [MASK],den,0.02025861293077469
+primitive Indianerstämme  Diese sollen ursprünglich in den [MASK],Wäldern,0.017732571810483932
+Indianerstämme  Diese sollen ursprünglich in den Wäldern [MASK],des,0.0002894357603508979
+ Diese sollen ursprünglich in den Wäldern des [MASK],zentralen,0.00029707414796575904
+Diese sollen ursprünglich in den Wäldern des zentralen [MASK],Alaska,0.0001144470224971883
+sollen ursprünglich in den Wäldern des zentralen Alaska [MASK],gelebt,0.00787498988211155
+ursprünglich in den Wäldern des zentralen Alaska gelebt [MASK],haben,0.0018637157045304775
+in den Wäldern des zentralen Alaska gelebt haben [MASK],,2.3843219310037966e-07
+den Wäldern des zentralen Alaska gelebt haben  [MASK],und,0.0011499575339257717
+Wäldern des zentralen Alaska gelebt haben  und [MASK],wurden,0.0006248526042327285
+des zentralen Alaska gelebt haben  und wurden [MASK],seiner,4.429014370543882e-05
+zentralen Alaska gelebt haben  und wurden seiner [MASK],Meinung,0.011093510314822197
+Alaska gelebt haben  und wurden seiner Meinung [MASK],nach,0.5295197367668152
+gelebt haben  und wurden seiner Meinung nach [MASK],durch,0.008995193988084793
+haben  und wurden seiner Meinung nach durch [MASK],kriegerische,1.2713919204543345e-05
+ und wurden seiner Meinung nach durch kriegerische [MASK],Stämme,8.065740257734433e-05
+und wurden seiner Meinung nach durch kriegerische Stämme [MASK],weit,6.743552512489259e-05
+wurden seiner Meinung nach durch kriegerische Stämme weit [MASK],nach,0.0024914515670388937
+seiner Meinung nach durch kriegerische Stämme weit nach [MASK],Norden,0.040953829884529114
+Meinung nach durch kriegerische Stämme weit nach Norden [MASK],gedrängt,0.0001767166831996292
+nach durch kriegerische Stämme weit nach Norden gedrängt [MASK],,1.9796209016931243e-05

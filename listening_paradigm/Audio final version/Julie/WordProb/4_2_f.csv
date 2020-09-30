@@ -1,0 +1,587 @@
+Context,Word,Probability
+        [MASK],Einige,0.00014930630277376622
+       Einige [MASK],Tage,0.0006990773254074156
+      Einige Tage [MASK],lang,0.05964130163192749
+     Einige Tage lang [MASK],versuchte,0.001427753595635295
+    Einige Tage lang versuchte [MASK],er,0.014380774460732937
+   Einige Tage lang versuchte er [MASK],genauso,1.0675003977667075e-05
+  Einige Tage lang versuchte er genauso [MASK],wie,0.022272827103734016
+ Einige Tage lang versuchte er genauso wie [MASK],die,0.0024598322343081236
+Einige Tage lang versuchte er genauso wie die [MASK],übrigen,0.003545345040038228
+Tage lang versuchte er genauso wie die übrigen [MASK],Möwen,1.27505745695089e-06
+lang versuchte er genauso wie die übrigen Möwen [MASK],zu,0.002479073591530323
+versuchte er genauso wie die übrigen Möwen zu [MASK],sein,0.002127480460330844
+er genauso wie die übrigen Möwen zu sein [MASK],,2.1358766844059573e-06
+genauso wie die übrigen Möwen zu sein  [MASK],er,1.8988715964951552e-05
+wie die übrigen Möwen zu sein  er [MASK],gab,3.472895059530856e-06
+die übrigen Möwen zu sein  er gab [MASK],sich,0.0006768664461560547
+übrigen Möwen zu sein  er gab sich [MASK],wirklich,0.0003234766481909901
+Möwen zu sein  er gab sich wirklich [MASK],alle,0.0002820421941578388
+zu sein  er gab sich wirklich alle [MASK],Versagens,1.0824602213688195e-05
+sein  er gab sich wirklich alle Versagens [MASK],,5.500583483808441e-06
+ er gab sich wirklich alle Versagens  [MASK],Er,8.883027476258576e-06
+er gab sich wirklich alle Versagens  Er [MASK],,1.3847577307046777e-08
+gab sich wirklich alle Versagens  Er  [MASK],flatterte,2.52259815169964e-06
+sich wirklich alle Versagens  Er  flatterte [MASK],und,0.001646373188123107
+wirklich alle Versagens  Er  flatterte und [MASK],kreischte,5.681758193532005e-05
+alle Versagens  Er  flatterte und kreischte [MASK],mit,0.001450088806450367
+Versagens  Er  flatterte und kreischte mit [MASK],dem,0.0011141871800646186
+ Er  flatterte und kreischte mit dem [MASK],Schwarm,2.0953402781742625e-06
+Er  flatterte und kreischte mit dem Schwarm [MASK],um,0.0010190802859142423
+ flatterte und kreischte mit dem Schwarm um [MASK],die,0.0038914550095796585
+flatterte und kreischte mit dem Schwarm um die [MASK],Anlegestellen,1.1745198662538314e-06
+und kreischte mit dem Schwarm um die Anlegestellen [MASK],und,0.003204125678166747
+kreischte mit dem Schwarm um die Anlegestellen und [MASK],Fischerboote,0.0034852190874516964
+mit dem Schwarm um die Anlegestellen und Fischerboote [MASK],,1.4395244761544745e-05
+dem Schwarm um die Anlegestellen und Fischerboote  [MASK],und,0.009498693980276585
+Schwarm um die Anlegestellen und Fischerboote  und [MASK],schnappte,1.2369422620395198e-05
+um die Anlegestellen und Fischerboote  und schnappte [MASK],im,0.0002676127478480339
+die Anlegestellen und Fischerboote  und schnappte im [MASK],Sturzflug,5.8400626585353166e-05
+Anlegestellen und Fischerboote  und schnappte im Sturzflug [MASK],nach,0.001377014210447669
+und Fischerboote  und schnappte im Sturzflug nach [MASK],Fischabfällen,0.001123808091506362
+Fischerboote  und schnappte im Sturzflug nach Fischabfällen [MASK],und,0.0007686036988161504
+ und schnappte im Sturzflug nach Fischabfällen und [MASK],Brotkrumen,0.0012629395350813866
+und schnappte im Sturzflug nach Fischabfällen und Brotkrumen [MASK],,3.309952944618999e-06
+schnappte im Sturzflug nach Fischabfällen und Brotkrumen  [MASK],aber,3.45174121321179e-05
+im Sturzflug nach Fischabfällen und Brotkrumen  aber [MASK],er,6.467155617428944e-05
+Sturzflug nach Fischabfällen und Brotkrumen  aber er [MASK],war,0.0005337534239515662
+nach Fischabfällen und Brotkrumen  aber er war [MASK],nicht,0.0023419097997248173
+Fischabfällen und Brotkrumen  aber er war nicht [MASK],glücklich,0.006974953692406416
+und Brotkrumen  aber er war nicht glücklich [MASK],dabei,0.00038843456422910094
+Brotkrumen  aber er war nicht glücklich dabei [MASK],,3.6061737773707137e-07
+ aber er war nicht glücklich dabei  [MASK],Es,2.2894394646755245e-07
+aber er war nicht glücklich dabei  Es [MASK],ist,0.008368919603526592
+er war nicht glücklich dabei  Es ist [MASK],so,0.0025020844768732786
+war nicht glücklich dabei  Es ist so [MASK],sinnlos,9.811126801650971e-06
+nicht glücklich dabei  Es ist so sinnlos [MASK],,2.3117831915442366e-07
+glücklich dabei  Es ist so sinnlos  [MASK],dachte,7.007642125245184e-06
+dabei  Es ist so sinnlos  dachte [MASK],er,0.00019533457816578448
+ Es ist so sinnlos  dachte er [MASK],,2.407882902843994e-06
+Es ist so sinnlos  dachte er  [MASK],und,0.0001260766584891826
+ist so sinnlos  dachte er  und [MASK],liess,8.227641228586435e-05
+so sinnlos  dachte er  und liess [MASK],absichtlich,1.1843246284115594e-05
+sinnlos  dachte er  und liess absichtlich [MASK],eine,0.0005228696390986443
+ dachte er  und liess absichtlich eine [MASK],mit,4.244783485773951e-05
+dachte er  und liess absichtlich eine mit [MASK],Mühe,0.00035221135476604104
+er  und liess absichtlich eine mit Mühe [MASK],ergatterte,6.222008232725784e-05
+ und liess absichtlich eine mit Mühe ergatterte [MASK],Sardine,2.2889664251124486e-05
+und liess absichtlich eine mit Mühe ergatterte Sardine [MASK],,2.09094039860247e-07
+liess absichtlich eine mit Mühe ergatterte Sardine  [MASK],fallen,0.00373501842841506
+absichtlich eine mit Mühe ergatterte Sardine  fallen [MASK],,3.4040425589410006e-07
+eine mit Mühe ergatterte Sardine  fallen  [MASK],die,0.00013946875697001815
+mit Mühe ergatterte Sardine  fallen  die [MASK],ihm,1.1239396371820476e-05
+Mühe ergatterte Sardine  fallen  die ihm [MASK],eine,0.000994384754449129
+ergatterte Sardine  fallen  die ihm eine [MASK],alte,0.0005765313981100917
+Sardine  fallen  die ihm eine alte [MASK],hungrige,1.6574780602240935e-05
+ fallen  die ihm eine alte hungrige [MASK],Möwe,1.8207259927294217e-05
+fallen  die ihm eine alte hungrige Möwe [MASK],abjagen,0.0007239053375087678
+ die ihm eine alte hungrige Möwe abjagen [MASK],wollte,0.013814483769237995
+die ihm eine alte hungrige Möwe abjagen wollte [MASK],,1.7811952375268447e-06
+ihm eine alte hungrige Möwe abjagen wollte  [MASK],Schade,1.653715173688397e-07
+eine alte hungrige Möwe abjagen wollte  Schade [MASK],um,0.00019068077381234616
+alte hungrige Möwe abjagen wollte  Schade um [MASK],die,7.437802560161799e-05
+hungrige Möwe abjagen wollte  Schade um die [MASK],Zeit,0.0014638456050306559
+Möwe abjagen wollte  Schade um die Zeit [MASK],,1.7459102537031868e-06
+abjagen wollte  Schade um die Zeit  [MASK],wieviel,4.0538950997870415e-05
+wollte  Schade um die Zeit  wieviel [MASK],könnte,6.689814472338185e-05
+ Schade um die Zeit  wieviel könnte [MASK],ich,0.0029166610911488533
+Schade um die Zeit  wieviel könnte ich [MASK],da,0.000723223842214793
+um die Zeit  wieviel könnte ich da [MASK],richtig,5.135797255206853e-05
+die Zeit  wieviel könnte ich da richtig [MASK],fliegen,0.00016989547293633223
+Zeit  wieviel könnte ich da richtig fliegen [MASK],üben,8.194585632281814e-08
+ wieviel könnte ich da richtig fliegen üben [MASK],,9.663240518875682e-08
+wieviel könnte ich da richtig fliegen üben  [MASK],Ich,7.403137715300545e-06
+könnte ich da richtig fliegen üben  Ich [MASK],muss,0.005736369173973799
+ich da richtig fliegen üben  Ich muss [MASK],noch,0.00020139795378781855
+da richtig fliegen üben  Ich muss noch [MASK],so,3.689303412102163e-05
+richtig fliegen üben  Ich muss noch so [MASK],viel,0.009964384138584137
+fliegen üben  Ich muss noch so viel [MASK],lernen,0.19852624833583832
+üben  Ich muss noch so viel lernen [MASK],,9.398363687296296e-08
+ Ich muss noch so viel lernen  [MASK],Und,6.045620921213413e-06
+Ich muss noch so viel lernen  Und [MASK],so,0.001508892048150301
+muss noch so viel lernen  Und so [MASK],dauerte,9.895763469103258e-06
+noch so viel lernen  Und so dauerte [MASK],es,0.5463374853134155
+so viel lernen  Und so dauerte es [MASK],denn,0.0012560483301058412
+viel lernen  Und so dauerte es denn [MASK],nicht,0.002677924232557416
+lernen  Und so dauerte es denn nicht [MASK],lange,0.010222155600786209
+ Und so dauerte es denn nicht lange [MASK],,3.3155569667542295e-07
+Und so dauerte es denn nicht lange  [MASK],und,0.000453426968306303
+so dauerte es denn nicht lange  und [MASK],die,0.001156240119598806
+dauerte es denn nicht lange  und die [MASK],Möwe,9.84101825451944e-06
+es denn nicht lange  und die Möwe [MASK],entwischte,4.292663561500376e-06
+denn nicht lange  und die Möwe entwischte [MASK],wieder,0.0003360594273544848
+nicht lange  und die Möwe entwischte wieder [MASK],,1.846883321832138e-07
+lange  und die Möwe entwischte wieder  [MASK],wagte,1.2585344848048408e-05
+ und die Möwe entwischte wieder  wagte [MASK],sich,0.00740454625338316
+und die Möwe entwischte wieder  wagte sich [MASK],weit,0.0001672182115726173
+die Möwe entwischte wieder  wagte sich weit [MASK],auf,0.0003995957667939365
+Möwe entwischte wieder  wagte sich weit auf [MASK],die,0.01100093498826027
+entwischte wieder  wagte sich weit auf die [MASK],offene,7.101270603016019e-05
+wieder  wagte sich weit auf die offene [MASK],See,0.008749362081289291
+ wagte sich weit auf die offene See [MASK],hinaus,0.0016300339484587312
+wagte sich weit auf die offene See hinaus [MASK],,4.080127666838962e-07
+sich weit auf die offene See hinaus  [MASK],und,0.000824343878775835
+weit auf die offene See hinaus  und [MASK],machte,6.353639764711261e-05
+auf die offene See hinaus  und machte [MASK],hungrig,0.00025062408531084657
+die offene See hinaus  und machte hungrig [MASK],aber,0.00017809084965847433
+offene See hinaus  und machte hungrig aber [MASK],glücklich,0.039205487817525864
+See hinaus  und machte hungrig aber glücklich [MASK],,6.98208850735682e-08
+hinaus  und machte hungrig aber glücklich  [MASK],neue,6.514961569337174e-06
+ und machte hungrig aber glücklich  neue [MASK],Geschwindigkeit,5.3696758186561055e-06
+und machte hungrig aber glücklich  neue Geschwindigkeit [MASK],,6.487709356406413e-07
+machte hungrig aber glücklich  neue Geschwindigkeit  [MASK],Jetzt,1.1952715794905089e-05
+hungrig aber glücklich  neue Geschwindigkeit  Jetzt [MASK],,2.6594427708914736e-06
+aber glücklich  neue Geschwindigkeit  Jetzt  [MASK],ging,2.123828380717896e-05
+glücklich  neue Geschwindigkeit  Jetzt  ging [MASK],es,0.017725326120853424
+ neue Geschwindigkeit  Jetzt  ging es [MASK],Jonathan,1.37264848376617e-07
+neue Geschwindigkeit  Jetzt  ging es Jonathan [MASK],um,0.0024687987752258778
+Geschwindigkeit  Jetzt  ging es Jonathan um [MASK],die,0.0033072526566684246
+ Jetzt  ging es Jonathan um die [MASK],Geschwindigkeit,0.00024097714049275964
+Jetzt  ging es Jonathan um die Geschwindigkeit [MASK],,5.327979124558624e-07
+ ging es Jonathan um die Geschwindigkeit  [MASK],Nachdem,1.5189627333711542e-07
+ging es Jonathan um die Geschwindigkeit  Nachdem [MASK],er,5.5532487749587744e-05
+es Jonathan um die Geschwindigkeit  Nachdem er [MASK],eine,0.0022392880637198687
+Jonathan um die Geschwindigkeit  Nachdem er eine [MASK],Woche,0.00107842858415097
+um die Geschwindigkeit  Nachdem er eine Woche [MASK],geübt,2.8958065740880556e-05
+die Geschwindigkeit  Nachdem er eine Woche geübt [MASK],hatte,0.23290938138961792
+Geschwindigkeit  Nachdem er eine Woche geübt hatte [MASK],,1.1506015653139912e-05
+ Nachdem er eine Woche geübt hatte  [MASK],wusste,7.484258276235778e-06
+Nachdem er eine Woche geübt hatte  wusste [MASK],er,0.0005300264456309378
+er eine Woche geübt hatte  wusste er [MASK],darüber,0.0015657332260161638
+eine Woche geübt hatte  wusste er darüber [MASK],mehr,0.0006936401478014886
+Woche geübt hatte  wusste er darüber mehr [MASK],als,0.0036867137532681227
+geübt hatte  wusste er darüber mehr als [MASK],jede,0.0023017071653157473
+hatte  wusste er darüber mehr als jede [MASK],andere,0.17544926702976227
+ wusste er darüber mehr als jede andere [MASK],,2.2953944522896563e-08
+wusste er darüber mehr als jede andere  [MASK],Flügelschlag,2.069160700557404e-06
+er darüber mehr als jede andere  Flügelschlag [MASK],,1.3955697708567527e-09
+darüber mehr als jede andere  Flügelschlag  [MASK],Aus,5.214546128229358e-09
+mehr als jede andere  Flügelschlag  Aus [MASK],,2.707359669784637e-09
+als jede andere  Flügelschlag  Aus  [MASK],dreihundert,5.168125790078193e-05
+jede andere  Flügelschlag  Aus  dreihundert [MASK],Meter,0.0030601900070905685
+andere  Flügelschlag  Aus  dreihundert Meter [MASK],Höhe,0.005446529947221279
+ Flügelschlag  Aus  dreihundert Meter Höhe [MASK],stürzte,0.0034436883870512247
+Flügelschlag  Aus  dreihundert Meter Höhe stürzte [MASK],er,0.0015884919557720423
+ Aus  dreihundert Meter Höhe stürzte er [MASK],sich,7.158195512602106e-05
+Aus  dreihundert Meter Höhe stürzte er sich [MASK],nach,0.0027772532775998116
+ dreihundert Meter Höhe stürzte er sich nach [MASK],,9.965380520782219e-09
+dreihundert Meter Höhe stürzte er sich nach  [MASK],kräftigen,6.1380965235002805e-06
+Meter Höhe stürzte er sich nach  kräftigen [MASK],Flügelschlägen,1.0725762876973022e-05
+Höhe stürzte er sich nach  kräftigen Flügelschlägen [MASK],,7.912440196378157e-06
+stürzte er sich nach  kräftigen Flügelschlägen  [MASK],tollkühn,6.643389042437775e-06
+er sich nach  kräftigen Flügelschlägen  tollkühn [MASK],in,0.00020733442215714604
+sich nach  kräftigen Flügelschlägen  tollkühn in [MASK],die,0.002655683783814311
+nach  kräftigen Flügelschlägen  tollkühn in die [MASK],Tiefe,0.03305250406265259
+ kräftigen Flügelschlägen  tollkühn in die Tiefe [MASK],,7.849477583476983e-07
+kräftigen Flügelschlägen  tollkühn in die Tiefe  [MASK],den,9.39464516704902e-05
+Flügelschlägen  tollkühn in die Tiefe  den [MASK],Wellen,0.00034284390858374536
+ tollkühn in die Tiefe  den Wellen [MASK],entgegen,0.004270136822015047
+tollkühn in die Tiefe  den Wellen entgegen [MASK],,1.2406370331063954e-07
+in die Tiefe  den Wellen entgegen  [MASK],und,0.0011507206363603473
+die Tiefe  den Wellen entgegen  und [MASK],lernte,5.01464774060878e-06
+Tiefe  den Wellen entgegen  und lernte [MASK],durch,0.0005015680799260736
+ den Wellen entgegen  und lernte durch [MASK],Erfahrung,0.0010119659127667546
+den Wellen entgegen  und lernte durch Erfahrung [MASK],warum,9.06547938939184e-05
+Wellen entgegen  und lernte durch Erfahrung warum [MASK],keine,5.800353392260149e-05
+entgegen  und lernte durch Erfahrung warum keine [MASK],Möwe,1.24265707199811e-05
+ und lernte durch Erfahrung warum keine Möwe [MASK],mit,0.000430036976467818
+und lernte durch Erfahrung warum keine Möwe mit [MASK],,5.8576121730880004e-09
+lernte durch Erfahrung warum keine Möwe mit  [MASK],voller,2.4637673050165176e-05
+durch Erfahrung warum keine Möwe mit  voller [MASK],Wucht,0.001975035760551691
+Erfahrung warum keine Möwe mit  voller Wucht [MASK],,6.878638600937848e-07
+warum keine Möwe mit  voller Wucht  [MASK],solche,1.692612568149343e-05
+keine Möwe mit  voller Wucht  solche [MASK],Sturzflüge,1.4363076843437739e-05
+Möwe mit  voller Wucht  solche Sturzflüge [MASK],versucht,9.183823749481235e-06
+mit  voller Wucht  solche Sturzflüge versucht [MASK],,7.72259454606683e-07
+ voller Wucht  solche Sturzflüge versucht  [MASK],Schon,2.414453774690628e-06
+voller Wucht  solche Sturzflüge versucht  Schon [MASK],nach,7.185723370639607e-05
+Wucht  solche Sturzflüge versucht  Schon nach [MASK],sechs,0.0007734891260042787
+ solche Sturzflüge versucht  Schon nach sechs [MASK],Sekunden,0.014720404520630836
+solche Sturzflüge versucht  Schon nach sechs Sekunden [MASK],schoss,1.5509976947214454e-05
+Sturzflüge versucht  Schon nach sechs Sekunden schoss [MASK],er,0.005609729792922735
+versucht  Schon nach sechs Sekunden schoss er [MASK],mit,0.002030113246291876
+ Schon nach sechs Sekunden schoss er mit [MASK],einer,0.006602506618946791
+Schon nach sechs Sekunden schoss er mit einer [MASK],Geschwindigkeit,0.0005530941998586059
+nach sechs Sekunden schoss er mit einer Geschwindigkeit [MASK],,3.7236391108308453e-06
+sechs Sekunden schoss er mit einer Geschwindigkeit  [MASK],von,0.0029473237227648497
+Sekunden schoss er mit einer Geschwindigkeit  von [MASK],mehr,0.0008539484697394073
+schoss er mit einer Geschwindigkeit  von mehr [MASK],als,0.49342650175094604
+er mit einer Geschwindigkeit  von mehr als [MASK],hundert,0.0013090551365166903
+mit einer Geschwindigkeit  von mehr als hundert [MASK],Stundenkilometern,0.006282334681600332
+einer Geschwindigkeit  von mehr als hundert Stundenkilometern [MASK],abwärts,0.002977539086714387
+Geschwindigkeit  von mehr als hundert Stundenkilometern abwärts [MASK],,5.047563718107995e-06
+ von mehr als hundert Stundenkilometern abwärts  [MASK],und,0.0031895716674625874
+von mehr als hundert Stundenkilometern abwärts  und [MASK],bei,0.0008582291193306446
+mehr als hundert Stundenkilometern abwärts  und bei [MASK],diesem,0.0012407096801325679
+als hundert Stundenkilometern abwärts  und bei diesem [MASK],Tempo,0.07142268121242523
+hundert Stundenkilometern abwärts  und bei diesem Tempo [MASK],,7.170261596911587e-06
+Stundenkilometern abwärts  und bei diesem Tempo  [MASK],können,8.110125054372475e-05
+abwärts  und bei diesem Tempo  können [MASK],die,0.021495044231414795
+ und bei diesem Tempo  können die [MASK],Schwingen,2.683768434508238e-05
+und bei diesem Tempo  können die Schwingen [MASK],dem,0.0001242470316356048
+bei diesem Tempo  können die Schwingen dem [MASK],Luftdruck,0.00012410666386131197
+diesem Tempo  können die Schwingen dem Luftdruck [MASK],nicht,0.0019517627079039812
+Tempo  können die Schwingen dem Luftdruck nicht [MASK],standhalten,4.7401630581589416e-05
+ können die Schwingen dem Luftdruck nicht standhalten [MASK],,8.761798397927123e-08
+können die Schwingen dem Luftdruck nicht standhalten  [MASK],Es,7.613398622652312e-08
+die Schwingen dem Luftdruck nicht standhalten  Es [MASK],war,0.00042929768096655607
+Schwingen dem Luftdruck nicht standhalten  Es war [MASK],immer,0.0007844709907658398
+dem Luftdruck nicht standhalten  Es war immer [MASK],das,0.0005354912718757987
+Luftdruck nicht standhalten  Es war immer das [MASK],Sprengladung,5.3510198938511166e-08
+nicht standhalten  Es war immer das Sprengladung [MASK],,1.6611057844784227e-06
+standhalten  Es war immer das Sprengladung  [MASK],So,1.3785924011244788e-06
+ Es war immer das Sprengladung  So [MASK],sehr,0.000917656987439841
+Es war immer das Sprengladung  So sehr [MASK],er,2.4801633117021993e-05
+war immer das Sprengladung  So sehr er [MASK],sich,0.00030129728838801384
+immer das Sprengladung  So sehr er sich [MASK],auch,0.00026461732340976596
+das Sprengladung  So sehr er sich auch [MASK],bemühte,0.014063292182981968
+Sprengladung  So sehr er sich auch bemühte [MASK],und,0.0018395727965980768
+ So sehr er sich auch bemühte und [MASK],anstrengte,8.149183486239053e-06
+So sehr er sich auch bemühte und anstrengte [MASK],,1.4560367844751454e-07
+sehr er sich auch bemühte und anstrengte  [MASK],bei,0.0001198050013044849
+er sich auch bemühte und anstrengte  bei [MASK],hoher,0.00024943059543147683
+sich auch bemühte und anstrengte  bei hoher [MASK],Geschwindigkeit,0.03598497062921524
+auch bemühte und anstrengte  bei hoher Geschwindigkeit [MASK],verlor,4.092248491360806e-05
+bemühte und anstrengte  bei hoher Geschwindigkeit verlor [MASK],er,0.003423562739044428
+und anstrengte  bei hoher Geschwindigkeit verlor er [MASK],die,0.0018280469812452793
+anstrengte  bei hoher Geschwindigkeit verlor er die [MASK],Kontrolle,0.1561066210269928
+ bei hoher Geschwindigkeit verlor er die Kontrolle [MASK],über,0.000727385631762445
+bei hoher Geschwindigkeit verlor er die Kontrolle über [MASK],den,0.053146347403526306
+hoher Geschwindigkeit verlor er die Kontrolle über den [MASK],Flügelschlag,5.581222285400145e-05
+Geschwindigkeit verlor er die Kontrolle über den Flügelschlag [MASK],,3.168338480463717e-06
+verlor er die Kontrolle über den Flügelschlag  [MASK],Er,5.209736855249503e-07
+er die Kontrolle über den Flügelschlag  Er [MASK],stieg,0.00011725375225069001
+die Kontrolle über den Flügelschlag  Er stieg [MASK],hoch,0.001792997820302844
+Kontrolle über den Flügelschlag  Er stieg hoch [MASK],auf,0.03767463192343712
+über den Flügelschlag  Er stieg hoch auf [MASK],,1.1175605862945304e-07
+den Flügelschlag  Er stieg hoch auf  [MASK],mit,0.00014128397742751986
+Flügelschlag  Er stieg hoch auf  mit [MASK],voller,0.000360017002094537
+ Er stieg hoch auf  mit voller [MASK],Kraft,0.2840360701084137
+Er stieg hoch auf  mit voller Kraft [MASK],,2.9694970180571545e-06
+stieg hoch auf  mit voller Kraft  [MASK],setzte,7.511044532293454e-05
+hoch auf  mit voller Kraft  setzte [MASK],flatternd,7.85265274316771e-06
+auf  mit voller Kraft  setzte flatternd [MASK],zum,0.0008125099702738225
+ mit voller Kraft  setzte flatternd zum [MASK],senkrechten,3.837745225609979e-06
+mit voller Kraft  setzte flatternd zum senkrechten [MASK],Sturzflug,0.0002080585982184857
+voller Kraft  setzte flatternd zum senkrechten Sturzflug [MASK],an,0.011452769860625267
+Kraft  setzte flatternd zum senkrechten Sturzflug an [MASK],,1.4397434355828409e-08
+ setzte flatternd zum senkrechten Sturzflug an  [MASK],und,0.0008239616290666163
+setzte flatternd zum senkrechten Sturzflug an  und [MASK],dann,0.001369283883832395
+flatternd zum senkrechten Sturzflug an  und dann [MASK],versagte,2.7727535780286416e-05
+zum senkrechten Sturzflug an  und dann versagte [MASK],immer,3.001997174578719e-05
+senkrechten Sturzflug an  und dann versagte immer [MASK],wieder,0.3629034161567688
+Sturzflug an  und dann versagte immer wieder [MASK],der,0.0017437199130654335
+an  und dann versagte immer wieder der [MASK],linke,0.00021617705351673067
+ und dann versagte immer wieder der linke [MASK],,1.059005683146097e-08
+und dann versagte immer wieder der linke  [MASK],Flügel,0.21415112912654877
+dann versagte immer wieder der linke  Flügel [MASK],im,9.269738802686334e-05
+versagte immer wieder der linke  Flügel im [MASK],Aufschlag,8.746593084651977e-05
+immer wieder der linke  Flügel im Aufschlag [MASK],,3.2060332159744576e-05
+wieder der linke  Flügel im Aufschlag  [MASK],dass,2.162843628639166e-07
+der linke  Flügel im Aufschlag  dass [MASK],der,0.000739431765396148
+linke  Flügel im Aufschlag  dass der [MASK],Körper,0.0027383414562791586
+ Flügel im Aufschlag  dass der Körper [MASK],heftig,5.748611147282645e-05
+Flügel im Aufschlag  dass der Körper heftig [MASK],nach,9.11388051463291e-05
+im Aufschlag  dass der Körper heftig nach [MASK],links,0.0018245779210701585
+Aufschlag  dass der Körper heftig nach links [MASK],abdrehte,0.0151371443644166
+ dass der Körper heftig nach links abdrehte [MASK],,9.997860388466506e-07
+dass der Körper heftig nach links abdrehte  [MASK],Er,6.35676713045541e-07
+der Körper heftig nach links abdrehte  Er [MASK],,8.241570981226687e-09
+Körper heftig nach links abdrehte  Er  [MASK],fing,6.694259354844689e-06
+heftig nach links abdrehte  Er  fing [MASK],sich,0.0010872377315536141
+nach links abdrehte  Er  fing sich [MASK],durch,0.003136856947094202
+links abdrehte  Er  fing sich durch [MASK],Abstellen,4.203928938295576e-07
+abdrehte  Er  fing sich durch Abstellen [MASK],des,0.0028539164923131466
+ Er  fing sich durch Abstellen des [MASK],rechten,0.0012342140544205904
+Er  fing sich durch Abstellen des rechten [MASK],Flügels,0.016816001385450363
+ fing sich durch Abstellen des rechten Flügels [MASK],wieder,0.005199756473302841
+fing sich durch Abstellen des rechten Flügels wieder [MASK],,9.517245302959054e-07
+sich durch Abstellen des rechten Flügels wieder  [MASK],und,0.0010697140824049711
+durch Abstellen des rechten Flügels wieder  und [MASK],schoss,0.00014744442887604237
+Abstellen des rechten Flügels wieder  und schoss [MASK],wie,0.00015706487465649843
+des rechten Flügels wieder  und schoss wie [MASK],ein,0.003884742269292474
+rechten Flügels wieder  und schoss wie ein [MASK],Blitz,0.15700574219226837
+Flügels wieder  und schoss wie ein Blitz [MASK],kreiselnd,7.085627657943405e-06
+wieder  und schoss wie ein Blitz kreiselnd [MASK],schräg,2.946724634966813e-06
+ und schoss wie ein Blitz kreiselnd schräg [MASK],nach,0.004456488881260157
+und schoss wie ein Blitz kreiselnd schräg nach [MASK],rechts,0.04755416512489319
+schoss wie ein Blitz kreiselnd schräg nach rechts [MASK],abwärts,0.0011281892657279968
+wie ein Blitz kreiselnd schräg nach rechts abwärts [MASK],,2.7214143756282283e-06
+ein Blitz kreiselnd schräg nach rechts abwärts  [MASK],Er,2.1069342892587883e-06
+Blitz kreiselnd schräg nach rechts abwärts  Er [MASK],konnte,4.444775186129846e-06
+kreiselnd schräg nach rechts abwärts  Er konnte [MASK],gar,3.829323031823151e-05
+schräg nach rechts abwärts  Er konnte gar [MASK],nicht,0.14505735039710999
+nach rechts abwärts  Er konnte gar nicht [MASK],achtsam,3.0423647331190296e-05
+rechts abwärts  Er konnte gar nicht achtsam [MASK],genug,0.0019657323136925697
+abwärts  Er konnte gar nicht achtsam genug [MASK],sein,0.0649290382862091
+ Er konnte gar nicht achtsam genug sein [MASK],,1.1125440835257905e-07
+Er konnte gar nicht achtsam genug sein  [MASK],Zehnmal,4.071852188758385e-08
+konnte gar nicht achtsam genug sein  Zehnmal [MASK],nacheinander,0.00021325009583961219
+gar nicht achtsam genug sein  Zehnmal nacheinander [MASK],versuchte,1.7058786397683434e-05
+nicht achtsam genug sein  Zehnmal nacheinander versuchte [MASK],er,0.0010130212176591158
+achtsam genug sein  Zehnmal nacheinander versuchte er [MASK],den,0.0013260788982734084
+genug sein  Zehnmal nacheinander versuchte er den [MASK],Sturz,0.019309744238853455
+sein  Zehnmal nacheinander versuchte er den Sturz [MASK],,6.500804829556728e-06
+ Zehnmal nacheinander versuchte er den Sturz  [MASK],und,0.0009096279391087592
+Zehnmal nacheinander versuchte er den Sturz  und [MASK],jedesmal,0.00010887339158216491
+nacheinander versuchte er den Sturz  und jedesmal [MASK],,2.4322707758983597e-06
+versuchte er den Sturz  und jedesmal  [MASK],zerflatterte,3.473690230748616e-05
+er den Sturz  und jedesmal  zerflatterte [MASK],er,0.0036261032801121473
+den Sturz  und jedesmal  zerflatterte er [MASK],bei,0.0007030348642729223
+Sturz  und jedesmal  zerflatterte er bei [MASK],der,0.004921495448797941
+ und jedesmal  zerflatterte er bei der [MASK],hohen,0.00012829035404138267
+und jedesmal  zerflatterte er bei der hohen [MASK],Geschwindigkeit,0.05730131268501282
+jedesmal  zerflatterte er bei der hohen Geschwindigkeit [MASK],,5.222180789132835e-06
+ zerflatterte er bei der hohen Geschwindigkeit  [MASK],und,0.0038131801411509514
+zerflatterte er bei der hohen Geschwindigkeit  und [MASK],klatschte,4.636710218619555e-05
+er bei der hohen Geschwindigkeit  und klatschte [MASK],haltlos,0.0002362519589951262
+bei der hohen Geschwindigkeit  und klatschte haltlos [MASK],,8.65621984758036e-07
+der hohen Geschwindigkeit  und klatschte haltlos  [MASK],als,0.0003396151587367058
+hohen Geschwindigkeit  und klatschte haltlos  als [MASK],wild,0.00012248192797414958
+Geschwindigkeit  und klatschte haltlos  als wild [MASK],gesträubtes,5.68350515095517e-06
+ und klatschte haltlos  als wild gesträubtes [MASK],Federnbündel,4.295115559216356e-06
+und klatschte haltlos  als wild gesträubtes Federnbündel [MASK],hart,1.5499441360589117e-05
+klatschte haltlos  als wild gesträubtes Federnbündel hart [MASK],auf,0.011997592635452747
+haltlos  als wild gesträubtes Federnbündel hart auf [MASK],dem,0.0014731499832123518
+ als wild gesträubtes Federnbündel hart auf dem [MASK],Wasser,0.006025832612067461
+als wild gesträubtes Federnbündel hart auf dem Wasser [MASK],auf,0.0005884484271518886
+wild gesträubtes Federnbündel hart auf dem Wasser auf [MASK],,1.1124649290650268e-07
+gesträubtes Federnbündel hart auf dem Wasser auf  [MASK],Schliesslich,1.5698782590334304e-05
+Federnbündel hart auf dem Wasser auf  Schliesslich [MASK],dachte,5.574713100031659e-07
+hart auf dem Wasser auf  Schliesslich dachte [MASK],er,0.002581770299002528
+auf dem Wasser auf  Schliesslich dachte er [MASK],,2.460921905367286e-06
+dem Wasser auf  Schliesslich dachte er  [MASK],tropfnass,1.2316384072619257e-06
+Wasser auf  Schliesslich dachte er  tropfnass [MASK],,9.64212631515693e-07
+auf  Schliesslich dachte er  tropfnass  [MASK],vielleicht,1.7406691767973825e-05
+ Schliesslich dachte er  tropfnass  vielleicht [MASK],darf,3.49210608874273e-06
+Schliesslich dachte er  tropfnass  vielleicht darf [MASK],man,0.00024349671730306
+dachte er  tropfnass  vielleicht darf man [MASK],bei,0.00037387569318525493
+er  tropfnass  vielleicht darf man bei [MASK],hohen,0.0003316928050480783
+ tropfnass  vielleicht darf man bei hohen [MASK],Geschwindigkeiten,0.00020537838281597942
+tropfnass  vielleicht darf man bei hohen Geschwindigkeiten [MASK],die,0.0009318438824266195
+ vielleicht darf man bei hohen Geschwindigkeiten die [MASK],Flügel,0.00010918157204287127
+vielleicht darf man bei hohen Geschwindigkeiten die Flügel [MASK],nicht,0.0006117370212450624
+darf man bei hohen Geschwindigkeiten die Flügel nicht [MASK],,9.765528830030235e-07
+man bei hohen Geschwindigkeiten die Flügel nicht  [MASK],bewegen,0.02009759098291397
+bei hohen Geschwindigkeiten die Flügel nicht  bewegen [MASK],,7.273530968632258e-07
+hohen Geschwindigkeiten die Flügel nicht  bewegen  [MASK],muss,0.0002779003989417106
+Geschwindigkeiten die Flügel nicht  bewegen  muss [MASK],bis,0.0004358076548669487
+die Flügel nicht  bewegen  muss bis [MASK],,4.5839328777219635e-06
+Flügel nicht  bewegen  muss bis  [MASK],zirka,1.6329177014995366e-05
+nicht  bewegen  muss bis  zirka [MASK],,2.2092136475748703e-07
+ bewegen  muss bis  zirka  [MASK],fünfzig,0.019307512789964676
+bewegen  muss bis  zirka  fünfzig [MASK],mit,0.00010106301488121971
+ muss bis  zirka  fünfzig mit [MASK],den,0.00417817709967494
+muss bis  zirka  fünfzig mit den [MASK],Flügeln,6.2590252127847634e-06
+bis  zirka  fünfzig mit den Flügeln [MASK],schlagen,0.0002529736957512796
+ zirka  fünfzig mit den Flügeln schlagen [MASK],und,0.001847829669713974
+zirka  fünfzig mit den Flügeln schlagen und [MASK],sie,0.00035851349821314216
+ fünfzig mit den Flügeln schlagen und sie [MASK],dann,0.0025761546567082405
+fünfzig mit den Flügeln schlagen und sie dann [MASK],stillhalten,0.00028015379211865366
+mit den Flügeln schlagen und sie dann stillhalten [MASK],,3.3859623727039434e-07
+den Flügeln schlagen und sie dann stillhalten  [MASK],Er,2.3604503951446532e-07
+Flügeln schlagen und sie dann stillhalten  Er [MASK],versuchte,4.801610430149594e-06
+schlagen und sie dann stillhalten  Er versuchte [MASK],es,0.001914400840178132
+und sie dann stillhalten  Er versuchte es [MASK],noch,0.0004229330224916339
+sie dann stillhalten  Er versuchte es noch [MASK],einmal,0.15482144057750702
+dann stillhalten  Er versuchte es noch einmal [MASK],,2.268667685711989e-06
+stillhalten  Er versuchte es noch einmal  [MASK],Aus,1.4162203569867415e-06
+ Er versuchte es noch einmal  Aus [MASK],sechshundert,1.2060050949003198e-06
+Er versuchte es noch einmal  Aus sechshundert [MASK],Meter,0.0029319729655981064
+versuchte es noch einmal  Aus sechshundert Meter [MASK],Höhe,0.008478313684463501
+es noch einmal  Aus sechshundert Meter Höhe [MASK],kippte,1.9220025933464058e-05
+noch einmal  Aus sechshundert Meter Höhe kippte [MASK],er,0.01039743609726429
+einmal  Aus sechshundert Meter Höhe kippte er [MASK],,5.159740339877317e-06
+ Aus sechshundert Meter Höhe kippte er  [MASK],Schnabel,7.097074103512568e-06
+Aus sechshundert Meter Höhe kippte er  Schnabel [MASK],senkrecht,4.540782356343698e-06
+sechshundert Meter Höhe kippte er  Schnabel senkrecht [MASK],nach,0.003048270009458065
+Meter Höhe kippte er  Schnabel senkrecht nach [MASK],unten,0.23051054775714874
+Höhe kippte er  Schnabel senkrecht nach unten [MASK],zum,0.00044405300286598504
+kippte er  Schnabel senkrecht nach unten zum [MASK],Sturzflug,0.0016214639181271195
+er  Schnabel senkrecht nach unten zum Sturzflug [MASK],,3.980832389061106e-06
+ Schnabel senkrecht nach unten zum Sturzflug  [MASK],flatterte,7.009243745415006e-06
+Schnabel senkrecht nach unten zum Sturzflug  flatterte [MASK],mit,0.0013910530833527446
+senkrecht nach unten zum Sturzflug  flatterte mit [MASK],voll,0.00026882922975346446
+nach unten zum Sturzflug  flatterte mit voll [MASK],ausgespannten,1.297977405556594e-06
+unten zum Sturzflug  flatterte mit voll ausgespannten [MASK],Schwingen,1.0400485734862741e-06
+zum Sturzflug  flatterte mit voll ausgespannten Schwingen [MASK],bis,0.00013887319073546678
+Sturzflug  flatterte mit voll ausgespannten Schwingen bis [MASK],zu,0.005346033722162247
+ flatterte mit voll ausgespannten Schwingen bis zu [MASK],einer,0.002850706223398447
+flatterte mit voll ausgespannten Schwingen bis zu einer [MASK],Stundengeschwindigkeit,3.700445085996762e-05
+mit voll ausgespannten Schwingen bis zu einer Stundengeschwindigkeit [MASK],,8.033092854020651e-06
+voll ausgespannten Schwingen bis zu einer Stundengeschwindigkeit  [MASK],von,0.011855999007821083
+ausgespannten Schwingen bis zu einer Stundengeschwindigkeit  von [MASK],etwa,0.046176087111234665
+Schwingen bis zu einer Stundengeschwindigkeit  von etwa [MASK],achtzig,0.004086691420525312
+bis zu einer Stundengeschwindigkeit  von etwa achtzig [MASK],Kilometern,0.2200927734375
+zu einer Stundengeschwindigkeit  von etwa achtzig Kilometern [MASK],,2.671026322786929e-06
+einer Stundengeschwindigkeit  von etwa achtzig Kilometern  [MASK],und,0.004071007948368788
+Stundengeschwindigkeit  von etwa achtzig Kilometern  und [MASK],hielt,3.233613824704662e-05
+ von etwa achtzig Kilometern  und hielt [MASK],sie,0.004099071957170963
+von etwa achtzig Kilometern  und hielt sie [MASK],dann,0.001395056489855051
+etwa achtzig Kilometern  und hielt sie dann [MASK],unbeweglich,0.0001558216754347086
+achtzig Kilometern  und hielt sie dann unbeweglich [MASK],weit,0.00043202066444791853
+Kilometern  und hielt sie dann unbeweglich weit [MASK],ausgespannt,5.932233193561842e-07
+ und hielt sie dann unbeweglich weit ausgespannt [MASK],,1.4308084246295039e-06
+und hielt sie dann unbeweglich weit ausgespannt  [MASK],Das,8.434233933485302e-08
+hielt sie dann unbeweglich weit ausgespannt  Das [MASK],erforderte,0.00013180126552470028
+sie dann unbeweglich weit ausgespannt  Das erforderte [MASK],alle,0.0006934935809113085
+dann unbeweglich weit ausgespannt  Das erforderte alle [MASK],seine,0.0004867512616328895
+unbeweglich weit ausgespannt  Das erforderte alle seine [MASK],Kräfte,0.04005434736609459
+weit ausgespannt  Das erforderte alle seine Kräfte [MASK],,1.0352456229156815e-05
+ausgespannt  Das erforderte alle seine Kräfte  [MASK],aber,0.00029425977845676243
+ Das erforderte alle seine Kräfte  aber [MASK],es,1.366615470033139e-05
+Das erforderte alle seine Kräfte  aber es [MASK],gelang,0.009220444597303867
+erforderte alle seine Kräfte  aber es gelang [MASK],,5.712105576094473e-06
+alle seine Kräfte  aber es gelang  [MASK],Innerhalb,1.2017842436762294e-06
+seine Kräfte  aber es gelang  Innerhalb [MASK],von,0.0003848573542200029
+Kräfte  aber es gelang  Innerhalb von [MASK],zehn,0.022859837859869003
+ aber es gelang  Innerhalb von zehn [MASK],Sekunden,0.033333782106637955
+aber es gelang  Innerhalb von zehn Sekunden [MASK],,2.239021341665648e-05
+es gelang  Innerhalb von zehn Sekunden  [MASK],hatte,0.001719888299703598
+gelang  Innerhalb von zehn Sekunden  hatte [MASK],er,0.03803948685526848
+ Innerhalb von zehn Sekunden  hatte er [MASK],das,0.008629265241324902
+Innerhalb von zehn Sekunden  hatte er das [MASK],schwindelnde,1.682790156110059e-07
+von zehn Sekunden  hatte er das schwindelnde [MASK],Tempo,0.0275457501411438
+zehn Sekunden  hatte er das schwindelnde Tempo [MASK],,1.5689145584474318e-05
+Sekunden  hatte er das schwindelnde Tempo  [MASK],von,0.00014960186672396958
+ hatte er das schwindelnde Tempo  von [MASK],hundertfünfzig,0.0002942618157248944
+hatte er das schwindelnde Tempo  von hundertfünfzig [MASK],Stundenkilometern,0.029958585277199745
+er das schwindelnde Tempo  von hundertfünfzig Stundenkilometern [MASK],erreicht,0.018901998177170753
+das schwindelnde Tempo  von hundertfünfzig Stundenkilometern erreicht [MASK],und,0.001518747303634882
+schwindelnde Tempo  von hundertfünfzig Stundenkilometern erreicht und [MASK],überschritten,0.06121709942817688
+Tempo  von hundertfünfzig Stundenkilometern erreicht und überschritten [MASK],,3.225709633625229e-06
+ von hundertfünfzig Stundenkilometern erreicht und überschritten  [MASK],Jonathan,8.351243963033994e-08
+von hundertfünfzig Stundenkilometern erreicht und überschritten  Jonathan [MASK],hatte,3.1155843316810206e-05
+hundertfünfzig Stundenkilometern erreicht und überschritten  Jonathan hatte [MASK],einen,0.0008831408922560513
+Stundenkilometern erreicht und überschritten  Jonathan hatte einen [MASK],Weltrekord,2.5841507522272877e-05
+erreicht und überschritten  Jonathan hatte einen Weltrekord [MASK],in,0.0006716326461173594
+und überschritten  Jonathan hatte einen Weltrekord in [MASK],Geschwindigkeit,0.00010577573993941769
+überschritten  Jonathan hatte einen Weltrekord in Geschwindigkeit [MASK],unter,7.358349103014916e-05
+ Jonathan hatte einen Weltrekord in Geschwindigkeit unter [MASK],Seemöwen,0.00010650330659700558
+Jonathan hatte einen Weltrekord in Geschwindigkeit unter Seemöwen [MASK],aufgestellt,0.19258862733840942
+hatte einen Weltrekord in Geschwindigkeit unter Seemöwen aufgestellt [MASK],,1.2404373705976468e-07
+einen Weltrekord in Geschwindigkeit unter Seemöwen aufgestellt  [MASK],Doch,4.023634119221242e-07
+Weltrekord in Geschwindigkeit unter Seemöwen aufgestellt  Doch [MASK],,4.395532471335173e-07
+in Geschwindigkeit unter Seemöwen aufgestellt  Doch  [MASK],der,0.0001726448826957494
+Geschwindigkeit unter Seemöwen aufgestellt  Doch  der [MASK],Sieg,0.000465227261884138
+unter Seemöwen aufgestellt  Doch  der Sieg [MASK],war,0.0019255991792306304
+Seemöwen aufgestellt  Doch  der Sieg war [MASK],trügerisch,1.6010526451282203e-06
+aufgestellt  Doch  der Sieg war trügerisch [MASK],,8.874093282429385e-07
+ Doch  der Sieg war trügerisch  [MASK],Kaum,2.0141433765274996e-07
+Doch  der Sieg war trügerisch  Kaum [MASK],änderte,1.1079599460117606e-07
+ der Sieg war trügerisch  Kaum änderte [MASK],er,0.00012443761806935072
+der Sieg war trügerisch  Kaum änderte er [MASK],zum,0.0007075072498992085
+Sieg war trügerisch  Kaum änderte er zum [MASK],Aufsetzen,7.329007348744199e-05
+war trügerisch  Kaum änderte er zum Aufsetzen [MASK],aus,0.002330091083422303
+trügerisch  Kaum änderte er zum Aufsetzen aus [MASK],,2.2162313939588785e-07
+ Kaum änderte er zum Aufsetzen aus  [MASK],dem,0.002445526886731386
+Kaum änderte er zum Aufsetzen aus  dem [MASK],senkrechten,1.5272669884325296e-07
+änderte er zum Aufsetzen aus  dem senkrechten [MASK],Sturzflug,0.00034158272319473326
+er zum Aufsetzen aus  dem senkrechten Sturzflug [MASK],den,0.00012882148439530283
+zum Aufsetzen aus  dem senkrechten Sturzflug den [MASK],Winkel,0.0017429586732760072
+Aufsetzen aus  dem senkrechten Sturzflug den Winkel [MASK],der,0.0006165505037643015
+aus  dem senkrechten Sturzflug den Winkel der [MASK],Flügelstellung,0.009459709748625755
+ dem senkrechten Sturzflug den Winkel der Flügelstellung [MASK],,1.5857180187595077e-05
+dem senkrechten Sturzflug den Winkel der Flügelstellung  [MASK],so,0.00016916632011998445
+senkrechten Sturzflug den Winkel der Flügelstellung  so [MASK],verlor,1.8138092855224386e-05
+Sturzflug den Winkel der Flügelstellung  so verlor [MASK],er,0.001716919825412333
+den Winkel der Flügelstellung  so verlor er [MASK],die,0.001954338513314724
+Winkel der Flügelstellung  so verlor er die [MASK],Kontrolle,0.023403648287057877
+der Flügelstellung  so verlor er die Kontrolle [MASK],,1.9889018858521013e-06
+Flügelstellung  so verlor er die Kontrolle  [MASK],der,0.0010812821565195918
+ so verlor er die Kontrolle  der [MASK],Luftdruck,0.00025802053278312087
+so verlor er die Kontrolle  der Luftdruck [MASK],traf,2.4685650146238913e-07
+verlor er die Kontrolle  der Luftdruck traf [MASK],ihn,2.335641511308495e-05
+er die Kontrolle  der Luftdruck traf ihn [MASK],wie,0.0008439438533969223
+die Kontrolle  der Luftdruck traf ihn wie [MASK],eine,0.0013531723525375128
+Kontrolle  der Luftdruck traf ihn wie eine [MASK],Sprengladung,1.5031013390398584e-05
+ der Luftdruck traf ihn wie eine Sprengladung [MASK],,1.2576348353832145e-06
+der Luftdruck traf ihn wie eine Sprengladung  [MASK],Er,1.789594108458914e-07
+Luftdruck traf ihn wie eine Sprengladung  Er [MASK],schien,0.00022379618894774467
+traf ihn wie eine Sprengladung  Er schien [MASK],mitten,3.417538755456917e-05
+ihn wie eine Sprengladung  Er schien mitten [MASK],in,0.0022048763930797577
+wie eine Sprengladung  Er schien mitten in [MASK],der,0.0105711929500103
+eine Sprengladung  Er schien mitten in der [MASK],Luft,0.01952170766890049
+Sprengladung  Er schien mitten in der Luft [MASK],zu,0.0002509867481421679
+ Er schien mitten in der Luft zu [MASK],explodieren,1.6313970263581723e-05
+Er schien mitten in der Luft zu explodieren [MASK],,1.3703935053399618e-07
+schien mitten in der Luft zu explodieren  [MASK],dann,1.704162968962919e-06
+mitten in der Luft zu explodieren  dann [MASK],prallte,2.5869398996292148e-06
+in der Luft zu explodieren  dann prallte [MASK],er,0.0060677966102957726
+der Luft zu explodieren  dann prallte er [MASK],auf,0.021999938413500786
+Luft zu explodieren  dann prallte er auf [MASK],die,0.005028239451348782
+zu explodieren  dann prallte er auf die [MASK],See,3.3174674172187224e-05
+explodieren  dann prallte er auf die See [MASK],auf,0.0007634881185367703
+ dann prallte er auf die See auf [MASK],,1.720459330556423e-08
+dann prallte er auf die See auf  [MASK],die,0.0004539395740721375
+prallte er auf die See auf  die [MASK],hart,2.0617508198483847e-06
+er auf die See auf  die hart [MASK],war,0.0003374678490217775
+auf die See auf  die hart war [MASK],wie,7.936339534353465e-05
+die See auf  die hart war wie [MASK],Beton,8.81219093571417e-05
+See auf  die hart war wie Beton [MASK],,1.73039788933238e-05
+auf  die hart war wie Beton  [MASK],Als,8.854963198245969e-07
+ die hart war wie Beton  Als [MASK],er,0.00012449811038095504
+die hart war wie Beton  Als er [MASK],wieder,0.0003985279181506485
+hart war wie Beton  Als er wieder [MASK],zu,0.0002819408546201885
+war wie Beton  Als er wieder zu [MASK],sich,0.00022258433455135673
+wie Beton  Als er wieder zu sich [MASK],kam,0.0997571125626564
+Beton  Als er wieder zu sich kam [MASK],war,0.0002379627403570339
+ Als er wieder zu sich kam war [MASK],es,0.0014619417488574982
+Als er wieder zu sich kam war es [MASK],,1.2866188114912802e-07
+er wieder zu sich kam war es  [MASK],bereits,0.0012517537688836455
+wieder zu sich kam war es  bereits [MASK],dunkel,0.004858749452978373
+zu sich kam war es  bereits dunkel [MASK],,9.258295676772832e-07
+sich kam war es  bereits dunkel  [MASK],er,1.651443017181009e-05
+kam war es  bereits dunkel  er [MASK],trieb,1.290858904212655e-06
+war es  bereits dunkel  er trieb [MASK],im,5.891390173928812e-05
+es  bereits dunkel  er trieb im [MASK],Mondlicht,0.0009363826247863472
+ bereits dunkel  er trieb im Mondlicht [MASK],auf,0.006294444669038057
+bereits dunkel  er trieb im Mondlicht auf [MASK],dem,0.0027713521849364042
+dunkel  er trieb im Mondlicht auf dem [MASK],Meer,0.011706561781466007
+ er trieb im Mondlicht auf dem Meer [MASK],dahin,0.006007972173392773
+er trieb im Mondlicht auf dem Meer dahin [MASK],,9.004221368513754e-08
+trieb im Mondlicht auf dem Meer dahin  [MASK],Die,5.176284503249917e-06
+im Mondlicht auf dem Meer dahin  Die [MASK],,2.5831997652048244e-10
+Mondlicht auf dem Meer dahin  Die  [MASK],Flügel,0.00018370019097346812
+auf dem Meer dahin  Die  Flügel [MASK],waren,0.00012124462227802724
+dem Meer dahin  Die  Flügel waren [MASK],zerzaust,0.00040039292071014643
+Meer dahin  Die  Flügel waren zerzaust [MASK],und,0.0047156489454209805
+dahin  Die  Flügel waren zerzaust und [MASK],schwer,0.006380876991897821
+ Die  Flügel waren zerzaust und schwer [MASK],wie,4.9017118726624176e-05
+Die  Flügel waren zerzaust und schwer wie [MASK],Blei,0.00024013701477088034
+ Flügel waren zerzaust und schwer wie Blei [MASK],,1.0353915058658458e-05
+Flügel waren zerzaust und schwer wie Blei  [MASK],doch,2.956253865704639e-06
+waren zerzaust und schwer wie Blei  doch [MASK],noch,0.00028576969634741545
+zerzaust und schwer wie Blei  doch noch [MASK],schwerer,0.001863256562501192
+und schwer wie Blei  doch noch schwerer [MASK],bedrückte,7.038454441499198e-07
+schwer wie Blei  doch noch schwerer bedrückte [MASK],,1.5366165229124817e-08
+wie Blei  doch noch schwerer bedrückte  [MASK],ihn,0.00020805554231628776
+Blei  doch noch schwerer bedrückte  ihn [MASK],das,0.0001350844104308635
+ doch noch schwerer bedrückte  ihn das [MASK],,3.6553668980587872e-09
+doch noch schwerer bedrückte  ihn das  [MASK],Gefühl,0.008595527149736881
+noch schwerer bedrückte  ihn das  Gefühl [MASK],des,0.00020779458282049745
+schwerer bedrückte  ihn das  Gefühl des [MASK],Versagens,6.160197517601773e-05
+bedrückte  ihn das  Gefühl des Versagens [MASK],,3.362707730047987e-06
+ ihn das  Gefühl des Versagens  [MASK],Fast,9.298012173530878e-07
+ihn das  Gefühl des Versagens  Fast [MASK],,5.360910790841444e-07
+das  Gefühl des Versagens  Fast  [MASK],wünschte,3.694373731377709e-07
+ Gefühl des Versagens  Fast  wünschte [MASK],er,4.456316673895344e-05
+Gefühl des Versagens  Fast  wünschte er [MASK],,1.585863060427073e-06
+des Versagens  Fast  wünschte er  [MASK],die,0.0019356447737663984
+Versagens  Fast  wünschte er  die [MASK],Last,0.00014055149222258478
+ Fast  wünschte er  die Last [MASK],,2.559850145189557e-07
+Fast  wünschte er  die Last  [MASK],möge,1.667986111897335e-06
+ wünschte er  die Last  möge [MASK],ihn,0.0002275107690365985
+wünschte er  die Last  möge ihn [MASK],sacht,5.671725830325158e-06
+er  die Last  möge ihn sacht [MASK],auf,0.0004603192210197449
+ die Last  möge ihn sacht auf [MASK],den,4.090828224434517e-05
+die Last  möge ihn sacht auf den [MASK],Grund,0.00035051556187681854
+Last  möge ihn sacht auf den Grund [MASK],drücken,0.0012136780424043536
+ möge ihn sacht auf den Grund drücken [MASK],,2.161050183246971e-08
+möge ihn sacht auf den Grund drücken  [MASK],dass,8.8633345285416e-07
+ihn sacht auf den Grund drücken  dass [MASK],alle,0.0033559114672243595
+sacht auf den Grund drücken  dass alle [MASK],Mühe,9.210054849972948e-05
+auf den Grund drücken  dass alle Mühe [MASK],ein,0.0002564392634667456
+den Grund drücken  dass alle Mühe ein [MASK],Ende,0.00572626106441021
+Grund drücken  dass alle Mühe ein Ende [MASK],habe,0.0015796312363818288
+drücken  dass alle Mühe ein Ende habe [MASK],,1.7247900814254535e-06

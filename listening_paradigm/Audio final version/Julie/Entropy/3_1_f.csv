@@ -1,0 +1,709 @@
+Context,Entropy
+        [MASK],1.5630042354471072
+       Nelly [MASK],1.5681383524950876
+      Nelly lief [MASK],1.5798599635060535
+     Nelly lief quer [MASK],1.5555742834695352
+    Nelly lief quer über [MASK],1.5516648421392067
+   Nelly lief quer über den [MASK],1.5253760039142565
+  Nelly lief quer über den Parkplatz [MASK],1.3550357157557515
+ Nelly lief quer über den Parkplatz in [MASK],1.4779288905634798
+Nelly lief quer über den Parkplatz in Richtung [MASK],1.5137233191454837
+lief quer über den Parkplatz in Richtung des [MASK],1.5131887175932681
+quer über den Parkplatz in Richtung des Büros [MASK],1.5364914077614638
+über den Parkplatz in Richtung des Büros  [MASK],1.5613983627251433
+den Parkplatz in Richtung des Büros  als [MASK],0.8342408349625214
+Parkplatz in Richtung des Büros  als ihr [MASK],1.5714804330053027
+in Richtung des Büros  als ihr Chef [MASK],1.4281736780642886
+Richtung des Büros  als ihr Chef eilig [MASK],1.5490342855395998
+des Büros  als ihr Chef eilig seine [MASK],1.5935073199428285
+Büros  als ihr Chef eilig seine Autotür [MASK],0.7199391704867377
+ als ihr Chef eilig seine Autotür aufstiess [MASK],0.9794058075507982
+als ihr Chef eilig seine Autotür aufstiess  [MASK],0.9794058075507982
+ihr Chef eilig seine Autotür aufstiess  Gut [MASK],1.596782587550703
+Chef eilig seine Autotür aufstiess  Gut dass [MASK],1.5966499894506878
+eilig seine Autotür aufstiess  Gut dass ich [MASK],1.5612039261022304
+seine Autotür aufstiess  Gut dass ich Sie [MASK],1.395178059591344
+Autotür aufstiess  Gut dass ich Sie hier [MASK],1.4345531765049886
+aufstiess  Gut dass ich Sie hier draussen [MASK],1.108830746744188
+ Gut dass ich Sie hier draussen treffe [MASK],0.894346676800629
+Gut dass ich Sie hier draussen treffe  [MASK],0.894346676800629
+dass ich Sie hier draussen treffe  Sie [MASK],1.373452715350901
+ich Sie hier draussen treffe  Sie können [MASK],1.448355934245743
+Sie hier draussen treffe  Sie können mir [MASK],1.3298233535359076
+hier draussen treffe  Sie können mir gleich [MASK],1.573612390991704
+draussen treffe  Sie können mir gleich helfen [MASK],1.461075900401021
+treffe  Sie können mir gleich helfen ein [MASK],1.550453882516805
+ Sie können mir gleich helfen ein paar [MASK],1.3841848507808843
+Sie können mir gleich helfen ein paar Sachen [MASK],1.587527361521634
+können mir gleich helfen ein paar Sachen hochzutragen [MASK],1.5358318912279474
+mir gleich helfen ein paar Sachen hochzutragen  [MASK],1.4438177062417197
+gleich helfen ein paar Sachen hochzutragen  Er [MASK],1.4367326941421201
+helfen ein paar Sachen hochzutragen  Er wollte [MASK],1.578715406197364
+ein paar Sachen hochzutragen  Er wollte aussteigen [MASK],1.5010783476889908
+paar Sachen hochzutragen  Er wollte aussteigen schnellte [MASK],0.6367597453231881
+Sachen hochzutragen  Er wollte aussteigen schnellte jedoch [MASK],1.5389419820472192
+hochzutragen  Er wollte aussteigen schnellte jedoch ruckartig [MASK],1.3596961215139185
+ Er wollte aussteigen schnellte jedoch ruckartig zurück [MASK],0.5657249446634389
+Er wollte aussteigen schnellte jedoch ruckartig zurück in [MASK],1.2725023549602048
+wollte aussteigen schnellte jedoch ruckartig zurück in seinen [MASK],1.5713255427688984
+aussteigen schnellte jedoch ruckartig zurück in seinen Hemdtasche [MASK],1.2833457884558062
+schnellte jedoch ruckartig zurück in seinen Hemdtasche  [MASK],1.076546600238552
+jedoch ruckartig zurück in seinen Hemdtasche  Er [MASK],1.4106023986656366
+ruckartig zurück in seinen Hemdtasche  Er hatte [MASK],1.1362126074554908
+zurück in seinen Hemdtasche  Er hatte vergessen [MASK],1.1138734754735073
+in seinen Hemdtasche  Er hatte vergessen sich [MASK],1.5657823060467482
+seinen Hemdtasche  Er hatte vergessen sich abzuschnallen [MASK],1.476876292573195
+Hemdtasche  Er hatte vergessen sich abzuschnallen  [MASK],1.221730668561828
+ Er hatte vergessen sich abzuschnallen  Er [MASK],1.5581696178451117
+Er hatte vergessen sich abzuschnallen  Er vergass [MASK],1.4315527268297572
+hatte vergessen sich abzuschnallen  Er vergass  [MASK],1.5344588457699337
+vergessen sich abzuschnallen  Er vergass  das [MASK],1.5445267922812842
+sich abzuschnallen  Er vergass  das immer [MASK],1.0306797447940648
+abzuschnallen  Er vergass  das immer  [MASK],1.00589804640589
+ Er vergass  das immer  Nachdem [MASK],1.5247937410361578
+Er vergass  das immer  Nachdem er [MASK],1.5255955096878964
+vergass  das immer  Nachdem er sich [MASK],1.4345705139706288
+ das immer  Nachdem er sich aus [MASK],1.2807199919532248
+das immer  Nachdem er sich aus seinem [MASK],1.523410872602464
+immer  Nachdem er sich aus seinem Gefährt [MASK],1.4155130063729704
+ Nachdem er sich aus seinem Gefährt befreit [MASK],0.8830694771633625
+Nachdem er sich aus seinem Gefährt befreit und [MASK],1.0499580818304073
+er sich aus seinem Gefährt befreit und  [MASK],1.1750402392210935
+sich aus seinem Gefährt befreit und  dann [MASK],1.5341576285156986
+aus seinem Gefährt befreit und  dann eine [MASK],1.4852432123886694
+seinem Gefährt befreit und  dann eine Weile [MASK],1.5056287068307554
+Gefährt befreit und  dann eine Weile in [MASK],0.8042982493677464
+befreit und  dann eine Weile in selbigen [MASK],1.5719007413895019
+und  dann eine Weile in selbigen herumgekramt [MASK],1.5190107511190853
+ dann eine Weile in selbigen herumgekramt hatte [MASK],1.1985110639189551
+dann eine Weile in selbigen herumgekramt hatte  [MASK],1.1985110639189551
+eine Weile in selbigen herumgekramt hatte  überreichte [MASK],1.5992057012494476
+Weile in selbigen herumgekramt hatte  überreichte er [MASK],1.4322550452467244
+in selbigen herumgekramt hatte  überreichte er ihr [MASK],1.5012654881603817
+selbigen herumgekramt hatte  überreichte er ihr einen [MASK],1.0513408745076098
+herumgekramt hatte  überreichte er ihr einen Aktenkarton [MASK],1.2137790496872267
+hatte  überreichte er ihr einen Aktenkarton  [MASK],1.1959318380493313
+ überreichte er ihr einen Aktenkarton  gleich [MASK],1.5305015099749584
+überreichte er ihr einen Aktenkarton  gleich darauf [MASK],0.8402934815166231
+er ihr einen Aktenkarton  gleich darauf einen [MASK],0.9723290156927957
+ihr einen Aktenkarton  gleich darauf einen zweiten [MASK],1.32345512725548
+einen Aktenkarton  gleich darauf einen zweiten  [MASK],1.3577424656206685
+Aktenkarton  gleich darauf einen zweiten  und [MASK],0.7318033424850924
+ gleich darauf einen zweiten  und stellte [MASK],1.577486062901191
+gleich darauf einen zweiten  und stellte obenauf [MASK],1.422581646494299
+darauf einen zweiten  und stellte obenauf  [MASK],1.4378377215913805
+einen zweiten  und stellte obenauf  noch [MASK],1.5154158338778274
+zweiten  und stellte obenauf  noch einen [MASK],1.4918921183357872
+ und stellte obenauf  noch einen Kofferraum [MASK],1.4662614994862597
+und stellte obenauf  noch einen Kofferraum  [MASK],1.4662614994862597
+stellte obenauf  noch einen Kofferraum  Der [MASK],1.2101956020332494
+obenauf  noch einen Kofferraum  Der alte [MASK],1.504249562219666
+ noch einen Kofferraum  Der alte war [MASK],1.3561713915545919
+noch einen Kofferraum  Der alte war ihm [MASK],1.4660241097765336
+einen Kofferraum  Der alte war ihm eingegangen [MASK],0.8330410135954016
+Kofferraum  Der alte war ihm eingegangen  [MASK],0.737396355032148
+ Der alte war ihm eingegangen  Er [MASK],1.1575629758520283
+Der alte war ihm eingegangen  Er selbst [MASK],1.5774854611792581
+alte war ihm eingegangen  Er selbst nahm [MASK],1.27675265653905
+war ihm eingegangen  Er selbst nahm zwei [MASK],1.5667313840170292
+ihm eingegangen  Er selbst nahm zwei weitere [MASK],1.5635739289820978
+eingegangen  Er selbst nahm zwei weitere Kisten [MASK],1.5480654510278824
+ Er selbst nahm zwei weitere Kisten an [MASK],0.4565152407157386
+Er selbst nahm zwei weitere Kisten an sich [MASK],1.4203158024874867
+selbst nahm zwei weitere Kisten an sich  [MASK],1.5010577322855023
+nahm zwei weitere Kisten an sich  und [MASK],1.5901209887587107
+zwei weitere Kisten an sich  und schloss [MASK],1.5437992379205663
+weitere Kisten an sich  und schloss  [MASK],1.549070882930705
+Kisten an sich  und schloss  dann [MASK],1.5125074905510718
+an sich  und schloss  dann  [MASK],1.5918191028459072
+sich  und schloss  dann  da [MASK],1.4780157095553863
+ und schloss  dann  da er [MASK],1.5997546898235968
+und schloss  dann  da er kaum [MASK],1.519347231399647
+schloss  dann  da er kaum eine [MASK],1.5351487660522984
+ dann  da er kaum eine Hand [MASK],1.5766441128301023
+dann  da er kaum eine Hand freibekommen [MASK],1.416257283828398
+ da er kaum eine Hand freibekommen konnte [MASK],0.8681787744547501
+da er kaum eine Hand freibekommen konnte  [MASK],0.8681787744547501
+er kaum eine Hand freibekommen konnte  sehr [MASK],1.501709460104091
+kaum eine Hand freibekommen konnte  sehr umständlich [MASK],1.30482319237817
+eine Hand freibekommen konnte  sehr umständlich den [MASK],1.5432826902871453
+Hand freibekommen konnte  sehr umständlich den Kofferraum [MASK],1.4317741976472138
+freibekommen konnte  sehr umständlich den Kofferraum  [MASK],1.4107056926233197
+konnte  sehr umständlich den Kofferraum  Auf [MASK],1.2723926631791538
+ sehr umständlich den Kofferraum  Auf dem [MASK],1.3200064801461506
+sehr umständlich den Kofferraum  Auf dem Boden [MASK],1.5959767438808128
+umständlich den Kofferraum  Auf dem Boden abstellen [MASK],1.02465934302684
+den Kofferraum  Auf dem Boden abstellen wollte [MASK],1.5283076646359104
+Kofferraum  Auf dem Boden abstellen wollte er [MASK],1.5921021670839925
+ Auf dem Boden abstellen wollte er die [MASK],1.602882635814307
+Auf dem Boden abstellen wollte er die Akten [MASK],1.409318008924003
+dem Boden abstellen wollte er die Akten nicht [MASK],1.5949413934255097
+Boden abstellen wollte er die Akten nicht  [MASK],1.4762275578641266
+abstellen wollte er die Akten nicht  Sie [MASK],1.5578458553458399
+wollte er die Akten nicht  Sie hätten [MASK],1.6079673174817986
+er die Akten nicht  Sie hätten ja [MASK],1.5326611093025766
+die Akten nicht  Sie hätten ja von [MASK],1.4422832125712757
+Akten nicht  Sie hätten ja von unten [MASK],1.2244088306748613
+nicht  Sie hätten ja von unten her [MASK],1.5025234386761488
+ Sie hätten ja von unten her schmutzig [MASK],1.005810520658461
+Sie hätten ja von unten her schmutzig werden [MASK],1.4683305277877643
+hätten ja von unten her schmutzig werden können [MASK],1.5390790610811012
+ja von unten her schmutzig werden können  [MASK],1.5838500547469303
+von unten her schmutzig werden können  Oh [MASK],1.6071095752038995
+unten her schmutzig werden können  Oh soll [MASK],1.6015602471015333
+her schmutzig werden können  Oh soll ich [MASK],1.5655991302626389
+schmutzig werden können  Oh soll ich Ihnen [MASK],1.1678530417717383
+werden können  Oh soll ich Ihnen den [MASK],1.5458262910082934
+können  Oh soll ich Ihnen den Kaktus [MASK],1.5582320321077199
+ Oh soll ich Ihnen den Kaktus vielleicht [MASK],1.4623577569236414
+Oh soll ich Ihnen den Kaktus vielleicht wieder [MASK],1.453293093178658
+soll ich Ihnen den Kaktus vielleicht wieder abnehmen [MASK],1.586133210104388
+ich Ihnen den Kaktus vielleicht wieder abnehmen  [MASK],1.5837593669689822
+Ihnen den Kaktus vielleicht wieder abnehmen  fragte [MASK],1.580236938690517
+den Kaktus vielleicht wieder abnehmen  fragte er [MASK],1.2973405269214933
+Kaktus vielleicht wieder abnehmen  fragte er als [MASK],1.3940424320909404
+vielleicht wieder abnehmen  fragte er als sie [MASK],1.5978132677646453
+wieder abnehmen  fragte er als sie die [MASK],1.5459946585180744
+abnehmen  fragte er als sie die Treppe [MASK],1.5243368220431555
+ fragte er als sie die Treppe bereits [MASK],1.1236830896204175
+fragte er als sie die Treppe bereits zur [MASK],1.1860022943841966
+er als sie die Treppe bereits zur Hälfte [MASK],1.539200213951528
+als sie die Treppe bereits zur Hälfte bewältigt [MASK],1.4921923732643667
+sie die Treppe bereits zur Hälfte bewältigt hatten [MASK],1.1545833380102832
+die Treppe bereits zur Hälfte bewältigt hatten  [MASK],1.4763881077114172
+Treppe bereits zur Hälfte bewältigt hatten  Nein [MASK],1.411994210953243
+bereits zur Hälfte bewältigt hatten  Nein nein [MASK],0.9312814688165684
+zur Hälfte bewältigt hatten  Nein nein  [MASK],0.9860257451684225
+Hälfte bewältigt hatten  Nein nein  es [MASK],1.569879265846417
+bewältigt hatten  Nein nein  es geht [MASK],1.2804261279323859
+hatten  Nein nein  es geht schon [MASK],1.432133021864309
+ Nein nein  es geht schon  [MASK],1.3617546188793306
+Nein nein  es geht schon  Er [MASK],1.2456751044198333
+nein  es geht schon  Er war [MASK],1.5451091165969209
+ es geht schon  Er war mehr [MASK],1.560836587969512
+es geht schon  Er war mehr als [MASK],1.5752312109968551
+geht schon  Er war mehr als tolpatschig [MASK],1.5753482140773303
+schon  Er war mehr als tolpatschig  [MASK],1.464392179095888
+ Er war mehr als tolpatschig  und [MASK],1.574177285856398
+Er war mehr als tolpatschig  und sie [MASK],1.081289091703278
+war mehr als tolpatschig  und sie stets [MASK],1.5954187525072765
+mehr als tolpatschig  und sie stets bemüht [MASK],1.5400111966954464
+als tolpatschig  und sie stets bemüht  [MASK],1.585151480460993
+tolpatschig  und sie stets bemüht  dass [MASK],1.585292159106397
+ und sie stets bemüht  dass daraus [MASK],1.5297409704469676
+und sie stets bemüht  dass daraus resultierende [MASK],1.5944985964402831
+sie stets bemüht  dass daraus resultierende Chaos [MASK],1.4923412288504418
+stets bemüht  dass daraus resultierende Chaos zu [MASK],1.0843184087543858
+bemüht  dass daraus resultierende Chaos zu verhindern [MASK],1.5530256769635915
+ dass daraus resultierende Chaos zu verhindern  [MASK],1.4818207421624492
+dass daraus resultierende Chaos zu verhindern  Und [MASK],1.3732058461032453
+daraus resultierende Chaos zu verhindern  Und wenn [MASK],1.6078171596022572
+resultierende Chaos zu verhindern  Und wenn es [MASK],1.57540374595807
+Chaos zu verhindern  Und wenn es sich [MASK],0.8996659790776572
+zu verhindern  Und wenn es sich heute [MASK],1.3539612287831444
+verhindern  Und wenn es sich heute am [MASK],1.1947433141668562
+ Und wenn es sich heute am besten [MASK],1.3840080517382964
+Und wenn es sich heute am besten dadurch [MASK],1.553574591206594
+wenn es sich heute am besten dadurch verhindern [MASK],0.6858086565791774
+es sich heute am besten dadurch verhindern liess [MASK],1.5148860123783225
+sich heute am besten dadurch verhindern liess  [MASK],1.5679590267100856
+heute am besten dadurch verhindern liess  dass [MASK],1.5531841574989507
+am besten dadurch verhindern liess  dass sie [MASK],1.5801700845530127
+besten dadurch verhindern liess  dass sie den [MASK],1.5520561095556795
+dadurch verhindern liess  dass sie den Kaktus [MASK],1.498257971789042
+verhindern liess  dass sie den Kaktus selbst [MASK],1.5181591104676524
+liess  dass sie den Kaktus selbst trug [MASK],1.1977675163762862
+ dass sie den Kaktus selbst trug  [MASK],0.6758575024893363
+dass sie den Kaktus selbst trug  dann [MASK],1.5800264665931323
+sie den Kaktus selbst trug  dann trug [MASK],1.4009266848542679
+den Kaktus selbst trug  dann trug sie [MASK],1.5699769837102455
+Kaktus selbst trug  dann trug sie den [MASK],1.1272498059690463
+selbst trug  dann trug sie den Kaktus [MASK],1.4200042783573903
+trug  dann trug sie den Kaktus bereitwillig [MASK],1.3994967913047525
+ dann trug sie den Kaktus bereitwillig selbst [MASK],1.1909245248709275
+dann trug sie den Kaktus bereitwillig selbst  [MASK],1.1909245248709275
+trug sie den Kaktus bereitwillig selbst  Trotzdem [MASK],1.1094257651422175
+sie den Kaktus bereitwillig selbst  Trotzdem  [MASK],1.5577805604566999
+den Kaktus bereitwillig selbst  Trotzdem  auch [MASK],1.5912961574760762
+Kaktus bereitwillig selbst  Trotzdem  auch wenn [MASK],1.467971262945837
+bereitwillig selbst  Trotzdem  auch wenn sie [MASK],1.5637392832520098
+selbst  Trotzdem  auch wenn sie sich [MASK],1.3271936055571665
+ Trotzdem  auch wenn sie sich noch [MASK],1.5927319265731212
+Trotzdem  auch wenn sie sich noch so [MASK],1.478995258839707
+ auch wenn sie sich noch so viel [MASK],1.4570707806542276
+auch wenn sie sich noch so viel Mühe [MASK],1.3752597499570203
+wenn sie sich noch so viel Mühe gab [MASK],1.2989965100107244
+sie sich noch so viel Mühe gab  [MASK],1.3688386795027423
+sich noch so viel Mühe gab  Ihre [MASK],1.004863173258484
+noch so viel Mühe gab  Ihre alltäglichen [MASK],1.5729839798418088
+so viel Mühe gab  Ihre alltäglichen kleinen [MASK],1.281918015903832
+viel Mühe gab  Ihre alltäglichen kleinen Katastrophen [MASK],1.5250322111570014
+Mühe gab  Ihre alltäglichen kleinen Katastrophen zu [MASK],1.338186821511182
+gab  Ihre alltäglichen kleinen Katastrophen zu umgehen [MASK],1.0801820446101804
+ Ihre alltäglichen kleinen Katastrophen zu umgehen gelang [MASK],1.500275644470455
+Ihre alltäglichen kleinen Katastrophen zu umgehen gelang ihr [MASK],1.5399572801800403
+alltäglichen kleinen Katastrophen zu umgehen gelang ihr zur [MASK],1.456775361571008
+kleinen Katastrophen zu umgehen gelang ihr zur Gänze [MASK],1.4917333404455604
+Katastrophen zu umgehen gelang ihr zur Gänze nur [MASK],1.2310485496190027
+zu umgehen gelang ihr zur Gänze nur selten [MASK],1.0537101719346924
+umgehen gelang ihr zur Gänze nur selten  [MASK],1.5124170828786443
+gelang ihr zur Gänze nur selten  Kaum [MASK],1.4842494882955295
+ihr zur Gänze nur selten  Kaum im [MASK],1.3632535979830998
+zur Gänze nur selten  Kaum im Büro [MASK],1.4809936473251675
+Gänze nur selten  Kaum im Büro angekommen [MASK],1.5595690489426781
+nur selten  Kaum im Büro angekommen  [MASK],1.4780986791257857
+selten  Kaum im Büro angekommen  griff [MASK],1.506101988080216
+ Kaum im Büro angekommen  griff ihr [MASK],1.3351168784384464
+Kaum im Büro angekommen  griff ihr Chef [MASK],1.5581567414575055
+im Büro angekommen  griff ihr Chef nach [MASK],1.2341755581898894
+Büro angekommen  griff ihr Chef nach dem [MASK],1.3577204552355835
+angekommen  griff ihr Chef nach dem Blumentopf [MASK],1.219100453954931
+ griff ihr Chef nach dem Blumentopf um [MASK],1.1507569469890782
+griff ihr Chef nach dem Blumentopf um ihn [MASK],0.042869154030947224
+ihr Chef nach dem Blumentopf um ihn dort [MASK],0.2249742809753423
+Chef nach dem Blumentopf um ihn dort zu [MASK],1.4022160521483715
+nach dem Blumentopf um ihn dort zu deponieren [MASK],1.2278062514511014
+dem Blumentopf um ihn dort zu deponieren  [MASK],1.198645556854694
+Blumentopf um ihn dort zu deponieren  wo [MASK],0.9926661083648691
+um ihn dort zu deponieren  wo auch [MASK],1.1861883910010473
+ihn dort zu deponieren  wo auch der [MASK],1.5683423794604074
+dort zu deponieren  wo auch der alte [MASK],1.5476431491447658
+zu deponieren  wo auch der alte gestanden [MASK],1.5850412619584444
+deponieren  wo auch der alte gestanden hatte [MASK],0.804707509489363
+ wo auch der alte gestanden hatte  [MASK],0.6090365887713045
+wo auch der alte gestanden hatte  vergass [MASK],1.5019743323982986
+auch der alte gestanden hatte  vergass dabei [MASK],1.2727057863777174
+der alte gestanden hatte  vergass dabei aber [MASK],1.1907005093112362
+alte gestanden hatte  vergass dabei aber offensichtlich [MASK],1.3419697249228575
+gestanden hatte  vergass dabei aber offensichtlich dass [MASK],1.4028715073718347
+hatte  vergass dabei aber offensichtlich dass er [MASK],1.5962295774212834
+ vergass dabei aber offensichtlich dass er nicht [MASK],1.5145303590339956
+vergass dabei aber offensichtlich dass er nicht mehr [MASK],1.5357335057712977
+dabei aber offensichtlich dass er nicht mehr als [MASK],1.2616270536279839
+aber offensichtlich dass er nicht mehr als zwei [MASK],1.4251167836958136
+offensichtlich dass er nicht mehr als zwei Arme [MASK],1.4944680620696187
+dass er nicht mehr als zwei Arme besass [MASK],1.4941619945655622
+er nicht mehr als zwei Arme besass  [MASK],1.265025985041382
+nicht mehr als zwei Arme besass  und [MASK],1.4788842256256376
+mehr als zwei Arme besass  und deshalb [MASK],1.603136026821448
+als zwei Arme besass  und deshalb zunächst [MASK],1.58083283449052
+zwei Arme besass  und deshalb zunächst die [MASK],1.4963385807492615
+Arme besass  und deshalb zunächst die Aktenkartons [MASK],1.5795082015406359
+besass  und deshalb zunächst die Aktenkartons hätte [MASK],1.2206703413911957
+ und deshalb zunächst die Aktenkartons hätte absetzen [MASK],1.4736960953069462
+und deshalb zunächst die Aktenkartons hätte absetzen müssen [MASK],1.3870822270602936
+deshalb zunächst die Aktenkartons hätte absetzen müssen  [MASK],1.4623404207362807
+zunächst die Aktenkartons hätte absetzen müssen  Zu [MASK],1.5146559714754138
+die Aktenkartons hätte absetzen müssen  Zu versuchen [MASK],1.4484646533177872
+Aktenkartons hätte absetzen müssen  Zu versuchen sie [MASK],1.5724346736778507
+hätte absetzen müssen  Zu versuchen sie mit [MASK],1.5735371816454053
+absetzen müssen  Zu versuchen sie mit nur [MASK],1.4010424783870092
+müssen  Zu versuchen sie mit nur einer [MASK],1.1695469503153801
+ Zu versuchen sie mit nur einer Hand [MASK],1.5295923927037736
+Zu versuchen sie mit nur einer Hand zu [MASK],1.5766716456538632
+versuchen sie mit nur einer Hand zu umklammern [MASK],1.041543057813405
+sie mit nur einer Hand zu umklammern  [MASK],1.56188698358341
+mit nur einer Hand zu umklammern  während [MASK],1.416788254561033
+nur einer Hand zu umklammern  während er [MASK],1.5849725535099621
+einer Hand zu umklammern  während er die [MASK],1.5401198596949288
+Hand zu umklammern  während er die andere [MASK],1.5504126196533117
+zu umklammern  während er die andere samt [MASK],1.5818457621092632
+umklammern  während er die andere samt Topf [MASK],1.529493207047979
+ während er die andere samt Topf in [MASK],1.5588820992389865
+während er die andere samt Topf in Richtung [MASK],1.574034425821096
+er die andere samt Topf in Richtung Fensterbank [MASK],1.445338646898126
+die andere samt Topf in Richtung Fensterbank streckte [MASK],1.5248368995567514
+andere samt Topf in Richtung Fensterbank streckte  [MASK],1.577664884440639
+samt Topf in Richtung Fensterbank streckte  erwies [MASK],1.6008297438811945
+Topf in Richtung Fensterbank streckte  erwies sich [MASK],1.5581109925368573
+in Richtung Fensterbank streckte  erwies sich als [MASK],1.5756124354454248
+Richtung Fensterbank streckte  erwies sich als äusserst [MASK],1.502624494346327
+Fensterbank streckte  erwies sich als äusserst unklug [MASK],1.258285523205918
+streckte  erwies sich als äusserst unklug  [MASK],1.2837903364392491
+ erwies sich als äusserst unklug  Halt [MASK],1.5903525508231378
+erwies sich als äusserst unklug  Halt Hier [MASK],0.07976088750447997
+sich als äusserst unklug  Halt Hier geblieben [MASK],1.5352054172410308
+als äusserst unklug  Halt Hier geblieben  [MASK],1.5832498980174574
+äusserst unklug  Halt Hier geblieben  Hastig [MASK],1.5522187595459678
+unklug  Halt Hier geblieben  Hastig knallte [MASK],1.2871482160654508
+ Halt Hier geblieben  Hastig knallte er [MASK],1.3686695456966766
+Halt Hier geblieben  Hastig knallte er den [MASK],1.4148818462087829
+Hier geblieben  Hastig knallte er den Kaktus [MASK],1.5385925404325573
+geblieben  Hastig knallte er den Kaktus hin [MASK],1.3647897045743091
+ Hastig knallte er den Kaktus hin griff [MASK],1.3300218921020128
+Hastig knallte er den Kaktus hin griff mit [MASK],1.4639041296032327
+knallte er den Kaktus hin griff mit der [MASK],1.4772403244216772
+er den Kaktus hin griff mit der nun [MASK],1.5939182249773087
+den Kaktus hin griff mit der nun wieder [MASK],1.5049267045247383
+Kaktus hin griff mit der nun wieder freien [MASK],1.5925625885198054
+hin griff mit der nun wieder freien Hand [MASK],1.514363461995875
+griff mit der nun wieder freien Hand nach [MASK],1.4432451400359751
+mit der nun wieder freien Hand nach den [MASK],1.4856012661925384
+der nun wieder freien Hand nach den beiden [MASK],1.54819854965154
+nun wieder freien Hand nach den beiden ihm [MASK],1.5520523496622611
+wieder freien Hand nach den beiden ihm entgleitenden [MASK],1.5820867723531502
+freien Hand nach den beiden ihm entgleitenden Kisten [MASK],1.594026244951374
+Hand nach den beiden ihm entgleitenden Kisten  [MASK],1.589102977788984
+nach den beiden ihm entgleitenden Kisten  und [MASK],1.4783096091289476
+den beiden ihm entgleitenden Kisten  und versuchte [MASK],1.5279214647906854
+beiden ihm entgleitenden Kisten  und versuchte sie [MASK],1.5590646249223488
+ihm entgleitenden Kisten  und versuchte sie abzufangen [MASK],0.8345903244872137
+entgleitenden Kisten  und versuchte sie abzufangen noch [MASK],1.5522570489796101
+Kisten  und versuchte sie abzufangen noch bevor [MASK],1.40318367535608
+ und versuchte sie abzufangen noch bevor sie [MASK],1.5092110949769886
+und versuchte sie abzufangen noch bevor sie den [MASK],1.540892247291134
+versuchte sie abzufangen noch bevor sie den potenziell [MASK],1.54989544305223
+sie abzufangen noch bevor sie den potenziell dreckigen [MASK],1.2777620265126857
+abzufangen noch bevor sie den potenziell dreckigen Fussboden [MASK],1.5716093940853835
+noch bevor sie den potenziell dreckigen Fussboden berührten [MASK],1.0318594537976848
+bevor sie den potenziell dreckigen Fussboden berührten  [MASK],1.235901616259771
+sie den potenziell dreckigen Fussboden berührten  was [MASK],1.2814822351062856
+den potenziell dreckigen Fussboden berührten  was ihm [MASK],1.479670559411415
+potenziell dreckigen Fussboden berührten  was ihm nicht [MASK],1.0405726242936801
+dreckigen Fussboden berührten  was ihm nicht gelang [MASK],0.5443908940474229
+Fussboden berührten  was ihm nicht gelang  [MASK],0.9657544927524782
+berührten  was ihm nicht gelang  Mit [MASK],1.4967751720076508
+ was ihm nicht gelang  Mit beschämt [MASK],1.5703954565568885
+was ihm nicht gelang  Mit beschämt roten [MASK],1.5795969417568887
+ihm nicht gelang  Mit beschämt roten Wangen [MASK],1.5104374951511788
+nicht gelang  Mit beschämt roten Wangen bückte [MASK],1.5888422131256195
+gelang  Mit beschämt roten Wangen bückte er [MASK],1.5986190083306142
+ Mit beschämt roten Wangen bückte er sich [MASK],1.6026448248217384
+Mit beschämt roten Wangen bückte er sich nach [MASK],1.5049622143821202
+beschämt roten Wangen bückte er sich nach den [MASK],1.5179080813412618
+roten Wangen bückte er sich nach den an [MASK],0.9573092348649267
+Wangen bückte er sich nach den an der [MASK],1.1577926797349953
+bückte er sich nach den an der einen [MASK],0.961379737471252
+er sich nach den an der einen oder [MASK],0.2956341532924472
+sich nach den an der einen oder anderen [MASK],1.3287431899806872
+nach den an der einen oder anderen Ecke [MASK],1.5145245945276522
+den an der einen oder anderen Ecke nun [MASK],1.5586658072593442
+an der einen oder anderen Ecke nun etwas [MASK],1.4994516870325543
+der einen oder anderen Ecke nun etwas verbeulten [MASK],1.488564189317944
+einen oder anderen Ecke nun etwas verbeulten Dingern [MASK],1.574232128893142
+oder anderen Ecke nun etwas verbeulten Dingern  [MASK],1.5423916673267304
+anderen Ecke nun etwas verbeulten Dingern  hievte [MASK],1.3911206695895184
+Ecke nun etwas verbeulten Dingern  hievte sie [MASK],1.361388634111651
+nun etwas verbeulten Dingern  hievte sie in [MASK],1.5098295892270646
+etwas verbeulten Dingern  hievte sie in die [MASK],1.304942746770759
+verbeulten Dingern  hievte sie in die Höhe [MASK],1.4906443330545573
+Dingern  hievte sie in die Höhe und [MASK],1.3905249640782273
+ hievte sie in die Höhe und stellte [MASK],1.5381608780160212
+hievte sie in die Höhe und stellte sie [MASK],1.3402131098542198
+sie in die Höhe und stellte sie auf [MASK],1.552110305927606
+in die Höhe und stellte sie auf dem [MASK],1.2966441769024306
+die Höhe und stellte sie auf dem Schreibtisch [MASK],1.2630876110402305
+Höhe und stellte sie auf dem Schreibtisch ab [MASK],1.3722507113143239
+und stellte sie auf dem Schreibtisch ab  [MASK],1.3756435726191418
+stellte sie auf dem Schreibtisch ab  Nelly [MASK],1.5924931174601367
+sie auf dem Schreibtisch ab  Nelly biss [MASK],1.6071738613009243
+auf dem Schreibtisch ab  Nelly biss sich [MASK],1.6034395668241677
+dem Schreibtisch ab  Nelly biss sich auf [MASK],1.545791820377063
+Schreibtisch ab  Nelly biss sich auf die [MASK],1.5984388758452162
+ab  Nelly biss sich auf die Lippen [MASK],1.5810801107988874
+ Nelly biss sich auf die Lippen und [MASK],1.5543775278481304
+Nelly biss sich auf die Lippen und versuchte [MASK],1.2857523904296106
+biss sich auf die Lippen und versuchte ein [MASK],1.5806763872731309
+sich auf die Lippen und versuchte ein unbeteiligtes [MASK],1.4491555705933277
+auf die Lippen und versuchte ein unbeteiligtes Gesicht [MASK],1.5136989497531992
+die Lippen und versuchte ein unbeteiligtes Gesicht zu [MASK],1.3427769670388998
+Lippen und versuchte ein unbeteiligtes Gesicht zu machen [MASK],1.1362363548266234
+und versuchte ein unbeteiligtes Gesicht zu machen  [MASK],0.917041030629776
+versuchte ein unbeteiligtes Gesicht zu machen  Der [MASK],1.4364999717518387
+ein unbeteiligtes Gesicht zu machen  Der tölpelhafte [MASK],1.4766959614418522
+unbeteiligtes Gesicht zu machen  Der tölpelhafte arme [MASK],1.5190126564197317
+Gesicht zu machen  Der tölpelhafte arme Mann [MASK],1.3405764622923417
+zu machen  Der tölpelhafte arme Mann sollte [MASK],1.4128751958871197
+machen  Der tölpelhafte arme Mann sollte nicht [MASK],0.6984257243132659
+ Der tölpelhafte arme Mann sollte nicht glauben [MASK],1.5457701565461819
+Der tölpelhafte arme Mann sollte nicht glauben  [MASK],1.5457701565461819
+tölpelhafte arme Mann sollte nicht glauben  dass [MASK],1.577429691648412
+arme Mann sollte nicht glauben  dass sie [MASK],1.2990230814618102
+Mann sollte nicht glauben  dass sie sich [MASK],1.441876571740835
+sollte nicht glauben  dass sie sich auf [MASK],0.9624501473893889
+nicht glauben  dass sie sich auf seine [MASK],1.4968387598178599
+glauben  dass sie sich auf seine Kosten [MASK],1.5134489933476083
+ dass sie sich auf seine Kosten amüsierte [MASK],0.5900503450415642
+dass sie sich auf seine Kosten amüsierte  [MASK],0.5900503450415642
+sie sich auf seine Kosten amüsierte  Murmelnd [MASK],1.5911340746863543
+sich auf seine Kosten amüsierte  Murmelnd öffnete [MASK],1.550058347617275
+auf seine Kosten amüsierte  Murmelnd öffnete er [MASK],1.497846286347029
+seine Kosten amüsierte  Murmelnd öffnete er die [MASK],1.1733924794352881
+Kosten amüsierte  Murmelnd öffnete er die untere [MASK],1.204658708866672
+amüsierte  Murmelnd öffnete er die untere Tür [MASK],1.4675408027399275
+ Murmelnd öffnete er die untere Tür seine [MASK],1.5076521288627742
+Murmelnd öffnete er die untere Tür seine Schläfe [MASK],1.5875628629142573
+öffnete er die untere Tür seine Schläfe  [MASK],1.6012772398325916
+er die untere Tür seine Schläfe  Also [MASK],1.5667081892975363
+die untere Tür seine Schläfe  Also  [MASK],1.4975712413390248
+untere Tür seine Schläfe  Also  diese [MASK],1.0055647623831812
+Tür seine Schläfe  Also  diese hier [MASK],1.3760588255348882
+seine Schläfe  Also  diese hier die [MASK],1.6005976104115962
+Schläfe  Also  diese hier die kommen [MASK],1.4488534896747187
+ Also  diese hier die kommen hier [MASK],1.1608719591024013
+Also  diese hier die kommen hier rein [MASK],1.5633982517545848
+ diese hier die kommen hier rein  [MASK],1.3559659497423415
+diese hier die kommen hier rein  dachte [MASK],1.6007403741387387
+hier die kommen hier rein  dachte er [MASK],1.4472785630378717
+die kommen hier rein  dachte er laut [MASK],0.99016647749073
+kommen hier rein  dachte er laut  [MASK],0.8965612315031521
+hier rein  dachte er laut  unterbrach [MASK],1.5629464106086939
+rein  dachte er laut  unterbrach sich [MASK],1.3810664480687547
+ dachte er laut  unterbrach sich aber [MASK],1.570237542897614
+dachte er laut  unterbrach sich aber gleich [MASK],1.3334798072964575
+er laut  unterbrach sich aber gleich darauf [MASK],1.1643913516828028
+laut  unterbrach sich aber gleich darauf selbst [MASK],1.0546589231773624
+ unterbrach sich aber gleich darauf selbst  [MASK],0.6932415260230622
+unterbrach sich aber gleich darauf selbst  Ach [MASK],0.9837944905613853
+sich aber gleich darauf selbst  Ach Quatsch [MASK],1.2508834651128053
+aber gleich darauf selbst  Ach Quatsch nein [MASK],1.3300217174625262
+gleich darauf selbst  Ach Quatsch nein  [MASK],1.3423448767301036
+darauf selbst  Ach Quatsch nein  Die [MASK],1.5925744212375397
+selbst  Ach Quatsch nein  Die die [MASK],1.3748449438602384
+ Ach Quatsch nein  Die die Sie [MASK],1.4363081686295378
+Ach Quatsch nein  Die die Sie da [MASK],1.3017940192496202
+Quatsch nein  Die die Sie da haben [MASK],1.2006224442313185
+nein  Die die Sie da haben die [MASK],1.5288587228537174
+ Die die Sie da haben die kommen [MASK],1.4297777103268976
+Die die Sie da haben die kommen hier [MASK],1.458812093104278
+die Sie da haben die kommen hier  [MASK],1.506550068337618
+Sie da haben die kommen hier  Er [MASK],1.4258499204020554
+da haben die kommen hier  Er stockte [MASK],1.5894577509251995
+haben die kommen hier  Er stockte schien [MASK],1.555398499969161
+die kommen hier  Er stockte schien zu [MASK],1.6047394136034878
+kommen hier  Er stockte schien zu überlegen [MASK],1.422622636625139
+hier  Er stockte schien zu überlegen  [MASK],1.0873380007588422
+ Er stockte schien zu überlegen  Zeigen [MASK],1.3948240597825283
+Er stockte schien zu überlegen  Zeigen Sie [MASK],1.333632894463822
+stockte schien zu überlegen  Zeigen Sie mal [MASK],1.264665589271333
+schien zu überlegen  Zeigen Sie mal  [MASK],1.010444675326304
+zu überlegen  Zeigen Sie mal  Welche [MASK],0.8330735085154942
+überlegen  Zeigen Sie mal  Welche haben [MASK],1.5988770003541664
+ Zeigen Sie mal  Welche haben Sie [MASK],1.3293291450760483
+Zeigen Sie mal  Welche haben Sie da [MASK],1.5999468277771105
+Sie mal  Welche haben Sie da  [MASK],1.5877563625420457
+mal  Welche haben Sie da  Nelly [MASK],1.5014516785967627
+ Welche haben Sie da  Nelly kam [MASK],1.536832560772563
+Welche haben Sie da  Nelly kam näher [MASK],1.5704330986325339
+haben Sie da  Nelly kam näher  [MASK],1.4426180934052788
+Sie da  Nelly kam näher  er [MASK],1.295584791664374
+da  Nelly kam näher  er zog [MASK],1.308252273372425
+ Nelly kam näher  er zog eine [MASK],1.59407903028896
+Nelly kam näher  er zog eine Akte [MASK],1.4203685030465918
+kam näher  er zog eine Akte aus [MASK],1.3866427469340008
+näher  er zog eine Akte aus dem [MASK],1.4045339786730042
+ er zog eine Akte aus dem oberen [MASK],1.2399781924264537
+er zog eine Akte aus dem oberen Karton [MASK],1.341352035136345
+zog eine Akte aus dem oberen Karton und [MASK],1.6027415276756862
+eine Akte aus dem oberen Karton und las [MASK],1.5177764359877053
+Akte aus dem oberen Karton und las ein [MASK],1.5319596190965614
+aus dem oberen Karton und las ein paar [MASK],1.043228096212391
+dem oberen Karton und las ein paar Fensterbank [MASK],1.3434236478429944
+oberen Karton und las ein paar Fensterbank  [MASK],1.2247943475922534
+Karton und las ein paar Fensterbank  Ach [MASK],1.4937728455333623
+und las ein paar Fensterbank  Ach ja [MASK],1.4803841874501915
+las ein paar Fensterbank  Ach ja  [MASK],1.512869938572689
+ein paar Fensterbank  Ach ja  dachte [MASK],1.4298908148684537
+paar Fensterbank  Ach ja  dachte ich [MASK],1.5044145942902483
+Fensterbank  Ach ja  dachte ich mir [MASK],1.5916041034101487
+ Ach ja  dachte ich mir  [MASK],1.4936778517574576
+Ach ja  dachte ich mir  Die [MASK],1.509507705779625
+ja  dachte ich mir  Die können [MASK],1.5352960993337037
+ dachte ich mir  Die können Sie [MASK],1.5049480436671243
+dachte ich mir  Die können Sie erstmal [MASK],1.5829970993465714
+ich mir  Die können Sie erstmal abstellen [MASK],1.5764136524723158
+mir  Die können Sie erstmal abstellen  [MASK],1.5049475997558
+ Die können Sie erstmal abstellen  Es [MASK],1.3997738348556095
+Die können Sie erstmal abstellen  Es sind [MASK],1.4455393660820797
+können Sie erstmal abstellen  Es sind doch [MASK],1.522173302722632
+Sie erstmal abstellen  Es sind doch die [MASK],1.5357569484655351
+erstmal abstellen  Es sind doch die anderen [MASK],1.5775896061920252
+abstellen  Es sind doch die anderen die [MASK],1.0179519336176743
+ Es sind doch die anderen die hier [MASK],1.4986720627429286
+Es sind doch die anderen die hier unten [MASK],1.4766878093491054
+sind doch die anderen die hier unten rein [MASK],1.566036396988805
+doch die anderen die hier unten rein kommen [MASK],1.4661670472475725
+die anderen die hier unten rein kommen  [MASK],1.3882347476341492
+anderen die hier unten rein kommen  Er [MASK],1.033325974238279
+die hier unten rein kommen  Er griff [MASK],1.472782113889211
+hier unten rein kommen  Er griff nach [MASK],1.5700155049820808
+unten rein kommen  Er griff nach dem [MASK],1.3991260272191597
+rein kommen  Er griff nach dem richtigen [MASK],1.4051586816604182
+kommen  Er griff nach dem richtigen Karton [MASK],1.5859789430656035
+ Er griff nach dem richtigen Karton und [MASK],1.5490368983140208
+Er griff nach dem richtigen Karton und deponierte [MASK],1.2022662148888918
+griff nach dem richtigen Karton und deponierte ihn [MASK],1.5802833548190935
+nach dem richtigen Karton und deponierte ihn dort [MASK],1.51928729075998
+dem richtigen Karton und deponierte ihn dort wo [MASK],1.3706729893103182
+richtigen Karton und deponierte ihn dort wo er [MASK],1.4694568841690363
+Karton und deponierte ihn dort wo er hingehörte [MASK],0.703832597888596
+und deponierte ihn dort wo er hingehörte  [MASK],0.874214249184704
+deponierte ihn dort wo er hingehörte  Ja [MASK],1.5353506427774364
+ihn dort wo er hingehörte  Ja was [MASK],1.4800272632212914
+dort wo er hingehörte  Ja was ist [MASK],1.3867417822492203
+wo er hingehörte  Ja was ist denn [MASK],1.5674912548296467
+er hingehörte  Ja was ist denn  [MASK],1.5604273707316128
+hingehörte  Ja was ist denn  begann [MASK],1.3802936062813693
+ Ja was ist denn  begann er [MASK],1.5010088255655347
+Ja was ist denn  begann er und [MASK],1.5115872463878022
+was ist denn  begann er und fasste [MASK],1.5952316796754165
+ist denn  begann er und fasste sich [MASK],1.577628047031995
+denn  begann er und fasste sich an [MASK],1.403762703602006
+ begann er und fasste sich an die [MASK],1.573879205559626
+begann er und fasste sich an die Hemdtasche [MASK],1.3800690578020451
+er und fasste sich an die Hemdtasche  [MASK],1.5438425719004572
+und fasste sich an die Hemdtasche  Wo [MASK],1.592378806581473
+fasste sich an die Hemdtasche  Wo ist [MASK],1.5765092860351329
+sich an die Hemdtasche  Wo ist denn [MASK],1.4865445066582414
+an die Hemdtasche  Wo ist denn jetzt [MASK],1.5159042360454549
+die Hemdtasche  Wo ist denn jetzt  [MASK],1.5593241898746604
+Hemdtasche  Wo ist denn jetzt  Suchen [MASK],1.5720573939920857
+ Wo ist denn jetzt  Suchen Sie [MASK],1.505299229153881
+Wo ist denn jetzt  Suchen Sie was [MASK],1.5052855550076838
+ist denn jetzt  Suchen Sie was  [MASK],1.3931896588056647
+denn jetzt  Suchen Sie was  Ja [MASK],1.5046966602133371
+jetzt  Suchen Sie was  Ja  [MASK],1.3622327419295632
+ Suchen Sie was  Ja  meinen [MASK],1.5439650525494004
+Suchen Sie was  Ja  meinen Autoschlüssel [MASK],1.5300137165585548
+Sie was  Ja  meinen Autoschlüssel  [MASK],1.6065124612843116
+was  Ja  meinen Autoschlüssel  Hab [MASK],1.481352459815659
+ Ja  meinen Autoschlüssel  Hab ich [MASK],1.590352098655826
+Ja  meinen Autoschlüssel  Hab ich den [MASK],0.8536333866826593
+ meinen Autoschlüssel  Hab ich den stecken [MASK],1.3216680016822409
+meinen Autoschlüssel  Hab ich den stecken lassen [MASK],1.4630867981811901
+Autoschlüssel  Hab ich den stecken lassen  [MASK],1.4781051828767198
+ Hab ich den stecken lassen  Nein [MASK],1.4997284938272735
+Hab ich den stecken lassen  Nein  [MASK],1.4997284938272735
+ich den stecken lassen  Nein  den [MASK],1.5592921848353416
+den stecken lassen  Nein  den hatten [MASK],1.5070606731612186
+stecken lassen  Nein  den hatten Sie [MASK],1.1799013081290193
+lassen  Nein  den hatten Sie in [MASK],1.4433886920025347
+ Nein  den hatten Sie in der [MASK],1.2438532957397415
+Nein  den hatten Sie in der Hand [MASK],1.0942028242350432
+ den hatten Sie in der Hand  [MASK],1.4699769320713179
+den hatten Sie in der Hand  Sicher [MASK],1.5729768258527497
+hatten Sie in der Hand  Sicher  [MASK],1.3398475915340087
+Sie in der Hand  Sicher  Ganz [MASK],1.289795632564006
+in der Hand  Sicher  Ganz sicher [MASK],1.4245198101518477
+der Hand  Sicher  Ganz sicher  [MASK],1.1272895347301108
+Hand  Sicher  Ganz sicher  Er [MASK],1.3546444466374803
+ Sicher  Ganz sicher  Er guckte [MASK],1.5272101483582174
+Sicher  Ganz sicher  Er guckte unter [MASK],1.2871703089233417
+ Ganz sicher  Er guckte unter den [MASK],1.5200619430276245
+Ganz sicher  Er guckte unter den Tisch [MASK],1.4580474471165452
+sicher  Er guckte unter den Tisch vielleicht [MASK],1.3980120552585331
+ Er guckte unter den Tisch vielleicht war [MASK],1.5417815942191193
+Er guckte unter den Tisch vielleicht war er [MASK],1.435544621241172
+guckte unter den Tisch vielleicht war er ja [MASK],1.5368890328331455
+unter den Tisch vielleicht war er ja runtergefallen [MASK],1.4975144694391902
+den Tisch vielleicht war er ja runtergefallen  [MASK],1.4729742017001604
+Tisch vielleicht war er ja runtergefallen  und [MASK],1.471776303196215
+vielleicht war er ja runtergefallen  und klopfte [MASK],1.468457451990163
+war er ja runtergefallen  und klopfte dann [MASK],1.5359244466791009
+er ja runtergefallen  und klopfte dann noch [MASK],1.5361717494729896
+ja runtergefallen  und klopfte dann noch einmal [MASK],1.590586368461358
+runtergefallen  und klopfte dann noch einmal seine [MASK],1.5366558818489116
+ und klopfte dann noch einmal seine Taschen [MASK],1.5746305225644432
+und klopfte dann noch einmal seine Taschen ab [MASK],1.1033042810620322
+klopfte dann noch einmal seine Taschen ab  [MASK],1.1749450078207533
+dann noch einmal seine Taschen ab  Nichts [MASK],1.5522055384840245
+noch einmal seine Taschen ab  Nichts  [MASK],1.5213806057954948
+einmal seine Taschen ab  Nichts  Ach [MASK],1.589492378585181
+seine Taschen ab  Nichts  Ach und [MASK],1.5961785401542459
+Taschen ab  Nichts  Ach und  [MASK],1.5463653441911058
+ab  Nichts  Ach und  mein [MASK],1.1336042867059306
+ Nichts  Ach und  mein Ähm [MASK],1.5710676100753997
+Nichts  Ach und  mein Ähm  [MASK],1.5710676100753997
+ Ach und  mein Ähm  Könnten [MASK],1.5450794439223294
+Ach und  mein Ähm  Könnten Sie [MASK],1.2627522956711186
+und  mein Ähm  Könnten Sie mich [MASK],1.0510237765295694
+ mein Ähm  Könnten Sie mich bitte [MASK],1.501244713071713
+mein Ähm  Könnten Sie mich bitte mal [MASK],1.2666959987084878
+Ähm  Könnten Sie mich bitte mal anrufen [MASK],1.4371464733591273
+ Könnten Sie mich bitte mal anrufen  [MASK],1.56379240732124
+Könnten Sie mich bitte mal anrufen  Nelly [MASK],1.5997036535210098
+Sie mich bitte mal anrufen  Nelly verstand [MASK],1.6043581688206427
+mich bitte mal anrufen  Nelly verstand nicht [MASK],1.4156927697320947
+bitte mal anrufen  Nelly verstand nicht gleich [MASK],1.5011458451055733
+mal anrufen  Nelly verstand nicht gleich  [MASK],1.5771631132082622
+anrufen  Nelly verstand nicht gleich  Wie [MASK],1.2936836884150864
+ Nelly verstand nicht gleich  Wie  [MASK],1.2176764147950128
+Nelly verstand nicht gleich  Wie  Jetzt [MASK],1.5707475078223379
+verstand nicht gleich  Wie  Jetzt  [MASK],1.5872649639177747
+nicht gleich  Wie  Jetzt  Hier [MASK],1.1341179045520038
+gleich  Wie  Jetzt  Hier  [MASK],1.457003598532286
+ Wie  Jetzt  Hier  Ja [MASK],1.53414070213678
+Wie  Jetzt  Hier  Ja  [MASK],1.53414070213678
+ Jetzt  Hier  Ja  nickte [MASK],1.5849480433648035
+Jetzt  Hier  Ja  nickte er [MASK],1.578623243754802
+ Hier  Ja  nickte er  [MASK],1.576471056700979
+Hier  Ja  nickte er  mein [MASK],1.470330142370123
+ Ja  nickte er  mein Telefon [MASK],1.4670759119837185
+Ja  nickte er  mein Telefon ist [MASK],1.5859368959135483
+ nickte er  mein Telefon ist nämlich [MASK],1.3872045497287613
+nickte er  mein Telefon ist nämlich auch [MASK],1.419368762904312
+er  mein Telefon ist nämlich auch weg [MASK],1.3940386028169314
+ mein Telefon ist nämlich auch weg  [MASK],1.232927816574642
+mein Telefon ist nämlich auch weg  Er [MASK],1.5301049797487853
+Telefon ist nämlich auch weg  Er kratzte [MASK],1.5980787667629515
+ist nämlich auch weg  Er kratzte sich [MASK],1.5865428280901077
+nämlich auch weg  Er kratzte sich nachdenklich [MASK],1.5908727816410433
+auch weg  Er kratzte sich nachdenklich an [MASK],1.3947961203091797
+weg  Er kratzte sich nachdenklich an der [MASK],1.45292449928731
+ Er kratzte sich nachdenklich an der Schläfe [MASK],1.5833811544497496
+Er kratzte sich nachdenklich an der Schläfe  [MASK],1.5833811544497496
+kratzte sich nachdenklich an der Schläfe  Oder [MASK],1.6011808168043857
+sich nachdenklich an der Schläfe  Oder hab [MASK],1.5749264422156082
+nachdenklich an der Schläfe  Oder hab ich [MASK],1.3940514316308066
+an der Schläfe  Oder hab ich das [MASK],1.21172215842918
+der Schläfe  Oder hab ich das am [MASK],1.5414205991807368
+Schläfe  Oder hab ich das am Ende [MASK],1.3583764307698307
+ Oder hab ich das am Ende zuhause [MASK],1.4655391576081034
+Oder hab ich das am Ende zuhause vergessen [MASK],1.2512666687580596
+hab ich das am Ende zuhause vergessen  [MASK],1.3010278243758182
+ich das am Ende zuhause vergessen  Moment [MASK],1.5147560120116432
+das am Ende zuhause vergessen  Moment  [MASK],1.5911085980645867
+am Ende zuhause vergessen  Moment  Sie [MASK],1.4636924368941135
+Ende zuhause vergessen  Moment  Sie öffnete [MASK],1.5123439302675197
+zuhause vergessen  Moment  Sie öffnete ihre [MASK],1.2729845750175612
+vergessen  Moment  Sie öffnete ihre Handtasche [MASK],1.59262274533906
+ Moment  Sie öffnete ihre Handtasche  [MASK],1.5355646121890054
+Moment  Sie öffnete ihre Handtasche  hatte [MASK],1.5989864426533302
+ Sie öffnete ihre Handtasche  hatte im [MASK],1.1978643949762324
+Sie öffnete ihre Handtasche  hatte im Gegensatz [MASK],1.481218111690625
+öffnete ihre Handtasche  hatte im Gegensatz zu [MASK],1.2992217362066543
+ihre Handtasche  hatte im Gegensatz zu ihm [MASK],1.4984896144525968
+Handtasche  hatte im Gegensatz zu ihm ihr [MASK],1.160696120347065
+ hatte im Gegensatz zu ihm ihr Handy [MASK],1.4517279423186007
+hatte im Gegensatz zu ihm ihr Handy sofort [MASK],1.589571640012823
+im Gegensatz zu ihm ihr Handy sofort gefunden [MASK],1.4734649754525224
+Gegensatz zu ihm ihr Handy sofort gefunden und [MASK],1.5968814689575854
+zu ihm ihr Handy sofort gefunden und wählte [MASK],0.8471587188284784
+ihm ihr Handy sofort gefunden und wählte  [MASK],0.8669509373457231
+ihr Handy sofort gefunden und wählte  Dann [MASK],1.4063444823679951
+Handy sofort gefunden und wählte  Dann schwiegen [MASK],1.4598876196119603
+sofort gefunden und wählte  Dann schwiegen sie [MASK],1.6062770019984756
+gefunden und wählte  Dann schwiegen sie  [MASK],1.6044560265713923
+und wählte  Dann schwiegen sie  Lauerten [MASK],1.516226330358966
+wählte  Dann schwiegen sie  Lauerten  [MASK],1.4689542761936145
+ Dann schwiegen sie  Lauerten  Lauschten [MASK],1.3663430641952548
+Dann schwiegen sie  Lauerten  Lauschten  [MASK],1.3663430641952548
+schwiegen sie  Lauerten  Lauschten  Es [MASK],1.5201478851028472
+sie  Lauerten  Lauschten  Es klingelte [MASK],1.5407459948310047
+ Lauerten  Lauschten  Es klingelte aus [MASK],1.6003873227471725
+Lauerten  Lauschten  Es klingelte aus Richtung [MASK],1.5205192242783272
+ Lauschten  Es klingelte aus Richtung der [MASK],1.49731497186207
+Lauschten  Es klingelte aus Richtung der Fensterbank [MASK],1.498561316183729
+ Es klingelte aus Richtung der Fensterbank  [MASK],1.4118699881386105
+Es klingelte aus Richtung der Fensterbank  Ach [MASK],1.189459674633104
+klingelte aus Richtung der Fensterbank  Ach ja [MASK],1.16778734817408
+aus Richtung der Fensterbank  Ach ja hier [MASK],1.1634760539133184
+Richtung der Fensterbank  Ach ja hier ist [MASK],1.6008381213436471
+der Fensterbank  Ach ja hier ist  [MASK],1.5906916226872951
+Fensterbank  Ach ja hier ist  es [MASK],1.5029423153576613
+ Ach ja hier ist  es  [MASK],1.5534904016814597
+Ach ja hier ist  es  Und [MASK],1.5951772607486094
+ja hier ist  es  Und der [MASK],1.6020518159800639
+hier ist  es  Und der Schlüssel [MASK],1.3538113668167615
+ist  es  Und der Schlüssel auch [MASK],1.4015434911288696
+ es  Und der Schlüssel auch  [MASK],1.4355668409625018

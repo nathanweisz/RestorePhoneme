@@ -1,0 +1,73 @@
+N,Block,Sub,FullQuestion,IsCorrect
+1,Block_A “Schrebergarten”,1,"Die Versicherungsagentur, bei der Marlene beschÃ¤ftigt war, hat ihren Standort in Dortmund aufgegeben",1
+2,Block_A “Schrebergarten”,1,Marlene belegte einen Literaturkurs an der UniversitÃ¤t,0
+3,Block_A “Schrebergarten”,1,Der Mann von dem Marlene sich getrennt hatte heiÃt Konrad,0
+4,Block_A “Schrebergarten”,1,Auf dem GartengrundstÃ¼ck wÃ¤chst eine Thujenhecke,0
+5,Block_A “Schrebergarten”,2,Sie hat eine Kakteenzucht auf ihrer Fensterbank,1
+6,Block_A “Schrebergarten”,2,Die Zwergengruppe besteht aus vier Zwergen,0
+7,Block_A “Schrebergarten”,2,"Der Zwerg mit dem RasenmÃ¤her hatte dicke, rote Pausbacken",1
+8,Block_A “Schrebergarten”,2,"Marlene denkt, der Nachbar habe eine verblÃ¼ffende Ãhnlichkeit mit dem Zwerg mit der Schaufel",0
+9,Block_A “Schrebergarten”,3,"Beim ersten Versuch mit der Sense, erwischte Marlene beinahe Theos Wade",1
+10,Block_A “Schrebergarten”,3,"Nach der Arbeit mit der Sense, widmete Marlene sich der Hecke",0
+11,Block_A “Schrebergarten”,3,Marlenes Freundin heiÃt Vera,1
+12,Block_A “Schrebergarten”,3,Marlene fuhr am vierten Tag wieder zum Garten,1
+13,Block_B “Keksbäckerei”,1,"Das Schild, das Sadie selbst gemalt hatte, hatte rote und goldene Wirbel",0
+14,Block_B “Keksbäckerei”,1,Der Name von Sadies Tochter ist Luna,0
+15,Block_B “Keksbäckerei”,1,Sadie hatte bisher in einer Arztpraxis gearbeitet,1
+16,Block_B “Keksbäckerei”,1,An der hinteren Wand verlief ein lang gezogener Tresen aus Glas,1
+17,Block_B “Keksbäckerei”,2,Sadie wohnte zusammen mit Lissy in einer Zweizimmer-Maisonette,0
+18,Block_B “Keksbäckerei”,2,Zu den geplanten Keksdesigns gehÃ¶ren Blumen und Herzen,0
+19,Block_B “Keksbäckerei”,2,"Den Zuckerguss anhand ihrer maÃgeschneiderten Farbpalette herzustellen, wÃ¼rde mehr als einen Tag Zeit in Anspruch nehmen",0
+20,Block_B “Keksbäckerei”,2,Sadie hatte die Designs zigfach auf Pergamentpapier vorgezeichnet,1
+21,Block_B “Keksbäckerei”,3,"Die beiden planen ein winterliches Miniaturdorf, mit einem Weihnachtsmann und gelben Sternenkeksen",1
+22,Block_B “Keksbäckerei”,3,Der Mann trug eine schwarze Lederjacke Ã¼ber einem weiÃen T-Shirt und eine eng anliegende schwarze Jeans,1
+23,Block_B “Keksbäckerei”,3,Cat legte ihren Bleistift beiseite und streckte dem Besucher die Hand entgegen,0
+24,Block_B “Keksbäckerei”,3,Das Schild Ã¼ber der EingangstÃ¼r des Let's Go Dutch ist orange-grÃ¼n,1
+25,Block_C “NellyundChef”,1,Ihr Chef trÃ¤gt insgesamt drei Kisten voll mit Akten,0
+26,Block_C “NellyundChef”,1,"Auf der Treppe fragt ihr Chef, ob er ihr den Kaktus wieder abnehmen soll",1
+27,Block_C “NellyundChef”,1,Zuerst sucht ihr Chef unter dem Tisch nach seinem AutoschlÃ¼ssel,1
+28,Block_C “NellyundChef”,1,Nelly hatte ihr Handy in ihrer Jackentasche,0
+29,Block_C “NellyundChef”,2,Nach ein paar Minuten fand sie schlieÃlich die gesuchte Pinzette,0
+30,Block_C “NellyundChef”,2,"Er stolperte Ã¼ber die TÃ¼r des Aktenschrankes, die er zuvor geÃ¶ffnet hatte",1
+31,Block_C “NellyundChef”,2,"Er sagte, es sei nur eine kleine Schramme und rieb sich das Bein",1
+32,Block_C “NellyundChef”,2,"Durch seine Zahnspange, sah er manchmal aus wie ein dummer kleiner Junge",0
+33,Block_C “NellyundChef”,3,"Sie hatte gerade alles zusammengepackt, als er sie noch einmal zu sich bat",1
+34,Block_C “NellyundChef”,3,"Er stellte sich ihr mit seinem Vornamen, Frank, vor",0
+35,Block_C “NellyundChef”,3,"In dem Geschenkpapier war eine schwarze, aufklappbare Box verpackt",1
+36,Block_C “NellyundChef”,3,Es war November,0
+37,Block_D “Moewenflug”,1,"Von einem Fischerboot, eine Meile vor der KÃ¼ste, wurden die Netze ausgeworfen",1
+38,Block_D “Moewenflug”,1,"Er entdeckte, dass er sich lÃ¤nger und mÃ¼heloser in der Luft halten konnte, wenn er ganz dicht Ã¼ber dem Wasser dahinflog",1
+39,Block_D “Moewenflug”,1,Jonathan verbrachte ganze Tage mit seinen Experimenten im tiefen Gleitflug,1
+40,Block_D “Moewenflug”,1,"Jonathans Mutter meint, Zweck des Fliegens sei es, dass man sich etwas zu Essen beschafft",0
+41,Block_D “Moewenflug”,2,"Er lieÃ absichtlich eine mit MÃ¼he ergatterte Sardine fallen, die ihm eine alte hungrige MÃ¶we abjagen wollte",1
+42,Block_D “Moewenflug”,2,"Immer wenn er zum senkrechten Sturzflug ansetzte, versagte der rechte FlÃ¼gel im Aufschlag",0
+43,Block_D “Moewenflug”,2,FÃ¼nfmal nacheinander versuchte er den Sturz,0
+44,Block_D “Moewenflug”,2,Mit Ã¼ber fÃ¼nfzig Stundenkilometern hatte er einen Weltrekord in Geschwindigkeit aufgestellt,0
+45,Block_D “Moewenflug”,3,Jonathan beschlieÃt Richtung Meer zu fliegen,0
+46,Block_D “Moewenflug”,3,Jonathan flog in dreiÃig Meter HÃ¶he durch die Nacht,1
+47,Block_D “Moewenflug”,3,"Die innere Stimme warnt ihn, dass er keine Augen wie die Eule habe",1
+48,Block_D “Moewenflug”,3,Bei seinem letzten Versuch war der Anprall des Flugwindes auf die FlÃ¼gel stÃ¤rker als vorher,0
+49,Block_E “Eskimos”,1,Die Temperaturen erreichen Werte von bis zu fÃ¼nfzig Grad unter Null,1
+50,Block_E “Eskimos”,1,Herden von Karibus ziehen Ã¼ber weite Strecken umher auf der Suche nach Pflanzen,1
+51,Block_E “Eskimos”,1,Die Eskimos haben einen auffÃ¤llig kleinen Kopf,0
+52,Block_E “Eskimos”,1,Die Inuit gelten bei nÃ¤herer Anschauung als ausgeglichene und frÃ¶hliche Menschen,1
+53,Block_E “Eskimos”,2,Ein Geograph erforschte als erster den Namen der Eskimos,0
+54,Block_E “Eskimos”,2,Das Wort Eskimo bezeichnet heute vor allem einen regionalen Dialekt in GrÃ¶nland,0
+55,Block_E “Eskimos”,2,Ein gutes Beispiel fÃ¼r unterschiedliche Dialekte sind die Inuit aus Alaska und GrÃ¶nland,0
+56,Block_E “Eskimos”,2,Die Bewohner der Inseln im sÃ¼dwestlichen Alaska unterscheiden sich durch einen krÃ¤ftigeren KÃ¶rperbau von den Ã¼brigen Inuit,0
+57,Block_E “Eskimos”,3,Der bei den Eskimos heilige Rabe soll vor langer Zeit aus GrasbÃ¼scheln ihr Land erschaffen haben,1
+58,Block_E “Eskimos”,3,Einer Theorie nach wanderten die Eskimos Ã¼ber eine schmale LandbrÃ¼cke zwischen dem asiatischen und amerikanischen Kontinent,1
+59,Block_E “Eskimos”,3,David Cranz stÃ¼tzte sich auf die Darwin'schen Theorien,0
+60,Block_E “Eskimos”,3,Nach Henry Rinks Meinung waren die ersten Eskimos primitive IndianerstÃ¤mme,1
+61,Block_F “Sofie”,1,Auf dem Heimweg hatte Sofie sich mit ihrer Freundin Ã¼ber Roboter unterhalten,1
+62,Block_F “Sofie”,1,Sofies Vater war KapitÃ¤n auf einem Ãltanker,1
+63,Block_F “Sofie”,1,Das Haus in dem Sofie lebt ist rot,1
+64,Block_F “Sofie”,1,Tom und Jerry sind die Namen ihrer Goldfische,0
+65,Block_F “Sofie”,2,Am Anfang setzt sich Sofie mit dem Brief in die KÃ¼che,1
+66,Block_F “Sofie”,2,Ihr Vater hÃ¤tte sie zuerst gerne Saskia genannt,0
+67,Block_F “Sofie”,2,âDas MÃ¤dchen mit den Flachshaarenâ ist eine Komposition von Claude DÃ©bussy,1
+68,Block_F “Sofie”,2,"Sofie hat lange, glatte blonde Haare",0
+69,Block_F “Sofie”,3,Die Katze Sherekan sprang Ã¼ber den Kiesweg und verschwand dann auf dem Kastanienbaum,0
+70,Block_F “Sofie”,3,Vor gar nicht langer Zeit war Sofies GroÃvater gestorben,0
+71,Block_F “Sofie”,3,Der Briefkasten ist gelb,0
+72,Block_F “Sofie”,3,"In dem Umschlag war ein weiÃer Zettel, der genauso aussah wie der erste",1

@@ -1,0 +1,609 @@
+Context,Entropy
+        [MASK],1.5630042354471072
+       Alle [MASK],1.0878066845048788
+      Alle Tiere [MASK],1.5644932175075696
+     Alle Tiere sollten [MASK],1.4909987658643475
+    Alle Tiere sollten eine [MASK],1.540716407898246
+   Alle Tiere sollten eine Art [MASK],1.5347907460269767
+  Alle Tiere sollten eine Art Entschädigung [MASK],1.0301473870570865
+ Alle Tiere sollten eine Art Entschädigung sein [MASK],1.2426868416563368
+Alle Tiere sollten eine Art Entschädigung sein  [MASK],1.2426868416563368
+Tiere sollten eine Art Entschädigung sein  weil [MASK],1.376991366352168
+sollten eine Art Entschädigung sein  weil ihre [MASK],1.597522835067671
+eine Art Entschädigung sein  weil ihre Mutter [MASK],1.1201763173943844
+Art Entschädigung sein  weil ihre Mutter spät [MASK],1.1187185319891744
+Entschädigung sein  weil ihre Mutter spät Feierabend [MASK],1.3810339610438742
+sein  weil ihre Mutter spät Feierabend hatte [MASK],1.1888955173243483
+ weil ihre Mutter spät Feierabend hatte  [MASK],1.1604284625212322
+weil ihre Mutter spät Feierabend hatte  und [MASK],1.5802824089651049
+ihre Mutter spät Feierabend hatte  und ihr [MASK],1.4435345756477052
+Mutter spät Feierabend hatte  und ihr Vater [MASK],1.2506312219698381
+spät Feierabend hatte  und ihr Vater soviel [MASK],1.5125963359981578
+Feierabend hatte  und ihr Vater soviel in [MASK],1.371436252814949
+hatte  und ihr Vater soviel in der [MASK],1.529379038697061
+ und ihr Vater soviel in der Welt [MASK],1.305317070635826
+und ihr Vater soviel in der Welt herumfuhr [MASK],1.1889863531328628
+ihr Vater soviel in der Welt herumfuhr  [MASK],1.2049773646890225
+Vater soviel in der Welt herumfuhr  Sofie [MASK],1.558730532108693
+soviel in der Welt herumfuhr  Sofie warf [MASK],1.569763358986631
+in der Welt herumfuhr  Sofie warf die [MASK],1.5668716330415158
+der Welt herumfuhr  Sofie warf die Schultasche [MASK],1.4520411282837675
+Welt herumfuhr  Sofie warf die Schultasche in [MASK],1.5230149629959038
+herumfuhr  Sofie warf die Schultasche in die [MASK],1.543281761289857
+ Sofie warf die Schultasche in die Ecke [MASK],1.5567428522523692
+Sofie warf die Schultasche in die Ecke  [MASK],1.5567428522523692
+warf die Schultasche in die Ecke  und [MASK],1.4598626230627798
+die Schultasche in die Ecke  und stellte [MASK],1.482272944670004
+Schultasche in die Ecke  und stellte Sherekan [MASK],1.4829824329291728
+in die Ecke  und stellte Sherekan eine [MASK],0.9050715005630188
+die Ecke  und stellte Sherekan eine Schale [MASK],1.5991185283409552
+Ecke  und stellte Sherekan eine Schale mit [MASK],1.601271963144051
+ und stellte Sherekan eine Schale mit Katzenfutter [MASK],1.2720786140750182
+und stellte Sherekan eine Schale mit Katzenfutter hin [MASK],0.5004527135026461
+stellte Sherekan eine Schale mit Katzenfutter hin  [MASK],0.7868033956895641
+Sherekan eine Schale mit Katzenfutter hin  Dann [MASK],1.6048514826017009
+eine Schale mit Katzenfutter hin  Dann liess [MASK],1.1713411499520132
+Schale mit Katzenfutter hin  Dann liess sie [MASK],1.5281333897781355
+mit Katzenfutter hin  Dann liess sie sich [MASK],1.4546349010657869
+Katzenfutter hin  Dann liess sie sich mit [MASK],1.2548968764491903
+hin  Dann liess sie sich mit dem [MASK],1.5534111083229063
+ Dann liess sie sich mit dem geheimnisvollen [MASK],1.5941735051118928
+Dann liess sie sich mit dem geheimnisvollen Brief [MASK],1.531329865625507
+liess sie sich mit dem geheimnisvollen Brief in [MASK],1.5769196814717943
+sie sich mit dem geheimnisvollen Brief in der [MASK],1.5652663522794423
+sich mit dem geheimnisvollen Brief in der Hand [MASK],1.5810262428035275
+mit dem geheimnisvollen Brief in der Hand auf [MASK],1.567750479034548
+dem geheimnisvollen Brief in der Hand auf einen [MASK],1.4253481429059667
+geheimnisvollen Brief in der Hand auf einen Küchenhocker [MASK],1.4528817214852954
+Brief in der Hand auf einen Küchenhocker  [MASK],0.4892716776558188
+in der Hand auf einen Küchenhocker  fallen [MASK],1.2006108903430204
+der Hand auf einen Küchenhocker  fallen  [MASK],1.355696118746461
+Hand auf einen Küchenhocker  fallen  Wer [MASK],1.4721311066109546
+auf einen Küchenhocker  fallen  Wer bist [MASK],1.5032553554858825
+einen Küchenhocker  fallen  Wer bist Du [MASK],0.9248994265007078
+Küchenhocker  fallen  Wer bist Du  [MASK],0.885534743517451
+ fallen  Wer bist Du  Wenn [MASK],1.1722659930171564
+fallen  Wer bist Du  Wenn sie [MASK],1.4146635851826503
+ Wer bist Du  Wenn sie das [MASK],1.5722040469110539
+Wer bist Du  Wenn sie das  [MASK],1.5722040469110539
+bist Du  Wenn sie das  wüsste [MASK],1.5674337066450752
+Du  Wenn sie das  wüsste  [MASK],1.4788285195525073
+ Wenn sie das  wüsste  Sie [MASK],1.5266345982417575
+Wenn sie das  wüsste  Sie war [MASK],1.3831029663140741
+sie das  wüsste  Sie war natürlich [MASK],1.594090156802251
+das  wüsste  Sie war natürlich Sofie [MASK],1.5508301259499817
+ wüsste  Sie war natürlich Sofie Amundsen [MASK],1.5498401676983236
+wüsste  Sie war natürlich Sofie Amundsen  [MASK],1.5498401676983236
+ Sie war natürlich Sofie Amundsen  aber [MASK],1.5877922196654142
+Sie war natürlich Sofie Amundsen  aber wer [MASK],1.4619537489783785
+war natürlich Sofie Amundsen  aber wer war [MASK],1.0790177291919567
+natürlich Sofie Amundsen  aber wer war das [MASK],1.522219427570157
+Sofie Amundsen  aber wer war das  [MASK],1.3427159810468192
+Amundsen  aber wer war das  Das [MASK],0.23046320670076942
+ aber wer war das  Das hatte [MASK],1.3757178395515424
+aber wer war das  Das hatte sie [MASK],1.5898173580448174
+wer war das  Das hatte sie noch [MASK],1.420176865893416
+war das  Das hatte sie noch nicht [MASK],1.5463789126198597
+das  Das hatte sie noch nicht richtig [MASK],0.7058642026310796
+ Das hatte sie noch nicht richtig herausgefunden [MASK],1.0219010058936813
+Das hatte sie noch nicht richtig herausgefunden  [MASK],1.0219010058936813
+hatte sie noch nicht richtig herausgefunden  Wenn [MASK],1.5315327384673065
+sie noch nicht richtig herausgefunden  Wenn sie [MASK],1.4353919053856046
+noch nicht richtig herausgefunden  Wenn sie nun [MASK],1.583190903638497
+nicht richtig herausgefunden  Wenn sie nun anders [MASK],1.2780679769640315
+richtig herausgefunden  Wenn sie nun anders hiesse [MASK],1.5481897309053132
+herausgefunden  Wenn sie nun anders hiesse  [MASK],1.5663193182232968
+ Wenn sie nun anders hiesse  Anne [MASK],1.0357184848423002
+Wenn sie nun anders hiesse  Anne Knutsen [MASK],1.5909986482343343
+sie nun anders hiesse  Anne Knutsen zum [MASK],1.3446705084075317
+nun anders hiesse  Anne Knutsen zum Tür [MASK],0.15169666431969436
+anders hiesse  Anne Knutsen zum Tür  [MASK],0.17408735368536918
+hiesse  Anne Knutsen zum Tür  Wäre [MASK],1.433845647910531
+ Anne Knutsen zum Tür  Wäre sie [MASK],1.5256098673982956
+Anne Knutsen zum Tür  Wäre sie dann [MASK],1.5695176971118117
+Knutsen zum Tür  Wäre sie dann auch [MASK],1.5865400891678023
+zum Tür  Wäre sie dann auch eine [MASK],1.5864563794935704
+Tür  Wäre sie dann auch eine andere [MASK],1.5168461915023213
+ Wäre sie dann auch eine andere  [MASK],1.5770372953998835
+Wäre sie dann auch eine andere  Plötzlich [MASK],1.0245076858121864
+sie dann auch eine andere  Plötzlich fiel [MASK],1.3903644209276493
+dann auch eine andere  Plötzlich fiel ihr [MASK],1.5477550889460017
+auch eine andere  Plötzlich fiel ihr ein [MASK],1.5825919261890877
+eine andere  Plötzlich fiel ihr ein  [MASK],1.4552467943019476
+andere  Plötzlich fiel ihr ein  dass [MASK],1.4188293340715452
+ Plötzlich fiel ihr ein  dass ihr [MASK],1.428657394480311
+Plötzlich fiel ihr ein  dass ihr Vater [MASK],1.3722048335682562
+fiel ihr ein  dass ihr Vater sie [MASK],1.3266323037952374
+ihr ein  dass ihr Vater sie zuerst [MASK],1.5505191621225634
+ein  dass ihr Vater sie zuerst gern [MASK],1.32724935742917
+ dass ihr Vater sie zuerst gern Susanne [MASK],1.2813803790235343
+dass ihr Vater sie zuerst gern Susanne genannt [MASK],1.4046023222608122
+ihr Vater sie zuerst gern Susanne genannt hätte [MASK],1.0426019257208468
+Vater sie zuerst gern Susanne genannt hätte  [MASK],1.3503394684437637
+sie zuerst gern Susanne genannt hätte  Sofie [MASK],1.5748322636546719
+zuerst gern Susanne genannt hätte  Sofie versuchte [MASK],1.5357958260814228
+gern Susanne genannt hätte  Sofie versuchte sich [MASK],1.5647679391609004
+Susanne genannt hätte  Sofie versuchte sich auszumalen [MASK],1.0925260206771708
+genannt hätte  Sofie versuchte sich auszumalen wie [MASK],0.8796477261944371
+hätte  Sofie versuchte sich auszumalen wie es [MASK],1.2370856250958335
+ Sofie versuchte sich auszumalen wie es wäre [MASK],1.3082160051819443
+Sofie versuchte sich auszumalen wie es wäre  [MASK],1.3082160051819443
+versuchte sich auszumalen wie es wäre  wenn [MASK],1.5219498053110059
+sich auszumalen wie es wäre  wenn sie [MASK],1.588201128003017
+auszumalen wie es wäre  wenn sie die [MASK],1.6081381689830243
+wie es wäre  wenn sie die Hand [MASK],1.5668082719464582
+es wäre  wenn sie die Hand ausstreckte [MASK],1.374778842819194
+wäre  wenn sie die Hand ausstreckte  [MASK],1.5101513309256867
+ wenn sie die Hand ausstreckte  und [MASK],1.6030983119763695
+wenn sie die Hand ausstreckte  und sich [MASK],1.287219855669756
+sie die Hand ausstreckte  und sich als [MASK],1.4692201084122922
+die Hand ausstreckte  und sich als Susanne [MASK],1.5578839197800942
+Hand ausstreckte  und sich als Susanne Amundsen [MASK],1.4396204723519517
+ausstreckte  und sich als Susanne Amundsen vorstellte [MASK],0.6320760460606093
+ und sich als Susanne Amundsen vorstellte  [MASK],0.6653144454902898
+und sich als Susanne Amundsen vorstellte  aber [MASK],1.2985475185807671
+sich als Susanne Amundsen vorstellte  aber nein [MASK],1.478348855774977
+als Susanne Amundsen vorstellte  aber nein das [MASK],1.4813592125048363
+Susanne Amundsen vorstellte  aber nein das ging [MASK],1.3831515824609728
+Amundsen vorstellte  aber nein das ging nicht [MASK],1.596280165976793
+vorstellte  aber nein das ging nicht  [MASK],1.587872731109056
+ aber nein das ging nicht  Dabei [MASK],1.5886120234060546
+aber nein das ging nicht  Dabei stellte [MASK],1.455529140540882
+nein das ging nicht  Dabei stellte sich [MASK],1.5738014893530368
+das ging nicht  Dabei stellte sich die [MASK],0.5228838585166385
+ging nicht  Dabei stellte sich die ganze [MASK],1.4133152428575841
+nicht  Dabei stellte sich die ganze Zeit [MASK],1.2985947389381816
+ Dabei stellte sich die ganze Zeit eine [MASK],1.230331897686531
+Dabei stellte sich die ganze Zeit eine andere [MASK],1.2113606328109563
+stellte sich die ganze Zeit eine andere vor [MASK],0.6774652957254058
+sich die ganze Zeit eine andere vor  [MASK],0.5711435400725455
+die ganze Zeit eine andere vor  Nun [MASK],1.521224963711349
+ganze Zeit eine andere vor  Nun sprang [MASK],1.516617042511328
+Zeit eine andere vor  Nun sprang sie [MASK],1.557564864924431
+eine andere vor  Nun sprang sie vom [MASK],1.2987154765497864
+andere vor  Nun sprang sie vom Hocker [MASK],1.1958953661512195
+vor  Nun sprang sie vom Hocker und [MASK],1.5642753296074632
+ Nun sprang sie vom Hocker und ging [MASK],1.5410505339142637
+Nun sprang sie vom Hocker und ging mit [MASK],1.441300851682731
+sprang sie vom Hocker und ging mit dem [MASK],1.4898420461113981
+sie vom Hocker und ging mit dem seltsamen [MASK],1.4822130605092614
+vom Hocker und ging mit dem seltsamen Brief [MASK],1.4994745817099786
+Hocker und ging mit dem seltsamen Brief in [MASK],1.5246408072927053
+und ging mit dem seltsamen Brief in der [MASK],1.5080734548929382
+ging mit dem seltsamen Brief in der Hand [MASK],1.5595123309880308
+mit dem seltsamen Brief in der Hand ins [MASK],0.8636755168327854
+dem seltsamen Brief in der Hand ins Augen [MASK],1.5255333453383082
+seltsamen Brief in der Hand ins Augen  [MASK],1.4541186438944125
+Brief in der Hand ins Augen  Sie [MASK],1.2917851646415703
+in der Hand ins Augen  Sie stellte [MASK],1.584281438228426
+der Hand ins Augen  Sie stellte sich [MASK],1.5346517441457734
+Hand ins Augen  Sie stellte sich vor [MASK],1.022396616872791
+ins Augen  Sie stellte sich vor den [MASK],1.5569634308641223
+Augen  Sie stellte sich vor den Spiegel [MASK],1.4917164135067975
+ Sie stellte sich vor den Spiegel und [MASK],1.4946614562225162
+Sie stellte sich vor den Spiegel und starrte [MASK],1.4977520547603314
+stellte sich vor den Spiegel und starrte sich [MASK],1.586836066191081
+sich vor den Spiegel und starrte sich in [MASK],1.5281010245239934
+vor den Spiegel und starrte sich in die [MASK],1.4392227217267628
+den Spiegel und starrte sich in die Augen [MASK],1.3782398023899436
+Spiegel und starrte sich in die Augen  [MASK],1.035554628567424
+und starrte sich in die Augen  Ich [MASK],1.429142463545351
+starrte sich in die Augen  Ich  [MASK],1.556276213863128
+sich in die Augen  Ich  bin [MASK],1.5561622952259588
+in die Augen  Ich  bin Sofie [MASK],1.2403527884742933
+die Augen  Ich  bin Sofie Amundsen [MASK],1.1250936969537646
+Augen  Ich  bin Sofie Amundsen  [MASK],1.2469031772252022
+ Ich  bin Sofie Amundsen  sagte [MASK],1.5862792734838047
+Ich  bin Sofie Amundsen  sagte sie [MASK],1.3649604007131635
+ bin Sofie Amundsen  sagte sie  [MASK],0.9849165679293148
+bin Sofie Amundsen  sagte sie  Das [MASK],1.5386424631303794
+Sofie Amundsen  sagte sie  Das Mädchen [MASK],1.5754087569709232
+Amundsen  sagte sie  Das Mädchen im [MASK],1.4602145382029197
+ sagte sie  Das Mädchen im Spiegel [MASK],1.3615003087265727
+sagte sie  Das Mädchen im Spiegel schnitt [MASK],1.523215443596727
+sie  Das Mädchen im Spiegel schnitt als [MASK],1.4291351164099335
+ Das Mädchen im Spiegel schnitt als Antwort [MASK],1.5496095551449884
+Das Mädchen im Spiegel schnitt als Antwort nicht [MASK],1.2465184925618003
+Mädchen im Spiegel schnitt als Antwort nicht einmal [MASK],1.309338963309418
+im Spiegel schnitt als Antwort nicht einmal die [MASK],1.5859326009695232
+Spiegel schnitt als Antwort nicht einmal die kleinste [MASK],1.4467582452873016
+schnitt als Antwort nicht einmal die kleinste Mensch [MASK],0.9193949654851344
+als Antwort nicht einmal die kleinste Mensch  [MASK],0.5962283916226927
+Antwort nicht einmal die kleinste Mensch  Egal [MASK],1.1160711036457789
+nicht einmal die kleinste Mensch  Egal was [MASK],1.2894929216800086
+einmal die kleinste Mensch  Egal was Sofie [MASK],1.4795650746393003
+die kleinste Mensch  Egal was Sofie auch [MASK],1.340727241090136
+kleinste Mensch  Egal was Sofie auch machte [MASK],1.2707721102957206
+Mensch  Egal was Sofie auch machte  [MASK],1.425660514450237
+ Egal was Sofie auch machte  sie [MASK],1.4915320116898168
+Egal was Sofie auch machte  sie machte [MASK],1.0833713204910274
+was Sofie auch machte  sie machte genau [MASK],1.487026990975702
+Sofie auch machte  sie machte genau dasselbe [MASK],1.4757896273801245
+auch machte  sie machte genau dasselbe  [MASK],1.5018467018128785
+machte  sie machte genau dasselbe  Sofie [MASK],1.540923751200119
+ sie machte genau dasselbe  Sofie versuchte [MASK],1.2884150240745407
+sie machte genau dasselbe  Sofie versuchte dem [MASK],1.6022772303214041
+machte genau dasselbe  Sofie versuchte dem Spiegelbild [MASK],1.5682895226410747
+genau dasselbe  Sofie versuchte dem Spiegelbild mit [MASK],1.5092645396508697
+dasselbe  Sofie versuchte dem Spiegelbild mit einer [MASK],1.5487075299401476
+ Sofie versuchte dem Spiegelbild mit einer blitzschnellen [MASK],1.5956969262534806
+Sofie versuchte dem Spiegelbild mit einer blitzschnellen Bewegung [MASK],1.2567384039462355
+versuchte dem Spiegelbild mit einer blitzschnellen Bewegung zuvorzukommen [MASK],0.8499195454505163
+dem Spiegelbild mit einer blitzschnellen Bewegung zuvorzukommen  [MASK],1.1725574401277228
+Spiegelbild mit einer blitzschnellen Bewegung zuvorzukommen  aber [MASK],1.5927254859028217
+mit einer blitzschnellen Bewegung zuvorzukommen  aber die [MASK],1.5085166149393785
+einer blitzschnellen Bewegung zuvorzukommen  aber die andere [MASK],1.5605309383068877
+blitzschnellen Bewegung zuvorzukommen  aber die andere war [MASK],1.5881676995627265
+Bewegung zuvorzukommen  aber die andere war genauso [MASK],1.2929714345459191
+zuvorzukommen  aber die andere war genauso schnell [MASK],1.6069909997966736
+ aber die andere war genauso schnell  [MASK],1.520349702635425
+aber die andere war genauso schnell  Wer [MASK],1.2758546363021883
+die andere war genauso schnell  Wer bist [MASK],1.483080381521424
+andere war genauso schnell  Wer bist du [MASK],0.7938824441595376
+war genauso schnell  Wer bist du  [MASK],0.9760756221680004
+genauso schnell  Wer bist du  fragte [MASK],1.1938927258068177
+schnell  Wer bist du  fragte Sofie [MASK],1.4707948406190203
+ Wer bist du  fragte Sofie  [MASK],1.5634196645844436
+Wer bist du  fragte Sofie  Auch [MASK],1.4702909479228043
+bist du  fragte Sofie  Auch jetzt [MASK],1.552198746928798
+du  fragte Sofie  Auch jetzt bekam [MASK],1.5318038087870338
+ fragte Sofie  Auch jetzt bekam sie [MASK],1.546695563745238
+fragte Sofie  Auch jetzt bekam sie keine [MASK],0.551078352499602
+Sofie  Auch jetzt bekam sie keine Antwort [MASK],1.1813278482450416
+ Auch jetzt bekam sie keine Antwort  [MASK],1.4444665370153935
+Auch jetzt bekam sie keine Antwort  aber [MASK],1.1762232304289177
+jetzt bekam sie keine Antwort  aber für [MASK],1.346571717180145
+bekam sie keine Antwort  aber für einen [MASK],1.5996028279985213
+sie keine Antwort  aber für einen kurzen [MASK],0.8696806156539383
+keine Antwort  aber für einen kurzen Moment [MASK],1.3621842911049689
+Antwort  aber für einen kurzen Moment wusste [MASK],1.4491845500007936
+ aber für einen kurzen Moment wusste sie [MASK],1.5285449996144687
+aber für einen kurzen Moment wusste sie einfach [MASK],1.4316024341411246
+für einen kurzen Moment wusste sie einfach nicht [MASK],1.1389860775446752
+einen kurzen Moment wusste sie einfach nicht  [MASK],1.3576278157277397
+kurzen Moment wusste sie einfach nicht  ob [MASK],0.6159930101735567
+Moment wusste sie einfach nicht  ob sie [MASK],1.4840409146655253
+wusste sie einfach nicht  ob sie oder [MASK],1.2632135516456906
+sie einfach nicht  ob sie oder ihr [MASK],1.4363277735549123
+einfach nicht  ob sie oder ihr Spiegelbild [MASK],1.5785675253762315
+nicht  ob sie oder ihr Spiegelbild diese [MASK],1.52345127268093
+ ob sie oder ihr Spiegelbild diese Frage [MASK],1.3009124982086226
+ob sie oder ihr Spiegelbild diese Frage gestellt [MASK],1.4590155299194172
+sie oder ihr Spiegelbild diese Frage gestellt hatte [MASK],1.3713303959861303
+oder ihr Spiegelbild diese Frage gestellt hatte  [MASK],1.3209947169024312
+ihr Spiegelbild diese Frage gestellt hatte  Sofie [MASK],1.5947984269169182
+Spiegelbild diese Frage gestellt hatte  Sofie drückte [MASK],1.588372830103492
+diese Frage gestellt hatte  Sofie drückte den [MASK],1.589397731451176
+Frage gestellt hatte  Sofie drückte den Zeigefinger [MASK],1.5040653349212199
+gestellt hatte  Sofie drückte den Zeigefinger auf [MASK],1.4961580246392692
+hatte  Sofie drückte den Zeigefinger auf die [MASK],1.538136210402244
+ Sofie drückte den Zeigefinger auf die Nase [MASK],1.594619272444944
+Sofie drückte den Zeigefinger auf die Nase im [MASK],1.587553349496989
+drückte den Zeigefinger auf die Nase im Spiegel [MASK],1.5694660819949933
+den Zeigefinger auf die Nase im Spiegel und [MASK],1.0824464515522334
+Zeigefinger auf die Nase im Spiegel und sagte [MASK],1.5958408732484135
+auf die Nase im Spiegel und sagte  [MASK],1.3588576502101604
+die Nase im Spiegel und sagte  Du [MASK],1.599529751314873
+Nase im Spiegel und sagte  Du  [MASK],1.580433293147103
+im Spiegel und sagte  Du  bist [MASK],1.425583708301288
+Spiegel und sagte  Du  bist  [MASK],1.2964151560177484
+und sagte  Du  bist  ich [MASK],1.433572806506087
+sagte  Du  bist  ich  [MASK],1.4137021300947055
+ Du  bist  ich  Als [MASK],1.4421748492558022
+Du  bist  ich  Als sie [MASK],1.2804309262364089
+ bist  ich  Als sie keine [MASK],1.362737594560393
+bist  ich  Als sie keine Antwort [MASK],1.4464699562317769
+ ich  Als sie keine Antwort bekam [MASK],1.5120007453481803
+ich  Als sie keine Antwort bekam stellte [MASK],1.5532374751693172
+ Als sie keine Antwort bekam stellte sie [MASK],1.5284185752109154
+Als sie keine Antwort bekam stellte sie den [MASK],1.469125610387868
+sie keine Antwort bekam stellte sie den Satz [MASK],0.6893528741140668
+keine Antwort bekam stellte sie den Satz auf [MASK],0.5458314429774572
+Antwort bekam stellte sie den Satz auf den [MASK],0.9740869197394575
+bekam stellte sie den Satz auf den Kopf [MASK],1.1163866163072704
+stellte sie den Satz auf den Kopf und [MASK],1.5815830930923176
+sie den Satz auf den Kopf und sagte [MASK],1.0032144722408776
+den Satz auf den Kopf und sagte  [MASK],1.0014736335406274
+Satz auf den Kopf und sagte  Ich [MASK],1.5455548020928476
+auf den Kopf und sagte  Ich  [MASK],1.481769607643263
+den Kopf und sagte  Ich  bin [MASK],1.4405498776466987
+Kopf und sagte  Ich  bin du [MASK],1.5855554023239682
+und sagte  Ich  bin du  [MASK],1.5656803580245318
+sagte  Ich  bin du  Sofie [MASK],1.2154910850873575
+ Ich  bin du  Sofie Amundsen [MASK],1.5543545787381619
+Ich  bin du  Sofie Amundsen war [MASK],1.599073246791486
+ bin du  Sofie Amundsen war mit [MASK],1.492725197617146
+bin du  Sofie Amundsen war mit ihrem [MASK],1.5631211296701193
+du  Sofie Amundsen war mit ihrem Aussehen [MASK],1.5227263377832327
+ Sofie Amundsen war mit ihrem Aussehen nie [MASK],1.265695854849345
+Sofie Amundsen war mit ihrem Aussehen nie besonders [MASK],1.4502485195181816
+Amundsen war mit ihrem Aussehen nie besonders zufrieden [MASK],0.7070892903324508
+war mit ihrem Aussehen nie besonders zufrieden gewesen [MASK],0.7181434825049542
+mit ihrem Aussehen nie besonders zufrieden gewesen  [MASK],1.5626784928237007
+ihrem Aussehen nie besonders zufrieden gewesen  Sie [MASK],1.325150464649141
+Aussehen nie besonders zufrieden gewesen  Sie hörte [MASK],1.5754463792354887
+nie besonders zufrieden gewesen  Sie hörte oft [MASK],1.3603450819037204
+besonders zufrieden gewesen  Sie hörte oft dass [MASK],1.4215314104306525
+zufrieden gewesen  Sie hörte oft dass sie [MASK],1.587194632290324
+gewesen  Sie hörte oft dass sie schöne [MASK],1.5811235096986556
+ Sie hörte oft dass sie schöne Mandelaugen [MASK],1.558049172351609
+Sie hörte oft dass sie schöne Mandelaugen hätte [MASK],1.0273852651210973
+hörte oft dass sie schöne Mandelaugen hätte  [MASK],1.1761979216938185
+oft dass sie schöne Mandelaugen hätte  aber [MASK],1.355280795017988
+dass sie schöne Mandelaugen hätte  aber das [MASK],1.324984720916815
+sie schöne Mandelaugen hätte  aber das sagten [MASK],1.5573002125569773
+schöne Mandelaugen hätte  aber das sagten sie [MASK],1.4965495898569143
+Mandelaugen hätte  aber das sagten sie wohl [MASK],1.570529447596696
+hätte  aber das sagten sie wohl nur [MASK],1.5700595140719797
+ aber das sagten sie wohl nur  [MASK],1.5160830308540962
+aber das sagten sie wohl nur  weil [MASK],1.4172078006373923
+das sagten sie wohl nur  weil ihre [MASK],1.5696075849867448
+sagten sie wohl nur  weil ihre Nase [MASK],1.5529759406562533
+sie wohl nur  weil ihre Nase zu [MASK],1.6002878363389863
+wohl nur  weil ihre Nase zu klein [MASK],1.1476689361736276
+nur  weil ihre Nase zu klein und [MASK],1.5316054760130147
+ weil ihre Nase zu klein und ihr [MASK],1.5446698983655458
+weil ihre Nase zu klein und ihr Mund [MASK],1.1578478506686765
+ihre Nase zu klein und ihr Mund etwas [MASK],1.5977512676004721
+Nase zu klein und ihr Mund etwas zu [MASK],1.5531041189277996
+zu klein und ihr Mund etwas zu gross [MASK],1.3861733075171683
+klein und ihr Mund etwas zu gross war [MASK],1.3164880927066935
+und ihr Mund etwas zu gross war  [MASK],1.2078581479630208
+ihr Mund etwas zu gross war  Die [MASK],1.543013727765778
+Mund etwas zu gross war  Die Ohren [MASK],1.6040941300565557
+etwas zu gross war  Die Ohren sassen [MASK],1.467880995102456
+zu gross war  Die Ohren sassen ausserdem [MASK],1.546659415413167
+gross war  Die Ohren sassen ausserdem viel [MASK],1.4304526227363845
+war  Die Ohren sassen ausserdem viel zu [MASK],1.5629874037367102
+ Die Ohren sassen ausserdem viel zu nah [MASK],1.4966106847780543
+Die Ohren sassen ausserdem viel zu nah an [MASK],1.4009201230681774
+Ohren sassen ausserdem viel zu nah an den [MASK],1.296300597212598
+sassen ausserdem viel zu nah an den Augen [MASK],1.555469433449771
+ausserdem viel zu nah an den Augen  [MASK],1.5402604172645276
+viel zu nah an den Augen  Am [MASK],1.2899217644388457
+zu nah an den Augen  Am schlimmsten [MASK],1.5819808516594729
+nah an den Augen  Am schlimmsten aber [MASK],1.4294535039368204
+an den Augen  Am schlimmsten aber waren [MASK],1.4001428255968038
+den Augen  Am schlimmsten aber waren die [MASK],1.525303953144054
+Augen  Am schlimmsten aber waren die glatten [MASK],1.5796464598777962
+ Am schlimmsten aber waren die glatten Haare [MASK],1.5675075066432784
+Am schlimmsten aber waren die glatten Haare  [MASK],1.5675075066432784
+schlimmsten aber waren die glatten Haare  die [MASK],1.573421845413115
+aber waren die glatten Haare  die sich [MASK],1.584364347358317
+waren die glatten Haare  die sich einfach [MASK],1.4951357158638818
+die glatten Haare  die sich einfach nicht [MASK],1.3586986739762477
+glatten Haare  die sich einfach nicht legen [MASK],0.7849496818155085
+Haare  die sich einfach nicht legen liessen [MASK],1.520671864280694
+ die sich einfach nicht legen liessen  [MASK],1.6021058266651074
+die sich einfach nicht legen liessen  Manchmal [MASK],1.4461561067657671
+sich einfach nicht legen liessen  Manchmal strich [MASK],1.6001202073450558
+einfach nicht legen liessen  Manchmal strich der [MASK],1.5958153504079338
+nicht legen liessen  Manchmal strich der Vater [MASK],1.582450401879278
+legen liessen  Manchmal strich der Vater ihr [MASK],1.120294287981491
+liessen  Manchmal strich der Vater ihr darüber [MASK],1.4932136189614948
+ Manchmal strich der Vater ihr darüber  [MASK],1.4635435345379626
+Manchmal strich der Vater ihr darüber  und [MASK],1.444646100222297
+strich der Vater ihr darüber  und nannte [MASK],0.9841094431140156
+der Vater ihr darüber  und nannte sie [MASK],1.022737633323993
+Vater ihr darüber  und nannte sie das [MASK],1.1379918258949184
+ihr darüber  und nannte sie das Mädchen [MASK],1.0025855976456786
+darüber  und nannte sie das Mädchen mit [MASK],1.4038326442442892
+ und nannte sie das Mädchen mit den [MASK],0.2421276310936673
+und nannte sie das Mädchen mit den Flachshaaren [MASK],1.194817038726876
+nannte sie das Mädchen mit den Flachshaaren  [MASK],1.5050685972970834
+sie das Mädchen mit den Flachshaaren  nach [MASK],1.3693364783578659
+das Mädchen mit den Flachshaaren  nach einer [MASK],0.9216533999235117
+Mädchen mit den Flachshaaren  nach einer Komposition [MASK],1.5673979943400282
+mit den Flachshaaren  nach einer Komposition von [MASK],1.566075615387496
+den Flachshaaren  nach einer Komposition von Claude [MASK],1.5538476528743
+Flachshaaren  nach einer Komposition von Claude Débussy [MASK],1.5701179102106912
+ nach einer Komposition von Claude Débussy  [MASK],1.4750829585029468
+nach einer Komposition von Claude Débussy  Der [MASK],1.1756995165471757
+einer Komposition von Claude Débussy  Der hatte [MASK],1.603930227132489
+Komposition von Claude Débussy  Der hatte gut [MASK],1.2801342616919027
+von Claude Débussy  Der hatte gut reden [MASK],1.5901855925973691
+Claude Débussy  Der hatte gut reden  [MASK],1.5267198610689996
+Débussy  Der hatte gut reden  schliesslich [MASK],1.3048526841658847
+ Der hatte gut reden  schliesslich war [MASK],1.52685301459019
+Der hatte gut reden  schliesslich war er [MASK],1.4927223159860827
+hatte gut reden  schliesslich war er nicht [MASK],1.599960049707528
+gut reden  schliesslich war er nicht dazu [MASK],1.5386690340223566
+reden  schliesslich war er nicht dazu verurteilt [MASK],1.080521800834588
+ schliesslich war er nicht dazu verurteilt sein [MASK],1.5981908077445242
+schliesslich war er nicht dazu verurteilt sein Leben [MASK],1.5674665691742156
+war er nicht dazu verurteilt sein Leben lang [MASK],1.5314250633046653
+er nicht dazu verurteilt sein Leben lang schwarze [MASK],1.4098631057925992
+nicht dazu verurteilt sein Leben lang schwarze glatt [MASK],1.4528211207507156
+dazu verurteilt sein Leben lang schwarze glatt herabhängende [MASK],1.5124621627785848
+verurteilt sein Leben lang schwarze glatt herabhängende Haare [MASK],1.2743156620983678
+sein Leben lang schwarze glatt herabhängende Haare zu [MASK],1.0112500001635594
+Leben lang schwarze glatt herabhängende Haare zu haben [MASK],1.4092580630181546
+lang schwarze glatt herabhängende Haare zu haben  [MASK],1.3362618537928217
+schwarze glatt herabhängende Haare zu haben  Bei [MASK],1.4280094189689219
+glatt herabhängende Haare zu haben  Bei Sofies [MASK],1.4449624193383659
+herabhängende Haare zu haben  Bei Sofies Haaren [MASK],1.578846448597433
+Haare zu haben  Bei Sofies Haaren halfen [MASK],1.2459353423747754
+zu haben  Bei Sofies Haaren halfen weder [MASK],1.5366222591736567
+haben  Bei Sofies Haaren halfen weder Spray [MASK],1.5994155199726585
+ Bei Sofies Haaren halfen weder Spray noch [MASK],1.5976463670929666
+Bei Sofies Haaren halfen weder Spray noch Flur [MASK],1.5478340535978687
+Sofies Haaren halfen weder Spray noch Flur  [MASK],1.5930179851950848
+Haaren halfen weder Spray noch Flur  Manchmal [MASK],1.5480711575789472
+halfen weder Spray noch Flur  Manchmal fand [MASK],1.4349210618072226
+weder Spray noch Flur  Manchmal fand sie [MASK],1.3495745060836417
+Spray noch Flur  Manchmal fand sie ihr [MASK],1.2556735664139307
+noch Flur  Manchmal fand sie ihr Aussehen [MASK],1.5483901454330722
+Flur  Manchmal fand sie ihr Aussehen so [MASK],1.547951899974846
+ Manchmal fand sie ihr Aussehen so seltsam [MASK],1.2624731822979902
+Manchmal fand sie ihr Aussehen so seltsam  [MASK],1.2624731822979902
+fand sie ihr Aussehen so seltsam  dass [MASK],1.0549768517804188
+sie ihr Aussehen so seltsam  dass sie [MASK],1.5781210193983215
+ihr Aussehen so seltsam  dass sie sich [MASK],1.5393974975584004
+Aussehen so seltsam  dass sie sich fragte [MASK],1.1821825512723565
+so seltsam  dass sie sich fragte  [MASK],1.201950711132978
+seltsam  dass sie sich fragte  ob [MASK],1.478464476603044
+ dass sie sich fragte  ob sie [MASK],1.4945478334284568
+dass sie sich fragte  ob sie vielleicht [MASK],1.5553184686981851
+sie sich fragte  ob sie vielleicht eine [MASK],1.5149890569215083
+sich fragte  ob sie vielleicht eine Missgeburt [MASK],1.540284309738911
+fragte  ob sie vielleicht eine Missgeburt sein [MASK],1.4295062354282004
+ ob sie vielleicht eine Missgeburt sein konnte [MASK],1.5104286055608755
+ob sie vielleicht eine Missgeburt sein konnte  [MASK],1.5104286055608755
+sie vielleicht eine Missgeburt sein konnte  Ihre [MASK],1.4364873637878404
+vielleicht eine Missgeburt sein konnte  Ihre Mutter [MASK],1.515458679207479
+eine Missgeburt sein konnte  Ihre Mutter hatte [MASK],1.5849822849048545
+Missgeburt sein konnte  Ihre Mutter hatte jedenfalls [MASK],1.3750105303205342
+sein konnte  Ihre Mutter hatte jedenfalls von [MASK],1.507491537284144
+konnte  Ihre Mutter hatte jedenfalls von einer [MASK],1.5807093050244585
+ Ihre Mutter hatte jedenfalls von einer schwierigen [MASK],1.4485762137983014
+Ihre Mutter hatte jedenfalls von einer schwierigen Geburt [MASK],1.4606216781125851
+Mutter hatte jedenfalls von einer schwierigen Geburt erzählt [MASK],1.48459476733958
+hatte jedenfalls von einer schwierigen Geburt erzählt  [MASK],1.4316566410012295
+jedenfalls von einer schwierigen Geburt erzählt  Aber [MASK],0.5050296975584304
+von einer schwierigen Geburt erzählt  Aber entschied [MASK],1.5098139126953753
+einer schwierigen Geburt erzählt  Aber entschied wirklich [MASK],1.5461956374543253
+schwierigen Geburt erzählt  Aber entschied wirklich die [MASK],1.2971993391119612
+Geburt erzählt  Aber entschied wirklich die Geburt [MASK],1.2724061198791647
+erzählt  Aber entschied wirklich die Geburt wie [MASK],1.5189786140947186
+ Aber entschied wirklich die Geburt wie jemand [MASK],1.2129054248254842
+Aber entschied wirklich die Geburt wie jemand aussah [MASK],1.1734593916342715
+entschied wirklich die Geburt wie jemand aussah War [MASK],1.5533583148864092
+wirklich die Geburt wie jemand aussah War  [MASK],1.569638496842736
+die Geburt wie jemand aussah War  es [MASK],1.4433920493115475
+Geburt wie jemand aussah War  es nicht [MASK],1.6028745416670205
+wie jemand aussah War  es nicht ein [MASK],1.4483380117968407
+jemand aussah War  es nicht ein bisschen [MASK],1.5628234249585022
+aussah War  es nicht ein bisschen komisch [MASK],1.5269753991998931
+War  es nicht ein bisschen komisch dass [MASK],1.5055467131638622
+ es nicht ein bisschen komisch dass sie [MASK],1.5827437271684068
+es nicht ein bisschen komisch dass sie nicht [MASK],1.5863448639294377
+nicht ein bisschen komisch dass sie nicht wusste [MASK],1.1023279106678192
+ein bisschen komisch dass sie nicht wusste wer [MASK],1.5181780176491517
+bisschen komisch dass sie nicht wusste wer sie [MASK],1.4411114174645907
+komisch dass sie nicht wusste wer sie war [MASK],1.0280595762969864
+dass sie nicht wusste wer sie war  [MASK],1.0589260800171432
+sie nicht wusste wer sie war  Und [MASK],1.4165627188680854
+nicht wusste wer sie war  Und war [MASK],1.5895756711861306
+wusste wer sie war  Und war es [MASK],1.546282640296154
+wer sie war  Und war es nicht [MASK],1.5043785682443291
+sie war  Und war es nicht auch [MASK],1.5804888095159355
+war  Und war es nicht auch eine [MASK],1.5395664048170723
+ Und war es nicht auch eine Zumutung [MASK],1.438088148823459
+Und war es nicht auch eine Zumutung dass [MASK],1.6041073708836997
+war es nicht auch eine Zumutung dass sie [MASK],1.5996216546540367
+es nicht auch eine Zumutung dass sie nicht [MASK],1.5263022636605788
+nicht auch eine Zumutung dass sie nicht über [MASK],1.4777556794119298
+auch eine Zumutung dass sie nicht über ihr [MASK],1.3857517401048194
+eine Zumutung dass sie nicht über ihr eigenes [MASK],1.202768976125949
+Zumutung dass sie nicht über ihr eigenes Aussehen [MASK],1.4489976568803118
+dass sie nicht über ihr eigenes Aussehen bestimmen [MASK],1.3822411749684382
+sie nicht über ihr eigenes Aussehen bestimmen konnte [MASK],1.3973724844793722
+nicht über ihr eigenes Aussehen bestimmen konnte  [MASK],1.3508027891367471
+über ihr eigenes Aussehen bestimmen konnte  Das [MASK],1.3502768558316884
+ihr eigenes Aussehen bestimmen konnte  Das war [MASK],1.5085424368302318
+eigenes Aussehen bestimmen konnte  Das war ihr [MASK],1.55479099288833
+Aussehen bestimmen konnte  Das war ihr einfach [MASK],1.571090934772309
+bestimmen konnte  Das war ihr einfach in [MASK],0.3180778731270382
+konnte  Das war ihr einfach in die [MASK],1.1079190387040365
+ Das war ihr einfach in die Wiege [MASK],1.5661465573886206
+Das war ihr einfach in die Wiege gelegt [MASK],1.0520109803726847
+war ihr einfach in die Wiege gelegt worden [MASK],1.4693198273265826
+ihr einfach in die Wiege gelegt worden  [MASK],1.4271353435016412
+einfach in die Wiege gelegt worden  Ihre [MASK],1.6020134323111257
+in die Wiege gelegt worden  Ihre Freunde [MASK],1.533027905253541
+die Wiege gelegt worden  Ihre Freunde konnte [MASK],1.5898846683765944
+Wiege gelegt worden  Ihre Freunde konnte sie [MASK],1.0036223653633793
+gelegt worden  Ihre Freunde konnte sie vielleicht [MASK],1.5906600294134272
+worden  Ihre Freunde konnte sie vielleicht wählen [MASK],1.388312385385952
+ Ihre Freunde konnte sie vielleicht wählen  [MASK],0.9913600546138897
+Ihre Freunde konnte sie vielleicht wählen  sich [MASK],1.375738358095893
+Freunde konnte sie vielleicht wählen  sich selber [MASK],0.9701433592561928
+konnte sie vielleicht wählen  sich selber hatte [MASK],1.404283258988715
+sie vielleicht wählen  sich selber hatte sie [MASK],1.4426258757392179
+vielleicht wählen  sich selber hatte sie aber [MASK],1.4315671599866093
+wählen  sich selber hatte sie aber nicht [MASK],1.570582678865605
+ sich selber hatte sie aber nicht gewählt [MASK],0.6181411490697027
+sich selber hatte sie aber nicht gewählt  [MASK],0.6181411490697027
+selber hatte sie aber nicht gewählt  Sie [MASK],1.5999543441486446
+hatte sie aber nicht gewählt  Sie hatte [MASK],1.296255282915764
+sie aber nicht gewählt  Sie hatte sich [MASK],1.512888043104428
+aber nicht gewählt  Sie hatte sich nicht [MASK],1.4875689277970545
+nicht gewählt  Sie hatte sich nicht einmal [MASK],1.512107682591509
+gewählt  Sie hatte sich nicht einmal dafür [MASK],1.0495102803411587
+ Sie hatte sich nicht einmal dafür entschieden [MASK],1.1043122774446346
+Sie hatte sich nicht einmal dafür entschieden ein [MASK],1.577400462969917
+hatte sich nicht einmal dafür entschieden ein Mensch [MASK],1.3563320588447731
+sich nicht einmal dafür entschieden ein Mensch zu [MASK],0.5763005567340111
+nicht einmal dafür entschieden ein Mensch zu sein [MASK],1.116584828780022
+einmal dafür entschieden ein Mensch zu sein  [MASK],1.2033892378296567
+dafür entschieden ein Mensch zu sein  Was [MASK],1.47278712943395
+entschieden ein Mensch zu sein  Was war [MASK],1.4718318363590899
+ein Mensch zu sein  Was war ein [MASK],1.1637519170458352
+Mensch zu sein  Was war ein Mensch [MASK],1.3365058614849987
+zu sein  Was war ein Mensch  [MASK],1.113187075872673
+sein  Was war ein Mensch  Sofie [MASK],1.3912953534739003
+ Was war ein Mensch  Sofie sah [MASK],1.3692133087081217
+Was war ein Mensch  Sofie sah wieder [MASK],1.5084473995312218
+war ein Mensch  Sofie sah wieder das [MASK],1.441460513051691
+ein Mensch  Sofie sah wieder das Mädchen [MASK],1.5662725299304103
+Mensch  Sofie sah wieder das Mädchen im [MASK],1.5809716189918126
+ Sofie sah wieder das Mädchen im Spiegel [MASK],1.4076654863289364
+Sofie sah wieder das Mädchen im Spiegel an [MASK],1.297249464719065
+sah wieder das Mädchen im Spiegel an  [MASK],1.5312345444584567
+wieder das Mädchen im Spiegel an  Ich [MASK],1.3801499033520601
+das Mädchen im Spiegel an  Ich glaube [MASK],1.4053348144626696
+Mädchen im Spiegel an  Ich glaube ich [MASK],1.307397434040276
+im Spiegel an  Ich glaube ich mache [MASK],1.5620560963214352
+Spiegel an  Ich glaube ich mache jetzt [MASK],1.5402756955999646
+an  Ich glaube ich mache jetzt lieber [MASK],1.5803212928184296
+ Ich glaube ich mache jetzt lieber meine [MASK],1.5753749558140437
+Ich glaube ich mache jetzt lieber meine Bio [MASK],1.513728094970006
+glaube ich mache jetzt lieber meine Bio Aufgaben [MASK],1.5933416843771344
+ich mache jetzt lieber meine Bio Aufgaben  [MASK],1.5981748604894301
+mache jetzt lieber meine Bio Aufgaben  sagte [MASK],1.586938496601575
+jetzt lieber meine Bio Aufgaben  sagte sie [MASK],1.199182980619028
+lieber meine Bio Aufgaben  sagte sie fast [MASK],1.4738119430655652
+meine Bio Aufgaben  sagte sie fast  [MASK],1.2907680645305366
+Bio Aufgaben  sagte sie fast  wie [MASK],1.6039552441040392
+Aufgaben  sagte sie fast  wie um [MASK],1.3889353368699802
+ sagte sie fast  wie um sich [MASK],0.5753637353919451
+sagte sie fast  wie um sich zu [MASK],1.2987059433216217
+sie fast  wie um sich zu entschuldigen [MASK],1.2817877133222808
+fast  wie um sich zu entschuldigen  [MASK],1.3352926043411526
+ wie um sich zu entschuldigen  Im [MASK],1.4417484447944549
+wie um sich zu entschuldigen  Im nächsten [MASK],1.3097634699518885
+um sich zu entschuldigen  Im nächsten Moment [MASK],1.4338181562577215
+sich zu entschuldigen  Im nächsten Moment stand [MASK],1.5368801920714898
+zu entschuldigen  Im nächsten Moment stand sie [MASK],1.1914299261829633
+entschuldigen  Im nächsten Moment stand sie draussen [MASK],1.524919881095741
+ Im nächsten Moment stand sie draussen im [MASK],1.5959348784886989
+Im nächsten Moment stand sie draussen im Flur [MASK],1.4766305601875267
+nächsten Moment stand sie draussen im Flur  [MASK],1.4052329873002622
+Moment stand sie draussen im Flur  Nein [MASK],1.3000735668768473
+stand sie draussen im Flur  Nein  [MASK],1.3482459060999663
+sie draussen im Flur  Nein  ich [MASK],1.5808004963343942
+draussen im Flur  Nein  ich gehe [MASK],1.5013982138537507
+im Flur  Nein  ich gehe lieber [MASK],1.223797210516788
+Flur  Nein  ich gehe lieber in [MASK],1.1902656574760333
+ Nein  ich gehe lieber in den [MASK],1.175657151652517
+Nein  ich gehe lieber in den Garten [MASK],1.2031518299745705
+ ich gehe lieber in den Garten dachte [MASK],1.5321918984177627
+ich gehe lieber in den Garten dachte sie [MASK],0.9469213781480762
+gehe lieber in den Garten dachte sie dort [MASK],1.565276373050209
+lieber in den Garten dachte sie dort  [MASK],1.5394740931715423
+in den Garten dachte sie dort  Sofie [MASK],1.261429715114851
+den Garten dachte sie dort  Sofie scheuchte [MASK],0.9513457167030152
+Garten dachte sie dort  Sofie scheuchte die [MASK],1.585146841055318
+dachte sie dort  Sofie scheuchte die Katze [MASK],1.24092825606923
+sie dort  Sofie scheuchte die Katze hinaus [MASK],0.8628269851302235
+dort  Sofie scheuchte die Katze hinaus auf [MASK],1.4762188345404785
+ Sofie scheuchte die Katze hinaus auf die [MASK],1.5974755366997482
+Sofie scheuchte die Katze hinaus auf die Treppe [MASK],1.5306579659512287
+scheuchte die Katze hinaus auf die Treppe  [MASK],1.5793638497982314
+die Katze hinaus auf die Treppe  und [MASK],1.2237421534886648
+Katze hinaus auf die Treppe  und schloss [MASK],1.605301983744945
+hinaus auf die Treppe  und schloss hinter [MASK],1.5701776442705022
+auf die Treppe  und schloss hinter sich [MASK],1.4172611563879651
+die Treppe  und schloss hinter sich die [MASK],1.5622365252620618
+Treppe  und schloss hinter sich die Tür [MASK],1.5237475545648418
+ und schloss hinter sich die Tür  [MASK],1.4687618348511293

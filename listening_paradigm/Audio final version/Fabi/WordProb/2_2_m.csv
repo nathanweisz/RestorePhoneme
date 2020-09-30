@@ -1,0 +1,642 @@
+Context,Word,Probability
+        [MASK],,1.6024438309614197e-07
+        [MASK],Es,3.394813757040538e-05
+       Es [MASK],war,0.0075367409735918045
+      Es war [MASK],der,0.00020299189782235771
+     Es war der [MASK],neunte,1.859743679233361e-05
+    Es war der neunte [MASK],November,0.0005512820789590478
+   Es war der neunte November [MASK],,3.5404427762841806e-05
+  Es war der neunte November  [MASK],Nur,3.376984736291888e-08
+ Es war der neunte November  Nur [MASK],noch,0.00010249835759168491
+Es war der neunte November  Nur noch [MASK],dreieinhalb,0.0007984096300788224
+war der neunte November  Nur noch dreieinhalb [MASK],Wochen,0.05908704921603203
+der neunte November  Nur noch dreieinhalb Wochen [MASK],bis,0.0007818876765668392
+neunte November  Nur noch dreieinhalb Wochen bis [MASK],,5.18249464676046e-07
+November  Nur noch dreieinhalb Wochen bis  [MASK],zur,0.00028936448507010937
+ Nur noch dreieinhalb Wochen bis  zur [MASK],Schultern,9.913458143273601e-07
+Nur noch dreieinhalb Wochen bis  zur Schultern [MASK],,1.2980798658190906e-07
+noch dreieinhalb Wochen bis  zur Schultern  [MASK],Ziemlich,2.262446514578187e-07
+dreieinhalb Wochen bis  zur Schultern  Ziemlich [MASK],knapp,8.956255624070764e-05
+Wochen bis  zur Schultern  Ziemlich knapp [MASK],kalkuliert,1.294477260671556e-05
+bis  zur Schultern  Ziemlich knapp kalkuliert [MASK],,1.3105865264151362e-06
+ zur Schultern  Ziemlich knapp kalkuliert  [MASK],wenn,1.019520186673617e-05
+zur Schultern  Ziemlich knapp kalkuliert  wenn [MASK],der,0.002002425491809845
+Schultern  Ziemlich knapp kalkuliert  wenn der [MASK],Laden,0.0006529481033794582
+ Ziemlich knapp kalkuliert  wenn der Laden [MASK],in,0.00043011517846025527
+Ziemlich knapp kalkuliert  wenn der Laden in [MASK],aller,2.6174384402111173e-05
+knapp kalkuliert  wenn der Laden in aller [MASK],Munde,0.001038581714965403
+kalkuliert  wenn der Laden in aller Munde [MASK],sein,0.0016350988298654556
+ wenn der Laden in aller Munde sein [MASK],sollte,0.11281758546829224
+wenn der Laden in aller Munde sein sollte [MASK],,5.067563506599981e-07
+der Laden in aller Munde sein sollte  [MASK],bevor,1.336492732662009e-05
+Laden in aller Munde sein sollte  bevor [MASK],das,0.00011834182805614546
+in aller Munde sein sollte  bevor das [MASK],wichtige,0.0003043835167773068
+aller Munde sein sollte  bevor das wichtige [MASK],Weihnachtsgeschäft,6.596289313165471e-05
+Munde sein sollte  bevor das wichtige Weihnachtsgeschäft [MASK],losging,0.012666536495089531
+sein sollte  bevor das wichtige Weihnachtsgeschäft losging [MASK],,7.704297217969724e-07
+sollte  bevor das wichtige Weihnachtsgeschäft losging  [MASK],Und,2.219344196419115e-06
+ bevor das wichtige Weihnachtsgeschäft losging  Und [MASK],bevor,0.000452517211670056
+bevor das wichtige Weihnachtsgeschäft losging  Und bevor [MASK],wir,0.0005769820418208838
+das wichtige Weihnachtsgeschäft losging  Und bevor wir [MASK],Bilder,6.669450522167608e-05
+wichtige Weihnachtsgeschäft losging  Und bevor wir Bilder [MASK],von,0.0008182355668395758
+Weihnachtsgeschäft losging  Und bevor wir Bilder von [MASK],den,0.00046322151320055127
+losging  Und bevor wir Bilder von den [MASK],Keksen,3.4520910503488267e-06
+ Und bevor wir Bilder von den Keksen [MASK],machen,0.07868402451276779
+Und bevor wir Bilder von den Keksen machen [MASK],können,0.007446407340466976
+bevor wir Bilder von den Keksen machen können [MASK],,1.2010949603791232e-06
+wir Bilder von den Keksen machen können  [MASK],müssen,0.0005066241719760001
+Bilder von den Keksen machen können  müssen [MASK],sie,0.0005462663830257952
+von den Keksen machen können  müssen sie [MASK],verziert,8.559842171962373e-06
+den Keksen machen können  müssen sie verziert [MASK],werden,0.06859519332647324
+Keksen machen können  müssen sie verziert werden [MASK],,7.515230322496791e-07
+machen können  müssen sie verziert werden  [MASK],fügte,1.0625996083035716e-06
+können  müssen sie verziert werden  fügte [MASK],Sadie,7.353072533078375e-07
+ müssen sie verziert werden  fügte Sadie [MASK],hinzu,0.00015230740245897323
+müssen sie verziert werden  fügte Sadie hinzu [MASK],,1.226804471343712e-07
+sie verziert werden  fügte Sadie hinzu  [MASK],während,1.0681528692657594e-05
+verziert werden  fügte Sadie hinzu  während [MASK],sie,0.0037789931520819664
+werden  fügte Sadie hinzu  während sie [MASK],an,0.00611453503370285
+ fügte Sadie hinzu  während sie an [MASK],die,0.0024396120570600033
+fügte Sadie hinzu  während sie an die [MASK],verschiedenen,0.0006041683373041451
+Sadie hinzu  während sie an die verschiedenen [MASK],Entwürfe,0.0006983919302001595
+hinzu  während sie an die verschiedenen Entwürfe [MASK],dachte,0.001158117433078587
+ während sie an die verschiedenen Entwürfe dachte [MASK],,9.096841040445725e-07
+während sie an die verschiedenen Entwürfe dachte  [MASK],die,1.3366027815209236e-05
+sie an die verschiedenen Entwürfe dachte  die [MASK],auf,6.990246765781194e-05
+an die verschiedenen Entwürfe dachte  die auf [MASK],dem,0.007491203024983406
+die verschiedenen Entwürfe dachte  die auf dem [MASK],Esstisch,4.7524604269710835e-06
+verschiedenen Entwürfe dachte  die auf dem Esstisch [MASK],ihres,0.0001861270284280181
+Entwürfe dachte  die auf dem Esstisch ihres [MASK],winzigen,1.1140283504573745e-06
+dachte  die auf dem Esstisch ihres winzigen [MASK],Drei,1.9526478354237042e-06
+ die auf dem Esstisch ihres winzigen Drei [MASK],zimmer,1.395299591422372e-06
+die auf dem Esstisch ihres winzigen Drei zimmer [MASK],Cottages,3.661416201339307e-07
+auf dem Esstisch ihres winzigen Drei zimmer Cottages [MASK],verteilt,0.00045622047036886215
+dem Esstisch ihres winzigen Drei zimmer Cottages verteilt [MASK],lagen,0.00010607159492792562
+Esstisch ihres winzigen Drei zimmer Cottages verteilt lagen [MASK],,3.5816779018205125e-06
+ihres winzigen Drei zimmer Cottages verteilt lagen  [MASK],in,0.0027449659537523985
+winzigen Drei zimmer Cottages verteilt lagen  in [MASK],dem,0.0016288069309666753
+Drei zimmer Cottages verteilt lagen  in dem [MASK],sie,9.558290912536904e-06
+zimmer Cottages verteilt lagen  in dem sie [MASK],mit,0.0015085968188941479
+Cottages verteilt lagen  in dem sie mit [MASK],Lissy,1.7649981600698084e-06
+verteilt lagen  in dem sie mit Lissy [MASK],wohnte,0.00011135946988360956
+lagen  in dem sie mit Lissy wohnte [MASK],,3.7472573239938356e-06
+ in dem sie mit Lissy wohnte  [MASK],Zuerst,5.1939576195536574e-08
+in dem sie mit Lissy wohnte  Zuerst [MASK],,1.246175088454038e-06
+dem sie mit Lissy wohnte  Zuerst  [MASK],hatten,0.00025663370615802705
+sie mit Lissy wohnte  Zuerst  hatten [MASK],sie,0.0008564316667616367
+mit Lissy wohnte  Zuerst  hatten sie [MASK],mit,0.0008759780321270227
+Lissy wohnte  Zuerst  hatten sie mit [MASK],nur,9.712690371088684e-05
+wohnte  Zuerst  hatten sie mit nur [MASK],wenigen,0.1503010094165802
+ Zuerst  hatten sie mit nur wenigen [MASK],Designs,3.2673899568180786e-06
+Zuerst  hatten sie mit nur wenigen Designs [MASK],geplant,0.0010043890215456486
+ hatten sie mit nur wenigen Designs geplant [MASK],,5.699872929199046e-08
+hatten sie mit nur wenigen Designs geplant  [MASK],aber,1.1495736544020474e-05
+sie mit nur wenigen Designs geplant  aber [MASK],Cat,1.9686603991431184e-06
+mit nur wenigen Designs geplant  aber Cat [MASK],,2.48460878538026e-08
+nur wenigen Designs geplant  aber Cat  [MASK],hatte,1.5615063603036106e-05
+wenigen Designs geplant  aber Cat  hatte [MASK],immer,0.0003838488191831857
+Designs geplant  aber Cat  hatte immer [MASK],mehr,0.00931629166007042
+geplant  aber Cat  hatte immer mehr [MASK],gewollt,1.1014176379831042e-05
+ aber Cat  hatte immer mehr gewollt [MASK],,2.7107992295327676e-08
+aber Cat  hatte immer mehr gewollt  [MASK],Eine,3.807454618254269e-07
+Cat  hatte immer mehr gewollt  Eine [MASK],Willkommen,5.629166821563558e-07
+ hatte immer mehr gewollt  Eine Willkommen [MASK],im,0.00036269979318603873
+hatte immer mehr gewollt  Eine Willkommen im [MASK],Leben,0.02112116850912571
+immer mehr gewollt  Eine Willkommen im Leben [MASK],Baby,2.6486761271371506e-05
+mehr gewollt  Eine Willkommen im Leben Baby [MASK],Serie,1.828724634833634e-05
+gewollt  Eine Willkommen im Leben Baby Serie [MASK],in,0.0001162383341579698
+ Eine Willkommen im Leben Baby Serie in [MASK],Rosa,6.134752038633451e-05
+Eine Willkommen im Leben Baby Serie in Rosa [MASK],Blau,0.0025745832826942205
+Willkommen im Leben Baby Serie in Rosa Blau [MASK],und,0.0012355124345049262
+im Leben Baby Serie in Rosa Blau und [MASK],Gelb,0.04820680245757103
+Leben Baby Serie in Rosa Blau und Gelb [MASK],,5.227961082709953e-06
+Baby Serie in Rosa Blau und Gelb  [MASK],mit,0.0003420247812755406
+Serie in Rosa Blau und Gelb  mit [MASK],kleinen,2.3899665393400937e-05
+in Rosa Blau und Gelb  mit kleinen [MASK],Element,5.027740826335503e-06
+Rosa Blau und Gelb  mit kleinen Element [MASK],,1.805655784892224e-07
+Blau und Gelb  mit kleinen Element  [MASK],Schmetterlinge,8.536054565411177e-07
+und Gelb  mit kleinen Element  Schmetterlinge [MASK],,1.216149848914938e-05
+Gelb  mit kleinen Element  Schmetterlinge  [MASK],Vögel,0.00019347103079780936
+ mit kleinen Element  Schmetterlinge  Vögel [MASK],und,0.0014873449690639973
+mit kleinen Element  Schmetterlinge  Vögel und [MASK],Bienchen,9.832058367464924e-07
+kleinen Element  Schmetterlinge  Vögel und Bienchen [MASK],,5.731546934839571e-06
+Element  Schmetterlinge  Vögel und Bienchen  [MASK],die,1.5343337508966215e-05
+ Schmetterlinge  Vögel und Bienchen  die [MASK],darum,2.2766222684822424e-07
+Schmetterlinge  Vögel und Bienchen  die darum [MASK],bettelten,4.11883866036078e-06
+ Vögel und Bienchen  die darum bettelten [MASK],angeknabbert,2.054077185675851e-06
+Vögel und Bienchen  die darum bettelten angeknabbert [MASK],zu,5.860610690433532e-05
+und Bienchen  die darum bettelten angeknabbert zu [MASK],werden,0.014400143176317215
+Bienchen  die darum bettelten angeknabbert zu werden [MASK],,5.454785423353314e-06
+ die darum bettelten angeknabbert zu werden  [MASK],Personalisierbare,1.1667663102343795e-06
+die darum bettelten angeknabbert zu werden  Personalisierbare [MASK],Geburtstags,3.7296317145774083e-07
+darum bettelten angeknabbert zu werden  Personalisierbare Geburtstags [MASK],Ballons,4.321919277572306e-06
+bettelten angeknabbert zu werden  Personalisierbare Geburtstags Ballons [MASK],,6.718717486364767e-06
+angeknabbert zu werden  Personalisierbare Geburtstags Ballons  [MASK],Individuell,5.132319984113565e-06
+zu werden  Personalisierbare Geburtstags Ballons  Individuell [MASK],verzierte,0.00023353037249762565
+werden  Personalisierbare Geburtstags Ballons  Individuell verzierte [MASK],Buchstaben,0.002931807655841112
+ Personalisierbare Geburtstags Ballons  Individuell verzierte Buchstaben [MASK],,4.303551577322651e-06
+Personalisierbare Geburtstags Ballons  Individuell verzierte Buchstaben  [MASK],für,0.0007128316210582852
+Geburtstags Ballons  Individuell verzierte Buchstaben  für [MASK],ein,0.00019385310588404536
+Ballons  Individuell verzierte Buchstaben  für ein [MASK],persönliches,2.1294372345437296e-06
+ Individuell verzierte Buchstaben  für ein persönliches [MASK],Dankeschön,0.00012556358706206083
+Individuell verzierte Buchstaben  für ein persönliches Dankeschön [MASK],,2.4448214389849454e-05
+verzierte Buchstaben  für ein persönliches Dankeschön  [MASK],Und,1.0207748346147127e-05
+Buchstaben  für ein persönliches Dankeschön  Und [MASK],nicht,0.00048633094411343336
+ für ein persönliches Dankeschön  Und nicht [MASK],zu,0.0013416365254670382
+für ein persönliches Dankeschön  Und nicht zu [MASK],vergessen,0.09976443648338318
+ein persönliches Dankeschön  Und nicht zu vergessen [MASK],,1.1873715948240715e-06
+persönliches Dankeschön  Und nicht zu vergessen  [MASK],die,2.7280752874503378e-06
+Dankeschön  Und nicht zu vergessen  die [MASK],Weihnachtsedition,0.0005948622711002827
+ Und nicht zu vergessen  die Weihnachtsedition [MASK],,4.3118944859088515e-07
+Und nicht zu vergessen  die Weihnachtsedition  [MASK],essbare,3.247437416575849e-05
+nicht zu vergessen  die Weihnachtsedition  essbare [MASK],Weihnachtskugeln,0.0028332765214145184
+zu vergessen  die Weihnachtsedition  essbare Weihnachtskugeln [MASK],,2.9852226361981593e-05
+vergessen  die Weihnachtsedition  essbare Weihnachtskugeln  [MASK],glänzend,6.160550469758164e-08
+ die Weihnachtsedition  essbare Weihnachtskugeln  glänzend [MASK],rot,0.00041087859426625073
+die Weihnachtsedition  essbare Weihnachtskugeln  glänzend rot [MASK],weisse,2.8546584871946834e-05
+Weihnachtsedition  essbare Weihnachtskugeln  glänzend rot weisse [MASK],Zuckerstangen,0.00011393691966077313
+ essbare Weihnachtskugeln  glänzend rot weisse Zuckerstangen [MASK],,6.293137994362041e-05
+essbare Weihnachtskugeln  glänzend rot weisse Zuckerstangen  [MASK],Schneeflocken,2.813027094816789e-05
+Weihnachtskugeln  glänzend rot weisse Zuckerstangen  Schneeflocken [MASK],,2.6287776563549414e-05
+ glänzend rot weisse Zuckerstangen  Schneeflocken  [MASK],und,0.0006414862000383437
+glänzend rot weisse Zuckerstangen  Schneeflocken  und [MASK],farbenfrohe,6.576844043593155e-06
+rot weisse Zuckerstangen  Schneeflocken  und farbenfrohe [MASK],Plätzchen,4.342162810644368e-06
+weisse Zuckerstangen  Schneeflocken  und farbenfrohe Plätzchen [MASK],,3.5889828723156825e-05
+Zuckerstangen  Schneeflocken  und farbenfrohe Plätzchen  [MASK],in,0.0008379228529520333
+ Schneeflocken  und farbenfrohe Plätzchen  in [MASK],Form,0.00040835217805579305
+Schneeflocken  und farbenfrohe Plätzchen  in Form [MASK],von,0.16688798367977142
+ und farbenfrohe Plätzchen  in Form von [MASK],Geschenkpaketen,0.0003948915400542319
+und farbenfrohe Plätzchen  in Form von Geschenkpaketen [MASK],,1.3486668649420608e-05
+farbenfrohe Plätzchen  in Form von Geschenkpaketen  [MASK],Und,1.2270317711227108e-05
+Plätzchen  in Form von Geschenkpaketen  Und [MASK],das,0.03588331118226051
+ in Form von Geschenkpaketen  Und das [MASK],war,0.0013109829742461443
+in Form von Geschenkpaketen  Und das war [MASK],nur,0.0003164346271660179
+Form von Geschenkpaketen  Und das war nur [MASK],der,0.0001155112695414573
+von Geschenkpaketen  Und das war nur der [MASK],Hose,5.2909872465534136e-06
+Geschenkpaketen  Und das war nur der Hose [MASK],,5.535657692234963e-07
+ Und das war nur der Hose  [MASK],Cat,2.157956032533548e-06
+Und das war nur der Hose  Cat [MASK],,4.069618952939891e-08
+das war nur der Hose  Cat  [MASK],wünschte,2.956435878331831e-07
+war nur der Hose  Cat  wünschte [MASK],sich,3.698038563015871e-05
+nur der Hose  Cat  wünschte sich [MASK],darüber,6.585833034478128e-05
+der Hose  Cat  wünschte sich darüber [MASK],hinaus,0.2738887667655945
+Hose  Cat  wünschte sich darüber hinaus [MASK],,5.52656942431895e-08
+ Cat  wünschte sich darüber hinaus  [MASK],eine,0.00871849711984396
+Cat  wünschte sich darüber hinaus  eine [MASK],Reihe,0.0018494465621188283
+ wünschte sich darüber hinaus  eine Reihe [MASK],unwiderstehlicher,0.00018921347509603947
+wünschte sich darüber hinaus  eine Reihe unwiderstehlicher [MASK],Ausstellungsexemplare,1.952214688571985e-06
+sich darüber hinaus  eine Reihe unwiderstehlicher Ausstellungsexemplare [MASK],,2.0498646335909143e-05
+darüber hinaus  eine Reihe unwiderstehlicher Ausstellungsexemplare  [MASK],zur,0.0005960577400401235
+hinaus  eine Reihe unwiderstehlicher Ausstellungsexemplare  zur [MASK],Dekoration,1.2801495358871762e-05
+ eine Reihe unwiderstehlicher Ausstellungsexemplare  zur Dekoration [MASK],des,0.0022255918011069298
+eine Reihe unwiderstehlicher Ausstellungsexemplare  zur Dekoration des [MASK],Ladens,0.0002325019013369456
+Reihe unwiderstehlicher Ausstellungsexemplare  zur Dekoration des Ladens [MASK],,0.000291511882096529
+unwiderstehlicher Ausstellungsexemplare  zur Dekoration des Ladens  [MASK],und,0.0011249440722167492
+Ausstellungsexemplare  zur Dekoration des Ladens  und [MASK],des,0.007486460730433464
+ zur Dekoration des Ladens  und des [MASK],Schaufensters,2.1765142719232244e-06
+zur Dekoration des Ladens  und des Schaufensters [MASK],,4.111031739739701e-05
+Dekoration des Ladens  und des Schaufensters  [MASK],mit,0.00025811090017668903
+des Ladens  und des Schaufensters  mit [MASK],denen,0.0007504918612539768
+Ladens  und des Schaufensters  mit denen [MASK],Kunden,0.00016796300769783556
+ und des Schaufensters  mit denen Kunden [MASK],,4.566878851619549e-05
+und des Schaufensters  mit denen Kunden  [MASK],verführt,1.7453865439165384e-05
+des Schaufensters  mit denen Kunden  verführt [MASK],werden,0.274506151676178
+Schaufensters  mit denen Kunden  verführt werden [MASK],sollten,0.02115214616060257
+ mit denen Kunden  verführt werden sollten [MASK],,7.76355932430306e-07
+mit denen Kunden  verführt werden sollten  [MASK],hereinzukommen,1.9685121799284389e-07
+denen Kunden  verführt werden sollten  hereinzukommen [MASK],und,0.0022873845882713795
+Kunden  verführt werden sollten  hereinzukommen und [MASK],etwas,0.00012756389332935214
+ verführt werden sollten  hereinzukommen und etwas [MASK],zu,0.03728891536593437
+verführt werden sollten  hereinzukommen und etwas zu [MASK],kaufen,0.002793586812913418
+werden sollten  hereinzukommen und etwas zu kaufen [MASK],,9.509711276223243e-07
+sollten  hereinzukommen und etwas zu kaufen  [MASK],Das,9.526399935566587e-07
+ hereinzukommen und etwas zu kaufen  Das [MASK],,9.18602971466953e-09
+hereinzukommen und etwas zu kaufen  Das  [MASK],alles,0.009169542230665684
+und etwas zu kaufen  Das  alles [MASK],machte,5.8192028518533334e-05
+etwas zu kaufen  Das  alles machte [MASK],auch,7.072735752444714e-05
+zu kaufen  Das  alles machte auch [MASK],in,3.1814455724088475e-05
+kaufen  Das  alles machte auch in [MASK],Sadies,7.270775199685886e-07
+ Das  alles machte auch in Sadies [MASK],Augen,0.0016775320982560515
+Das  alles machte auch in Sadies Augen [MASK],durchaus,2.393097418007528e-07
+ alles machte auch in Sadies Augen durchaus [MASK],Sinn,0.4442177414894104
+alles machte auch in Sadies Augen durchaus Sinn [MASK],,2.2745760475118004e-07
+machte auch in Sadies Augen durchaus Sinn  [MASK],nur,2.074632675430621e-06
+auch in Sadies Augen durchaus Sinn  nur [MASK],dass,4.848340540775098e-05
+in Sadies Augen durchaus Sinn  nur dass [MASK],es,0.01537273358553648
+Sadies Augen durchaus Sinn  nur dass es [MASK],eine,0.000785480544436723
+Augen durchaus Sinn  nur dass es eine [MASK],enorme,0.0011412287130951881
+durchaus Sinn  nur dass es eine enorme [MASK],Herausforderung,0.015222026966512203
+Sinn  nur dass es eine enorme Herausforderung [MASK],war,0.021078316494822502
+ nur dass es eine enorme Herausforderung war [MASK],,2.254131004519877e-06
+nur dass es eine enorme Herausforderung war  [MASK],all,8.438590839432436e-07
+dass es eine enorme Herausforderung war  all [MASK],die,0.008835187181830406
+es eine enorme Herausforderung war  all die [MASK],Kekse,1.6831558241392486e-05
+eine enorme Herausforderung war  all die Kekse [MASK],rechtzeitig,2.2651876861345954e-05
+enorme Herausforderung war  all die Kekse rechtzeitig [MASK],zur,3.183148510288447e-05
+Herausforderung war  all die Kekse rechtzeitig zur [MASK],Eröffnung,0.024900071322917938
+war  all die Kekse rechtzeitig zur Eröffnung [MASK],fertigzustellen,0.16234327852725983
+ all die Kekse rechtzeitig zur Eröffnung fertigzustellen [MASK],,2.2012156932760263e-06
+all die Kekse rechtzeitig zur Eröffnung fertigzustellen  [MASK],Meinst,8.104320414759059e-08
+die Kekse rechtzeitig zur Eröffnung fertigzustellen  Meinst [MASK],du,0.13869749009609222
+Kekse rechtzeitig zur Eröffnung fertigzustellen  Meinst du [MASK],du,0.0004027648828923702
+rechtzeitig zur Eröffnung fertigzustellen  Meinst du du [MASK],könntest,0.00022840853489469737
+zur Eröffnung fertigzustellen  Meinst du du könntest [MASK],,6.383768891282671e-08
+Eröffnung fertigzustellen  Meinst du du könntest  [MASK],die,1.8447164620738477e-05
+fertigzustellen  Meinst du du könntest  die [MASK],hier,0.00018814494251273572
+ Meinst du du könntest  die hier [MASK],bis,3.157720129820518e-05
+Meinst du du könntest  die hier bis [MASK],morgen,0.036549534648656845
+du du könntest  die hier bis morgen [MASK],früh,0.0001054997046594508
+du könntest  die hier bis morgen früh [MASK],verzieren,2.0399747882038355e-05
+könntest  die hier bis morgen früh verzieren [MASK],,6.013681996819287e-08
+ die hier bis morgen früh verzieren  [MASK],fragte,3.075245160744089e-07
+die hier bis morgen früh verzieren  fragte [MASK],Cat,2.7007249627786223e-06
+hier bis morgen früh verzieren  fragte Cat [MASK],,6.767085558578856e-09
+bis morgen früh verzieren  fragte Cat  [MASK],und,0.0007183563429862261
+morgen früh verzieren  fragte Cat  und [MASK],griff,1.6149100474649458e-06
+früh verzieren  fragte Cat  und griff [MASK],,1.1492434737192525e-07
+verzieren  fragte Cat  und griff  [MASK],in,0.0009419538546353579
+ fragte Cat  und griff  in [MASK],ihre,0.00425562122836709
+fragte Cat  und griff  in ihre [MASK],Tasche,0.3694915771484375
+Cat  und griff  in ihre Tasche [MASK],um,0.0013652766356244683
+ und griff  in ihre Tasche um [MASK],eine,0.00016201596008613706
+und griff  in ihre Tasche um eine [MASK],grosse,2.3987697204574943e-05
+griff  in ihre Tasche um eine grosse [MASK],Tupperbox,1.6859253264556173e-06
+ in ihre Tasche um eine grosse Tupperbox [MASK],herauszuziehen,1.5226832147163805e-05
+in ihre Tasche um eine grosse Tupperbox herauszuziehen [MASK],,8.660385901748668e-07
+ihre Tasche um eine grosse Tupperbox herauszuziehen  [MASK],Dann,5.503088118530286e-07
+Tasche um eine grosse Tupperbox herauszuziehen  Dann [MASK],könnte,0.0001388429809594527
+um eine grosse Tupperbox herauszuziehen  Dann könnte [MASK],ich,0.03963014855980873
+eine grosse Tupperbox herauszuziehen  Dann könnte ich [MASK],am,5.1724618970183656e-05
+grosse Tupperbox herauszuziehen  Dann könnte ich am [MASK],Vormittag,0.0006035249098204076
+Tupperbox herauszuziehen  Dann könnte ich am Vormittag [MASK],damit,9.240564395440742e-05
+herauszuziehen  Dann könnte ich am Vormittag damit [MASK],zum,3.990886398241855e-05
+ Dann könnte ich am Vormittag damit zum [MASK],Fotografen,0.000389573018765077
+Dann könnte ich am Vormittag damit zum Fotografen [MASK],rüberflitzen,0.0005915892543271184
+könnte ich am Vormittag damit zum Fotografen rüberflitzen [MASK],,1.3616778815617181e-08
+ich am Vormittag damit zum Fotografen rüberflitzen  [MASK],Mit,2.4075890792119026e-07
+am Vormittag damit zum Fotografen rüberflitzen  Mit [MASK],einem,1.263962076336611e-05
+Vormittag damit zum Fotografen rüberflitzen  Mit einem [MASK],leichten,0.0001136447026510723
+damit zum Fotografen rüberflitzen  Mit einem leichten [MASK],Gefühl,0.018876809626817703
+zum Fotografen rüberflitzen  Mit einem leichten Gefühl [MASK],der,0.00014431164890993387
+Fotografen rüberflitzen  Mit einem leichten Gefühl der [MASK],Beklommenheit,3.2546690675872014e-08
+rüberflitzen  Mit einem leichten Gefühl der Beklommenheit [MASK],,1.905569661175832e-05
+ Mit einem leichten Gefühl der Beklommenheit  [MASK],spähte,3.4303597203688696e-05
+Mit einem leichten Gefühl der Beklommenheit  spähte [MASK],Sadie,9.141798727796413e-06
+einem leichten Gefühl der Beklommenheit  spähte Sadie [MASK],in,0.0014887434663251042
+leichten Gefühl der Beklommenheit  spähte Sadie in [MASK],die,0.0015240958891808987
+Gefühl der Beklommenheit  spähte Sadie in die [MASK],Box,0.00023289042292162776
+der Beklommenheit  spähte Sadie in die Box [MASK],,9.864578487395192e-07
+Beklommenheit  spähte Sadie in die Box  [MASK],Wie,3.6681085475720465e-06
+ spähte Sadie in die Box  Wie [MASK],viele,0.00012473913375288248
+spähte Sadie in die Box  Wie viele [MASK],sind,0.0006592563586309552
+Sadie in die Box  Wie viele sind [MASK],das,0.0018316664500162005
+in die Box  Wie viele sind das [MASK],,2.4178394397722514e-08
+die Box  Wie viele sind das  [MASK],Zwei,1.0945307622023392e-05
+Box  Wie viele sind das  Zwei [MASK],von,5.226600478636101e-05
+ Wie viele sind das  Zwei von [MASK],jedem,0.00021829610341228545
+Wie viele sind das  Zwei von jedem [MASK],Design,1.285745656787185e-05
+viele sind das  Zwei von jedem Design [MASK],,1.4691256183141377e-05
+sind das  Zwei von jedem Design  [MASK],antwortete,2.5305632789240917e-07
+das  Zwei von jedem Design  antwortete [MASK],Cat,6.86763598878315e-07
+ Zwei von jedem Design  antwortete Cat [MASK],,3.42251471607824e-09
+Zwei von jedem Design  antwortete Cat  [MASK],und,0.0004791607498191297
+von jedem Design  antwortete Cat  und [MASK],stellte,0.0006759988027624786
+jedem Design  antwortete Cat  und stellte [MASK],eine,0.006500165909528732
+Design  antwortete Cat  und stellte eine [MASK],zweite,0.00197016098536551
+ antwortete Cat  und stellte eine zweite [MASK],Tupperdose,7.143210495996755e-06
+antwortete Cat  und stellte eine zweite Tupperdose [MASK],neben,0.008198738098144531
+Cat  und stellte eine zweite Tupperdose neben [MASK],die,0.003938567824661732
+ und stellte eine zweite Tupperdose neben die [MASK],erste,0.0015342924743890762
+und stellte eine zweite Tupperdose neben die erste [MASK],auf,0.0003920499875675887
+stellte eine zweite Tupperdose neben die erste auf [MASK],den,0.004596934653818607
+eine zweite Tupperdose neben die erste auf den [MASK],Lächeln,9.072086299966031e-07
+zweite Tupperdose neben die erste auf den Lächeln [MASK],,4.12728286391939e-06
+Tupperdose neben die erste auf den Lächeln  [MASK],Jeweils,8.12590371879196e-07
+neben die erste auf den Lächeln  Jeweils [MASK],eins,0.00042594794649630785
+die erste auf den Lächeln  Jeweils eins [MASK],für,0.000535343075171113
+erste auf den Lächeln  Jeweils eins für [MASK],dich,0.0008648500661365688
+auf den Lächeln  Jeweils eins für dich [MASK],zum,1.5451445506187156e-05
+den Lächeln  Jeweils eins für dich zum [MASK],Ausprobieren,0.0001942177041200921
+Lächeln  Jeweils eins für dich zum Ausprobieren [MASK],,6.45347245153971e-06
+ Jeweils eins für dich zum Ausprobieren  [MASK],und,0.0005009474698454142
+Jeweils eins für dich zum Ausprobieren  und [MASK],eins,2.497372861398617e-06
+eins für dich zum Ausprobieren  und eins [MASK],,4.60701039628475e-06
+für dich zum Ausprobieren  und eins  [MASK],das,5.5792163038859144e-05
+dich zum Ausprobieren  und eins  das [MASK],perfekt,7.695403473917395e-05
+zum Ausprobieren  und eins  das perfekt [MASK],aussehen,0.0009084712364710867
+Ausprobieren  und eins  das perfekt aussehen [MASK],muss,0.012389586307108402
+ und eins  das perfekt aussehen muss [MASK],,9.411658652425103e-07
+und eins  das perfekt aussehen muss  [MASK],Das,1.9741694359254325e-06
+eins  das perfekt aussehen muss  Das [MASK],geht,0.0018279663054272532
+ das perfekt aussehen muss  Das geht [MASK],doch,0.0022261838894337416
+das perfekt aussehen muss  Das geht doch [MASK],so,0.0019043822539970279
+perfekt aussehen muss  Das geht doch so [MASK],in,6.304329872364178e-05
+aussehen muss  Das geht doch so in [MASK],Ordnung,0.7399594187736511
+muss  Das geht doch so in Ordnung [MASK],oder,7.24727869965136e-05
+ Das geht doch so in Ordnung oder [MASK],,8.773591275712533e-08
+Das geht doch so in Ordnung oder  [MASK],Sadie,2.9646205348399235e-06
+geht doch so in Ordnung oder  Sadie [MASK],rutschte,4.703212397316747e-08
+doch so in Ordnung oder  Sadie rutschte [MASK],das,0.0007262298022396863
+so in Ordnung oder  Sadie rutschte das [MASK],Herz,0.017586562782526016
+in Ordnung oder  Sadie rutschte das Herz [MASK],in,0.0006610478740185499
+Ordnung oder  Sadie rutschte das Herz in [MASK],die,0.006901748478412628
+oder  Sadie rutschte das Herz in die [MASK],Hose,0.08409154415130615
+ Sadie rutschte das Herz in die Hose [MASK],,2.559353561082389e-06
+Sadie rutschte das Herz in die Hose  [MASK],Ihr,3.4283327750017634e-06
+rutschte das Herz in die Hose  Ihr [MASK],gesamtes,8.54526115290355e-06
+das Herz in die Hose  Ihr gesamtes [MASK],Angebot,0.0013379567535594106
+Herz in die Hose  Ihr gesamtes Angebot [MASK],umfasste,4.553657345240936e-05
+in die Hose  Ihr gesamtes Angebot umfasste [MASK],mehr,0.0009390636114403605
+die Hose  Ihr gesamtes Angebot umfasste mehr [MASK],als,0.05003798380494118
+Hose  Ihr gesamtes Angebot umfasste mehr als [MASK],siebzig,6.588660471607e-05
+ Ihr gesamtes Angebot umfasste mehr als siebzig [MASK],verschiedene,0.021809205412864685
+Ihr gesamtes Angebot umfasste mehr als siebzig verschiedene [MASK],Designs,0.0004506399272941053
+gesamtes Angebot umfasste mehr als siebzig verschiedene Designs [MASK],,3.5336702808308473e-07
+Angebot umfasste mehr als siebzig verschiedene Designs  [MASK],für,0.00015116215217858553
+umfasste mehr als siebzig verschiedene Designs  für [MASK],jedes,0.0038240733556449413
+mehr als siebzig verschiedene Designs  für jedes [MASK],,1.1861504001231538e-09
+als siebzig verschiedene Designs  für jedes  [MASK],von,8.880202221916988e-05
+siebzig verschiedene Designs  für jedes  von [MASK],denen,0.00208428967744112
+verschiedene Designs  für jedes  von denen [MASK],sie,8.223899203585461e-05
+Designs  für jedes  von denen sie [MASK],mindestens,0.0006879277061671019
+ für jedes  von denen sie mindestens [MASK],zwei,0.01816406287252903
+für jedes  von denen sie mindestens zwei [MASK],verschiedene,0.011049012653529644
+jedes  von denen sie mindestens zwei verschiedene [MASK],Typen,0.013284942135214806
+ von denen sie mindestens zwei verschiedene Typen [MASK],und,0.0008143333252519369
+von denen sie mindestens zwei verschiedene Typen und [MASK],Farben,0.002920663682743907
+denen sie mindestens zwei verschiedene Typen und Farben [MASK],an,0.0004204831493552774
+sie mindestens zwei verschiedene Typen und Farben an [MASK],Zuckerguss,9.08037293356756e-07
+mindestens zwei verschiedene Typen und Farben an Zuckerguss [MASK],benötigte,7.392231054836884e-06
+zwei verschiedene Typen und Farben an Zuckerguss benötigte [MASK],,1.1716644365833417e-07
+verschiedene Typen und Farben an Zuckerguss benötigte  [MASK],Alle,1.0764966646092944e-05
+Typen und Farben an Zuckerguss benötigte  Alle [MASK],bis,2.0995063096052036e-05
+und Farben an Zuckerguss benötigte  Alle bis [MASK],zum,0.0019338709535077214
+Farben an Zuckerguss benötigte  Alle bis zum [MASK],nächsten,0.0021571973338723183
+an Zuckerguss benötigte  Alle bis zum nächsten [MASK],Morgen,0.09514708071947098
+Zuckerguss benötigte  Alle bis zum nächsten Morgen [MASK],fertig,0.00733777554705739
+benötigte  Alle bis zum nächsten Morgen fertig [MASK],,1.4757391681996523e-06
+ Alle bis zum nächsten Morgen fertig  [MASK],zu,8.513929060427472e-05
+Alle bis zum nächsten Morgen fertig  zu [MASK],bekommen,0.07777097821235657
+bis zum nächsten Morgen fertig  zu bekommen [MASK],war,0.00042589521035552025
+zum nächsten Morgen fertig  zu bekommen war [MASK],,2.7217370188736822e-06
+nächsten Morgen fertig  zu bekommen war  [MASK],eine,8.781485666986555e-05
+Morgen fertig  zu bekommen war  eine [MASK],Mammutaufgabe,5.3713400120614097e-05
+fertig  zu bekommen war  eine Mammutaufgabe [MASK],,2.0904556095047155e-06
+ zu bekommen war  eine Mammutaufgabe  [MASK],Alleine,1.5615991344475333e-07
+zu bekommen war  eine Mammutaufgabe  Alleine [MASK],den,5.689834779332159e-06
+bekommen war  eine Mammutaufgabe  Alleine den [MASK],Zuckerguss,4.957156124874018e-05
+war  eine Mammutaufgabe  Alleine den Zuckerguss [MASK],anhand,8.322971552843228e-06
+ eine Mammutaufgabe  Alleine den Zuckerguss anhand [MASK],ihrer,0.0020884608384221792
+eine Mammutaufgabe  Alleine den Zuckerguss anhand ihrer [MASK],massgeschneiderten,3.2889693102333695e-06
+Mammutaufgabe  Alleine den Zuckerguss anhand ihrer massgeschneiderten [MASK],,4.756497626323686e-11
+ Alleine den Zuckerguss anhand ihrer massgeschneiderten  [MASK],Farbpalette,7.062871736707166e-05
+Alleine den Zuckerguss anhand ihrer massgeschneiderten  Farbpalette [MASK],herzustellen,0.0015398599207401276
+den Zuckerguss anhand ihrer massgeschneiderten  Farbpalette herzustellen [MASK],,2.774510221570381e-06
+Zuckerguss anhand ihrer massgeschneiderten  Farbpalette herzustellen  [MASK],würde,0.0005149442004039884
+anhand ihrer massgeschneiderten  Farbpalette herzustellen  würde [MASK],mehr,3.0081493605393916e-05
+ihrer massgeschneiderten  Farbpalette herzustellen  würde mehr [MASK],als,0.013024181127548218
+massgeschneiderten  Farbpalette herzustellen  würde mehr als [MASK],eine,0.010168604552745819
+ Farbpalette herzustellen  würde mehr als eine [MASK],Stunde,0.008429870009422302
+Farbpalette herzustellen  würde mehr als eine Stunde [MASK],Zeit,0.0008025229326449335
+herzustellen  würde mehr als eine Stunde Zeit [MASK],in,0.00021452803048305213
+ würde mehr als eine Stunde Zeit in [MASK],Anspruch,0.12114626169204712
+würde mehr als eine Stunde Zeit in Anspruch [MASK],nehmen,0.8961189389228821
+mehr als eine Stunde Zeit in Anspruch nehmen [MASK],,2.5900482114593615e-07
+als eine Stunde Zeit in Anspruch nehmen  [MASK],Cat,9.246591758937939e-08
+eine Stunde Zeit in Anspruch nehmen  Cat [MASK],verzog,4.95918435206022e-08
+Stunde Zeit in Anspruch nehmen  Cat verzog [MASK],entschuldigend,2.3065804271027446e-05
+Zeit in Anspruch nehmen  Cat verzog entschuldigend [MASK],das,0.00020591488282661885
+in Anspruch nehmen  Cat verzog entschuldigend das [MASK],,8.892588887476904e-10
+Anspruch nehmen  Cat verzog entschuldigend das  [MASK],Box,4.176652510068379e-06
+nehmen  Cat verzog entschuldigend das  Box [MASK],,5.002215743843408e-07
+ Cat verzog entschuldigend das  Box  [MASK],Es,3.026532567673712e-06
+Cat verzog entschuldigend das  Box  Es [MASK],tut,0.0006955076241865754
+verzog entschuldigend das  Box  Es tut [MASK],mir,0.003854642389342189
+entschuldigend das  Box  Es tut mir [MASK],leid,0.9185922145843506
+das  Box  Es tut mir leid [MASK],,1.3439964163808327e-07
+ Box  Es tut mir leid  [MASK],dass,2.1596567876258632e-06
+Box  Es tut mir leid  dass [MASK],ich,0.09863695502281189
+ Es tut mir leid  dass ich [MASK],dir,7.653926149941981e-05
+Es tut mir leid  dass ich dir [MASK],das,5.2489831432467327e-05
+tut mir leid  dass ich dir das [MASK],alles,4.257332693669014e-05
+mir leid  dass ich dir das alles [MASK],aufhalsen,1.3422468327917159e-05
+leid  dass ich dir das alles aufhalsen [MASK],muss,0.12482687085866928
+ dass ich dir das alles aufhalsen muss [MASK],,1.8167759208154166e-07
+dass ich dir das alles aufhalsen muss  [MASK],vor,2.406884050287772e-06
+ich dir das alles aufhalsen muss  vor [MASK],allem,0.07821682840585709
+dir das alles aufhalsen muss  vor allem [MASK],,4.855030510952929e-07
+das alles aufhalsen muss  vor allem  [MASK],nachdem,4.393008930492215e-05
+alles aufhalsen muss  vor allem  nachdem [MASK],ich,0.00031837885035201907
+aufhalsen muss  vor allem  nachdem ich [MASK],eine,0.0015310101443901658
+muss  vor allem  nachdem ich eine [MASK],Ewigkeit,0.0001063759409589693
+ vor allem  nachdem ich eine Ewigkeit [MASK],gebraucht,0.006464791018515825
+vor allem  nachdem ich eine Ewigkeit gebraucht [MASK],habe,0.6133469939231873
+allem  nachdem ich eine Ewigkeit gebraucht habe [MASK],,6.083636776565982e-07
+ nachdem ich eine Ewigkeit gebraucht habe  [MASK],das,1.1760655070247594e-05
+nachdem ich eine Ewigkeit gebraucht habe  das [MASK],Teigrezept,1.1197289495612495e-06
+ich eine Ewigkeit gebraucht habe  das Teigrezept [MASK],zu,0.00028260855469852686
+eine Ewigkeit gebraucht habe  das Teigrezept zu [MASK],perfektionieren,0.00013242151180747896
+Ewigkeit gebraucht habe  das Teigrezept zu perfektionieren [MASK],,6.708110049657989e-07
+gebraucht habe  das Teigrezept zu perfektionieren  [MASK],Du,3.711667204697733e-07
+habe  das Teigrezept zu perfektionieren  Du [MASK],musst,0.0015320166712626815
+ das Teigrezept zu perfektionieren  Du musst [MASK],,9.330001660146081e-08
+das Teigrezept zu perfektionieren  Du musst  [MASK],mir,0.00013374978152569383
+Teigrezept zu perfektionieren  Du musst  mir [MASK],sagen,0.03832610324025154
+zu perfektionieren  Du musst  mir sagen [MASK],wenn,8.048858944675885e-06
+perfektionieren  Du musst  mir sagen wenn [MASK],ich,0.02285746857523918
+ Du musst  mir sagen wenn ich [MASK],dir,0.0028618574142456055
+Du musst  mir sagen wenn ich dir [MASK],zu,5.748842886532657e-05
+musst  mir sagen wenn ich dir zu [MASK],viel,0.003794088726863265
+ mir sagen wenn ich dir zu viel [MASK],,2.779450625212121e-08
+mir sagen wenn ich dir zu viel  [MASK],zumute,8.904376045393292e-06
+sagen wenn ich dir zu viel  zumute [MASK],Mir,9.714832458485034e-07
+wenn ich dir zu viel  zumute Mir [MASK],,2.5287292260145477e-08
+ich dir zu viel  zumute Mir  [MASK],ist,0.0014318086905404925
+dir zu viel  zumute Mir  ist [MASK],klar,0.004739677999168634
+zu viel  zumute Mir  ist klar [MASK],,1.1774169905720555e-07
+viel  zumute Mir  ist klar  [MASK],dass,2.181390482292045e-05
+ zumute Mir  ist klar  dass [MASK],du,0.004272901453077793
+zumute Mir  ist klar  dass du [MASK],dich,0.004810784477740526
+Mir  ist klar  dass du dich [MASK],,2.880104602809297e-06
+ ist klar  dass du dich  [MASK],gleichzeitig,4.72813280794071e-06
+ist klar  dass du dich  gleichzeitig [MASK],noch,3.950626341975294e-05
+klar  dass du dich  gleichzeitig noch [MASK],um,0.00021191302221268415
+ dass du dich  gleichzeitig noch um [MASK],Lissy,6.290247256401926e-07
+dass du dich  gleichzeitig noch um Lissy [MASK],kümmern,0.25850093364715576
+du dich  gleichzeitig noch um Lissy kümmern [MASK],musst,0.11607683449983597
+dich  gleichzeitig noch um Lissy kümmern musst [MASK],,2.479147553913208e-07
+ gleichzeitig noch um Lissy kümmern musst  [MASK],Das,2.0525508261926007e-06
+gleichzeitig noch um Lissy kümmern musst  Das [MASK],Problem,0.0007411139085888863
+noch um Lissy kümmern musst  Das Problem [MASK],ist,0.0008334921440109611
+um Lissy kümmern musst  Das Problem ist [MASK],,1.4413556925774174e-07
+Lissy kümmern musst  Das Problem ist  [MASK],dass,1.804787461878732e-05
+kümmern musst  Das Problem ist  dass [MASK],die,0.005040852352976799
+musst  Das Problem ist  dass die [MASK],Website,0.00039364007534459233
+ Das Problem ist  dass die Website [MASK],so,0.0006579232285730541
+Das Problem ist  dass die Website so [MASK],,1.9991632882465638e-07
+Problem ist  dass die Website so  [MASK],bald,0.0006054898840375245
+ist  dass die Website so  bald [MASK],wie,0.0005966138560324907
+ dass die Website so  bald wie [MASK],möglich,0.9927005171775818
+dass die Website so  bald wie möglich [MASK],online,0.01651173271238804
+die Website so  bald wie möglich online [MASK],gehen,0.01713019423186779
+Website so  bald wie möglich online gehen [MASK],muss,0.001343179028481245
+so  bald wie möglich online gehen muss [MASK],,2.322580712643685e-06
+ bald wie möglich online gehen muss  [MASK],dachte,3.673142145999009e-07
+bald wie möglich online gehen muss  dachte [MASK],Sadie,1.4481963717116741e-06
+wie möglich online gehen muss  dachte Sadie [MASK],,2.0849358861596556e-07
+möglich online gehen muss  dachte Sadie  [MASK],während,1.5248358977260068e-05
+online gehen muss  dachte Sadie  während [MASK],sie,5.220384628046304e-05
+gehen muss  dachte Sadie  während sie [MASK],sich,0.00039095073589123785
+muss  dachte Sadie  während sie sich [MASK],die,0.0007411816040985286
+ dachte Sadie  während sie sich die [MASK],grösste,2.729119898958743e-07
+dachte Sadie  während sie sich die grösste [MASK],Mühe,0.033615924417972565
+Sadie  während sie sich die grösste Mühe [MASK],gab,0.0024820524267852306
+ während sie sich die grösste Mühe gab [MASK],,2.367753722865018e-06
+während sie sich die grösste Mühe gab  [MASK],sich,1.4495268487735302e-06
+sie sich die grösste Mühe gab  sich [MASK],nicht,0.0014856678899377584
+sich die grösste Mühe gab  sich nicht [MASK],entmutigen,0.0004065625835210085
+die grösste Mühe gab  sich nicht entmutigen [MASK],zu,4.211693158140406e-05
+grösste Mühe gab  sich nicht entmutigen zu [MASK],lassen,0.32393601536750793
+Mühe gab  sich nicht entmutigen zu lassen [MASK],,1.3363553534873063e-06
+gab  sich nicht entmutigen zu lassen  [MASK],Sie,1.3410838619165588e-05
+ sich nicht entmutigen zu lassen  Sie [MASK],wollte,1.7678745280136354e-05
+sich nicht entmutigen zu lassen  Sie wollte [MASK],Cat,7.955090950417798e-07
+nicht entmutigen zu lassen  Sie wollte Cat [MASK],auf,2.798578134388663e-05
+entmutigen zu lassen  Sie wollte Cat auf [MASK],,5.790496526714151e-09
+zu lassen  Sie wollte Cat auf  [MASK],keinen,0.0010844108182936907
+lassen  Sie wollte Cat auf  keinen [MASK],Fall,0.9867907166481018
+ Sie wollte Cat auf  keinen Fall [MASK],hängen,0.0004791736137121916
+Sie wollte Cat auf  keinen Fall hängen [MASK],lassen,0.20162333548069
+wollte Cat auf  keinen Fall hängen lassen [MASK],,4.4953381461709796e-07
+Cat auf  keinen Fall hängen lassen  [MASK],nicht,7.020660632406361e-06
+auf  keinen Fall hängen lassen  nicht [MASK],wenn,1.1568811714823823e-05
+ keinen Fall hängen lassen  nicht wenn [MASK],der,0.0032787478994578123
+keinen Fall hängen lassen  nicht wenn der [MASK],Zeitplan,0.0005390520091168582
+Fall hängen lassen  nicht wenn der Zeitplan [MASK],so,0.0011654403060674667
+hängen lassen  nicht wenn der Zeitplan so [MASK],knapp,0.014464322477579117
+lassen  nicht wenn der Zeitplan so knapp [MASK],war,0.046238623559474945
+ nicht wenn der Zeitplan so knapp war [MASK],,3.6819187698711175e-06
+nicht wenn der Zeitplan so knapp war  [MASK],Sie,6.53742335998686e-06
+wenn der Zeitplan so knapp war  Sie [MASK],würde,2.3686869099037722e-05
+der Zeitplan so knapp war  Sie würde [MASK],das,0.0011180441360920668
+Zeitplan so knapp war  Sie würde das [MASK],hinbekommen,1.684086055320222e-05
+so knapp war  Sie würde das hinbekommen [MASK],,1.5490395810502378e-07
+knapp war  Sie würde das hinbekommen  [MASK],immerhin,2.540556636176916e-07
+war  Sie würde das hinbekommen  immerhin [MASK],,4.546353409295989e-07
+ Sie würde das hinbekommen  immerhin  [MASK],hatte,3.5442285479803104e-06
+Sie würde das hinbekommen  immerhin  hatte [MASK],sie,0.0010344183538109064
+würde das hinbekommen  immerhin  hatte sie [MASK],die,0.0014773261500522494
+das hinbekommen  immerhin  hatte sie die [MASK],Designs,1.1130023267469369e-06
+hinbekommen  immerhin  hatte sie die Designs [MASK],,6.150445187813602e-06
+ immerhin  hatte sie die Designs  [MASK],zigfach,7.284654202521779e-06
+immerhin  hatte sie die Designs  zigfach [MASK],auf,0.00011667542275972664
+ hatte sie die Designs  zigfach auf [MASK],,1.934211546483766e-08
+hatte sie die Designs  zigfach auf  [MASK],Pergamentpapier,5.769186100224033e-05
+sie die Designs  zigfach auf  Pergamentpapier [MASK],vorgezeichnet,3.718442894751206e-05
+die Designs  zigfach auf  Pergamentpapier vorgezeichnet [MASK],,8.484531690555741e-07
+Designs  zigfach auf  Pergamentpapier vorgezeichnet  [MASK],Kein,3.6517946000458323e-07
+ zigfach auf  Pergamentpapier vorgezeichnet  Kein [MASK],Problem,0.0006853024824522436
+zigfach auf  Pergamentpapier vorgezeichnet  Kein Problem [MASK],sagte,2.4902954010030953e-06
+auf  Pergamentpapier vorgezeichnet  Kein Problem sagte [MASK],sie,0.0006286190473474562
+ Pergamentpapier vorgezeichnet  Kein Problem sagte sie [MASK],,1.1257813639531378e-05
+Pergamentpapier vorgezeichnet  Kein Problem sagte sie  [MASK],und,0.00011861405073432252
+vorgezeichnet  Kein Problem sagte sie  und [MASK],straffte,5.566630989051191e-06
+ Kein Problem sagte sie  und straffte [MASK],die,0.0031773496884852648
+Kein Problem sagte sie  und straffte die [MASK],Schultern,0.0027546240016818047
+Problem sagte sie  und straffte die Schultern [MASK],,1.981509512916091e-06
+sagte sie  und straffte die Schultern  [MASK],Ich,1.844225749891848e-07
+sie  und straffte die Schultern  Ich [MASK],fange,3.2306885259458795e-05
+ und straffte die Schultern  Ich fange [MASK],an,0.018001697957515717
+und straffte die Schultern  Ich fange an [MASK],,6.77649136804348e-09
+straffte die Schultern  Ich fange an  [MASK],sobald,5.13082977704471e-06
+die Schultern  Ich fange an  sobald [MASK],ich,0.0016613357001915574
+Schultern  Ich fange an  sobald ich [MASK],zu,0.00017017686332110316
+ Ich fange an  sobald ich zu [MASK],Hause,0.05915100499987602
+Ich fange an  sobald ich zu Hause [MASK],bin,0.5385490655899048
+fange an  sobald ich zu Hause bin [MASK],,4.860881972490461e-07
+an  sobald ich zu Hause bin  [MASK],Dann,1.8478724086889997e-05
+ sobald ich zu Hause bin  Dann [MASK],schaffe,3.11571748170536e-05
+sobald ich zu Hause bin  Dann schaffe [MASK],ich,0.4543699026107788
+ich zu Hause bin  Dann schaffe ich [MASK],schon,0.0004213329521007836
+zu Hause bin  Dann schaffe ich schon [MASK],einen,0.0012965042842552066
+Hause bin  Dann schaffe ich schon einen [MASK],Teil,0.0003668980789370835
+bin  Dann schaffe ich schon einen Teil [MASK],bevor,5.8095556596526876e-05
+ Dann schaffe ich schon einen Teil bevor [MASK],ich,0.0002774093300104141
+Dann schaffe ich schon einen Teil bevor ich [MASK],Lissy,4.8298417709702335e-08
+schaffe ich schon einen Teil bevor ich Lissy [MASK],von,0.00011023653496522456
+ich schon einen Teil bevor ich Lissy von [MASK],der,0.006548010744154453
+schon einen Teil bevor ich Lissy von der [MASK],Schule,0.015094221569597721
+einen Teil bevor ich Lissy von der Schule [MASK],abholen,0.03955746069550514
+Teil bevor ich Lissy von der Schule abholen [MASK],muss,0.036729831248521805
+bevor ich Lissy von der Schule abholen muss [MASK],,1.0732125019785599e-06
+ich Lissy von der Schule abholen muss  [MASK],Wunderbar,2.425103104997106e-07
+Lissy von der Schule abholen muss  Wunderbar [MASK],,4.810666496268823e-07
+von der Schule abholen muss  Wunderbar  [MASK],Cat,6.468833362305304e-07
+der Schule abholen muss  Wunderbar  Cat [MASK],,5.074579423336445e-09
+Schule abholen muss  Wunderbar  Cat  [MASK],schenkte,1.6589429208124784e-07
+abholen muss  Wunderbar  Cat  schenkte [MASK],ihr,0.0002607940696179867
+muss  Wunderbar  Cat  schenkte ihr [MASK],ein,0.002558472566306591
+ Wunderbar  Cat  schenkte ihr ein [MASK],warmes,2.0535917428787798e-06
+Wunderbar  Cat  schenkte ihr ein warmes [MASK],Lächeln,0.028800103813409805
+ Cat  schenkte ihr ein warmes Lächeln [MASK],,3.4917306948045734e-06
+Cat  schenkte ihr ein warmes Lächeln  [MASK],Danke,1.0401561667094938e-05
+ schenkte ihr ein warmes Lächeln  Danke [MASK],,2.2319404990867042e-08
+schenkte ihr ein warmes Lächeln  Danke  [MASK],Nachdem,8.143725693798842e-08
+ihr ein warmes Lächeln  Danke  Nachdem [MASK],sie,0.00013791880337521434
+ein warmes Lächeln  Danke  Nachdem sie [MASK],wieder,0.0008326424285769463
+warmes Lächeln  Danke  Nachdem sie wieder [MASK],ins,9.130019316216931e-05
+Lächeln  Danke  Nachdem sie wieder ins [MASK],Erdgeschoss,8.267859811894596e-05
+ Danke  Nachdem sie wieder ins Erdgeschoss [MASK],hinaufgegangen,0.0003058392321690917
+Danke  Nachdem sie wieder ins Erdgeschoss hinaufgegangen [MASK],waren,0.06718388944864273
+ Nachdem sie wieder ins Erdgeschoss hinaufgegangen waren [MASK],,7.308884505619062e-06
+Nachdem sie wieder ins Erdgeschoss hinaufgegangen waren  [MASK],diskutierten,3.7382517348305555e-07
+sie wieder ins Erdgeschoss hinaufgegangen waren  diskutierten [MASK],sie,0.0005160237196832895
+wieder ins Erdgeschoss hinaufgegangen waren  diskutierten sie [MASK],,1.5538571460638195e-06
+ins Erdgeschoss hinaufgegangen waren  diskutierten sie  [MASK],wie,0.0009852407965809107
+Erdgeschoss hinaufgegangen waren  diskutierten sie  wie [MASK],sie,0.0007338575669564307
+hinaufgegangen waren  diskutierten sie  wie sie [MASK],die,0.002083453116938472
+waren  diskutierten sie  wie sie die [MASK],Produkte,0.0007499874336645007
+ diskutierten sie  wie sie die Produkte [MASK],auf,0.001407142961397767
+diskutierten sie  wie sie die Produkte auf [MASK],den,0.0007148681324906647
+sie  wie sie die Produkte auf den [MASK],verschiedenen,0.007076956797391176
+ wie sie die Produkte auf den verschiedenen [MASK],Tischen,4.424164580996148e-05
+wie sie die Produkte auf den verschiedenen Tischen [MASK],und,0.0013349860673770308
+sie die Produkte auf den verschiedenen Tischen und [MASK],Regalen,6.108576053520665e-05
+die Produkte auf den verschiedenen Tischen und Regalen [MASK],präsentieren,0.007221783511340618
+Produkte auf den verschiedenen Tischen und Regalen präsentieren [MASK],wollten,0.0004187786253169179
+auf den verschiedenen Tischen und Regalen präsentieren wollten [MASK],,4.709916652245738e-07
+den verschiedenen Tischen und Regalen präsentieren wollten  [MASK],Augenblicklich,8.410196272734538e-08
+verschiedenen Tischen und Regalen präsentieren wollten  Augenblicklich [MASK],spürte,2.7850817332364386e-06
+Tischen und Regalen präsentieren wollten  Augenblicklich spürte [MASK],Sadie,1.8941857149457064e-07
+und Regalen präsentieren wollten  Augenblicklich spürte Sadie [MASK],wie,7.605391147080809e-05
+Regalen präsentieren wollten  Augenblicklich spürte Sadie wie [MASK],sie,0.003866802901029587
+präsentieren wollten  Augenblicklich spürte Sadie wie sie [MASK],sich,0.0003337243979331106
+wollten  Augenblicklich spürte Sadie wie sie sich [MASK],entspannte,0.0005190172232687473
+ Augenblicklich spürte Sadie wie sie sich entspannte [MASK],,1.4342556653446081e-07
+Augenblicklich spürte Sadie wie sie sich entspannte  [MASK],Sie,1.1780792874560575e-06
+spürte Sadie wie sie sich entspannte  Sie [MASK],war,0.0019484399817883968
+Sadie wie sie sich entspannte  Sie war [MASK],,1.1141798495373223e-05
+wie sie sich entspannte  Sie war  [MASK],zurück,0.0002833098405972123
+sie sich entspannte  Sie war  zurück [MASK],in,0.0005452473997138441
+sich entspannte  Sie war  zurück in [MASK],ihrem,0.0006739279488101602
+entspannte  Sie war  zurück in ihrem [MASK],Element,0.003961335867643356
+ Sie war  zurück in ihrem Element [MASK],,2.895148099923972e-06
+Sie war  zurück in ihrem Element  [MASK],Design,9.107841378863668e-07
+war  zurück in ihrem Element  Design [MASK],und,0.0016693287761881948
+ zurück in ihrem Element  Design und [MASK],Ästhetik,0.0001959023211384192
+zurück in ihrem Element  Design und Ästhetik [MASK],,1.795252137526404e-05
+in ihrem Element  Design und Ästhetik  [MASK],waren,0.00020221321028657258
+ihrem Element  Design und Ästhetik  waren [MASK],die,0.005171251017600298
+Element  Design und Ästhetik  waren die [MASK],Gebiete,0.00067995919380337
+ Design und Ästhetik  waren die Gebiete [MASK],,1.0019733736044145e-06
+Design und Ästhetik  waren die Gebiete  [MASK],auf,0.0003544102073647082
+und Ästhetik  waren die Gebiete  auf [MASK],denen,0.0014084995491430163
+Ästhetik  waren die Gebiete  auf denen [MASK],sie,0.005286218132823706
+ waren die Gebiete  auf denen sie [MASK],sich,0.0026451495941728354
+waren die Gebiete  auf denen sie sich [MASK],schon,0.00010857549932552502
+die Gebiete  auf denen sie sich schon [MASK],immer,0.002127000829204917
+Gebiete  auf denen sie sich schon immer [MASK],am,0.00034545877133496106
+ auf denen sie sich schon immer am [MASK],wohlsten,9.795281221158803e-05
+auf denen sie sich schon immer am wohlsten [MASK],gefühlt,0.011978895403444767
+denen sie sich schon immer am wohlsten gefühlt [MASK],hatte,0.031211955472826958
+sie sich schon immer am wohlsten gefühlt hatte [MASK],,1.2152565886935918e-06

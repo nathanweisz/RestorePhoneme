@@ -1,0 +1,673 @@
+Context,Word,Probability
+        [MASK],Als,2.7613779820967466e-05
+       Als [MASK],sie,0.00016592723841313273
+      Als sie [MASK],mit,0.004253321792930365
+     Als sie mit [MASK],dem,0.015573556534945965
+    Als sie mit dem [MASK],geheimnisvollen,5.928995392423531e-07
+   Als sie mit dem geheimnisvollen [MASK],Brief,0.0015238666674122214
+  Als sie mit dem geheimnisvollen Brief [MASK],,6.711540481774136e-05
+ Als sie mit dem geheimnisvollen Brief  [MASK],in,0.0005057866801507771
+Als sie mit dem geheimnisvollen Brief  in [MASK],der,0.011918473988771439
+sie mit dem geheimnisvollen Brief  in der [MASK],Hand,0.10508901625871658
+mit dem geheimnisvollen Brief  in der Hand [MASK],draussen,1.9454876110103214e-06
+dem geheimnisvollen Brief  in der Hand draussen [MASK],auf,0.00013570049486588687
+geheimnisvollen Brief  in der Hand draussen auf [MASK],dem,0.0023034524638205767
+Brief  in der Hand draussen auf dem [MASK],Kiesweg,3.335637302370742e-05
+ in der Hand draussen auf dem Kiesweg [MASK],stand,0.00045772400335408747
+in der Hand draussen auf dem Kiesweg stand [MASK],,2.097690639857319e-06
+der Hand draussen auf dem Kiesweg stand  [MASK],überkam,9.789755858946592e-05
+Hand draussen auf dem Kiesweg stand  überkam [MASK],sie,0.00011940600961679593
+draussen auf dem Kiesweg stand  überkam sie [MASK],plötzlich,0.035512782633304596
+auf dem Kiesweg stand  überkam sie plötzlich [MASK],ein,0.00021182879572734237
+dem Kiesweg stand  überkam sie plötzlich ein [MASK],seltsames,0.00013921517529524863
+Kiesweg stand  überkam sie plötzlich ein seltsames [MASK],Gefühl,0.06192942336201668
+stand  überkam sie plötzlich ein seltsames Gefühl [MASK],,4.953672032570466e-07
+ überkam sie plötzlich ein seltsames Gefühl  [MASK],Sie,2.490696942913928e-06
+überkam sie plötzlich ein seltsames Gefühl  Sie [MASK],kam,6.955608841963112e-05
+sie plötzlich ein seltsames Gefühl  Sie kam [MASK],sich,0.0001017034737742506
+plötzlich ein seltsames Gefühl  Sie kam sich [MASK],fast,0.00015294546028599143
+ein seltsames Gefühl  Sie kam sich fast [MASK],,5.0493704293330666e-06
+seltsames Gefühl  Sie kam sich fast  [MASK],wie,0.001754971919581294
+Gefühl  Sie kam sich fast  wie [MASK],eine,0.003740831511095166
+ Sie kam sich fast  wie eine [MASK],Puppe,0.001540520926937461
+Sie kam sich fast  wie eine Puppe [MASK],vor,0.023966317996382713
+kam sich fast  wie eine Puppe vor [MASK],,1.0757925217319553e-08
+sich fast  wie eine Puppe vor  [MASK],die,5.792806769022718e-05
+fast  wie eine Puppe vor  die [MASK],durch,6.561125246662414e-06
+ wie eine Puppe vor  die durch [MASK],Zauberkraft,2.7078120183432475e-05
+wie eine Puppe vor  die durch Zauberkraft [MASK],,6.371849394781748e-06
+eine Puppe vor  die durch Zauberkraft  [MASK],lebendig,0.000142523436807096
+Puppe vor  die durch Zauberkraft  lebendig [MASK],geworden,0.018704814836382866
+vor  die durch Zauberkraft  lebendig geworden [MASK],war,0.014838230796158314
+ die durch Zauberkraft  lebendig geworden war [MASK],,6.952715239094687e-07
+die durch Zauberkraft  lebendig geworden war  [MASK],War,1.1804333865939043e-07
+durch Zauberkraft  lebendig geworden war  War [MASK],es,0.0009501871536485851
+Zauberkraft  lebendig geworden war  War es [MASK],nicht,0.004777904134243727
+ lebendig geworden war  War es nicht [MASK],seltsam,5.904457339056535e-06
+lebendig geworden war  War es nicht seltsam [MASK],,6.619598025281448e-08
+geworden war  War es nicht seltsam  [MASK],dass,5.313312612997834e-06
+war  War es nicht seltsam  dass [MASK],sie,0.019043877720832825
+ War es nicht seltsam  dass sie [MASK],auf,0.0007388753583654761
+War es nicht seltsam  dass sie auf [MASK],der,0.0007547953864559531
+es nicht seltsam  dass sie auf der [MASK],Welt,0.039253782480955124
+nicht seltsam  dass sie auf der Welt [MASK],war,0.006666549481451511
+seltsam  dass sie auf der Welt war [MASK],,2.477986072335625e-06
+ dass sie auf der Welt war  [MASK],und,0.0009171021520160139
+dass sie auf der Welt war  und [MASK],in,0.0009292176109738648
+sie auf der Welt war  und in [MASK],einem,0.005186265800148249
+auf der Welt war  und in einem [MASK],wunderlichen,4.3435400584712625e-05
+der Welt war  und in einem wunderlichen [MASK],Märchen,0.0022634542547166348
+Welt war  und in einem wunderlichen Märchen [MASK],herumlaufen,0.00015926890773698688
+war  und in einem wunderlichen Märchen herumlaufen [MASK],konnte,0.017774313688278198
+ und in einem wunderlichen Märchen herumlaufen konnte [MASK],,1.2461932783480734e-06
+und in einem wunderlichen Märchen herumlaufen konnte  [MASK],Sherekan,1.964647289298682e-08
+in einem wunderlichen Märchen herumlaufen konnte  Sherekan [MASK],,1.713030144401273e-07
+einem wunderlichen Märchen herumlaufen konnte  Sherekan  [MASK],sprang,5.515452357940376e-06
+wunderlichen Märchen herumlaufen konnte  Sherekan  sprang [MASK],elegant,2.4620189833512995e-06
+Märchen herumlaufen konnte  Sherekan  sprang elegant [MASK],über,0.0016365299234166741
+herumlaufen konnte  Sherekan  sprang elegant über [MASK],den,0.004551189951598644
+konnte  Sherekan  sprang elegant über den [MASK],Kiesweg,0.001003212295472622
+ Sherekan  sprang elegant über den Kiesweg [MASK],und,0.00149284687358886
+Sherekan  sprang elegant über den Kiesweg und [MASK],verschwand,0.03802993521094322
+ sprang elegant über den Kiesweg und verschwand [MASK],,3.4342840081080794e-05
+sprang elegant über den Kiesweg und verschwand  [MASK],in,0.0008563631563447416
+elegant über den Kiesweg und verschwand  in [MASK],den,0.0008101120474748313
+über den Kiesweg und verschwand  in den [MASK],engstehenden,1.8775995158648584e-06
+den Kiesweg und verschwand  in den engstehenden [MASK],Johannisbeersträuchern,2.1999840100761503e-06
+Kiesweg und verschwand  in den engstehenden Johannisbeersträuchern [MASK],,0.0001552415924379602
+und verschwand  in den engstehenden Johannisbeersträuchern  [MASK],Eine,2.651585759849695e-07
+verschwand  in den engstehenden Johannisbeersträuchern  Eine [MASK],lebendige,1.573522422404494e-05
+ in den engstehenden Johannisbeersträuchern  Eine lebendige [MASK],Katze,0.0008696713484823704
+in den engstehenden Johannisbeersträuchern  Eine lebendige Katze [MASK],,6.568132812390104e-05
+den engstehenden Johannisbeersträuchern  Eine lebendige Katze  [MASK],quicklebendig,3.211550620108028e-06
+engstehenden Johannisbeersträuchern  Eine lebendige Katze  quicklebendig [MASK],,3.342586933285929e-05
+Johannisbeersträuchern  Eine lebendige Katze  quicklebendig  [MASK],von,0.00018523939070291817
+ Eine lebendige Katze  quicklebendig  von [MASK],den,0.00021655448654200882
+Eine lebendige Katze  quicklebendig  von den [MASK],weissen,1.0779895092127845e-06
+lebendige Katze  quicklebendig  von den weissen [MASK],Schnurrhaaren,7.454895580849552e-07
+Katze  quicklebendig  von den weissen Schnurrhaaren [MASK],,4.025858743261779e-06
+ quicklebendig  von den weissen Schnurrhaaren  [MASK],bis,0.0007546257111243904
+quicklebendig  von den weissen Schnurrhaaren  bis [MASK],zu,0.006573943886905909
+ von den weissen Schnurrhaaren  bis zu [MASK],dem,0.007642811164259911
+von den weissen Schnurrhaaren  bis zu dem [MASK],peitschenden,3.965264113503508e-06
+den weissen Schnurrhaaren  bis zu dem peitschenden [MASK],Schwanz,0.014416562393307686
+weissen Schnurrhaaren  bis zu dem peitschenden Schwanz [MASK],,1.9866098227794282e-05
+Schnurrhaaren  bis zu dem peitschenden Schwanz  [MASK],ganz,6.14017917541787e-05
+ bis zu dem peitschenden Schwanz  ganz [MASK],hinten,0.01640767604112625
+bis zu dem peitschenden Schwanz  ganz hinten [MASK],am,0.0006383164436556399
+zu dem peitschenden Schwanz  ganz hinten am [MASK],Deckel,0.0005791444564238191
+dem peitschenden Schwanz  ganz hinten am Deckel [MASK],,7.345995527430205e-06
+peitschenden Schwanz  ganz hinten am Deckel  [MASK],Auch,3.056610751173139e-07
+Schwanz  ganz hinten am Deckel  Auch [MASK],sie,5.580621655099094e-05
+ ganz hinten am Deckel  Auch sie [MASK],war,0.00042935999226756394
+ganz hinten am Deckel  Auch sie war [MASK],im,0.00012252853775862604
+hinten am Deckel  Auch sie war im [MASK],Garten,0.0019067462999373674
+am Deckel  Auch sie war im Garten [MASK],,6.592155841644853e-05
+Deckel  Auch sie war im Garten  [MASK],aber,4.077941775904037e-05
+ Auch sie war im Garten  aber [MASK],sie,7.848768291296437e-05
+Auch sie war im Garten  aber sie [MASK],war,0.028297502547502518
+sie war im Garten  aber sie war [MASK],sich,4.011936471215449e-05
+war im Garten  aber sie war sich [MASK],dessen,0.00018525606719776988
+im Garten  aber sie war sich dessen [MASK],wohl,0.003279422875493765
+Garten  aber sie war sich dessen wohl [MASK],kaum,0.0001880059135146439
+ aber sie war sich dessen wohl kaum [MASK],auf,7.9904366430128e-06
+aber sie war sich dessen wohl kaum auf [MASK],dieselbe,6.962822226341814e-05
+sie war sich dessen wohl kaum auf dieselbe [MASK],Weise,0.3655625879764557
+war sich dessen wohl kaum auf dieselbe Weise [MASK],bewusst,0.08307841420173645
+sich dessen wohl kaum auf dieselbe Weise bewusst [MASK],wie,0.0006188811385072768
+dessen wohl kaum auf dieselbe Weise bewusst wie [MASK],Sofie,3.5667976590048056e-06
+wohl kaum auf dieselbe Weise bewusst wie Sofie [MASK],,4.29751793262767e-07
+kaum auf dieselbe Weise bewusst wie Sofie  [MASK],Als,3.911262865585741e-06
+auf dieselbe Weise bewusst wie Sofie  Als [MASK],Sofie,1.40731663123006e-06
+dieselbe Weise bewusst wie Sofie  Als Sofie [MASK],eine,2.2758769773645326e-05
+Weise bewusst wie Sofie  Als Sofie eine [MASK],Weile,0.0004930548020638525
+bewusst wie Sofie  Als Sofie eine Weile [MASK],darüber,9.885951294563711e-05
+wie Sofie  Als Sofie eine Weile darüber [MASK],nachgedacht,0.013460270129144192
+Sofie  Als Sofie eine Weile darüber nachgedacht [MASK],hatte,0.1313726156949997
+ Als Sofie eine Weile darüber nachgedacht hatte [MASK],,2.171027063013753e-06
+Als Sofie eine Weile darüber nachgedacht hatte  [MASK],dass,3.497050056466833e-05
+Sofie eine Weile darüber nachgedacht hatte  dass [MASK],sie,0.031026726588606834
+eine Weile darüber nachgedacht hatte  dass sie [MASK],existierte,7.530214497819543e-05
+Weile darüber nachgedacht hatte  dass sie existierte [MASK],,2.6555289878160693e-07
+darüber nachgedacht hatte  dass sie existierte  [MASK],musste,1.690361023065634e-05
+nachgedacht hatte  dass sie existierte  musste [MASK],sie,0.00043682774412445724
+hatte  dass sie existierte  musste sie [MASK],auch,0.002582110231742263
+ dass sie existierte  musste sie auch [MASK],daran,0.00018100558372680098
+dass sie existierte  musste sie auch daran [MASK],denken,0.1622444987297058
+sie existierte  musste sie auch daran denken [MASK],,1.8548018942965427e-07
+existierte  musste sie auch daran denken  [MASK],dass,1.9168863218510523e-05
+ musste sie auch daran denken  dass [MASK],sie,0.051530562341213226
+musste sie auch daran denken  dass sie [MASK],nicht,0.007192275952547789
+sie auch daran denken  dass sie nicht [MASK],immer,0.003304441925138235
+auch daran denken  dass sie nicht immer [MASK],hier,0.0002725442755036056
+daran denken  dass sie nicht immer hier [MASK],sein,0.00416990090161562
+denken  dass sie nicht immer hier sein [MASK],würde,0.0066682747565209866
+ dass sie nicht immer hier sein würde [MASK],,2.196839659518446e-06
+dass sie nicht immer hier sein würde  [MASK],Ich,2.418940312054474e-06
+sie nicht immer hier sein würde  Ich [MASK],bin,0.03622279316186905
+nicht immer hier sein würde  Ich bin [MASK],jetzt,0.003008429193869233
+immer hier sein würde  Ich bin jetzt [MASK],auf,0.00029502014513127506
+hier sein würde  Ich bin jetzt auf [MASK],der,0.0017099379329010844
+sein würde  Ich bin jetzt auf der [MASK],Welt,0.024587446823716164
+würde  Ich bin jetzt auf der Welt [MASK],,1.4055060546525056e-06
+ Ich bin jetzt auf der Welt  [MASK],dachte,4.074672119713796e-07
+Ich bin jetzt auf der Welt  dachte [MASK],sie,2.2958392946748063e-05
+bin jetzt auf der Welt  dachte sie [MASK],,5.821976856168476e-07
+jetzt auf der Welt  dachte sie  [MASK],Aber,6.089454018365359e-06
+auf der Welt  dachte sie  Aber [MASK],eines,3.6292407457949594e-05
+der Welt  dachte sie  Aber eines [MASK],Tages,0.4223019778728485
+Welt  dachte sie  Aber eines Tages [MASK],,2.635357816416217e-07
+ dachte sie  Aber eines Tages  [MASK],werde,0.0004255927342455834
+dachte sie  Aber eines Tages  werde [MASK],ich,0.09373733401298523
+sie  Aber eines Tages  werde ich [MASK],verschwunden,9.188811236526817e-05
+ Aber eines Tages  werde ich verschwunden [MASK],sein,0.00815486442297697
+Aber eines Tages  werde ich verschwunden sein [MASK],,2.0061266425841495e-08
+eines Tages  werde ich verschwunden sein  [MASK],Gab,3.7609421132955845e-10
+Tages  werde ich verschwunden sein  Gab [MASK],es,0.0005400984664447606
+ werde ich verschwunden sein  Gab es [MASK],ein,3.61415914085228e-05
+werde ich verschwunden sein  Gab es ein [MASK],Leben,0.000228555261855945
+ich verschwunden sein  Gab es ein Leben [MASK],nach,9.363175922771916e-05
+verschwunden sein  Gab es ein Leben nach [MASK],dem,0.00992453470826149
+sein  Gab es ein Leben nach dem [MASK],Sache,1.8172926274928614e-06
+ Gab es ein Leben nach dem Sache [MASK],,1.268045934921247e-08
+Gab es ein Leben nach dem Sache  [MASK],Auch,8.16564948991072e-08
+es ein Leben nach dem Sache  Auch [MASK],von,0.000120890537800733
+ein Leben nach dem Sache  Auch von [MASK],dieser,0.0001522644015494734
+Leben nach dem Sache  Auch von dieser [MASK],Frage,0.0027698692865669727
+nach dem Sache  Auch von dieser Frage [MASK],,2.3349666662397794e-06
+dem Sache  Auch von dieser Frage  [MASK],hatte,0.0001555360940983519
+Sache  Auch von dieser Frage  hatte [MASK],die,0.016418157145380974
+ Auch von dieser Frage  hatte die [MASK],Katze,8.816663466859609e-05
+Auch von dieser Frage  hatte die Katze [MASK],keine,0.0357491560280323
+von dieser Frage  hatte die Katze keine [MASK],Gefühl,6.159601980471052e-06
+dieser Frage  hatte die Katze keine Gefühl [MASK],,8.477282875674064e-09
+Frage  hatte die Katze keine Gefühl  [MASK],Vor,6.74157263347297e-06
+ hatte die Katze keine Gefühl  Vor [MASK],gar,6.374791610141983e-07
+hatte die Katze keine Gefühl  Vor gar [MASK],nicht,0.003750639269128442
+die Katze keine Gefühl  Vor gar nicht [MASK],langer,5.839437108079437e-06
+Katze keine Gefühl  Vor gar nicht langer [MASK],Zeit,0.03257524594664574
+keine Gefühl  Vor gar nicht langer Zeit [MASK],,1.0124600748895318e-06
+Gefühl  Vor gar nicht langer Zeit  [MASK],war,0.0003138507017865777
+ Vor gar nicht langer Zeit  war [MASK],Sofies,7.569739864266012e-06
+Vor gar nicht langer Zeit  war Sofies [MASK],Grossmutter,4.662722130888142e-05
+gar nicht langer Zeit  war Sofies Grossmutter [MASK],gestorben,0.028029022738337517
+nicht langer Zeit  war Sofies Grossmutter gestorben [MASK],,2.5519997848277853e-07
+langer Zeit  war Sofies Grossmutter gestorben  [MASK],Fast,1.3979779112105462e-08
+Zeit  war Sofies Grossmutter gestorben  Fast [MASK],jeden,0.00017715722788125277
+ war Sofies Grossmutter gestorben  Fast jeden [MASK],Tag,0.2622208893299103
+war Sofies Grossmutter gestorben  Fast jeden Tag [MASK],seit,0.00020301542826928198
+Sofies Grossmutter gestorben  Fast jeden Tag seit [MASK],über,6.540759204654023e-05
+Grossmutter gestorben  Fast jeden Tag seit über [MASK],einem,0.0009127650409936905
+gestorben  Fast jeden Tag seit über einem [MASK],halben,0.0013054796727374196
+ Fast jeden Tag seit über einem halben [MASK],Jahr,0.3424121141433716
+Fast jeden Tag seit über einem halben Jahr [MASK],dachte,5.382524250308052e-05
+jeden Tag seit über einem halben Jahr dachte [MASK],Sofie,1.2971310070497566e-06
+Tag seit über einem halben Jahr dachte Sofie [MASK],daran,0.0010983168613165617
+seit über einem halben Jahr dachte Sofie daran [MASK],wie,0.00010533345630392432
+über einem halben Jahr dachte Sofie daran wie [MASK],sehr,0.0003438488638494164
+einem halben Jahr dachte Sofie daran wie sehr [MASK],sie,0.0004932119627483189
+halben Jahr dachte Sofie daran wie sehr sie [MASK],sie,0.0004086420522071421
+Jahr dachte Sofie daran wie sehr sie sie [MASK],vermisste,0.00628956314176321
+dachte Sofie daran wie sehr sie sie vermisste [MASK],War,2.8592037324415287e-06
+Sofie daran wie sehr sie sie vermisste War [MASK],,8.065766365916716e-08
+daran wie sehr sie sie vermisste War  [MASK],es,0.0009302163380198181
+wie sehr sie sie vermisste War  es [MASK],nicht,0.0009774904465302825
+sehr sie sie vermisste War  es nicht [MASK],ungerecht,2.735392172326101e-06
+sie sie vermisste War  es nicht ungerecht [MASK],,6.054462886595502e-08
+sie vermisste War  es nicht ungerecht  [MASK],dass,7.760004336887505e-07
+vermisste War  es nicht ungerecht  dass [MASK],das,0.0008452560286968946
+War  es nicht ungerecht  dass das [MASK],Leben,0.001969106961041689
+ es nicht ungerecht  dass das Leben [MASK],einmal,0.0001505245891166851
+es nicht ungerecht  dass das Leben einmal [MASK],ein,0.0007236311794258654
+nicht ungerecht  dass das Leben einmal ein [MASK],Ende,0.002778246533125639
+ungerecht  dass das Leben einmal ein Ende [MASK],hatte,0.025359055027365685
+ dass das Leben einmal ein Ende hatte [MASK],,1.1903704262294923e-06
+dass das Leben einmal ein Ende hatte  [MASK],Sofie,1.2479948630073068e-08
+das Leben einmal ein Ende hatte  Sofie [MASK],blieb,5.207221420278074e-06
+Leben einmal ein Ende hatte  Sofie blieb [MASK],grübelnd,2.6908721793006407e-06
+einmal ein Ende hatte  Sofie blieb grübelnd [MASK],auf,0.000384780578315258
+ein Ende hatte  Sofie blieb grübelnd auf [MASK],dem,0.009989299811422825
+Ende hatte  Sofie blieb grübelnd auf dem [MASK],Kiesweg,4.249532503308728e-05
+hatte  Sofie blieb grübelnd auf dem Kiesweg [MASK],stehen,0.04997039958834648
+ Sofie blieb grübelnd auf dem Kiesweg stehen [MASK],,3.59016667061951e-07
+Sofie blieb grübelnd auf dem Kiesweg stehen  [MASK],Sie,6.367426067299675e-06
+blieb grübelnd auf dem Kiesweg stehen  Sie [MASK],versuchte,7.017741836534697e-07
+grübelnd auf dem Kiesweg stehen  Sie versuchte [MASK],besonders,6.443369784392416e-05
+auf dem Kiesweg stehen  Sie versuchte besonders [MASK],intensiv,0.006779931485652924
+dem Kiesweg stehen  Sie versuchte besonders intensiv [MASK],daran,0.00020848245185334235
+Kiesweg stehen  Sie versuchte besonders intensiv daran [MASK],zu,0.0018881355645135045
+stehen  Sie versuchte besonders intensiv daran zu [MASK],denken,0.07466321438550949
+ Sie versuchte besonders intensiv daran zu denken [MASK],,1.5556966559415741e-07
+Sie versuchte besonders intensiv daran zu denken  [MASK],dass,4.340397936175577e-06
+versuchte besonders intensiv daran zu denken  dass [MASK],sie,0.00790335051715374
+besonders intensiv daran zu denken  dass sie [MASK],existierte,1.6729780327295884e-05
+intensiv daran zu denken  dass sie existierte [MASK],,9.231970352630015e-07
+daran zu denken  dass sie existierte  [MASK],um,1.4102351997280493e-05
+zu denken  dass sie existierte  um [MASK],dabei,2.4725353796384297e-05
+denken  dass sie existierte  um dabei [MASK],zu,0.016666259616613388
+ dass sie existierte  um dabei zu [MASK],vergessen,0.0015142716001719236
+dass sie existierte  um dabei zu vergessen [MASK],dass,0.00015735000488348305
+sie existierte  um dabei zu vergessen dass [MASK],sie,0.05118574574589729
+existierte  um dabei zu vergessen dass sie [MASK],nicht,0.007532165385782719
+ um dabei zu vergessen dass sie nicht [MASK],immer,0.005206768400967121
+um dabei zu vergessen dass sie nicht immer [MASK],hier,0.00017876052879728377
+dabei zu vergessen dass sie nicht immer hier [MASK],sein,0.003737869905307889
+zu vergessen dass sie nicht immer hier sein [MASK],würde,0.006534209009259939
+vergessen dass sie nicht immer hier sein würde [MASK],,3.3976759823417524e-06
+dass sie nicht immer hier sein würde  [MASK],Aber,3.8864586713316385e-06
+sie nicht immer hier sein würde  Aber [MASK],das,0.0014416561461985111
+nicht immer hier sein würde  Aber das [MASK],war,0.003816718701273203
+immer hier sein würde  Aber das war [MASK],ganz,0.0003151656419504434
+hier sein würde  Aber das war ganz [MASK],unmöglich,0.004904401022940874
+sein würde  Aber das war ganz unmöglich [MASK],,3.508957320264017e-07
+würde  Aber das war ganz unmöglich  [MASK],Sowie,4.837619940190052e-07
+ Aber das war ganz unmöglich  Sowie [MASK],sie,0.00019437908485997468
+Aber das war ganz unmöglich  Sowie sie [MASK],sich,0.00030602715560235083
+das war ganz unmöglich  Sowie sie sich [MASK],darauf,5.529254849534482e-05
+war ganz unmöglich  Sowie sie sich darauf [MASK],konzentrierte,0.022471081465482712
+ganz unmöglich  Sowie sie sich darauf konzentrierte [MASK],dass,3.479141241768957e-06
+unmöglich  Sowie sie sich darauf konzentrierte dass [MASK],sie,0.045635491609573364
+ Sowie sie sich darauf konzentrierte dass sie [MASK],existierte,5.5386208259733394e-05
+Sowie sie sich darauf konzentrierte dass sie existierte [MASK],,8.676331049173314e-07
+sie sich darauf konzentrierte dass sie existierte  [MASK],tauchte,5.5064926840486805e-08
+sich darauf konzentrierte dass sie existierte  tauchte [MASK],sofort,0.00036958788405172527
+darauf konzentrierte dass sie existierte  tauchte sofort [MASK],auch,0.0013947108527645469
+konzentrierte dass sie existierte  tauchte sofort auch [MASK],ein,0.012562948279082775
+dass sie existierte  tauchte sofort auch ein [MASK],Gedanke,0.0022148077841848135
+sie existierte  tauchte sofort auch ein Gedanke [MASK],an,0.00730132358148694
+existierte  tauchte sofort auch ein Gedanke an [MASK],das,0.006078239995986223
+ tauchte sofort auch ein Gedanke an das [MASK],Ende,0.0006299587548710406
+tauchte sofort auch ein Gedanke an das Ende [MASK],des,0.0015341632533818483
+sofort auch ein Gedanke an das Ende des [MASK],Lebens,0.018366597592830658
+auch ein Gedanke an das Ende des Lebens [MASK],auf,0.00018917411216534674
+ein Gedanke an das Ende des Lebens auf [MASK],,3.628876754646626e-08
+Gedanke an das Ende des Lebens auf  [MASK],Umgekehrt,7.888842446845956e-06
+an das Ende des Lebens auf  Umgekehrt [MASK],war,6.2454397266265e-05
+das Ende des Lebens auf  Umgekehrt war [MASK],es,0.005305260419845581
+Ende des Lebens auf  Umgekehrt war es [MASK],genauso,0.0004609478637576103
+des Lebens auf  Umgekehrt war es genauso [MASK],,1.187209051067839e-07
+Lebens auf  Umgekehrt war es genauso  [MASK],Erst,8.647517546478412e-08
+auf  Umgekehrt war es genauso  Erst [MASK],wenn,0.00029084450216032565
+ Umgekehrt war es genauso  Erst wenn [MASK],sie,0.013365140184760094
+Umgekehrt war es genauso  Erst wenn sie [MASK],ganz,0.0007392244297079742
+war es genauso  Erst wenn sie ganz [MASK],stark,0.0007521907100453973
+es genauso  Erst wenn sie ganz stark [MASK],empfand,1.0053992809844203e-05
+genauso  Erst wenn sie ganz stark empfand [MASK],,3.7304207012311963e-07
+ Erst wenn sie ganz stark empfand  [MASK],dass,4.950992661179043e-06
+Erst wenn sie ganz stark empfand  dass [MASK],sie,0.04565007612109184
+wenn sie ganz stark empfand  dass sie [MASK],eines,0.00029164942679926753
+sie ganz stark empfand  dass sie eines [MASK],Tages,0.7046703100204468
+ganz stark empfand  dass sie eines Tages [MASK],ganz,0.002756937639787793
+stark empfand  dass sie eines Tages ganz [MASK],verschwunden,0.00099290965590626
+empfand  dass sie eines Tages ganz verschwunden [MASK],sein,0.005125707946717739
+ dass sie eines Tages ganz verschwunden sein [MASK],würde,0.04018855839967728
+dass sie eines Tages ganz verschwunden sein würde [MASK],,9.316170803685964e-07
+sie eines Tages ganz verschwunden sein würde  [MASK],ging,3.226635385544796e-07
+eines Tages ganz verschwunden sein würde  ging [MASK],ihr,0.0001816524745663628
+Tages ganz verschwunden sein würde  ging ihr [MASK],richtig,0.0001506847038399428
+ganz verschwunden sein würde  ging ihr richtig [MASK],auf,0.001894554472528398
+verschwunden sein würde  ging ihr richtig auf [MASK],,1.3322719594199839e-09
+sein würde  ging ihr richtig auf  [MASK],wie,4.2647334339562804e-05
+würde  ging ihr richtig auf  wie [MASK],unendlich,2.8139675123384222e-06
+ ging ihr richtig auf  wie unendlich [MASK],wertvoll,4.629939212463796e-05
+ging ihr richtig auf  wie unendlich wertvoll [MASK],das,1.3395293535722885e-05
+ihr richtig auf  wie unendlich wertvoll das [MASK],Leben,0.017327379435300827
+richtig auf  wie unendlich wertvoll das Leben [MASK],war,0.0031517206225544214
+auf  wie unendlich wertvoll das Leben war [MASK],,1.010733399198216e-06
+ wie unendlich wertvoll das Leben war  [MASK],Es,3.6724324559145316e-07
+wie unendlich wertvoll das Leben war  Es [MASK],war,0.034321948885917664
+unendlich wertvoll das Leben war  Es war [MASK],wie,0.00022674372303299606
+wertvoll das Leben war  Es war wie [MASK],die,0.0014165996108204126
+das Leben war  Es war wie die [MASK],beiden,0.00018133409321308136
+Leben war  Es war wie die beiden [MASK],Seiten,0.005306861829012632
+war  Es war wie die beiden Seiten [MASK],einer,0.0001612312044017017
+ Es war wie die beiden Seiten einer [MASK],Münze,7.30138854123652e-05
+Es war wie die beiden Seiten einer Münze [MASK],,2.3041960957925767e-05
+war wie die beiden Seiten einer Münze  [MASK],einer,0.00010239487892249599
+wie die beiden Seiten einer Münze  einer [MASK],Münze,0.015608241781592369
+die beiden Seiten einer Münze  einer Münze [MASK],,2.224758645752445e-05
+beiden Seiten einer Münze  einer Münze  [MASK],die,0.00018213861039839685
+Seiten einer Münze  einer Münze  die [MASK],sie,3.976882680944982e-07
+einer Münze  einer Münze  die sie [MASK],immer,2.3240934751811437e-05
+Münze  einer Münze  die sie immer [MASK],wieder,0.0031375023536384106
+ einer Münze  die sie immer wieder [MASK],umdrehte,0.00019481638446450233
+einer Münze  die sie immer wieder umdrehte [MASK],,1.3574849617725704e-06
+Münze  die sie immer wieder umdrehte  [MASK],Und,5.211943425820209e-05
+ die sie immer wieder umdrehte  Und [MASK],je,0.0009941891767084599
+die sie immer wieder umdrehte  Und je [MASK],grösser,2.062145904346835e-05
+sie immer wieder umdrehte  Und je grösser [MASK],und,0.0010739455465227365
+immer wieder umdrehte  Und je grösser und [MASK],deutlicher,0.0014579877024516463
+wieder umdrehte  Und je grösser und deutlicher [MASK],,6.312749292192166e-07
+umdrehte  Und je grösser und deutlicher  [MASK],die,0.00015003624139353633
+ Und je grösser und deutlicher  die [MASK],eine,1.7203701645485125e-05
+Und je grösser und deutlicher  die eine [MASK],Seite,0.0007027783431112766
+je grösser und deutlicher  die eine Seite [MASK],der,0.0017534568905830383
+grösser und deutlicher  die eine Seite der [MASK],Münze,5.437196705315728e-06
+und deutlicher  die eine Seite der Münze [MASK],war,0.0006312697078101337
+deutlicher  die eine Seite der Münze war [MASK],um,6.0669088270515203e-05
+ die eine Seite der Münze war um [MASK],so,0.00017475394997745752
+die eine Seite der Münze war um so [MASK],grösser,6.95020571583882e-05
+eine Seite der Münze war um so grösser [MASK],und,0.0006230162689462304
+Seite der Münze war um so grösser und [MASK],deutlicher,0.0035461329389363527
+der Münze war um so grösser und deutlicher [MASK],wurde,0.00044545732089318335
+Münze war um so grösser und deutlicher wurde [MASK],auch,9.754992788657546e-05
+war um so grösser und deutlicher wurde auch [MASK],die,0.01263591181486845
+um so grösser und deutlicher wurde auch die [MASK],andere,0.0006482998142018914
+so grösser und deutlicher wurde auch die andere [MASK],,6.1553202534980755e-09
+grösser und deutlicher wurde auch die andere  [MASK],Leben,1.1366862054273952e-05
+und deutlicher wurde auch die andere  Leben [MASK],und,0.0007823167252354324
+deutlicher wurde auch die andere  Leben und [MASK],Tod,0.0020897872745990753
+wurde auch die andere  Leben und Tod [MASK],,2.455325045502832e-07
+auch die andere  Leben und Tod  [MASK],waren,0.0005979911074973643
+die andere  Leben und Tod  waren [MASK],zwei,0.0004062982043251395
+andere  Leben und Tod  waren zwei [MASK],Seiten,0.0030219517648220062
+ Leben und Tod  waren zwei Seiten [MASK],derselben,0.017447371035814285
+Leben und Tod  waren zwei Seiten derselben [MASK],Sache,0.0017256812425330281
+und Tod  waren zwei Seiten derselben Sache [MASK],,4.983607482245134e-07
+Tod  waren zwei Seiten derselben Sache  [MASK],Man,1.8168812232488563e-07
+ waren zwei Seiten derselben Sache  Man [MASK],kann,0.0006409666384570301
+waren zwei Seiten derselben Sache  Man kann [MASK],nicht,0.00925522018224001
+zwei Seiten derselben Sache  Man kann nicht [MASK],erleben,8.075984806055203e-05
+Seiten derselben Sache  Man kann nicht erleben [MASK],dass,1.0954309800581541e-05
+derselben Sache  Man kann nicht erleben dass [MASK],man,0.018755530938506126
+Sache  Man kann nicht erleben dass man [MASK],existiert,0.0013898425968363881
+ Man kann nicht erleben dass man existiert [MASK],,9.888096883514663e-07
+Man kann nicht erleben dass man existiert  [MASK],ohne,0.00041501218220219016
+kann nicht erleben dass man existiert  ohne [MASK],auch,0.00012321636313572526
+nicht erleben dass man existiert  ohne auch [MASK],zu,0.0017256763530895114
+erleben dass man existiert  ohne auch zu [MASK],erleben,0.00047418163740076125
+dass man existiert  ohne auch zu erleben [MASK],dass,0.0008035004138946533
+man existiert  ohne auch zu erleben dass [MASK],man,0.02980106882750988
+existiert  ohne auch zu erleben dass man [MASK],sterben,0.00010280283458996564
+ ohne auch zu erleben dass man sterben [MASK],muss,0.32615041732788086
+ohne auch zu erleben dass man sterben muss [MASK],,5.692131139767298e-07
+auch zu erleben dass man sterben muss  [MASK],dachte,7.796188583597541e-07
+zu erleben dass man sterben muss  dachte [MASK],sie,0.0005221106112003326
+erleben dass man sterben muss  dachte sie [MASK],,3.057886942769983e-06
+dass man sterben muss  dachte sie  [MASK],Und,3.666957491077483e-05
+man sterben muss  dachte sie  Und [MASK],es,0.0041555240750312805
+sterben muss  dachte sie  Und es [MASK],ist,0.010422335006296635
+muss  dachte sie  Und es ist [MASK],genauso,0.00043488695519044995
+ dachte sie  Und es ist genauso [MASK],unmöglich,0.00015575080760754645
+dachte sie  Und es ist genauso unmöglich [MASK],darüber,9.040536497195717e-06
+sie  Und es ist genauso unmöglich darüber [MASK],nachzudenken,0.0005698012537322938
+ Und es ist genauso unmöglich darüber nachzudenken [MASK],dass,5.3811754696653225e-06
+Und es ist genauso unmöglich darüber nachzudenken dass [MASK],man,0.017536040395498276
+es ist genauso unmöglich darüber nachzudenken dass man [MASK],sterben,0.0001472024159738794
+ist genauso unmöglich darüber nachzudenken dass man sterben [MASK],muss,0.2032625824213028
+genauso unmöglich darüber nachzudenken dass man sterben muss [MASK],,2.2395490759663517e-06
+unmöglich darüber nachzudenken dass man sterben muss  [MASK],ohne,0.00017437867063563317
+darüber nachzudenken dass man sterben muss  ohne [MASK],zugleich,2.1279478460201062e-05
+nachzudenken dass man sterben muss  ohne zugleich [MASK],daran,0.0006173634901642799
+dass man sterben muss  ohne zugleich daran [MASK],zu,0.008997130207717419
+man sterben muss  ohne zugleich daran zu [MASK],denken,0.472017377614975
+sterben muss  ohne zugleich daran zu denken [MASK],wie,7.779231964377686e-05
+muss  ohne zugleich daran zu denken wie [MASK],phantastisch,4.395568794279825e-06
+ ohne zugleich daran zu denken wie phantastisch [MASK],das,0.00022829047520644963
+ohne zugleich daran zu denken wie phantastisch das [MASK],Leben,0.03772571682929993
+zugleich daran zu denken wie phantastisch das Leben [MASK],ist,0.09567400813102722
+daran zu denken wie phantastisch das Leben ist [MASK],,1.400543624185957e-06
+zu denken wie phantastisch das Leben ist  [MASK],Sofie,5.585802753671487e-08
+denken wie phantastisch das Leben ist  Sofie [MASK],fiel,4.5735040998806653e-07
+wie phantastisch das Leben ist  Sofie fiel [MASK],ein,3.4355321986367926e-05
+phantastisch das Leben ist  Sofie fiel ein [MASK],,6.968696730780266e-10
+das Leben ist  Sofie fiel ein  [MASK],dass,7.847246479286696e-07
+Leben ist  Sofie fiel ein  dass [MASK],ihre,0.00022199098020792007
+ist  Sofie fiel ein  dass ihre [MASK],Grossmutter,1.2379188774502836e-05
+ Sofie fiel ein  dass ihre Grossmutter [MASK],an,0.0005989360506646335
+Sofie fiel ein  dass ihre Grossmutter an [MASK],dem,0.00031138319172896445
+fiel ein  dass ihre Grossmutter an dem [MASK],Tag,0.0024886520113795996
+ein  dass ihre Grossmutter an dem Tag [MASK],an,0.0004784477932844311
+ dass ihre Grossmutter an dem Tag an [MASK],dem,0.0004600294923875481
+dass ihre Grossmutter an dem Tag an dem [MASK],sie,0.00010463193757459521
+ihre Grossmutter an dem Tag an dem sie [MASK],von,0.00010251683124806732
+Grossmutter an dem Tag an dem sie von [MASK],ihrer,0.008307186886668205
+an dem Tag an dem sie von ihrer [MASK],Krankheit,0.030656496062874794
+dem Tag an dem sie von ihrer Krankheit [MASK],erfahren,0.08321650326251984
+Tag an dem sie von ihrer Krankheit erfahren [MASK],hatte,0.017783820629119873
+an dem sie von ihrer Krankheit erfahren hatte [MASK],etwas,1.342059761100245e-07
+dem sie von ihrer Krankheit erfahren hatte etwas [MASK],Ähnliches,3.259769800934009e-05
+sie von ihrer Krankheit erfahren hatte etwas Ähnliches [MASK],gesagt,0.05161646008491516
+von ihrer Krankheit erfahren hatte etwas Ähnliches gesagt [MASK],hatte,2.1034877136116847e-05
+ihrer Krankheit erfahren hatte etwas Ähnliches gesagt hatte [MASK],,1.3224836266090279e-06
+Krankheit erfahren hatte etwas Ähnliches gesagt hatte  [MASK],Erst,2.3216408351345308e-07
+erfahren hatte etwas Ähnliches gesagt hatte  Erst [MASK],jetzt,6.270741141634062e-05
+hatte etwas Ähnliches gesagt hatte  Erst jetzt [MASK],begreife,2.175882582378108e-05
+etwas Ähnliches gesagt hatte  Erst jetzt begreife [MASK],ich,0.0026989795733243227
+Ähnliches gesagt hatte  Erst jetzt begreife ich [MASK],,1.5780358353367774e-06
+gesagt hatte  Erst jetzt begreife ich  [MASK],wie,0.0005302212084643543
+hatte  Erst jetzt begreife ich  wie [MASK],reich,0.00014562073920387775
+ Erst jetzt begreife ich  wie reich [MASK],das,0.00014954984362702817
+Erst jetzt begreife ich  wie reich das [MASK],Leben,0.006716791540384293
+jetzt begreife ich  wie reich das Leben [MASK],ist,0.0015807702438905835
+begreife ich  wie reich das Leben ist [MASK],,2.5204823828062217e-07
+ich  wie reich das Leben ist  [MASK],hatte,1.0864979230973404e-05
+ wie reich das Leben ist  hatte [MASK],sie,0.00015315682685468346
+wie reich das Leben ist  hatte sie [MASK],gesagt,0.016513463109731674
+reich das Leben ist  hatte sie gesagt [MASK],,8.339551982317062e-08
+das Leben ist  hatte sie gesagt  [MASK],War,2.6314037882002594e-07
+Leben ist  hatte sie gesagt  War [MASK],es,0.002665458247065544
+ist  hatte sie gesagt  War es [MASK],nicht,0.0025056269951164722
+ hatte sie gesagt  War es nicht [MASK],traurig,0.00011435095075285062
+hatte sie gesagt  War es nicht traurig [MASK],,7.580876371093836e-08
+sie gesagt  War es nicht traurig  [MASK],dass,4.688412900577532e-06
+gesagt  War es nicht traurig  dass [MASK],die,0.0015927051426842809
+ War es nicht traurig  dass die [MASK],meisten,0.009668922051787376
+War es nicht traurig  dass die meisten [MASK],Leute,0.009436002001166344
+es nicht traurig  dass die meisten Leute [MASK],erst,2.8148038836661726e-05
+nicht traurig  dass die meisten Leute erst [MASK],,2.3245384284109605e-07
+traurig  dass die meisten Leute erst  [MASK],krank,1.6059846529969946e-05
+ dass die meisten Leute erst  krank [MASK],werden,0.043263860046863556
+dass die meisten Leute erst  krank werden [MASK],mussten,0.02086631953716278
+die meisten Leute erst  krank werden mussten [MASK],,5.2233576752769295e-06
+meisten Leute erst  krank werden mussten  [MASK],ehe,1.3853862128598848e-06
+Leute erst  krank werden mussten  ehe [MASK],sie,0.0033745740074664354
+erst  krank werden mussten  ehe sie [MASK],einsahen,8.688943489687517e-05
+ krank werden mussten  ehe sie einsahen [MASK],,3.2881618494684517e-07
+krank werden mussten  ehe sie einsahen  [MASK],wie,9.778609091881663e-05
+werden mussten  ehe sie einsahen  wie [MASK],schön,0.0001425222581019625
+mussten  ehe sie einsahen  wie schön [MASK],das,4.967502900399268e-05
+ ehe sie einsahen  wie schön das [MASK],Leben,0.049537379294633865
+ehe sie einsahen  wie schön das Leben [MASK],war,0.06058112531900406
+sie einsahen  wie schön das Leben war [MASK],,5.946320129623928e-07
+einsahen  wie schön das Leben war  [MASK],Zumindest,1.9559334418772778e-07
+ wie schön das Leben war  Zumindest [MASK],,2.0159156122190325e-07
+wie schön das Leben war  Zumindest  [MASK],mussten,0.00012834480730816722
+schön das Leben war  Zumindest  mussten [MASK],sie,0.0021045804023742676
+das Leben war  Zumindest  mussten sie [MASK],offenbar,7.107836427167058e-05
+Leben war  Zumindest  mussten sie offenbar [MASK],einen,7.425819057971239e-05
+war  Zumindest  mussten sie offenbar einen [MASK],geheimnisvollen,3.917282356269425e-06
+ Zumindest  mussten sie offenbar einen geheimnisvollen [MASK],Brief,0.013341208919882774
+Zumindest  mussten sie offenbar einen geheimnisvollen Brief [MASK],,3.1954798487277003e-06
+ mussten sie offenbar einen geheimnisvollen Brief  [MASK],im,6.690864393021911e-05
+mussten sie offenbar einen geheimnisvollen Brief  im [MASK],Briefkasten,0.012359538115561008
+sie offenbar einen geheimnisvollen Brief  im Briefkasten [MASK],finden,0.0021332227624952793
+offenbar einen geheimnisvollen Brief  im Briefkasten finden [MASK],,1.693391027401958e-07
+einen geheimnisvollen Brief  im Briefkasten finden  [MASK],Vielleicht,7.537343549302022e-07
+geheimnisvollen Brief  im Briefkasten finden  Vielleicht [MASK],sollte,5.60753105673939e-05
+Brief  im Briefkasten finden  Vielleicht sollte [MASK],sie,0.003473339369520545
+ im Briefkasten finden  Vielleicht sollte sie [MASK],nachsehen,0.0009601805359125137
+im Briefkasten finden  Vielleicht sollte sie nachsehen [MASK],,1.9564676279060222e-07
+Briefkasten finden  Vielleicht sollte sie nachsehen  [MASK],ob,5.265458457870409e-05
+finden  Vielleicht sollte sie nachsehen  ob [MASK],noch,0.00010575242777122185
+ Vielleicht sollte sie nachsehen  ob noch [MASK],mehr,0.003009157720953226
+Vielleicht sollte sie nachsehen  ob noch mehr [MASK],gekommen,1.1756204003177118e-05
+sollte sie nachsehen  ob noch mehr gekommen [MASK],war,0.002472402062267065
+sie nachsehen  ob noch mehr gekommen war [MASK],,2.3311663426284213e-06
+nachsehen  ob noch mehr gekommen war  [MASK],Sofie,1.0917583281866428e-08
+ ob noch mehr gekommen war  Sofie [MASK],lief,3.7782403524033725e-05
+ob noch mehr gekommen war  Sofie lief [MASK],zum,3.0183049602783285e-05
+noch mehr gekommen war  Sofie lief zum [MASK],Tor,0.0004916436737403274
+mehr gekommen war  Sofie lief zum Tor [MASK],,1.8759748172669788e-06
+gekommen war  Sofie lief zum Tor  [MASK],und,0.0012400461127981544
+war  Sofie lief zum Tor  und [MASK],hob,0.000715461908839643
+ Sofie lief zum Tor  und hob [MASK],den,0.0031629931181669235
+Sofie lief zum Tor  und hob den [MASK],grünen,9.908746505971067e-06
+lief zum Tor  und hob den grünen [MASK],Deckel,0.002579771913588047
+zum Tor  und hob den grünen Deckel [MASK],,3.55401107299258e-06
+Tor  und hob den grünen Deckel  [MASK],Sie,3.0192636586434674e-06
+ und hob den grünen Deckel  Sie [MASK],fuhr,1.0864375326491427e-05
+und hob den grünen Deckel  Sie fuhr [MASK],zusammen,0.0014140807325020432
+hob den grünen Deckel  Sie fuhr zusammen [MASK],,2.5091830480050703e-07
+den grünen Deckel  Sie fuhr zusammen  [MASK],als,0.0001233827933901921
+grünen Deckel  Sie fuhr zusammen  als [MASK],sie,0.001015912857837975
+Deckel  Sie fuhr zusammen  als sie [MASK],einen,0.00014720659237354994
+ Sie fuhr zusammen  als sie einen [MASK],ganz,2.8007010769215412e-05
+Sie fuhr zusammen  als sie einen ganz [MASK],identischen,6.037902949174168e-06
+fuhr zusammen  als sie einen ganz identischen [MASK],Briefumschlag,0.0018882682779803872
+zusammen  als sie einen ganz identischen Briefumschlag [MASK],entdeckte,0.0070011066272854805
+ als sie einen ganz identischen Briefumschlag entdeckte [MASK],,1.0569428923190571e-06
+als sie einen ganz identischen Briefumschlag entdeckte  [MASK],Sie,1.0323791457267362e-06
+sie einen ganz identischen Briefumschlag entdeckte  Sie [MASK],hatte,0.00013149878941476345
+einen ganz identischen Briefumschlag entdeckte  Sie hatte [MASK],doch,0.003093603765591979
+ganz identischen Briefumschlag entdeckte  Sie hatte doch [MASK],nachgesehen,1.0146241038455628e-05
+identischen Briefumschlag entdeckte  Sie hatte doch nachgesehen [MASK],ob,2.0126781237195246e-05
+Briefumschlag entdeckte  Sie hatte doch nachgesehen ob [MASK],der,0.0011804625391960144
+entdeckte  Sie hatte doch nachgesehen ob der [MASK],Briefkasten,0.0004446777165867388
+ Sie hatte doch nachgesehen ob der Briefkasten [MASK],wirklich,0.0009877245174720883
+Sie hatte doch nachgesehen ob der Briefkasten wirklich [MASK],leer,0.0035115424543619156
+hatte doch nachgesehen ob der Briefkasten wirklich leer [MASK],war,0.28882938623428345
+doch nachgesehen ob der Briefkasten wirklich leer war [MASK],als,1.565992715768516e-05
+nachgesehen ob der Briefkasten wirklich leer war als [MASK],sie,0.000507528951857239
+ob der Briefkasten wirklich leer war als sie [MASK],den,3.548137829056941e-05
+der Briefkasten wirklich leer war als sie den [MASK],ersten,0.003956090658903122
+Briefkasten wirklich leer war als sie den ersten [MASK],Brief,0.007062350399792194
+wirklich leer war als sie den ersten Brief [MASK],herausgenommen,0.0001552744652144611
+leer war als sie den ersten Brief herausgenommen [MASK],hatte,0.4518187940120697
+war als sie den ersten Brief herausgenommen hatte [MASK],,3.3675953545753146e-06
+als sie den ersten Brief herausgenommen hatte  [MASK],Auch,2.451939167258388e-07
+sie den ersten Brief herausgenommen hatte  Auch [MASK],auf,0.0003699651570059359
+den ersten Brief herausgenommen hatte  Auch auf [MASK],diesem,0.0012929125223308802
+ersten Brief herausgenommen hatte  Auch auf diesem [MASK],Umschlag,0.003678327426314354
+Brief herausgenommen hatte  Auch auf diesem Umschlag [MASK],,0.00018100888701155782
+herausgenommen hatte  Auch auf diesem Umschlag  [MASK],stand,0.11487650871276855
+hatte  Auch auf diesem Umschlag  stand [MASK],ihr,8.475241338601336e-05
+ Auch auf diesem Umschlag  stand ihr [MASK],Name,0.08635292947292328
+Auch auf diesem Umschlag  stand ihr Name [MASK],,1.981961531782872e-06
+auf diesem Umschlag  stand ihr Name  [MASK],Sie,2.2445665308623575e-06
+diesem Umschlag  stand ihr Name  Sie [MASK],riss,7.120557938833372e-07
+Umschlag  stand ihr Name  Sie riss [MASK],ihn,0.003443564288318157
+ stand ihr Name  Sie riss ihn [MASK],auf,0.008508102968335152
+stand ihr Name  Sie riss ihn auf [MASK],,1.808334459951766e-08
+ihr Name  Sie riss ihn auf  [MASK],und,0.00030660064658150077
+Name  Sie riss ihn auf  und [MASK],zog,0.0011316442396491766
+ Sie riss ihn auf  und zog [MASK],einen,0.0031273318454623222
+Sie riss ihn auf  und zog einen [MASK],weissen,6.792108138142794e-07
+riss ihn auf  und zog einen weissen [MASK],Zettel,3.0265657187555917e-05
+ihn auf  und zog einen weissen Zettel [MASK],heraus,0.003970312420278788
+auf  und zog einen weissen Zettel heraus [MASK],,9.095423791904977e-08
+ und zog einen weissen Zettel heraus  [MASK],der,1.176314617623575e-05
+und zog einen weissen Zettel heraus  der [MASK],genauso,1.7496577129350044e-06
+zog einen weissen Zettel heraus  der genauso [MASK],aussah,0.001953647006303072
+einen weissen Zettel heraus  der genauso aussah [MASK],wie,0.00011361589713487774
+weissen Zettel heraus  der genauso aussah wie [MASK],der,0.0040632630698382854
+Zettel heraus  der genauso aussah wie der [MASK],erste,0.001877217902801931
+heraus  der genauso aussah wie der erste [MASK],,5.6657295743889335e-08
+ der genauso aussah wie der erste  [MASK],Woher,1.658068526921852e-07
+der genauso aussah wie der erste  Woher [MASK],kommt,0.0001150169046013616
+genauso aussah wie der erste  Woher kommt [MASK],die,1.0444492545502726e-05
+aussah wie der erste  Woher kommt die [MASK],Welt,0.008967055007815361
+wie der erste  Woher kommt die Welt [MASK],,1.378527372253302e-06
+der erste  Woher kommt die Welt  [MASK],stand,1.005950821308943e-06
+erste  Woher kommt die Welt  stand [MASK],darauf,6.530154678330291e-06
+ Woher kommt die Welt  stand darauf [MASK],,3.9550357655571133e-08
+Woher kommt die Welt  stand darauf  [MASK],Keine,1.9475874069030397e-07
+kommt die Welt  stand darauf  Keine [MASK],Ahnung,0.07227223366498947
+die Welt  stand darauf  Keine Ahnung [MASK],dachte,1.0702563486120198e-05
+Welt  stand darauf  Keine Ahnung dachte [MASK],Sofie,2.8744858582285815e-07
+ stand darauf  Keine Ahnung dachte Sofie [MASK],,3.454939019320591e-07
+stand darauf  Keine Ahnung dachte Sofie  [MASK],So,1.8190048649557866e-06
+darauf  Keine Ahnung dachte Sofie  So [MASK],was,1.167898517451249e-05
+ Keine Ahnung dachte Sofie  So was [MASK],weiss,4.098546560271643e-05
+Keine Ahnung dachte Sofie  So was weiss [MASK],ja,0.00046973503776825964
+Ahnung dachte Sofie  So was weiss ja [MASK],wohl,0.000733488064724952
+dachte Sofie  So was weiss ja wohl [MASK],niemand,0.3590478301048279
+Sofie  So was weiss ja wohl niemand [MASK],,1.7997142549575074e-06
+ So was weiss ja wohl niemand  [MASK],Und,1.8173632270190865e-06
+So was weiss ja wohl niemand  Und [MASK],trotzdem,0.007496996317058802
+was weiss ja wohl niemand  Und trotzdem [MASK],,2.324742780501765e-07
+weiss ja wohl niemand  Und trotzdem  [MASK],Sofie,3.630633216289425e-07
+ja wohl niemand  Und trotzdem  Sofie [MASK],fand,1.1556256140465848e-05
+wohl niemand  Und trotzdem  Sofie fand [MASK],diese,0.0005424909759312868
+niemand  Und trotzdem  Sofie fand diese [MASK],Frage,0.0013457859167829156
+ Und trotzdem  Sofie fand diese Frage [MASK],berechtigt,0.0004891268326900899
+Und trotzdem  Sofie fand diese Frage berechtigt [MASK],,3.0512239845847944e-08
+trotzdem  Sofie fand diese Frage berechtigt  [MASK],Zum,1.8772497867303173e-07
+ Sofie fand diese Frage berechtigt  Zum [MASK],ersten,0.0007537887431681156
+Sofie fand diese Frage berechtigt  Zum ersten [MASK],Mal,0.30894961953163147
+fand diese Frage berechtigt  Zum ersten Mal [MASK],in,0.001379023538902402
+diese Frage berechtigt  Zum ersten Mal in [MASK],ihrem,0.00399766443297267
+Frage berechtigt  Zum ersten Mal in ihrem [MASK],Leben,0.32915356755256653
+berechtigt  Zum ersten Mal in ihrem Leben [MASK],dachte,4.046289905090816e-05
+ Zum ersten Mal in ihrem Leben dachte [MASK],sie,0.06094123423099518
+Zum ersten Mal in ihrem Leben dachte sie [MASK],,1.896713115456805e-06
+ersten Mal in ihrem Leben dachte sie  [MASK],dass,0.0003247279964853078
+Mal in ihrem Leben dachte sie  dass [MASK],es,0.012373141944408417
+in ihrem Leben dachte sie  dass es [MASK],fast,0.00029514572815969586
+ihrem Leben dachte sie  dass es fast [MASK],unmöglich,0.008010292425751686
+Leben dachte sie  dass es fast unmöglich [MASK],war,0.08953294157981873
+dachte sie  dass es fast unmöglich war [MASK],auf,2.8348940759315155e-05
+sie  dass es fast unmöglich war auf [MASK],einer,0.001788212452083826
+ dass es fast unmöglich war auf einer [MASK],Welt,0.010812649503350258
+dass es fast unmöglich war auf einer Welt [MASK],zu,0.0020565176382660866
+es fast unmöglich war auf einer Welt zu [MASK],leben,0.42699235677719116
+fast unmöglich war auf einer Welt zu leben [MASK],,5.686557074113807e-07
+unmöglich war auf einer Welt zu leben  [MASK],ohne,0.0008408053545281291
+war auf einer Welt zu leben  ohne [MASK],wenigstens,0.00018552022811491042
+auf einer Welt zu leben  ohne wenigstens [MASK],zu,0.0033135386183857918
+einer Welt zu leben  ohne wenigstens zu [MASK],fragen,0.0039828745648264885
+Welt zu leben  ohne wenigstens zu fragen [MASK],woher,5.284681492412346e-07
+zu leben  ohne wenigstens zu fragen woher [MASK],sie,0.00381068023853004
+leben  ohne wenigstens zu fragen woher sie [MASK],stammte,0.002683485858142376
+ ohne wenigstens zu fragen woher sie stammte [MASK],,4.809710389963584e-07
+ohne wenigstens zu fragen woher sie stammte  [MASK],Von,2.434784676097479e-07
+wenigstens zu fragen woher sie stammte  Von [MASK],,2.2305010816126014e-07
+zu fragen woher sie stammte  Von  [MASK],den,0.002636471763253212
+fragen woher sie stammte  Von  den [MASK],geheimnisvollen,1.1479579598017153e-06
+woher sie stammte  Von  den geheimnisvollen [MASK],Briefen,4.818215893465094e-05
+sie stammte  Von  den geheimnisvollen Briefen [MASK],war,0.00010520862269913778
+stammte  Von  den geheimnisvollen Briefen war [MASK],Sofie,1.0649271644069813e-05
+ Von  den geheimnisvollen Briefen war Sofie [MASK],so,5.673888881574385e-05
+Von  den geheimnisvollen Briefen war Sofie so [MASK],schwindlig,1.8368947394264978e-06
+ den geheimnisvollen Briefen war Sofie so schwindlig [MASK],geworden,0.0060904729180037975
+den geheimnisvollen Briefen war Sofie so schwindlig geworden [MASK],dass,1.1106089914392214e-05
+geheimnisvollen Briefen war Sofie so schwindlig geworden dass [MASK],sie,0.06814692914485931
+Briefen war Sofie so schwindlig geworden dass sie [MASK],beschloss,0.0017629959620535374
+war Sofie so schwindlig geworden dass sie beschloss [MASK],,1.204473818461338e-07
+Sofie so schwindlig geworden dass sie beschloss  [MASK],sich,8.405053085880354e-05
+so schwindlig geworden dass sie beschloss  sich [MASK],in,0.003523030085489154
+schwindlig geworden dass sie beschloss  sich in [MASK],die,0.008753237314522266
+geworden dass sie beschloss  sich in die [MASK],Höhle,0.0006840418209321797
+dass sie beschloss  sich in die Höhle [MASK],zu,0.007745033595710993
+sie beschloss  sich in die Höhle zu [MASK],setzen,0.01964951492846012
+beschloss  sich in die Höhle zu setzen [MASK],,1.1559420727280667e-06
+ sich in die Höhle zu setzen  [MASK],Die,2.0980580757168354e-06
+sich in die Höhle zu setzen  Die [MASK],Höhle,0.008905891329050064
+in die Höhle zu setzen  Die Höhle [MASK],war,0.00015179351612459868
+die Höhle zu setzen  Die Höhle war [MASK],Sofies,9.171822625830828e-07
+Höhle zu setzen  Die Höhle war Sofies [MASK],Name,0.0004140821984037757
+zu setzen  Die Höhle war Sofies Name [MASK],,2.0116278847126523e-06
+setzen  Die Höhle war Sofies Name  [MASK],Hierhin,2.738969214988174e-06
+ Die Höhle war Sofies Name  Hierhin [MASK],kam,0.0008928538300096989
+Die Höhle war Sofies Name  Hierhin kam [MASK],sie,2.231806138297543e-05
+Höhle war Sofies Name  Hierhin kam sie [MASK],nur,0.0004785027413163334
+war Sofies Name  Hierhin kam sie nur [MASK],,1.5206221632979577e-06
+Sofies Name  Hierhin kam sie nur  [MASK],wenn,0.00016616414359305054
+Name  Hierhin kam sie nur  wenn [MASK],sie,0.08288483321666718
+ Hierhin kam sie nur  wenn sie [MASK],sehr,0.000492945546284318
+Hierhin kam sie nur  wenn sie sehr [MASK],wütend,0.00033057507243938744
+kam sie nur  wenn sie sehr wütend [MASK],,2.5599199489079183e-06
+sie nur  wenn sie sehr wütend  [MASK],sehr,0.00013280907296575606
+nur  wenn sie sehr wütend  sehr [MASK],traurig,0.0171932652592659
+ wenn sie sehr wütend  sehr traurig [MASK],,3.1799384032638045e-06
+wenn sie sehr wütend  sehr traurig  [MASK],oder,0.0020147378090769053
+sie sehr wütend  sehr traurig  oder [MASK],sehr,0.001603978918865323
+sehr wütend  sehr traurig  oder sehr [MASK],,5.97525584566938e-08
+wütend  sehr traurig  oder sehr  [MASK],froh,0.0012435790849849582
+ sehr traurig  oder sehr  froh [MASK],war,0.00040612067095935345
+sehr traurig  oder sehr  froh war [MASK],,1.9987960513390135e-06
+traurig  oder sehr  froh war  [MASK],Heute,7.762996574456338e-07
+ oder sehr  froh war  Heute [MASK],war,0.0004040540661662817
+oder sehr  froh war  Heute war [MASK],sie,0.0005890684551559389
+sehr  froh war  Heute war sie [MASK],verwirrt,4.857024396187626e-05
+ froh war  Heute war sie verwirrt [MASK],,7.037974683044013e-07
